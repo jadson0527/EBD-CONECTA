@@ -1,0 +1,521 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background: #f5f5f5;
+    color: #333;
+}
+
+header {
+    background: #1f4d3a;
+    color: white;
+    text-align: center;
+    padding: 30px 20px;
+}
+
+header h1 {
+    font-size: 30px;
+    margin-bottom: 8px;
+}
+
+header p {
+    font-size: 15px;
+}
+
+main {
+    padding: 25px 15px;
+}
+
+.boas-vindas {
+    background: white;
+    max-width: 600px;
+    margin: auto;
+    padding: 30px 20px;
+    border-radius: 15px;
+    text-align: center;
+    box-shadow: 0 3px 10px rgba(0,0,0,0.08);
+}
+
+.boas-vindas h2 {
+    margin-bottom: 15px;
+}
+
+.boas-vindas p {
+    line-height: 1.6;
+    margin-bottom: 25px;
+}
+
+button {
+    border: none;
+    background: #1f4d3a;
+    color: white;
+    padding: 14px 25px;
+    border-radius: 10px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+button:hover {
+    opacity: 0.9;
+}
+
+footer {
+    text-align: center;
+    padding: 25px;
+    margin-top: 30px;
+    color: #777;
+    font-size: 14px;
+}
+.titulo-pagina {
+    max-width: 600px;
+    margin: 0 auto 25px;
+    text-align: center;
+}
+
+.titulo-pagina h2 {
+    margin-bottom: 10px;
+}
+
+.titulo-pagina p {
+    color: #666;
+    line-height: 1.5;
+}
+
+
+.classes {
+    max-width: 600px;
+    margin: auto;
+
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+
+    gap: 15px;
+}
+
+
+.card-classe {
+    background: white;
+
+    padding: 25px 15px;
+
+    border-radius: 15px;
+
+    text-align: center;
+
+    box-shadow: 0 3px 10px rgba(0,0,0,0.08);
+}
+
+
+.icone {
+    font-size: 40px;
+    margin-bottom: 10px;
+}
+
+
+.card-classe h3 {
+    margin-bottom: 8px;
+}
+
+
+.card-classe p {
+    font-size: 14px;
+
+    color: #666;
+
+    line-height: 1.4;
+
+    margin-bottom: 18px;
+}
+
+
+.card-classe button {
+    font-size: 14px;
+
+    padding: 10px 15px;
+}
+
+
+.voltar {
+    max-width: 600px;
+
+    margin: 25px auto 0;
+
+    text-align: center;
+}
+
+
+.voltar button {
+    background: #555;
+}
+
+
+@media (max-width: 450px) {
+
+    .classes {
+        grid-template-columns: 1fr;
+    }
+
+}
+.lista-licoes {
+    max-width: 600px;
+    margin: auto;
+
+    display: flex;
+    flex-direction: column;
+
+    gap: 12px;
+}
+
+
+.card-licao {
+    background: white;
+
+    padding: 15px;
+
+    border-radius: 14px;
+
+    display: flex;
+    align-items: center;
+
+    gap: 15px;
+
+    box-shadow: 0 3px 10px rgba(0,0,0,0.07);
+}
+
+
+.numero-licao {
+    min-width: 50px;
+    height: 50px;
+
+    border-radius: 12px;
+
+    background: #1f4d3a;
+    color: white;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    font-size: 18px;
+    font-weight: bold;
+}
+
+
+.info-licao {
+    flex: 1;
+}
+
+
+.info-licao h3 {
+    margin-bottom: 5px;
+}
+
+
+.info-licao p {
+    color: #777;
+    font-size: 13px;
+}
+
+
+.card-licao button {
+    padding: 9px 12px;
+    font-size: 13px;
+}
+
+
+@media (max-width: 450px) {
+
+    .card-licao {
+        padding: 12px;
+    }
+
+    .numero-licao {
+        min-width: 45px;
+        height: 45px;
+    }
+
+}
+.conteudo-licao {
+    max-width: 700px;
+    margin: auto;
+}
+
+
+.identificacao-licao {
+    background: white;
+
+    padding: 25px 20px;
+
+    border-radius: 15px;
+
+    margin-bottom: 18px;
+
+    text-align: center;
+
+    box-shadow: 0 3px 10px rgba(0,0,0,0.07);
+}
+
+
+.identificacao-licao span {
+    display: inline-block;
+
+    background: #1f4d3a;
+
+    color: white;
+
+    padding: 7px 14px;
+
+    border-radius: 20px;
+
+    font-size: 13px;
+
+    margin-bottom: 12px;
+}
+
+
+.identificacao-licao h2 {
+    line-height: 1.4;
+}
+
+
+.bloco-licao {
+    background: white;
+
+    padding: 22px 20px;
+
+    border-radius: 15px;
+
+    margin-bottom: 15px;
+
+    box-shadow: 0 3px 10px rgba(0,0,0,0.06);
+}
+
+
+.bloco-licao h3 {
+    margin-bottom: 15px;
+}
+
+
+.bloco-licao p {
+    line-height: 1.7;
+
+    color: #444;
+}
+
+
+.bloco-licao ul,
+.bloco-licao ol {
+    padding-left: 25px;
+
+    line-height: 1.7;
+
+    color: #444;
+}
+
+
+.bloco-licao li {
+    margin-bottom: 8px;
+}
+
+
+@media (max-width: 450px) {
+
+    .conteudo-licao {
+        width: 100%;
+    }
+
+    .bloco-licao {
+        padding: 18px 15px;
+    }
+
+}
+/* ================================
+VISUAL DA PÁGINA DA LIÇÃO
+EBD CONECTA
+================================ */
+
+.cabecalho-licao {
+background: white;
+padding: 25px 20px;
+margin-bottom: 18px;
+border-radius: 16px;
+text-align: center;
+box-shadow: 0 3px 10px rgba(0,0,0,0.08);
+}
+
+.numero-destaque {
+display: inline-block;
+background: #eeeeee;
+padding: 8px 16px;
+border-radius: 20px;
+font-weight: bold;
+margin-bottom: 12px;
+}
+
+.cabecalho-licao h2 {
+margin: 5px 0 0;
+font-size: 24px;
+line-height: 1.3;
+}
+
+.bloco-licao {
+background: white;
+padding: 20px;
+margin-bottom: 15px;
+border-radius: 14px;
+box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+}
+
+.bloco-licao h3 {
+margin-top: 0;
+margin-bottom: 12px;
+font-size: 19px;
+}
+
+.bloco-licao p {
+line-height: 1.7;
+font-size: 16px;
+}
+
+#objetivos p {
+margin: 10px 0;
+padding-left: 5px;
+}
+
+#desenvolvimento h4 {
+margin-top: 28px;
+margin-bottom: 14px;
+font-size: 20px;
+}
+
+#desenvolvimento h5 {
+margin-top: 20px;
+margin-bottom: 8px;
+font-size: 17px;
+}
+
+#desenvolvimento p {
+line-height: 1.7;
+}
+
+.pergunta {
+background: #f5f5f5;
+padding: 15px;
+margin-bottom: 12px;
+border-radius: 12px;
+}
+
+.pergunta strong {
+display: block;
+margin-bottom: 8px;
+}
+
+.pergunta p {
+line-height: 1.6;
+}
+
+.premium {
+background: white;
+padding: 22px;
+margin-top: 20px;
+border-radius: 16px;
+box-shadow: 0 3px 10px rgba(0,0,0,0.08);
+}
+
+.premium h3 {
+margin-top: 0;
+}
+
+.premium li {
+margin-bottom: 10px;
+}
+
+.premium button {
+width: 100%;
+padding: 13px;
+border: none;
+border-radius: 10px;
+font-size: 15px;
+}
+
+.voltar {
+text-align: center;
+margin: 25px 0;
+}
+/* =================================
+ORGANIZAÇÃO DO DESENVOLVIMENTO
+EBD CONECTA
+================================= */
+
+#desenvolvimento h4 {
+background: #eeeeee;
+padding: 14px 15px;
+border-radius: 10px;
+margin-top: 30px;
+margin-bottom: 18px;
+line-height: 1.4;
+}
+
+#desenvolvimento h5 {
+margin-top: 22px;
+margin-bottom: 10px;
+line-height: 1.4;
+}
+
+#desenvolvimento h5::before {
+content: "▸ ";
+}
+
+#desenvolvimento p {
+margin-bottom: 16px;
+line-height: 1.75;
+text-align: left;
+}
+
+#desenvolvimento p strong {
+font-weight: bold;
+}
+/* =================================
+DESTAQUE DA LIÇÃO
+EBD CONECTA
+================================= */
+
+.cabecalho-licao {
+position: relative;
+overflow: hidden;
+}
+
+.cabecalho-licao::before {
+content: "📚 ESTUDO DA LIÇÃO";
+display: block;
+font-size: 12px;
+font-weight: bold;
+letter-spacing: 1px;
+margin-bottom: 12px;
+opacity: 0.7;
+}
+
+.cabecalho-licao h2 {
+font-size: 25px;
+margin-bottom: 8px;
+}
+
+.numero-destaque {
+font-size: 14px;
+}
+
+/* Destaque do ponto principal */
+
+.bloco-licao:has(#pontoPrincipal) {
+border-left: 5px solid;
+}
+
+/* Destaque dos objetivos */
+
+.bloco-licao:has(#objetivos) {
+border-left: 5px solid;
+}

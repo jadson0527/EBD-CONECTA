@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Lições - EBD Conecta</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <header>
+        <h1>📖 EBD Conecta</h1>
+        <p>Escolha sua classe</p>
+    </header>
+
+    <main>
+
+        <h2>📚 Classes</h2>
+
+        <button onclick="abrirClasse('adultos')">
+            👨‍🏫 Adultos
+        </button>
+
+        <br><br>
+
+        <button onclick="abrirClasse('jovens')">
+            👨‍🎓 Jovens
+        </button>
+
+        <br><br>
+
+        <button onclick="abrirClasse('juvenis')">
+            👦 Juvenis
+        </button>
+
+        <br><br>
+
+        <button onclick="abrirClasse('adolescentes')">
+            🧑 Adolescentes
+        </button>
+
+        <br><br>
+
+        <button onclick="abrirClasse('pre-adolescentes')">
+            👦 Pré-Adolescentes
+        </button>
+
+        <br><br>
+
+        <button onclick="abrirClasse('juniores')">
+            👧 Juniores
+        </button>
+
+        <br><br>
+
+        <button onclick="voltarInicio()">
+            ← Voltar
+        </button>
+
+    </main>
+
+    <footer>
+        <p>© 2026 EBD Conecta</p>
+    </footer>
+
+    <script>
+
+        function abrirClasse(classe) {
+
+            localStorage.setItem(
+                "classeSelecionada",
+                classe
+            );
+
+            window.location.href = "trimestres.html";
+        }
+
+        function voltarInicio() {
+
+            window.location.href = "index.html";
+
+        }
+
+    </script>
+
+</body>
+
+</html>

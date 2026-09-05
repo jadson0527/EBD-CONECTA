@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Trimestres - EBD Conecta</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <header>
+
+        <h1>📖 EBD Conecta</h1>
+
+        <p id="nomeClasse">
+            Classe
+        </p>
+
+    </header>
+
+
+    <main>
+
+        <h2>📚 Escolha o trimestre</h2>
+
+
+        <button onclick="abrirTrimestre('1')">
+            1º Trimestre
+        </button>
+
+        <br><br>
+
+
+        <button onclick="abrirTrimestre('2')">
+            2º Trimestre
+        </button>
+
+        <br><br>
+
+
+        <button onclick="abrirTrimestre('3')">
+            3º Trimestre
+        </button>
+
+        <br><br>
+
+
+        <button onclick="voltarClasses()">
+            ← Voltar para classes
+        </button>
+
+    </main>
+
+
+    <footer>
+
+        <p>© 2026 EBD Conecta</p>
+
+    </footer>
+
+
+    <script>
+
+        const classe =
+            localStorage.getItem("classeSelecionada");
+
+
+        const nomes = {
+
+            adultos: "Lições de Adultos",
+
+            jovens: "Lições de Jovens",
+
+            juvenis: "Lições de Juvenis",
+
+            adolescentes: "Lições de Adolescentes",
+
+            "pre-adolescentes":
+                "Lições de Pré-Adolescentes",
+
+            juniores:
+                "Lições de Juniores"
+
+        };
+
+
+        const nomeClasse =
+            document.getElementById("nomeClasse");
+
+
+        if (nomes[classe]) {
+
+            nomeClasse.textContent =
+                nomes[classe];
+
+        }
+
+
+        function abrirTrimestre(trimestre) {
+
+            localStorage.setItem(
+                "trimestreSelecionado",
+                trimestre
+            );
+
+            window.location.href =
+                "lista-licoes.html";
+
+        }
+
+
+        function voltarClasses() {
+
+            window.location.href =
+                "licoes.html";
+
+        }
+
+    </script>
+
+</body>
+
+</html>

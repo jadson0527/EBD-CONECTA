@@ -1,0 +1,1757 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>EBD Conecta - Lição</title>
+
+    <link rel="stylesheet" href="style.css">
+
+    <style>
+
+        /* ================================
+           ESTRUTURA DOS ADOLESCENTES
+        ================================= */
+
+        .hora-aprender {
+            margin-top: 10px;
+        }
+
+        .secao-aprender {
+            margin-bottom: 30px;
+        }
+
+        .secao-aprender h4 {
+            margin-bottom: 12px;
+        }
+
+        .introducao-secao {
+            margin-bottom: 18px;
+        }
+
+        .topico-aprender {
+            margin: 20px 0;
+            padding: 15px;
+            border-radius: 10px;
+            background: rgba(0, 0, 0, 0.03);
+        }
+
+        .topico-aprender h5 {
+            margin-top: 0;
+            margin-bottom: 12px;
+        }
+
+        .ponto-principal-topico {
+            margin: 15px 0;
+            padding: 12px;
+            border-left: 4px solid currentColor;
+            border-radius: 6px;
+            background: rgba(0, 0, 0, 0.04);
+        }
+
+        .versiculos-topico {
+            margin-top: 18px;
+        }
+
+        .versiculo {
+            margin: 15px 0;
+            padding: 12px;
+            border-radius: 8px;
+            background: rgba(0, 0, 0, 0.03);
+        }
+
+        .versiculo-referencia {
+            font-weight: bold;
+            margin-bottom: 8px;
+        }
+
+        .versiculo-texto {
+            font-style: italic;
+            margin-bottom: 8px;
+        }
+
+        .versiculo-explicacao {
+            margin-bottom: 0;
+        }
+
+        .exortacao-topico {
+            margin-top: 18px;
+            padding: 12px;
+            border-radius: 8px;
+            background: rgba(0, 0, 0, 0.04);
+        }
+
+        .reflexao-adolescentes {
+            margin-top: 15px;
+            padding: 12px;
+            border-radius: 8px;
+            background: rgba(0, 0, 0, 0.04);
+        }
+
+        .lista-pontos,
+        .lista-palavras {
+            margin-top: 15px;
+        }
+
+        .lista-pontos ul,
+        .lista-palavras ul {
+            padding-left: 20px;
+        }
+
+        .lista-pontos li,
+        .lista-palavras li {
+            margin-bottom: 8px;
+        }
+
+    </style>
+
+</head>
+
+<body>
+
+<header>
+
+    <h1>📖 EBD Conecta</h1>
+
+    <p>
+        <span id="classeLicao">Adultos</span>
+        •
+        <span id="trimestreLicao">3º Trimestre</span>
+    </p>
+
+</header>
+
+
+<main>
+
+    <!-- ================================
+         CABEÇALHO DA LIÇÃO
+    ================================= -->
+
+    <section class="cabecalho-licao">
+
+        <div class="numero-destaque">
+
+            <span id="numeroLicao">
+                Lição 10
+            </span>
+
+        </div>
+
+        <h2 id="tituloLicao">
+            Uma esperança inabalável perante os poderosos
+        </h2>
+
+    </section>
+
+
+    <!-- ================================
+         TEXTO PRINCIPAL
+    ================================= -->
+
+    <section class="bloco-licao">
+
+        <h3 id="tituloTexto">
+            📌 Texto Áureo
+        </h3>
+
+        <p id="textoPrincipal"></p>
+
+    </section>
+
+
+    <!-- ================================
+         RESUMO / VERDADE PRÁTICA
+    ================================= -->
+
+    <section class="bloco-licao">
+
+        <h3 id="tituloResumo">
+            🎯 Verdade Prática
+        </h3>
+
+        <p id="resumoLicao"></p>
+
+    </section>
+
+
+    <!-- ================================
+         PALAVRA-CHAVE
+    ================================= -->
+
+    <section class="bloco-licao">
+
+        <h3>
+            🔑 Palavra-Chave
+        </h3>
+
+        <p id="palavraChave"></p>
+
+    </section>
+
+
+    <!-- ================================
+         LEITURA BÍBLICA
+    ================================= -->
+
+    <section class="bloco-licao">
+
+        <h3>
+            📖 Leitura Bíblica
+        </h3>
+
+        <p id="leituraBiblica"></p>
+
+    </section>
+
+
+    <!-- ================================
+         OBJETIVOS
+    ================================= -->
+
+    <section class="bloco-licao">
+
+        <h3>
+            🎯 Objetivos
+        </h3>
+
+        <div id="objetivos"></div>
+
+    </section>
+
+
+    <!-- ================================
+         INTRODUÇÃO
+    ================================= -->
+
+    <section class="bloco-licao">
+
+        <h3>
+            📝 Introdução
+        </h3>
+
+        <p id="introducao"></p>
+
+    </section>
+
+
+    <!-- ================================
+         DESENVOLVIMENTO
+    ================================= -->
+
+    <section class="bloco-licao">
+
+        <h3 id="tituloDesenvolvimento">
+            📖 Desenvolvimento da Lição
+        </h3>
+
+        <div id="desenvolvimento"></div>
+
+    </section>
+
+
+    <!-- ================================
+         CONCLUSÃO
+    ================================= -->
+
+    <section class="bloco-licao">
+
+        <h3>
+            📖 Conclusão
+        </h3>
+
+        <p id="conclusao"></p>
+
+    </section>
+
+
+    <!-- ================================
+         PERGUNTAS
+    ================================= -->
+
+    <section class="bloco-licao">
+
+        <h3>
+            ❓ Perguntas para Revisão
+        </h3>
+
+        <div id="perguntas"></div>
+
+    </section>
+
+
+    <!-- ================================
+         PREMIUM
+    ================================= -->
+
+    <section class="premium">
+
+        <h3>
+            ✨ EBD Conecta Premium
+        </h3>
+
+        <p>
+            🚀 Estamos preparando uma experiência ainda mais completa
+            para professores e alunos da Escola Bíblica Dominical.
+        </p>
+
+        <p>
+            O EBD Conecta terá materiais especiais para ajudar você
+            a compreender a lição, preparar sua aula e ensinar com
+            mais segurança.
+        </p>
+
+        <ul>
+
+            <li>
+                📚 Subsídios completos para cada tópico
+            </li>
+
+            <li>
+                💡 Aplicações práticas para a aula
+            </li>
+
+            <li>
+                🧑‍🏫 Orientações para professores
+            </li>
+
+            <li>
+                🙏 Aplicações devocionais
+            </li>
+
+            <li>
+                📝 Perguntas para interação com a classe
+            </li>
+
+            <li>
+                📄 Material completo em PDF
+            </li>
+
+            <li>
+                🎨 Recursos para apresentação da aula
+            </li>
+
+        </ul>
+
+        <button disabled>
+            🔒 Conteúdo Premium — Em breve
+        </button>
+
+    </section>
+
+
+    <!-- ================================
+         VOLTAR
+    ================================= -->
+
+    <div class="voltar">
+
+        <button onclick="voltarListaLicoes()">
+            ← Voltar para lições
+        </button>
+
+    </div>
+
+</main>
+
+
+<footer>
+
+    <p>
+        © 2026 EBD Conecta
+    </p>
+
+</footer>
+
+
+<!-- ================================
+     CARREGA OS DADOS
+================================= -->
+
+<script src="dados-licoes.js"></script>
+
+
+<script>
+
+function carregarLicaoCompleta() {
+
+    /* ================================
+       RECUPERA INFORMAÇÕES
+    ================================= */
+
+    const classe =
+        localStorage.getItem("classeSelecionada");
+
+    const trimestre =
+        localStorage.getItem("trimestreSelecionado");
+
+    const numero =
+        localStorage.getItem("licaoSelecionada");
+
+
+    console.log("Classe:", classe);
+    console.log("Trimestre:", trimestre);
+    console.log("Lição:", numero);
+    console.log("Dados:", licoes);
+
+
+    /* ================================
+       VERIFICA DADOS
+    ================================= */
+
+    if (typeof licoes === "undefined") {
+
+        alert(
+            "Erro: dados-licoes.js não foi carregado."
+        );
+
+        return;
+
+    }
+
+
+    if (!classe || !trimestre || !numero) {
+
+        alert(
+            "Erro: informações da lição não encontradas."
+        );
+
+        return;
+
+    }
+
+
+    /* ================================
+       LOCALIZA A LIÇÃO
+    ================================= */
+
+    const licao =
+        licoes[classe] &&
+        licoes[classe][trimestre] &&
+        licoes[classe][trimestre][numero];
+
+
+    if (!licao) {
+
+        alert(
+            "A Lição " +
+            numero +
+            " não foi encontrada para esta classe e trimestre."
+        );
+
+        return;
+
+    }
+
+
+    /* ================================
+       CABEÇALHO
+    ================================= */
+
+    document.getElementById(
+    "classeLicao"
+).textContent =
+    classe === "adultos"
+        ? "Adultos"
+        : classe === "jovens"
+        ? "Jovens"
+        : classe === "juvenis"
+        ? "Juvenis"
+        : classe === "adolescentes"
+        ? "Adolescentes"
+        : classe === "pre-adolescentes"
+        ? "Pré-Adolescentes"
+        : classe;
+
+
+    document.getElementById(
+        "trimestreLicao"
+    ).textContent =
+        trimestre + "º Trimestre";
+
+
+    document.getElementById(
+        "numeroLicao"
+    ).textContent =
+        licao.numero;
+
+
+    document.getElementById(
+        "tituloLicao"
+    ).textContent =
+        licao.titulo;
+
+
+    /* ================================
+       TEXTO PRINCIPAL
+    ================================= */
+
+    const tituloTexto =
+        document.getElementById(
+            "tituloTexto"
+        );
+
+    const textoPrincipal =
+        document.getElementById(
+            "textoPrincipal"
+        );
+
+
+    /* ================================
+       RESUMO / VERDADE PRÁTICA
+    ================================= */
+
+    const tituloResumo =
+        document.getElementById(
+            "tituloResumo"
+        );
+
+    const resumoLicao =
+        document.getElementById(
+            "resumoLicao"
+        );
+
+
+    /* ================================
+       ADOLESCENTES
+    ================================= */
+
+    if (classe === "adolescentes") {
+
+        tituloTexto.textContent =
+            "📜 A Mensagem";
+
+        textoPrincipal.textContent =
+            licao.textoPrincipal || "";
+
+
+        tituloResumo.textContent =
+            "📖 Ponto Principal";
+
+        resumoLicao.textContent =
+            licao.pontoPrincipal || "";
+
+
+    }
+
+
+    /* ================================
+       JOVENS
+    ================================= */
+
+    else if (classe === "jovens") {
+
+        tituloTexto.textContent =
+            "📌 Texto Principal";
+
+        textoPrincipal.textContent =
+            licao.textoPrincipal || "";
+
+
+        tituloResumo.textContent =
+            "📝 Resumo da Lição";
+
+        resumoLicao.textContent =
+            licao.resumoLicao || "";
+
+    }
+
+
+    /* ================================
+       JUVENIS
+    ================================= */
+
+    else if (classe === "juvenis") {
+
+        tituloTexto.textContent =
+            "📌 Texto Principal";
+
+        textoPrincipal.textContent =
+            licao.textoPrincipal || "";
+
+
+        tituloResumo.textContent =
+            "📚 Ponto Principal";
+
+        resumoLicao.textContent =
+            licao.pontoPrincipal || "";
+
+    }
+else if (classe === "pre-adolescentes") {
+
+    tituloTexto.textContent =
+        "🎯 Pergunta-Gancho";
+
+    textoPrincipal.textContent =
+        licao.perguntaGancho || "";
+
+    tituloResumo.textContent =
+        "💡 Curiosidade";
+
+    resumoLicao.textContent =
+        licao.curiosidade || "";
+
+}
+
+    /* ================================
+       ADULTOS
+    ================================= */
+
+    else {
+
+    if (licao.textoAureo) {
+        tituloTexto.textContent =
+            "📌 Texto Áureo";
+
+        textoPrincipal.textContent =
+            licao.textoAureo;
+    } else {
+        tituloTexto.style.display = "none";
+        textoPrincipal.style.display = "none";
+    }
+
+
+    if (licao.verdadePratica) {
+        tituloResumo.textContent =
+            "🎯 Verdade Prática";
+
+        resumoLicao.textContent =
+            licao.verdadePratica;
+    } else {
+        tituloResumo.style.display = "none";
+        resumoLicao.style.display = "none";
+    }
+
+    }
+
+
+    /* ================================
+       PALAVRA-CHAVE
+    ================================= */
+
+    if (licao.palavraChave) {
+    document.getElementById(
+        "palavraChave"
+    ).textContent =
+        licao.palavraChave;
+} else {
+    document.getElementById(
+        "palavraChave"
+    ).closest("section").style.display = "none";
+    }
+
+
+    /* ================================
+       LEITURA BÍBLICA
+    ================================= */
+
+    document.getElementById(
+        "leituraBiblica"
+    ).textContent =
+        licao.leituraBiblica || "";
+
+
+    /* ================================
+       INTRODUÇÃO
+    ================================= */
+
+    document.getElementById(
+        "introducao"
+    ).textContent =
+        licao.introducao || "";
+
+
+    /* ================================
+       OBJETIVOS
+    ================================= */
+
+    const objetivos =
+        document.getElementById(
+            "objetivos"
+        );
+
+    objetivos.innerHTML = "";
+
+
+    if (Array.isArray(licao.objetivos)) {
+
+        licao.objetivos.forEach(
+            function(objetivo) {
+
+                const p =
+                    document.createElement("p");
+
+                p.textContent =
+                    objetivo;
+
+                objetivos.appendChild(p);
+
+            }
+        );
+
+    }
+
+
+    /* ================================
+       DESENVOLVIMENTO
+    ================================= */
+
+    const desenvolvimento =
+        document.getElementById(
+            "desenvolvimento"
+        );
+
+    desenvolvimento.innerHTML = "";
+/* ================================
+   ESTRUTURA PRÉ-ADOLESCENTES
+   DEVOCIONAL
+================================ */
+
+if (
+    classe === "pre-adolescentes" &&
+    Array.isArray(licao.devocional)
+) {
+
+    const devocionalTitulo =
+        document.createElement("h4");
+
+    devocionalTitulo.textContent =
+        "🙏 DEVOCIONAL";
+
+    desenvolvimento.appendChild(
+        devocionalTitulo
+    );
+
+
+    licao.devocional.forEach(
+        function(dia) {
+
+            const bloco =
+                document.createElement("div");
+
+            bloco.className =
+                "topico-aprender";
+
+
+            /* DIA */
+
+            const h5 =
+                document.createElement("h5");
+
+            h5.textContent =
+                dia.dia || "";
+
+            bloco.appendChild(
+                h5
+            );
+
+
+            /* VERSÍCULO */
+
+            if (dia.versiculo) {
+
+                const versiculo =
+                    document.createElement("p");
+
+                versiculo.className =
+                    "versiculo-texto";
+
+                versiculo.textContent =
+                    dia.versiculo;
+
+                bloco.appendChild(
+                    versiculo
+                );
+
+            }
+
+
+            /* TEXTO */
+
+            if (dia.texto) {
+
+                const texto =
+                    document.createElement("p");
+
+                texto.textContent =
+                    dia.texto;
+
+                bloco.appendChild(
+                    texto
+                );
+
+            }
+
+
+            /* PONTOS */
+
+            if (
+                Array.isArray(dia.pontos)
+            ) {
+
+                const pontos =
+                    document.createElement("ul");
+
+                dia.pontos.forEach(
+                    function(item) {
+
+                        const li =
+                            document.createElement("li");
+
+                        li.textContent =
+                            item;
+
+                        pontos.appendChild(
+                            li
+                        );
+
+                    }
+                );
+
+                bloco.appendChild(
+                    pontos
+                );
+
+            }
+
+
+            /* ADVERTÊNCIA */
+
+            if (dia.advertencia) {
+
+                const advertencia =
+                    document.createElement("div");
+
+                advertencia.className =
+                    "exortacao-topico";
+
+                advertencia.textContent =
+                    dia.advertencia;
+
+                bloco.appendChild(
+                    advertencia
+                );
+
+            }
+
+
+            /* APLICAÇÃO */
+
+            if (dia.aplicacao) {
+
+                const aplicacao =
+                    document.createElement("div");
+
+                aplicacao.className =
+                    "reflexao-adolescentes";
+
+                aplicacao.textContent =
+                    dia.aplicacao;
+
+                bloco.appendChild(
+                    aplicacao
+                );
+
+            }
+
+
+            /* FECHAMENTO */
+
+            if (dia.fechamento) {
+
+                const fechamento =
+                    document.createElement("p");
+
+                fechamento.textContent =
+                    dia.fechamento;
+
+                bloco.appendChild(
+                    fechamento
+                );
+
+            }
+
+
+            desenvolvimento.appendChild(
+                bloco
+            );
+
+        }
+    );
+
+      }
+/* ================================
+   LIÇÃO DE HOJE + A BÍBLIA DIZ
+================================ */
+
+if (classe === "pre-adolescentes") {
+
+    /* LIÇÃO DE HOJE */
+
+    if (licao.licaoHoje) {
+
+        const tituloLicaoHoje =
+            document.createElement("h4");
+
+        tituloLicaoHoje.textContent =
+            "📚 LIÇÃO DE HOJE";
+
+        desenvolvimento.appendChild(
+            tituloLicaoHoje
+        );
+
+
+        if (licao.licaoHoje.referencia) {
+
+            const referencia =
+                document.createElement("p");
+
+            referencia.className =
+                "versiculo-referencia";
+
+            referencia.textContent =
+                "📖 " +
+                licao.licaoHoje.referencia;
+
+            desenvolvimento.appendChild(
+                referencia
+            );
+
+        }
+
+
+        if (licao.licaoHoje.pontoPrincipal) {
+
+            const ponto =
+                document.createElement("div");
+
+            ponto.className =
+                "ponto-principal-topico";
+
+            ponto.textContent =
+                licao.licaoHoje.pontoPrincipal;
+
+            desenvolvimento.appendChild(
+                ponto
+            );
+
+        }
+
+    }
+
+
+    /* A BÍBLIA DIZ */
+
+    if (licao.bibliaDiz) {
+
+        const tituloBiblia =
+            document.createElement("h4");
+
+        tituloBiblia.textContent =
+            "📖 A BÍBLIA DIZ";
+
+        desenvolvimento.appendChild(
+            tituloBiblia
+        );
+
+
+        if (licao.bibliaDiz.versiculo) {
+
+            const versiculo =
+                document.createElement("div");
+
+            versiculo.className =
+                "versiculo";
+
+
+            const texto =
+                document.createElement("p");
+
+            texto.className =
+                "versiculo-texto";
+
+            texto.textContent =
+    licao.bibliaDiz.versiculo;
+
+            versiculo.appendChild(
+                texto
+            );
+
+
+            desenvolvimento.appendChild(
+                versiculo
+            );
+
+        }
+
+
+        if (licao.bibliaDiz.pontoPrincipal) {
+
+            const pontoBiblia =
+                document.createElement("div");
+
+            pontoBiblia.className =
+                "ponto-principal-topico";
+
+            pontoBiblia.textContent =
+                licao.bibliaDiz.pontoPrincipal;
+
+            desenvolvimento.appendChild(
+                pontoBiblia
+            );
+
+        }
+
+    }
+
+              }
+    /*
+       =================================
+       ESTRUTURA DOS ADOLESCENTES
+       =================================
+    */
+
+    if (
+        classe === "adolescentes" &&
+        licao.horaAprender &&
+        Array.isArray(
+            licao.horaAprender.secoes
+        )
+    ) {
+
+        /* TÍTULO */
+
+        const horaTitulo =
+            document.createElement("h4");
+
+        horaTitulo.textContent =
+            licao.horaAprender.titulo ||
+            "📖 HORA DE APRENDER";
+
+        horaTitulo.className =
+            "hora-aprender";
+
+        desenvolvimento.appendChild(
+            horaTitulo
+        );
+
+
+        /* SEÇÕES */
+
+        licao.horaAprender.secoes.forEach(
+            function(secao) {
+
+                const divSecao =
+                    document.createElement("div");
+
+                divSecao.className =
+                    "secao-aprender";
+
+
+                /* TÍTULO DA SEÇÃO */
+
+                const h4 =
+                    document.createElement("h4");
+
+                h4.textContent =
+                    secao.titulo || "";
+
+                divSecao.appendChild(h4);
+
+
+                /* INTRODUÇÃO DA SEÇÃO */
+
+                if (secao.introducao) {
+
+                    const pIntroducao =
+                        document.createElement("p");
+
+                    pIntroducao.className =
+                        "introducao-secao";
+
+                    pIntroducao.textContent =
+                        secao.introducao;
+
+                    divSecao.appendChild(
+                        pIntroducao
+                    );
+
+                }
+
+
+                /* TÓPICOS */
+
+                if (
+                    Array.isArray(
+                        secao.topicos
+                    )
+                ) {
+
+                    secao.topicos.forEach(
+                        function(topico) {
+
+                            const divTopico =
+                                document.createElement("div");
+
+                            divTopico.className =
+                                "topico-aprender";
+
+
+                            /* TÍTULO DO TÓPICO */
+
+                            const h5 =
+                                document.createElement("h5");
+
+                            h5.textContent =
+                                topico.titulo || "";
+
+                            divTopico.appendChild(
+                                h5
+                            );
+
+
+                            /* TEXTO */
+
+                            if (topico.texto) {
+
+                                const p =
+                                    document.createElement("p");
+
+                                p.textContent =
+                                    topico.texto;
+
+                                divTopico.appendChild(
+                                    p
+                                );
+
+                            }
+
+
+                            /* PONTO PRINCIPAL */
+
+                            if (
+                                topico.pontoPrincipal
+                            ) {
+
+                                const ponto =
+                                    document.createElement("div");
+
+                                ponto.className =
+                                    "ponto-principal-topico";
+
+                                ponto.textContent =
+                                    topico.pontoPrincipal;
+
+                                divTopico.appendChild(
+                                    ponto
+                                );
+
+                            }
+
+
+                            /* VERSÍCULOS */
+
+                            if (
+                                Array.isArray(
+                                    topico.versiculos
+                                )
+                            ) {
+
+                                const divVersiculos =
+                                    document.createElement("div");
+
+                                divVersiculos.className =
+                                    "versiculos-topico";
+
+
+                                const tituloVersiculos =
+                                    document.createElement("h6");
+
+                                tituloVersiculos.textContent =
+                                    "📖 Versículos em destaque";
+
+                                divVersiculos.appendChild(
+                                    tituloVersiculos
+                                );
+
+
+                                topico.versiculos.forEach(
+                                    function(versiculo) {
+
+                                        const divVersiculo =
+                                            document.createElement("div");
+
+                                        divVersiculo.className =
+                                            "versiculo";
+
+
+                                        /* REFERÊNCIA */
+
+                                        if (
+                                            versiculo.referencia
+                                        ) {
+
+                                            const referencia =
+                                                document.createElement("p");
+
+                                            referencia.className =
+                                                "versiculo-referencia";
+
+                                            referencia.textContent =
+                                                "📖 " +
+                                                versiculo.referencia;
+
+                                            divVersiculo.appendChild(
+                                                referencia
+                                            );
+
+                                        }
+
+
+                                        /* TEXTO BÍBLICO */
+
+                                        if (
+                                            versiculo.texto
+                                        ) {
+
+                                            const texto =
+                                                document.createElement("p");
+
+                                            texto.className =
+                                                "versiculo-texto";
+
+                                            texto.textContent =
+                                                "“" +
+                                                versiculo.texto +
+                                                "”";
+
+                                            divVersiculo.appendChild(
+                                                texto
+                                            );
+
+                                        }
+
+
+                                        /* EXPLICAÇÃO */
+
+                                        if (
+                                            versiculo.explicacao
+                                        ) {
+
+                                            const explicacao =
+                                                document.createElement("p");
+
+                                            explicacao.className =
+                                                "versiculo-explicacao";
+
+                                            explicacao.textContent =
+                                                "💡 " +
+                                                versiculo.explicacao;
+
+                                            divVersiculo.appendChild(
+                                                explicacao
+                                            );
+
+                                        }
+
+
+                                        divVersiculos.appendChild(
+                                            divVersiculo
+                                        );
+
+                                    }
+                                );
+
+
+                                divTopico.appendChild(
+                                    divVersiculos
+                                );
+
+                            }
+
+
+                            /* EXORTAÇÃO */
+
+                            if (
+                                topico.exortacao
+                            ) {
+
+                                const exortacao =
+                                    document.createElement("div");
+
+                                exortacao.className =
+                                    "exortacao-topico";
+
+                                exortacao.textContent =
+    topico.exortacao.replace(/^⚠️\s*Exortação prática\s*/i, "");
+
+                                divTopico.appendChild(
+                                    exortacao
+                                );
+
+                            }
+
+
+                            /* REFLEXÃO */
+
+                            if (
+                                topico.reflexao
+                            ) {
+
+                                const reflexao =
+                                    document.createElement("div");
+
+                                reflexao.className =
+                                    "reflexao-adolescentes";
+
+                                reflexao.textContent =
+                                    topico.reflexao;
+
+                                divTopico.appendChild(
+                                    reflexao
+                                );
+
+                            }
+
+
+                            /* PONTOS PRINCIPAIS */
+
+                            if (
+                                Array.isArray(
+                                    topico.pontosPrincipais
+                                )
+                            ) {
+
+                                const pontos =
+                                    document.createElement("div");
+
+                                pontos.className =
+                                    "lista-pontos";
+
+
+                                const tituloPontos =
+                                    document.createElement("h6");
+
+                                tituloPontos.textContent =
+                                    "📌 Pontos principais";
+
+                                pontos.appendChild(
+                                    tituloPontos
+                                );
+
+
+                                const ul =
+                                    document.createElement("ul");
+
+
+                                topico.pontosPrincipais.forEach(
+                                    function(item) {
+
+                                        const li =
+                                            document.createElement("li");
+
+                                        li.textContent =
+                                            item;
+
+                                        ul.appendChild(
+                                            li
+                                        );
+
+                                    }
+                                );
+
+
+                                pontos.appendChild(
+                                    ul
+                                );
+
+                                divTopico.appendChild(
+                                    pontos
+                                );
+
+                            }
+
+
+                            /* PALAVRAS-CHAVE */
+
+                            if (
+                                Array.isArray(
+                                    topico.palavrasChave
+                                )
+                            ) {
+
+                                const palavras =
+                                    document.createElement("div");
+
+                                palavras.className =
+                                    "lista-palavras";
+
+
+                                const tituloPalavras =
+                                    document.createElement("h6");
+
+                                tituloPalavras.textContent =
+                                    "🔑 Palavras-chave";
+
+                                palavras.appendChild(
+                                    tituloPalavras
+                                );
+
+
+                                const ul =
+                                    document.createElement("ul");
+
+
+                                topico.palavrasChave.forEach(
+                                    function(item) {
+
+                                        const li =
+                                            document.createElement("li");
+
+                                        li.textContent =
+                                            item;
+
+                                        ul.appendChild(
+                                            li
+                                        );
+
+                                    }
+                                );
+
+
+                                palavras.appendChild(
+                                    ul
+                                );
+
+                                divTopico.appendChild(
+                                    palavras
+                                );
+
+                            }
+
+
+                            divSecao.appendChild(
+                                divTopico
+                            );
+
+                        }
+                    );
+
+                }
+
+
+                desenvolvimento.appendChild(
+                    divSecao
+                );
+
+            }
+        );
+
+    }
+
+
+    /*
+       =================================
+       ESTRUTURA NORMAL
+       ADULTOS / JOVENS / JUVENIS
+       =================================
+    */
+
+        else if (
+    Array.isArray(
+        licao.desenvolvimento
+    )
+) {
+
+        licao.desenvolvimento.forEach(
+            function(secao) {
+
+                const h4 =
+                    document.createElement("h4");
+
+              h4.textContent =
+    secao.titulo || "";
+
+                desenvolvimento.appendChild(
+                    h4
+                );
+
+
+                if (
+                    Array.isArray(
+                        secao.topicos
+                    )
+                ) {
+
+                    secao.topicos.forEach(
+                        function(topico) {
+
+                            const h5 =
+                                document.createElement("h5");
+
+                            h5.textContent =
+                                topico.titulo;
+
+                            desenvolvimento.appendChild(
+                                h5
+                            );
+
+
+                            /* TEXTO */
+
+                            const p =
+                                document.createElement("p");
+
+                            p.textContent =
+                                topico.texto || "";
+
+                            desenvolvimento.appendChild(
+                                p
+                            );
+
+
+                            /* APLICAÇÃO PRÁTICA */
+
+                            if (
+                                topico.aplicacao
+                            ) {
+
+                                const aplicacao =
+                                    document.createElement("div");
+
+                                aplicacao.className =
+                                    "aplicacao-topico";
+
+                                aplicacao.innerHTML =
+                                    "<h6>💡 Aplicação prática</h6>" +
+                                    "<p>" +
+                                    topico.aplicacao +
+                                    "</p>";
+
+                                desenvolvimento.appendChild(
+                                    aplicacao
+                                );
+
+                            }
+
+
+                            /* O QUE APRENDER */
+
+                            if (
+                                topico.destaque
+                            ) {
+
+                                const destaque =
+                                    document.createElement("div");
+
+                                destaque.className =
+                                    "destaque-topico";
+
+                                destaque.innerHTML =
+                                    "<h6>📌 O que aprender</h6>" +
+                                    "<p>" +
+                                    topico.destaque +
+                                    "</p>";
+
+                                desenvolvimento.appendChild(
+                                    destaque
+                                );
+
+                            }
+
+
+                      /* PONTO PRINCIPAL, EXORTAÇÃO E REFLEXÃO */
+
+if (topico.pontoPrincipal) {
+
+    const pontoPrincipal =
+        document.createElement("div");
+
+    pontoPrincipal.className =
+        "reflexao-topico";
+
+    pontoPrincipal.innerHTML =
+        "<h6>📌 Ponto principal</h6>" +
+        "<p>" +
+        topico.pontoPrincipal.replace(
+            /^📌\s*Ponto principal\s*/i,
+            ""
+        ) +
+        "</p>";
+
+    desenvolvimento.appendChild(
+        pontoPrincipal
+    );
+}
+
+if (topico.exortacao) {
+
+    const exortacao =
+        document.createElement("div");
+
+    exortacao.className =
+        "reflexao-topico";
+
+    exortacao.innerHTML =
+        "<h6>⚠️ Exortação prática</h6>" +
+        "<p>" +
+        topico.exortacao.replace(
+            /^⚠️\s*Exortação prática\s*/i,
+            ""
+        ) +
+        "</p>";
+
+    desenvolvimento.appendChild(
+        exortacao
+    );
+}
+
+if (topico.reflexao) {
+
+    const reflexao =
+        document.createElement("div");
+
+    reflexao.className =
+        "reflexao-topico";
+
+    reflexao.innerHTML =
+        "<h6>💭 Reflexão para a vida cristã</h6>" +
+        "<p>" +
+        topico.reflexao.replace(
+            /^💭\s*Reflexão para a vida cristã\s*/i,
+            ""
+        ) +
+        "</p>";
+
+    desenvolvimento.appendChild(
+        reflexao
+    );
+}
+
+
+                            /* PONTO */
+
+                            if (
+                                topico.ponto
+                            ) {
+
+                                const ponto =
+                                    document.createElement("p");
+
+                                ponto.innerHTML =
+                                    "<strong>📌 Ponto:</strong> " +
+                                    topico.ponto;
+
+                                desenvolvimento.appendChild(
+                                    ponto
+                                );
+
+                            }
+
+                        }
+                    );
+
+                }
+
+            }
+        );
+
+    }
+
+
+  /* ================================
+   CONCLUSÃO
+================================= */
+
+document.getElementById(
+    "conclusao"
+).textContent =
+    (licao.conclusao || "").replace(/^(?:📝|📖)\s*CONCLUSÃO\s*/i, "");
+
+
+    /* ================================
+       PERGUNTAS
+    ================================= */
+
+    const perguntas =
+        document.getElementById(
+            "perguntas"
+        );
+
+    perguntas.innerHTML = "";
+
+
+    if (
+        Array.isArray(
+            licao.perguntas
+        )
+    ) {
+
+        licao.perguntas.forEach(
+            function(item) {
+
+                const div =
+                    document.createElement("div");
+
+                div.className =
+                    "pergunta";
+
+
+                div.innerHTML = `
+
+                    <strong>
+                        ${item.nivel}
+                    </strong>
+
+                    <p>
+                        ${item.pergunta}
+                    </p>
+
+                    <p>
+                        <strong>
+                            Resposta:
+                        </strong>
+
+                        ${item.resposta}
+                    </p>
+
+                `;
+
+
+                perguntas.appendChild(
+                    div
+                );
+
+            }
+        );
+
+    }
+
+}
+
+
+/* ================================
+   VOLTAR
+================================= */
+
+function voltarListaLicoes() {
+
+    window.location.href =
+        "lista-licoes.html";
+
+}
+
+
+/* ================================
+   INICIA A PÁGINA
+================================= */
+
+carregarLicaoCompleta();
+
+</script>
+
+</body>
+
+</html>

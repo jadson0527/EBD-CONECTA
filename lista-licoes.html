@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0">
+
+    <title>Lições - EBD Conecta</title>
+
+    <link rel="stylesheet"
+          href="style.css">
+
+    <script src="dados-licoes.js"></script>
+
+</head>
+
+<body>
+
+    <header>
+
+        <h1>📖 EBD Conecta</h1>
+
+        <p id="nomeClasse">
+            Lições
+        </p>
+
+    </header>
+
+
+    <main>
+
+        <h2 id="tituloTrimestre">
+            📚 3º Trimestre
+        </h2>
+
+        <p>
+            Escolha a lição que deseja estudar.
+        </p>
+
+
+        <section id="listaLicoes">
+
+        </section>
+
+
+        <br>
+
+
+        <button onclick="voltarTrimestres()">
+            ← Voltar para trimestres
+        </button>
+
+    </main>
+
+
+    <footer>
+
+        <p>© 2026 EBD Conecta</p>
+
+    </footer>
+
+
+    <script>
+
+        const classe =
+            localStorage.getItem("classeSelecionada");
+
+        const trimestre =
+            localStorage.getItem("trimestreSelecionado");
+
+
+        const nomes = {
+
+            adultos: "Lições de Adultos",
+
+            jovens: "Lições de Jovens",
+
+            juvenis: "Lições de Juvenis",
+
+            adolescentes: "Lições de Adolescentes",
+
+            "pre-adolescentes":
+                "Lições de Pré-Adolescentes",
+
+            juniores:
+                "Lições de Juniores"
+
+        };
+
+
+        const nomeClasse =
+            document.getElementById("nomeClasse");
+
+
+        if (nomes[classe]) {
+
+            nomeClasse.textContent =
+                nomes[classe];
+
+        }
+
+
+        document.getElementById(
+            "tituloTrimestre"
+        ).textContent =
+            "📚 " + trimestre + "º Trimestre";
+
+
+        const lista =
+            document.getElementById("listaLicoes");
+
+
+        const dadosClasse =
+            licoes[classe];
+
+
+        const dadosTrimestre =
+            dadosClasse &&
+            dadosClasse[trimestre];
+
+
+        for (let numero = 1; numero <= 13; numero++) {
+
+            const dadosLicao =
+                dadosTrimestre &&
+                dadosTrimestre[numero];
+
+
+            const titulo =
+                dadosLicao &&
+                dadosLicao.titulo
+                    ? dadosLicao.titulo
+                    : "Título da lição ainda não cadastrado";
+
+
+            const div =
+                document.createElement("div");
+
+
+            div.innerHTML = `
+
+                <h3>📖 Lição ${numero}</h3>
+
+                <p>
+                    ${titulo}
+                </p>
+
+                <button onclick="abrirLicao(${numero})">
+                    Estudar
+                </button>
+
+                <hr>
+
+            `;
+
+
+            lista.appendChild(div);
+
+        }
+
+
+        function abrirLicao(numero) {
+
+            localStorage.setItem(
+                "licaoSelecionada",
+                numero
+            );
+
+            window.location.href =
+                "licao.html";
+
+        }
+
+
+        function voltarTrimestres() {
+
+            window.location.href =
+                "trimestres.html";
+
+        }
+
+    </script>
+
+</body>
+
+</html>
