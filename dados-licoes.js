@@ -245,14 +245,278 @@ const licoes = {
                             "Que nossa esperança deve estar em Deus e não depender das circunstâncias. Mesmo diante de injustiça, pressão ou demora, devemos continuar fiéis ao Senhor."
                     }
 
-                ]
+                               ]
+
+            },
+
+            "11": {
+
+                numero: "Lição 11",
+                titulo: "ENTRE TEMPESTADES E PROMESSAS",
+
+                textoAureo:
+                    "“Mas agora vos admoesto a que tenhais bom ânimo, porque não se perderá a vida de nenhum de vós, mas somente o navio.” (Atos 27.22).",
+
+                verdadePratica:
+                    "Mesmo quando perdas materiais são inevitáveis, Deus preserva a vida e cumpre suas promessas àqueles que confiam nEle.",
+
+                palavraChave: "TEMPESTADE",
+
+                leituraBiblica: "Atos 27.9-15,21-26",
+
+                introducao:
+                    "O apóstolo Paulo estava viajando pelo mar Mediterrâneo, como prisioneiro, rumo a Roma. Deus tinha um propósito para sua vida e havia prometido que ele chegaria a Roma para testemunhar diante de César. Porém, durante a viagem, uma violenta tempestade se levantou. Isso nos mostra que estar dentro da vontade de Deus não significa estar livre de tempestades.\n\nO vento contrário fez o navio perder o controle. Cargas e equipamentos foram lançados ao mar. O sol e as estrelas deixaram de aparecer, e os homens perderam toda a esperança de sobreviver. Finalmente, o navio naufragou.\n\nMas existe uma diferença entre perder o navio e perder a promessa. O navio foi perdido, mas a promessa de Deus permaneceu de pé. Atos 27.22 registra a palavra de Paulo: “Não se perderá a vida de nenhum de vós”.\n\nTambém enfrentamos tempestades em nossa vida: familiares, financeiras, profissionais, emocionais, espirituais e ministeriais. Deus nem sempre impede a tempestade, mas Ele nos sustenta dentro dela.",
+
+                desenvolvimento: [
+
+                    {
+                        titulo: "I. A TEMPESTADE QUE SURGE NA VIAGEM",
+
+                        topicos: [
+
+                            {
+                                titulo:
+                                    "1. A decisão precipitada de navegar apesar da advertência de Paulo (vv.9-12).",
+
+                                texto:
+                                    "Paulo advertiu que a viagem seria perigosa e traria danos. Ele possuía experiência com viagens marítimas e também discernimento espiritual. Entretanto, o centurião confiou mais na opinião do piloto e do mestre do navio.\n\nO problema não está em ouvir especialistas, fazer planos ou utilizar a experiência. O perigo está em colocar a confiança humana acima da direção de Deus. Muitas decisões são tomadas porque parecem oportunidades, porque todos estão fazendo, porque existe vantagem financeira ou porque temos experiência. A pergunta principal deve ser: isso está de acordo com a vontade de Deus?\n\nProvérbios 14.12 nos lembra que há caminho que parece direito ao homem, mas o seu fim pode ser de morte.",
+
+                                reflexao:
+                                    "Por que muitas vezes confiamos mais na nossa experiência do que na direção de Deus?"
+                            },
+
+                            {
+                                titulo:
+                                    "2. A fragilidade humana diante das forças da natureza (vv.13-17).",
+
+                                texto:
+                                    "No início, o vento sul parecia favorável. Os homens imaginaram que poderiam prosseguir com segurança. Porém, de repente, surgiu o Euroaquilão, e o navio perdeu o controle.\n\nAtos 27.15 descreve a situação: “...não podendo navegar contra o vento, dando de mão a tudo, nos deixamos ir à toa”.\n\nA sequência foi clara: vento favorável, confiança humana, tempestade e perda de controle. A vida também possui circunstâncias que não conseguimos controlar. Podemos planejar e trabalhar, mas nossa segurança definitiva não está naquilo que conseguimos controlar. O Senhor é o nosso refúgio e fortaleza, como afirma o Salmo 46.1.",
+
+                                reflexao:
+                                    "Em que áreas da nossa vida precisamos deixar de confiar somente naquilo que podemos controlar?"
+                            },
+
+                            {
+                                titulo:
+                                    "3. A perda da esperança diante da adversidade (vv.18-20).",
+
+                                texto:
+                                    "A tempestade ficou tão forte que a tripulação começou a lançar carga e equipamentos ao mar. Depois de muitos dias sem conseguir ver o sol nem as estrelas, os homens perderam completamente a esperança.\n\nAtos 27.20 afirma: “...enfim, perdemos toda a esperança de nos salvar”.\n\nA tempestade pode alterar nossa percepção. Podemos pensar que não existe saída, que tudo acabou ou que Deus não está fazendo nada. Porém, eles perderam a esperança, mas Deus não perdeu o controle. A esperança humana pode acabar sem que o propósito de Deus termine.\n\nLamentações 3.22-23 nos lembra que as misericórdias do Senhor não têm fim e se renovam a cada manhã.",
+
+                                reflexao:
+                                    "Quando nossas forças acabam, continuamos confiando que Deus permanece no controle?"
+                            },
+
+                            {
+                                titulo: "SINOPSE I",
+
+                                texto:
+                                    "Decisões humanas sem Deus geram crises e expõem fragilidades."
+                            }
+
+                        ]
+                    },
+
+                    {
+                        titulo:
+                            "II. A INTERVENÇÃO DE DEUS NA HORA DO DESESPERO",
+
+                        topicos: [
+
+                            {
+                                titulo:
+                                    "1. A palavra de encorajamento de Paulo (vv.21-26).",
+
+                                texto:
+                                    "Depois de muitos dias sem comer, Paulo se levantou e encorajou todos. Ele poderia simplesmente dizer “eu avisei”, mas escolheu fortalecer aqueles que estavam sofrendo.\n\nIsso demonstra maturidade espiritual. Uma pessoa imatura diz “eu avisei”; uma pessoa madura diz “agora vamos enfrentar isso juntos”. Paulo não podia controlar o mar, o vento ou o navio, mas podia controlar sua atitude e transmitir esperança.\n\nA Igreja precisa de pessoas que levem esperança em tempos de crise.",
+
+                                reflexao:
+                                    "Quando enfrentamos uma crise, transmitimos mais medo ou esperança?"
+                            },
+
+                            {
+                                titulo:
+                                    "2. A promessa de Deus em meio à crise (vv.23,24).",
+
+                                texto:
+                                    "Paulo declarou que o anjo do Deus “de quem eu sou e a quem sirvo” havia aparecido a ele. A primeira palavra foi: “Paulo, não temas!”.\n\nDeus não prometeu que a tempestade acabaria imediatamente. Também não prometeu que o navio seria preservado. O navio seria perdido, mas nenhuma vida seria perdida.\n\nEssa é uma verdade profunda: Deus pode não preservar nossos bens, mas pode preservar aquilo que realmente importa para o cumprimento do Seu propósito.\n\nPaulo sabia quem era e a quem pertencia. Podia perder posição, bens e oportunidades, mas sua identidade em Deus permanecia. Hebreus 10.23 nos ensina a conservar firme a esperança, porque fiel é aquele que fez a promessa.",
+
+                                reflexao:
+                                    "Nossa esperança está baseada nas circunstâncias ou na fidelidade de Deus?"
+                            },
+
+                            {
+                                titulo:
+                                    "3. A fé e a liderança espiritual de Paulo (vv.33-36).",
+
+                                texto:
+                                    "Paulo percebeu que todos precisavam recuperar as forças. Então os incentivou a comer, tomou o pão, deu graças a Deus e comeu diante de todos.\n\nPaulo demonstrou liderança espiritual e também prática. Fé não significa passividade. Ele comeu, encorajou, tomou decisões, orientou a tripulação e permaneceu atento.\n\nPrecisamos fazer aquilo que está ao nosso alcance e confiar em Deus naquilo que está além do nosso alcance.",
+
+                                reflexao:
+                                    "Estamos fazendo aquilo que está ao nosso alcance enquanto confiamos em Deus?"
+                            },
+
+                            {
+                                titulo: "SINOPSE II",
+
+                                texto:
+                                    "Deus intervém na crise e renova o ânimo pela promessa."
+                            }
+
+                        ]
+                    },
+
+                    {
+                        titulo:
+                            "III. A PROVIDÊNCIA DIVINA NO NAUFRÁGIO (At 27.39-44)",
+
+                        topicos: [
+
+                            {
+                                titulo:
+                                    "1. O cuidado de Deus preservando vidas (vv.39-44).",
+
+                                texto:
+                                    "O navio naufragou, mas a promessa de Deus foi cumprida: todos sobreviveram. O navio foi perdido, mas as vidas foram preservadas.\n\nA providência divina não significou impedir o naufrágio, mas preservar as pessoas durante o naufrágio. Às vezes, a libertação de Deus acontece de maneira diferente daquela que imaginamos.\n\nIsaías 43.2 afirma: “Quando passares pelas águas, estarei contigo”. A presença de Deus é mais importante do que a ausência de problemas.",
+
+                                reflexao:
+                                    "Temos confiado mais na presença de Deus ou na ausência de problemas?"
+                            },
+
+                            {
+                                titulo:
+                                    "2. A soberania divina acima das decisões humanas (vv.42,43).",
+
+                                texto:
+                                    "Os soldados planejaram matar os prisioneiros para impedir que algum deles escapasse. Porém, o centurião impediu o plano. Depois, os que sabiam nadar chegaram primeiro à terra, e os demais chegaram usando tábuas e partes do navio.\n\nDeus estava conduzindo os acontecimentos para cumprir Sua promessa de levar Paulo a Roma. A soberania de Deus está acima das decisões humanas.\n\nProvérbios 21.1 mostra que Deus pode dirigir até mesmo decisões de autoridades para cumprir Seus propósitos.",
+
+                                reflexao:
+                                    "Confiamos que Deus continua soberano mesmo quando as decisões das pessoas parecem ameaçar nossos planos?"
+                            },
+
+                            {
+                                titulo:
+                                    "3. O cumprimento fiel da promessa de Deus (v.44).",
+
+                                texto:
+                                    "Atos 27.44 declara: “E assim aconteceu que todos se salvaram em terra”. Deus falou, Paulo creu, a tempestade veio, o navio naufragou e a promessa foi cumprida.\n\nA tempestade não tem autoridade para cancelar aquilo que Deus determinou.",
+
+                                reflexao:
+                                    "O que essa história nos ensina sobre a fidelidade de Deus às Suas promessas?"
+                            },
+
+                            {
+                                titulo: "SINOPSE III",
+
+                                texto:
+                                    "A providência divina cumpre promessas e preserva vidas."
+                            }
+
+                        ]
+                    },
+
+                    {
+                        titulo: "4. LIÇÕES PRÁTICAS PARA NOSSOS DIAS",
+
+                        texto:
+                            "1. Nem toda tempestade significa que estamos fora da vontade de Deus.\n\nPaulo estava obedecendo ao propósito de Deus e, mesmo assim, enfrentou o Euroaquilão. Não devemos interpretar toda dificuldade como abandono divino.\n\n2. Nem todo vento favorável significa aprovação de Deus.\n\nO vento sul parecia confirmar a decisão, mas a tempestade veio. Circunstâncias favoráveis precisam ser avaliadas com discernimento espiritual.\n\n3. Podemos perder coisas sem perder o propósito de Deus.\n\nPaulo perdeu o navio e os recursos, mas chegou a Roma. Nem toda perda significa derrota.\n\n4. A fé não significa ausência de medo.\n\nQuando Deus disse “não temas”, havia motivos para temer. A fé não significa que nunca sentiremos medo, mas que o medo não será maior que nossa confiança em Deus.\n\n5. Pessoas de fé tornam-se instrumentos de esperança.\n\nA fé de Paulo influenciou todos ao seu redor. Um pai pode fortalecer sua casa, uma mãe pode fortalecer seus filhos, um professor pode fortalecer sua classe e um líder pode fortalecer a igreja."
+                    },
+
+                    {
+                        titulo: "5. UMA FRASE PARA A CLASSE GUARDAR",
+
+                        texto:
+                            "“O NAVIO PODE AFUNDAR, MAS A PROMESSA DE DEUS NÃO AFUNDA.”\n\nO navio representa os recursos humanos e temporários. A promessa representa aquilo que Deus determinou. O navio é temporário, mas a Palavra de Deus permanece."
+                    },
+
+                    {
+                        titulo:
+                            "6. DINÂMICA — “QUAL É A MINHA TEMPESTADE?”",
+
+                        texto:
+                            "Peça aos alunos que reflitam silenciosamente sobre a seguinte pergunta: Qual é a tempestade que estou enfrentando?\n\n1. O que está além do meu controle?\n\n2. O que Deus ainda espera que eu faça?\n\n3. Em qual promessa bíblica posso fundamentar minha esperança?\n\nPaulo não controlava o vento, o mar ou o navio. Mas podia crer, orar, encorajar, agir e esperar."
+                    },
+
+                    {
+                        titulo: "7. REVISANDO O CONTEÚDO",
+
+                        topicos: [
+
+                            {
+                                titulo:
+                                    "1. Por que a advertência de Paulo foi ignorada?",
+
+                                texto:
+                                    "Porque o centurião confiou mais na experiência do piloto e do mestre do navio do que na advertência de Paulo."
+                            },
+
+                            {
+                                titulo:
+                                    "2. Quais fatores demonstraram a fragilidade humana?",
+
+                                texto:
+                                    "O Euroaquilão, a perda do controle do navio, o lançamento da carga e dos equipamentos ao mar e a perda da esperança."
+                            },
+
+                            {
+                                titulo:
+                                    "3. Qual mensagem Paulo recebeu de Deus?",
+
+                                texto:
+                                    "Que não deveria temer, porque Deus preservaria todas as vidas, embora o navio fosse perdido."
+                            },
+
+                            {
+                                titulo:
+                                    "4. Como Paulo influenciou a tripulação?",
+
+                                texto:
+                                    "Ele transmitiu esperança, orientou os homens, incentivou-os a comer e demonstrou fé e gratidão."
+                            },
+
+                            {
+                                titulo:
+                                    "5. Como o naufrágio confirmou a promessa?",
+
+                                texto:
+                                    "O navio foi destruído, mas todos chegaram vivos à terra, cumprindo a promessa de Deus."
+                            }
+
+                        ]
+                    },
+
+                    {
+                        titulo: "8. CONCLUSÃO",
+
+                        texto:
+                            "Atos 27 é uma demonstração da providência de Deus. Houve tempestade, o navio foi danificado, cargas foram perdidas e a esperança humana chegou ao fim. Porém, Deus continuava no controle.\n\nA tempestade não impediu Paulo de chegar a Roma. O naufrágio não anulou a promessa. Deus não prometeu ausência de tempestades, mas prometeu Sua presença e o cumprimento de Seu propósito.\n\nQuando pensamos “meu navio está afundando”, precisamos perguntar: “O que Deus prometeu?”.\n\nPaulo perdeu o navio, mas alcançou Roma. Perdeu recursos, mas não perdeu o propósito. Enfrentou a tempestade, mas não perdeu a presença de Deus.",
+
+                        topicos: [
+
+                            {
+                                titulo: "🔥 PALAVRA FINAL PARA MINISTRAR",
+
+                                texto:
+                                    "Irmãos, talvez você esteja passando por uma tempestade que não escolheu. Talvez algumas coisas estejam sendo lançadas ao mar. Talvez aquilo que você construiu esteja sendo abalado. Talvez você não consiga mais enxergar o sol nem as estrelas. Mas lembre-se de Paulo: quando ele já não conseguia controlar o navio, Deus continuava controlando o destino. O navio poderia naufragar, mas a promessa não naufragaria. Por isso, tenha bom ânimo. Não porque a tempestade seja pequena, mas porque o nosso Deus é grande. Não porque sabemos como tudo vai terminar, mas porque sabemos em quem confiamos. Se Deus prometeu, permaneça firme. Se Deus determinou, continue caminhando. E se a tempestade vier, lembre-se: Deus ainda está no barco."
+                            },
+
+                            {
+                                titulo: "🙏 Oração final",
+
+                                texto:
+                                    "Senhor nosso Deus, nós reconhecemos que existem tempestades que não conseguimos controlar. Há momentos em que nossas forças acabam, nossos recursos desaparecem e não conseguimos enxergar uma saída. Mas hoje aprendemos com Paulo que a nossa esperança não está na estabilidade das circunstâncias, mas na fidelidade do Senhor. Dá-nos coragem para enfrentar as tempestades, sabedoria para tomar decisões, fé para permanecer firmes e confiança para descansar em Tuas promessas. Se algum navio precisar ser perdido, ajuda-nos a não perder a fé. Guarda nossas vidas, nossas famílias e nossos propósitos em Tuas mãos. Em nome de Jesus. Amém."
+                            }
+
+                        ]
+                    }
+
+                                ]
 
             }
 
         }
 
     },
-
 
     jovens: {
 
@@ -511,6 +775,250 @@ const licoes = {
                             "Por que Sansão aparece entre os heróis da fé em Hebreus 11, apesar de suas muitas falhas?",
                         resposta:
                             "Porque, apesar de suas falhas, sua história também testemunha momentos de fé e dependência de Deus. Hebreus destaca que, pela fé, ele tirou forças da fraqueza e participou da vitória contra os inimigos."
+                    }
+
+                                ]
+
+            },
+
+            "11": {
+
+                numero: "Lição 11",
+                titulo: "Crise espiritual e falsa religiosidade",
+
+                textoPrincipal:
+                    "E tinha este homem, Mica, uma casa de deuses, e fez um éfode e terafins, e consagrou a um de seus filhos, para que lhe fosse por sacerdote. (Juízes 17.5).",
+
+                pontoPrincipal:
+                    "O abandono do verdadeiro culto a Deus leva à crise espiritual e produz uma falsa religiosidade.",
+
+                palavraChave:
+                    "RELIGIOSIDADE",
+
+                leituraBiblica:
+                    "Juízes 17 e 18.",
+
+                objetivos: [
+                    "IDENTIFICAR as marcas da religiosidade vazia presentes na família de Mica.",
+                    "CONSCIENTIZAR-SE dos perigos de quando interesses financeiros falam mais alto que a verdadeira vocação.",
+                    "ESCLARECER que a corrupção da fé produz consequências destruidoras."
+                ],
+
+                introducao:
+                    "Imagine uma pessoa que possui uma Bíblia, frequenta a igreja, canta louvores, publica versículos nas redes sociais e até fala constantemente sobre Deus, mas, ao mesmo tempo, vive segundo seus próprios interesses.\n\nEssa pessoa pode ter religião, mas isso não significa necessariamente que esteja vivendo uma fé verdadeira.\n\nÉ exatamente esse o cenário encontrado em Juízes 17 e 18. Mica dizia estar relacionado ao Senhor, mas mantinha ídolos dentro de casa. Sua mãe falava em nome de Deus, mas não confrontou corretamente o pecado do próprio filho. Um levita, que deveria servir ao Senhor, aceitou exercer seu ministério em troca de salário e benefícios.\n\nE depois uma tribo inteira levou aquela religião corrompida para outro lugar.\n\nO problema começou pequeno: uma família abandonou a Palavra de Deus. Mas o resultado foi grande: uma comunidade inteira foi afetada.\n\nUma fé que não é governada pela Palavra de Deus acaba sendo governada por sentimentos, interesses, tradição, dinheiro, cultura, opiniões pessoais ou pela vontade de Deus?",
+
+                desenvolvimento: [
+
+                    {
+                        titulo: "I. A VÃ RELIGIOSIDADE DE UMA FAMÍLIA",
+
+                        topicos: [
+
+                            {
+                                titulo: "1. O furto de Mica",
+
+                                texto:
+                                    "Juízes 17 começa apresentando Mica, um homem da região montanhosa de Efraim. Ele havia roubado 1.100 moedas de prata de sua própria mãe.\n\nO interessante é que Mica não devolveu o dinheiro simplesmente porque reconheceu diante de Deus: “Eu pequei”. Ele devolveu porque ouviu as maldições que sua mãe havia lançado contra o ladrão.\n\nIsso revela algo importante: ele estava mais preocupado com as consequências do pecado do que com o pecado em si.\n\nNem todo remorso é arrependimento. O verdadeiro arrependimento começa quando reconhecemos: “Eu pequei contra Deus”.\n\nÉ possível alguém abandonar determinado pecado apenas porque foi descoberto, perdeu alguma coisa, sofreu uma consequência, teve medo de ser exposto ou ficou preocupado com sua reputação.\n\nSalmo 51.4 nos mostra a importância de reconhecer o pecado diante de Deus.",
+
+                                reflexao:
+                                    "Qual é a diferença entre ter medo das consequências do pecado e realmente se arrepender?"
+                            },
+
+                            {
+                                titulo: "2. A maldição e a bênção da mãe",
+
+                                texto:
+                                    "A mãe de Mica também demonstra uma espiritualidade confusa. Primeiro ela amaldiçoa o ladrão. Quando descobre que o próprio filho havia roubado o dinheiro, muda rapidamente: “Bendito seja meu filho do Senhor”.\n\nO problema não está simplesmente em abençoar o filho. O problema é que ela não confrontou o pecado dele.\n\nEla aparentemente estava mais preocupada com o dinheiro e com aquilo que poderia acontecer por causa da maldição do que com a necessidade de ensinar o filho a obedecer a Deus.\n\nAmor verdadeiro não significa simplesmente dizer “está tudo bem”. Às vezes, amar alguém significa dizer: “Isso está errado. Você precisa mudar”.\n\nPais precisam ensinar seus filhos, líderes precisam corrigir com amor e amigos verdadeiros precisam advertir uns aos outros.\n\nProvérbios 27.6 mostra que as feridas feitas por quem ama podem ser melhores do que os elogios de quem apenas agrada.",
+
+                                reflexao:
+                                    "Por que a correção feita com amor é importante para nossa vida espiritual?"
+                            },
+
+                            {
+                                titulo: "3. Sincretismo religioso",
+
+                                texto:
+                                    "Mica criou uma espécie de santuário particular. Ele tinha uma casa de deuses, uma imagem de escultura, uma imagem de fundição, um éfode, terafins e até um sacerdote particular.\n\nO problema é que ele misturava elementos relacionados ao culto ao Senhor com elementos de idolatria. Isso é sincretismo religioso.\n\nSincretismo é a mistura de crenças, práticas e elementos religiosos diferentes, produzindo uma espiritualidade que já não segue integralmente a verdade bíblica.\n\nMica não abandonou completamente o nome de Deus. Ele queria Deus mais seus próprios interesses, ídolos e sua própria maneira de cultuar.\n\nO jovem cristão precisa tomar cuidado com a mentalidade que diz: “Eu acredito em Deus, mas também vou seguir aquilo que eu acho melhor”.\n\nA pergunta não é apenas “Eu gosto disso?”. A pergunta é: “A Bíblia ensina isso?”.",
+
+                                reflexao:
+                                    "Quais são algumas formas modernas de misturar a fé cristã com ideias que não vêm das Escrituras?"
+                            }
+
+                        ]
+                    },
+
+                    {
+                        titulo: "II. QUANDO O PROPÓSITO DA VOCAÇÃO SE DISTORCE",
+
+                        topicos: [
+
+                            {
+                                titulo: "1. O levita sem direção",
+
+                                texto:
+                                    "Um jovem levita aparece na narrativa. Ele deveria possuir uma função relacionada ao serviço de Deus, mas estava peregrinando e procurando um lugar onde pudesse encontrar alguma comodidade.\n\nQuando chega à casa de Mica, recebe uma proposta: “Fica comigo e sê-me por pai e sacerdote”. A proposta incluía dez moedas de prata por ano, roupas e sustento.\n\nO problema não era simplesmente receber sustento pelo serviço. O problema era aceitar uma função religiosa fora da vontade e dos padrões estabelecidos por Deus.\n\nIsso nos ensina que nem toda oportunidade aparentemente vantajosa representa a direção de Deus.\n\nEssa questão envolve ministério, profissão, namoro, amizades, decisões financeiras, estudos e escolhas para o futuro.",
+
+                                reflexao:
+                                    "Você escolheria uma oportunidade porque Deus está conduzindo ou simplesmente porque ela parece vantajosa?"
+                            },
+
+                            {
+                                titulo: "2. Contratando um sacerdote",
+
+                                texto:
+                                    "Mica praticamente transformou o ministério em uma relação de contratação. Ele pensava: “Tenho um levita, portanto Deus vai me abençoar”. O levita, por sua vez, aceitou a posição porque recebeu vantagens.\n\nTemos aqui uma religiosidade de conveniência. Mica queria usar a religião para conseguir segurança. O levita queria usar sua função religiosa para conseguir benefícios.\n\nQuando o dinheiro passa a controlar a fé, a vocação deixa de ser serviço e passa a ser negócio.\n\nA Bíblia não condena o sustento legítimo de quem trabalha no ministério. O problema é transformar as coisas espirituais em mercadoria.\n\nAtos 8.18-20 apresenta o pecado relacionado à tentativa de comprar aquilo que pertence ao âmbito espiritual. Jesus ensinou em Mateus 10.8: “De graça recebestes, de graça dai”.",
+
+                                reflexao:
+                                    "Como podemos evitar que interesses financeiros controlem nossas decisões espirituais?"
+                            },
+
+                            {
+                                titulo: "3. A falsa espiritualidade hoje",
+
+                                texto:
+                                    "A história de Mica continua extremamente atual. Existem pessoas que procuram Deus não por quem Ele é, mas pelo que podem conseguir.\n\nA pergunta passa a ser: “O que Deus pode me dar?” em vez de: “Como posso servir a Deus?”.\n\nIsso produz uma fé baseada exclusivamente em prosperidade, sucesso, benefícios pessoais, experiências, emoções, aparência e status.\n\nO jovem precisa tomar cuidado com uma espiritualidade que só funciona quando tudo está dando certo.\n\nSe a nossa fé desaparece quando perdemos dinheiro, oportunidade, relacionamento ou posição, precisamos perguntar: nossa fé está em Deus ou nas bênçãos de Deus?\n\n1 Timóteo 6.5,10 nos alerta sobre os perigos de uma fé dominada por interesses materiais.",
+
+                                reflexao:
+                                    "Nossa fé está em Deus ou principalmente nas bênçãos que esperamos receber?"
+                            }
+
+                        ]
+                    },
+
+                    {
+                        titulo: "III. A CORRUPÇÃO DA FÉ E SUAS CONSEQUÊNCIAS DESTRUIDORAS",
+
+                        topicos: [
+
+                            {
+                                titulo: "1. Uma tribo em busca de terra",
+
+                                texto:
+                                    "A tribo de Dã possuía uma herança, mas teve dificuldades para tomar posse dela. Em vez de buscar a direção de Deus para enfrentar a situação, procurou outra alternativa.\n\nEles queriam uma solução mais conveniente. Quando deixamos de confiar em Deus, começamos a procurar atalhos.\n\nIsso acontece quando pensamos: “Vou fazer do meu jeito”, “Todo mundo faz”, “Não tem problema” ou “Deus entende”.\n\nO problema dos atalhos é que eles podem parecer mais fáceis no início, mas produzir consequências muito maiores depois.",
+
+                                reflexao:
+                                    "Em quais situações somos tentados a procurar atalhos em vez de confiar em Deus?"
+                            },
+
+                            {
+                                titulo: "2. Uma fé corrompida",
+
+                                topicos: [
+
+                                    {
+                                        titulo: "a) Um sacerdote que fala o que querem ouvir",
+
+                                        texto:
+                                            "Os homens de Dã perguntaram ao levita sobre sua viagem, e ele respondeu: “Ide em paz; o caminho que levardes está perante o Senhor”.\n\nEle falou como se tivesse autoridade de Deus, mas não temos indicação de que Deus tivesse falado com ele.\n\nNem tudo que queremos ouvir vem de Deus. Uma mensagem não se torna verdadeira simplesmente porque emociona, faz sucesso, tem muitos seguidores, foi dita por alguém famoso ou parece espiritual.\n\nA pergunta deve ser: “Isso está de acordo com a Palavra de Deus?”.\n\n1 João 4.1 nos orienta a provar os espíritos.",
+
+                                        reflexao:
+                                            "Como podemos discernir se uma mensagem realmente está de acordo com a Palavra de Deus?"
+                                    },
+
+                                    {
+                                        titulo: "b) Ídolos roubados",
+
+                                        texto:
+                                            "Os danitas viram os objetos religiosos de Mica e decidiram levá-los. Depois convenceram o sacerdote a acompanhá-los.\n\nO sacerdote não permaneceu fiel ao seu primeiro compromisso. Quando apareceu uma oportunidade aparentemente melhor, ele mudou de lado.\n\nIsso revela uma fé sem convicção. Quem não possui princípios sólidos muda de posição conforme a vantagem.\n\nO cristão precisa ter convicções que não podem ser compradas.",
+
+                                        reflexao:
+                                            "Quais convicções cristãs precisamos manter firmes mesmo quando existe vantagem em abandoná-las?"
+                                    },
+
+                                    {
+                                        titulo: "c) Violência e institucionalização da idolatria",
+
+                                        texto:
+                                            "Os danitas atacaram Laís, destruíram seus habitantes e estabeleceram ali os objetos de culto. A corrupção espiritual agora havia produzido consequências sociais.\n\nPerceba a progressão: abandono de Deus, falsa adoração, corrupção espiritual, decisões erradas, violência e destruição.\n\nÉ por isso que a crise espiritual não deve ser tratada como algo pequeno. O pecado nunca fica necessariamente restrito à área em que começou. Uma pequena concessão pode produzir grandes consequências.",
+
+                                        reflexao:
+                                            "Por que uma pequena concessão espiritual pode produzir consequências muito maiores?"
+                                    }
+
+                                ]
+                            }
+
+                        ]
+                    },
+
+                    {
+                        titulo: "🔥 APLICAÇÃO PARA A JUVENTUDE",
+
+                        texto:
+                            "Juízes 17 e 18 nos apresenta uma geração que perdeu a referência da Palavra. O versículo-chave para entender esse período é: “Cada qual fazia o que parecia direito aos seus olhos” (Juízes 17.6).\n\nO mundo diz: “Faça o que você acha certo”. A cultura diz: “Siga seu coração”. As redes sociais dizem: “Faça o que todo mundo está fazendo”. A Bíblia diz: “Obedeça a Deus”.\n\nO cristão não pode construir sua vida apenas sobre aquilo que parece certo aos seus olhos. Precisamos perguntar: “O que Deus diz?”."
+                    },
+
+                    {
+                        titulo: "🧠 ATIVIDADE EM CLASSE — \"QUEM ESTÁ NO CONTROLE?\"",
+
+                        texto:
+                            "Divida a classe em dois grupos.\n\nGRUPO 1 — Família de Mica\nPeça que identifiquem os erros encontrados em Juízes 17.\n\nPossíveis respostas: furto; ausência de verdadeiro arrependimento; superstição; idolatria; sincretismo; sacerdócio irregular; criação de uma religião conforme interesses pessoais.\n\nGRUPO 2 — Tribo de Dã\nPeça que identifiquem os erros de Juízes 18.\n\nPossíveis respostas: falta de confiança em Deus; busca de atalhos; consulta a um sacerdote corrompido; roubo dos ídolos; corrupção religiosa; violência; institucionalização da idolatria.\n\nDepois pergunte: “Qual desses problemas também pode aparecer entre os jovens cristãos atualmente?”. Deixe os alunos responderem."
+                    },
+
+                    {
+                        titulo: "⚠️ 5 PERIGOS PARA A FÉ DO JOVEM",
+
+                        texto:
+                            "1. Uma fé baseada apenas em sentimentos — Quando a emoção acaba, a fé desaparece.\n\n2. Uma fé baseada em pessoas — Quando determinada pessoa cai, a fé também cai.\n\n3. Uma fé baseada em benefícios — Quando Deus não responde como queremos, abandonamos a caminhada.\n\n4. Uma fé baseada na cultura — Começamos a adaptar a Bíblia aos valores do mundo.\n\n5. Uma fé sem conhecimento bíblico — Aceitamos qualquer ensinamento porque não conhecemos a verdade."
+                    },
+
+                    {
+                        titulo: "❤️ COMO TER UMA FÉ VERDADEIRA?",
+
+                        texto:
+                            "1. Volte para a Palavra — Salmo 119.105. A Bíblia precisa ser nossa referência.\n\n2. Examine aquilo que você acredita — Atos 17.11. Não aceite qualquer ensinamento simplesmente porque alguém falou.\n\n3. Coloque Deus acima dos benefícios — Deus deve ser amado pelo que Ele é, e não apenas pelo que pode nos dar.\n\n4. Viva aquilo que você prega — Tiago 1.22. A verdadeira fé produz prática.\n\n5. Seja um verdadeiro adorador — Jesus declarou que os verdadeiros adoradores adorarão o Pai em espírito e em verdade (João 4.23,24)."
+                    },
+
+                    {
+                        titulo: "🎯 CONCLUSÃO",
+
+                        texto:
+                            "A história de Mica mostra que a crise espiritual pode começar dentro de uma casa. Mica queria Deus, mas queria Deus do seu jeito. Sua mãe falava sobre bênção, mas não tratava corretamente o pecado. O levita deveria servir ao Senhor, mas transformou sua vocação em oportunidade. A tribo de Dã deveria confiar em Deus, mas procurou um caminho mais conveniente.\n\nO resultado foi uma fé corrompida que produziu consequências destruidoras.\n\nA grande advertência para nós é: não basta ter aparência de fé. Precisamos ter uma fé fundamentada na Palavra. Não basta falar de Deus. Precisamos obedecer a Deus. Não basta frequentar a igreja. Precisamos viver como Igreja. Não basta cantar sobre Jesus. Precisamos seguir Jesus.\n\nNão podemos permitir que nossa fé seja moldada pelo que parece certo aos nossos olhos. Nossa vida precisa ser moldada pelo que Deus declarou em sua Palavra."
+                    },
+
+                    {
+                        titulo: "📝 HORA DA REVISÃO",
+
+                        topicos: [
+
+                            {
+                                titulo: "1. Qual é o significado do nome Mica?",
+
+                                texto: "“Quem é como Deus?”"
+                            },
+
+                            {
+                                titulo: "2. Por que a mãe de Mica revela uma espiritualidade vazia?",
+
+                                texto: "Porque usava sua boca para amaldiçoar e abençoar de maneira supersticiosa e não confrontou corretamente o pecado do filho."
+                            },
+
+                            {
+                                titulo: "3. O que significa sincretismo religioso?",
+
+                                texto: "É a mistura da fé bíblica com elementos de outras crenças e práticas religiosas."
+                            },
+
+                            {
+                                titulo: "4. Qual foi o problema do levita?",
+
+                                texto: "Ele permitiu que sua vocação fosse distorcida por interesses pessoais e financeiros."
+                            },
+
+                            {
+                                titulo: "5. Quais foram algumas consequências da fé corrompida da tribo de Dã?",
+
+                                texto: "Um sacerdote que dizia o que queriam ouvir, o roubo dos ídolos, violência e a institucionalização da idolatria."
+                            }
+
+                        ]
+                    },
+
+                    {
+                        titulo: "🔑 FRASE PARA ENCERRAR A AULA",
+
+                        texto:
+                            "“Quando a Palavra deixa de ser nossa referência, qualquer coisa pode ocupar o lugar de Deus.”"
                     }
 
                 ]
