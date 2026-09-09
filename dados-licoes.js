@@ -1258,14 +1258,366 @@ const licoes = {
                             "A soberba pode levar a pessoa a confiar em seus próprios recursos, capacidades e riquezas em vez de depender de Deus. O jovem rico demonstrou que seus bens ocupavam um lugar que deveria pertencer ao Senhor."
                     }
 
-                ]
+                              ]
 
-            }
+            },
+
+    "11": {
+
+    numero: "Lição 11",
+
+    titulo: "DIGA \"NÃO!\"",
+
+    textoPrincipal:
+        "E o amor é este: que andemos segundo os seus mandamentos. Este é o mandamento, como já desde o princípio ouvistes: que andeis nele. (2 João 6).",
+
+    pontoPrincipal:
+        "Quem ama a Deus aprende a dizer “não” àquilo que contradiz a Palavra de Deus.",
+
+    palavraChave:
+        "OBEDIÊNCIA",
+
+    leituraBiblica:
+        "2 João 1,2,6-13",
+
+    objetivos: [
+        "CONHECER os principais ensinamentos da Segunda Epístola de João.",
+        "ENTENDER por que o cristão precisa permanecer firme na verdade.",
+        "APRENDER a dizer “não” às propostas que podem afastá-lo de Deus.",
+        "COMPREENDER que perseverar em Cristo vale mais do que a aprovação dos amigos."
+    ],
+
+    introducao:
+        "A Segunda Epístola de João é uma carta pequena, mas traz uma mensagem muito forte. João escreve para cristãos que estavam vivendo em um ambiente onde falsos ensinamentos estavam sendo espalhados. Algumas pessoas ensinavam coisas erradas sobre Jesus. Entre elas estava a ideia de que Jesus não tinha vindo verdadeiramente em carne. Isso era extremamente sério, porque mexia diretamente com a identidade e a obra de Cristo. João então mostra que o cristão não pode simplesmente acreditar em qualquer mensagem que apareça. Hoje recebemos mensagens de todos os lados: TikTok, Instagram, YouTube, WhatsApp, jogos, escola, amigos, filmes e séries. E nem tudo o que aparece nesses lugares está de acordo com a Bíblia. Por isso, o cristão precisa aprender a perguntar: “Isso está de acordo com a Palavra de Deus?”",
+
+    desenvolvimento: [
+
+        {
+            titulo:
+                "I. AMOR E VERDADE",
+
+            introducao:
+                "Leia 2 João 1-2. João fala sobre amor e verdade. Essas duas coisas aparecem juntas porque, para João, não existe verdadeiro amor separado da verdade de Deus. Amar alguém não significa concordar com tudo o que essa pessoa faz ou diz. Amor verdadeiro e verdade precisam caminhar juntos.",
+
+            topicos: [
+
+                {
+                    titulo:
+                        "1. QUEBRA-GELO — “É DIFÍCIL DIZER NÃO?”",
+
+                    texto:
+                        "Comece fazendo uma pergunta para a turma: “Qual é mais difícil: dizer ‘não’ para um estranho ou dizer ‘não’ para um amigo?” Deixe alguns alunos responderem. Depois pergunte: Por que temos dificuldade de dizer “não”? Já aconteceu de alguém insistir para você fazer algo que sabia que era errado? Por que às vezes temos medo de parecer “chatos”, “caretas” ou “diferentes”? Será que todo “sim” é uma boa escolha?\n\nExplique que dizer “não” nem sempre significa rejeitar uma pessoa. Às vezes significa rejeitar uma atitude, uma proposta ou uma influência que pode nos afastar de Deus.",
+
+                    aplicacao:
+                        "Não tenha medo de dizer “não” quando uma proposta contrariar a Palavra de Deus.",
+
+                    destaque:
+                        "Dizer “não” ao pecado é dizer “sim” para Deus."
+                },
+
+                {
+                    titulo:
+                        "2. INTRODUÇÃO — JOÃO ENSINA A PERMANECER NA VERDADE",
+
+                    texto:
+                        "A Segunda Epístola de João apresenta uma mensagem de amor, verdade e perseverança. João orienta os cristãos a permanecerem firmes na verdade que receberam e a não permitirem que falsos ensinamentos os afastem de Cristo.\n\nO cristão precisa conhecer a Palavra de Deus para reconhecer aquilo que está de acordo com a verdade e aquilo que deve ser rejeitado.\n\nHoje recebemos mensagens de todos os lados: TikTok, Instagram, YouTube, WhatsApp, jogos, escola, amigos, filmes e séries. Nem tudo o que aparece nesses lugares está de acordo com a Bíblia.",
+
+                    aplicacao:
+                        "Conheça a Bíblia para não ser facilmente influenciado por ideias contrárias à fé cristã.",
+
+                    destaque:
+                        "Quem conhece a verdade de Deus consegue identificar aquilo que precisa rejeitar."
+                },
+
+                {
+                    titulo:
+                        "3. AMOR E VERDADE",
+
+                    texto:
+                        "João mostra que amor e verdade caminham juntos. Amar alguém não significa concordar com tudo o que essa pessoa faz ou ensina. Amar também significa desejar que a pessoa permaneça no caminho correto.\n\nUm amigo pode dizer: “Se você é meu amigo, vai fazer isso comigo.” Mas, se aquilo for errado, você pode responder: “Eu gosto de você, mas não vou fazer isso.” Isso não é falta de amor. É ter limites.\n\nAmor sem verdade pode virar aprovação do erro. Verdade sem amor pode virar arrogância e dureza. Amor e verdade representam o caráter de Cristo.",
+
+                    aplicacao:
+                        "Demonstre seu amor por Deus obedecendo aos seus mandamentos, mesmo quando isso exigir dizer “não”.",
+
+                    destaque:
+                        "O verdadeiro amor por Deus é demonstrado pela obediência."
+                },
+
+                {
+                    titulo:
+                        "4. APRENDENDO A DIZER “NÃO”",
+
+                    texto:
+                        "Agora chegamos ao coração da lição. O cristão precisa aprender a estabelecer limites. Nem toda oportunidade deve ser aceita, nem toda proposta deve ser seguida. Existem situações em que a resposta correta precisa ser um firme “não”.\n\nDizer “não” não significa ser fraco ou antissocial. Significa ter convicção suficiente para permanecer fiel a Deus.",
+
+                    aplicacao:
+                        "Antes de aceitar uma proposta, pergunte: Isso agrada a Deus? Está de acordo com a Bíblia?",
+
+                    destaque:
+                        "Quem tem convicção não precisa seguir a multidão."
+                },
+
+                {
+                    titulo:
+                        "4.1 — Conheça o inimigo",
+
+                    texto:
+                        "João alerta os cristãos porque havia pessoas tentando espalhar falsas doutrinas. Para dizer “não” ao erro, precisamos primeiro conhecer a verdade. Um jovem que não conhece a Bíblia pode ser facilmente enganado.\n\nAtos 17.11 mostra os bereanos examinando as Escrituras para verificar se o que Paulo ensinava era realmente assim.\n\nNão aceite uma frase simplesmente porque tem milhares de curtidas, foi um influenciador que falou, alguém famoso publicou, um amigo mandou, parece bonita ou todo mundo está fazendo. Pergunte: “O que a Bíblia diz sobre isso?”",
+
+                    aplicacao:
+                        "Confira na Palavra de Deus aquilo que você ouve, lê e recebe nas redes sociais.",
+
+                    destaque:
+                        "Conhecer a verdade ajuda o cristão a reconhecer e rejeitar o erro."
+                }
+
+            ]
+        },
+
+        {
+            titulo:
+                "II. AS PROPOSTAS DO MUNDO",
+
+            introducao:
+                "Os juvenis enfrentam muitas propostas diariamente. Algumas podem parecer pequenas, mas uma pequena decisão pode abrir espaço para outras. O jovem cristão precisa aprender a avaliar cada escolha à luz da Palavra de Deus.",
+
+            topicos: [
+
+                {
+                    titulo:
+                        "5. AS PROPOSTAS DO MUNDO",
+
+                    texto:
+                        "As propostas podem aparecer de várias maneiras: “É só uma mentira.” “Todo mundo faz.” “Ninguém vai descobrir.” “Só experimenta.” “Você precisa provar que é corajoso.” “Se você não fizer, vai ficar de fora.” “Não tem nada a ver.”\n\nO jovem cristão pode precisar dizer não à pressão dos amigos, à pornografia, às drogas, à desonestidade, à violência, à sexualidade vivida fora dos princípios bíblicos, ao bullying, à exposição exagerada nas redes sociais, a conteúdos que alimentam pensamentos pecaminosos e à zombaria contra sua fé.\n\nVocê não precisa apenas aprender a dizer “não”. Precisa saber por que está dizendo “não”. O nosso “não” precisa estar fundamentado na Palavra de Deus.",
+
+                    aplicacao:
+                        "Não aceite uma proposta apenas porque todo mundo está fazendo. Primeiro verifique se ela está de acordo com a Palavra de Deus.",
+
+                    destaque:
+                        "O cristão não deve seguir a multidão quando a multidão está seguindo o caminho errado."
+                },
+
+                {
+                    titulo:
+                        "6. PERSONAGENS QUE SOUBERAM DIZER “NÃO”",
+
+                    texto:
+                        "A Bíblia apresenta pessoas que tiveram coragem de rejeitar propostas que poderiam afastá-las de Deus.\n\nSegunda — Abraão, em Gênesis 21.14, precisou tomar uma decisão difícil envolvendo Agar e Ismael. Algumas decisões dolorosas precisam ser tomadas para obedecer a Deus.\n\nTerça — Judá, em Gênesis 38.15-16, cedeu a uma tentação e depois passou vergonha. Dizer “sim” ao pecado pode trazer consequências que não imaginamos.\n\nQuarta — José, em Gênesis 39.7-8, recebeu uma proposta errada e respondeu: “Como, pois, faria eu este tamanho mal e pecaria contra Deus?” Ele não pensou apenas no que poderia acontecer com ele; pensou que aquilo seria pecado contra Deus.\n\nQuinta — Moisés, em Hebreus 11.24, recusou ser identificado com os privilégios do Egito. Ele escolheu Deus acima dos privilégios, do status e do conforto.\n\nSábado — Jesus, em Mateus 4.11, foi tentado pelo Diabo e não cedeu. Depois, os anjos vieram e o serviram.",
+
+                    aplicacao:
+                        "Aprenda com os exemplos bíblicos e tenha coragem para rejeitar aquilo que pode afastá-lo de Deus.",
+
+                    destaque:
+                        "Dizer “não” pode exigir coragem, mas permanecer fiel a Deus sempre vale a pena."
+                },
+
+                {
+                    titulo:
+                        "7. COMO DIZER “NÃO” NA PRÁTICA?",
+
+                    texto:
+                        "Dizer “não” começa antes da tentação. É necessário conhecer os próprios limites, evitar situações que favoreçam o pecado e ter coragem para se posicionar.\n\nSituação 1: Um amigo diz: “Vamos matar aula. Ninguém vai descobrir.” O que você faria?\n\nSituação 2: Alguém envia conteúdo pornográfico no grupo. O que você faz?\n\nSituação 3: Um colega pede: “Me passa a resposta da prova.” O que você faz?\n\nSituação 4: Um grupo começa a zombar de outro aluno. O que você faz?\n\nSituação 5: Alguém diz: “Se você realmente é meu amigo, vai experimentar.” Como responder?\n\nEnsine três passos: 1. Reconheça: “Isso é errado.” 2. Recuse: “Não vou fazer isso.” 3. Afaste-se. Se a pessoa continuar pressionando, saia daquela situação.\n\nJosé não ficou negociando com a mulher de Potifar. Gênesis 39.12 mostra que ele fugiu. Às vezes, a atitude mais espiritual é simplesmente sair de perto.",
+
+                    aplicacao:
+                        "Prepare-se para situações de pressão e decida antecipadamente quais coisas você não aceitará por causa da sua fé.",
+
+                    destaque:
+                        "Uma decisão firme antes da tentação facilita a resistência durante a tentação."
+                }
+
+            ]
+        },
+
+        {
+            titulo:
+                "III. PERSEVERE E NÃO PERCA O SEU PRÊMIO",
+
+            introducao:
+                "João também alerta sobre o perigo de abandonar aquilo que foi aprendido. O cristão precisa permanecer firme em Cristo, mesmo quando isso significa não receber a aprovação de todos ao seu redor.",
+
+            topicos: [
+
+                {
+                    titulo:
+                        "8. NÃO PERCA O SEU PRÊMIO",
+
+                    texto:
+                        "Leia 2 João 8: “Olhai por vós mesmos, para que não percamos o que temos ganho, antes recebamos o inteiro galardão.” João está dizendo: Cuidado! Não abandone aquilo que você recebeu em Cristo.\n\nO jovem pode começar muito bem e depois se afastar. Por isso, precisamos permanecer firmes. Não basta começar a corrida. É preciso terminar. Não basta dizer: “Eu sou cristão.” É preciso viver como discípulo de Cristo.",
+
+                    aplicacao:
+                        "Não abandone sua fé por causa de uma oportunidade, amizade ou prazer passageiro.",
+
+                    destaque:
+                        "Não troque aquilo que Deus preparou para você por aquilo que o mundo oferece por alguns momentos."
+                },
+
+                {
+                    titulo:
+                        "9. O PERIGO DE QUERER SER ACEITO POR TODO MUNDO",
+
+                    texto:
+                        "Muitas decisões erradas são tomadas porque a pessoa quer ser aceita. O jovem pensa: “O que meus amigos vão pensar?” Mas a pergunta correta é: “O que Deus pensa sobre isso?”\n\nColoque no quadro: APROVAÇÃO DOS AMIGOS × APROVAÇÃO DE DEUS.\n\nSer diferente por causa de Cristo não é motivo de vergonha. Romanos 12.2 nos ensina a não nos conformarmos com este mundo.",
+
+                    aplicacao:
+                        "Não mude seus princípios apenas para conquistar a aprovação dos seus amigos.",
+
+                    destaque:
+                        "É melhor ser aprovado por Deus do que ser aceito por todos."
+                },
+
+                {
+                    titulo:
+                        "10. ATIVIDADE — “DIGA NÃO!”",
+
+                    texto:
+                        "Divida a turma em pequenos grupos. Entregue ou fale algumas situações. Cada grupo deverá apresentar uma resposta curta e firme.\n\nSituação A — “Vamos mentir para o professor.” Resposta: “Não. Prefiro falar a verdade.”\n\nSituação B — “Vamos ver esse vídeo. Não tem problema.” Resposta: “Não quero alimentar minha mente com isso.”\n\nSituação C — “Se você não beber, não faz parte da turma.” Resposta: “Não preciso fazer isso para ser aceito.”\n\nSituação D — “Todo mundo está fazendo.” Resposta: “Eu não sigo todo mundo. Eu sigo Jesus.”\n\nSituação E — “Você é cristão? Então é muito careta.” Resposta: “Prefiro ser chamado de careta do que me afastar de Deus.”",
+
+                    aplicacao:
+                        "Pratique respostas que ajudem você a permanecer firme quando enfrentar situações reais de pressão.",
+
+                    destaque:
+                        "Quem pratica boas decisões em situações simples estará mais preparado para situações difíceis."
+                },
+
+                {
+                    titulo:
+                        "11. UMA FRASE PARA OS ALUNOS GUARDAREM",
+
+                    texto:
+                        "“Dizer NÃO ao pecado é dizer SIM para Deus.”\n\nCada vez que você rejeita algo que Deus reprova, está escolhendo obedecer ao Senhor. O “não” pode custar uma amizade, fazer você parecer diferente, fazer alguém rir de você ou fazer você perder uma oportunidade. Mas permanecer fiel a Cristo vale muito mais.",
+
+                    aplicacao:
+                        "Guarde essa frase e lembre-se dela quando estiver diante de uma escolha difícil.",
+
+                    destaque:
+                        "Coragem é permanecer fiel a Deus mesmo quando a maioria escolhe outro caminho."
+                },
+
+                {
+                    titulo:
+                        "12. CONECTADO COM DEUS",
+
+                    texto:
+                        "A lição nos lembra que não precisamos inventar um novo Evangelho para agradar às pessoas. A Palavra de Deus continua sendo nossa referência.\n\nNão precisamos ser os jovens mais inteligentes da escola. Não precisamos saber responder todas as perguntas. Mas precisamos conhecer a Palavra e permanecer firmes nela.\n\nSe alguém disser algo muito convincente sobre Deus, mas isso contradizer a Bíblia, quem está errado: a Bíblia ou a pessoa? A pessoa. Nossa fé não deve ser construída sobre opiniões de influenciadores, amigos ou tendências. Nossa fé precisa estar fundamentada em Jesus Cristo e na Palavra de Deus.",
+
+                    aplicacao:
+                        "Fortaleça diariamente sua comunhão com Deus por meio da oração e da Palavra.",
+
+                    destaque:
+                        "Quem permanece conectado com Deus encontra força para dizer “não” ao pecado."
+                },
+
+                {
+                    titulo:
+                        "13. DESAFIO DA SEMANA — “MEU NÃO”",
+
+                    texto:
+                        "Durante a semana, cada aluno deverá identificar uma situação em que normalmente teria dificuldade de dizer “não”. Pode ser uma conversa, uma amizade, um conteúdo, uma tentação, uma pressão, uma atitude errada ou um hábito.\n\nDeverá fazer uma oração: “Senhor, ajuda-me a dizer não ao que me afasta de Ti.”\n\nNo próximo domingo, pergunte: “Alguém teve uma oportunidade de dizer não essa semana?” Não peça que revelem pecados ou situações pessoais. O objetivo é criar consciência e encorajamento.",
+
+                    aplicacao:
+                        "Escolha uma área específica e pratique um “não” consciente àquilo que pode afastá-lo de Deus.",
+
+                    destaque:
+                        "Um “não” dado hoje pode proteger sua caminhada com Deus amanhã."
+                }
+
+            ]
+        }
+
+    ],
+
+    conclusao:
+        "João escreveu para cristãos que estavam cercados por ensinamentos falsos. Eles precisavam escolher: verdade ou mentira; Cristo ou falsos ensinamentos; obediência ou desobediência.\n\nHoje não é diferente. Os juvenis também enfrentam escolhas todos os dias. Nem sempre será fácil dizer “não”. Mas o jovem que conhece a Palavra de Deus sabe que nem tudo que é popular é correto, nem tudo que é permitido pelos amigos agrada a Deus e nem toda oportunidade deve ser aceita.\n\nJosé disse não. Moisés disse não. Jesus disse não. E nós também precisamos aprender a dizer: “NÃO vou fazer aquilo que me afasta de Deus.”\n\nCoragem não é fazer tudo que os outros fazem. Coragem é ter fé para dizer NÃO quando todos estão dizendo SIM.",
+
+    perguntas: [
+
+        {
+            nivel: "🟢 Fácil",
+            pergunta:
+                "Por que às vezes é tão difícil dizer “não”?",
+            resposta:
+                "Porque podemos sentir pressão dos amigos, medo de parecer diferentes ou desejo de sermos aceitos."
+        },
+
+        {
+            nivel: "🟢 Fácil",
+            pergunta:
+                "É possível amar uma pessoa sem concordar com tudo que ela faz?",
+            resposta:
+                "Sim. Podemos amar uma pessoa e, ao mesmo tempo, rejeitar atitudes que estejam erradas ou contrariem a Palavra de Deus."
+        },
+
+        {
+            nivel: "🟡 Média",
+            pergunta:
+                "Por que conhecer a Bíblia ajuda a identificar o erro?",
+            resposta:
+                "Porque a Palavra de Deus apresenta a verdade e nos ajuda a discernir aquilo que está de acordo com a vontade do Senhor."
+        },
+
+        {
+            nivel: "🟡 Média",
+            pergunta:
+                "Qual foi a atitude de José diante da tentação?",
+            resposta:
+                "José recusou a proposta da mulher de Potifar e fugiu da situação, porque entendia que ceder seria pecar contra Deus."
+        },
+
+        {
+            nivel: "🟡 Média",
+            pergunta:
+                "O que podemos aprender com Jesus em Mateus 4?",
+            resposta:
+                "Que devemos permanecer fiéis a Deus e rejeitar as tentações, mesmo quando elas apresentam vantagens aparentemente atraentes."
+        },
+
+        {
+            nivel: "🟡 Média",
+            pergunta:
+                "Por que a necessidade de aprovação dos amigos pode ser perigosa?",
+            resposta:
+                "Porque o desejo de ser aceito pode levar o jovem a abandonar seus princípios e fazer aquilo que sabe que desagrada a Deus."
+        },
+
+        {
+            nivel: "🟡 Média",
+            pergunta:
+                "Qual é a diferença entre ser influenciado pelos amigos e influenciar os amigos?",
+            resposta:
+                "Ser influenciado significa permitir que outros determinem nossas escolhas. Influenciar significa permanecer firme na fé e ajudar outros a escolherem o que é correto."
+        },
+
+        {
+            nivel: "🟡 Média",
+            pergunta:
+                "Como podemos responder quando alguém zomba da nossa fé?",
+            resposta:
+                "Podemos responder com respeito e firmeza, sem abandonar nossos princípios, lembrando que permanecer fiel a Cristo é mais importante do que a aprovação das pessoas."
+        },
+
+        {
+            nivel: "🔴 Difícil",
+            pergunta:
+                "Por que devemos ter cuidado com aquilo que consumimos nas redes sociais?",
+            resposta:
+                "Porque conteúdos podem influenciar nossos pensamentos, desejos e comportamentos. Precisamos avaliar tudo à luz da Palavra de Deus."
+        },
+
+        {
+            nivel: "🔴 Difícil",
+            pergunta:
+                "O que significa “perseverar na doutrina de Cristo”?",
+            resposta:
+                "Significa permanecer firme nos ensinamentos de Cristo, rejeitando falsos ensinamentos e vivendo de acordo com a verdade da Palavra de Deus."
+        }
+
+            ]
 
         }
 
     },
 
+    },
 
     adolescentes: {
 

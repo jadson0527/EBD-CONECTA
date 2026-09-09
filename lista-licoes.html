@@ -162,17 +162,29 @@
         }
 
 
-        function abrirLicao(numero) {
+ function abrirLicao(numero) {
 
-            localStorage.setItem(
-                "licaoSelecionada",
-                numero
-            );
+    if (classe === "juvenis") {
 
-            window.location.href =
-                "licao.html";
+        window.location.href =
+            "juvenis.html?trimestre=" +
+            encodeURIComponent(trimestre) +
+            "&licao=" +
+            encodeURIComponent(numero);
 
-        }
+    } else {
+
+        window.location.href =
+            "licao.html?classe=" +
+            encodeURIComponent(classe) +
+            "&trimestre=" +
+            encodeURIComponent(trimestre) +
+            "&licao=" +
+            encodeURIComponent(numero);
+
+    }
+
+ }
 
 
         function voltarTrimestres() {

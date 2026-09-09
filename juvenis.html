@@ -1,0 +1,538 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0">
+
+    <title>EBD Conecta - Juvenis</title>
+
+    <link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+<header>
+
+    <h1>📖 EBD Conecta</h1>
+
+    <p>
+        <span id="classeLicao">Juvenis</span>
+        •
+        <span id="trimestreLicao">3º Trimestre</span>
+    </p>
+
+</header>
+
+<main>
+
+    <section class="cabecalho-licao">
+
+        <div class="numero-destaque">
+
+            <span id="numeroLicao">
+                Lição
+            </span>
+
+        </div>
+
+        <h2 id="tituloLicao">
+        </h2>
+
+    </section>
+
+
+    <section class="bloco-licao">
+
+        <h3 id="tituloTexto">
+            📌 Texto Principal
+        </h3>
+
+        <p id="textoPrincipal"></p>
+
+    </section>
+
+
+    <section class="bloco-licao">
+
+        <h3 id="tituloResumo">
+            📚 Ponto Principal
+        </h3>
+
+        <p id="resumoLicao"></p>
+
+    </section>
+
+
+    <section class="bloco-licao">
+
+        <h3>
+            🔑 Palavra-Chave
+        </h3>
+
+        <p id="palavraChave"></p>
+
+    </section>
+
+
+    <section class="bloco-licao">
+
+        <h3>
+            📖 Leitura Bíblica
+        </h3>
+
+        <p id="leituraBiblica"></p>
+
+    </section>
+
+
+    <section class="bloco-licao">
+
+        <h3>
+            🎯 Objetivos
+        </h3>
+
+        <div id="objetivos"></div>
+
+    </section>
+
+
+    <section class="bloco-licao">
+
+        <h3>
+            📝 Introdução
+        </h3>
+
+        <p id="introducao"></p>
+
+    </section>
+
+
+    <section class="bloco-licao">
+
+        <h3>
+            📖 Desenvolvimento da Lição
+        </h3>
+
+        <div id="desenvolvimento"></div>
+
+    </section>
+
+
+    <section class="bloco-licao">
+
+        <h3>
+            📖 Conclusão
+        </h3>
+
+        <p id="conclusao"></p>
+
+    </section>
+
+
+    <section class="bloco-licao">
+
+        <h3>
+            ❓ Perguntas para Revisão
+        </h3>
+
+        <div id="perguntas"></div>
+
+    </section>
+
+
+    <section class="premium">
+
+        <h3>
+            ✨ EBD Conecta Premium
+        </h3>
+
+        <p>
+            🚀 Estamos preparando uma experiência ainda mais completa
+            para professores e alunos da Escola Bíblica Dominical.
+        </p>
+
+        <p>
+            O EBD Conecta terá materiais especiais para ajudar você
+            a compreender a lição, preparar sua aula e ensinar com
+            mais segurança.
+        </p>
+
+        <ul>
+
+            <li>📚 Subsídios completos para cada tópico</li>
+            <li>💡 Aplicações práticas para a aula</li>
+            <li>🧑‍🏫 Orientações para professores</li>
+            <li>🙏 Aplicações devocionais</li>
+            <li>📝 Perguntas para interação com a classe</li>
+            <li>📄 Material completo em PDF</li>
+            <li>🎨 Recursos para apresentação da aula</li>
+
+        </ul>
+
+        <button disabled>
+            🔒 Conteúdo Premium — Em breve
+        </button>
+
+    </section>
+
+
+    <div class="voltar">
+
+        <button onclick="voltarListaLicoes()">
+            ← Voltar para lições
+        </button>
+
+    </div>
+
+</main>
+
+
+<footer>
+
+    <p>
+        © 2026 EBD Conecta
+    </p>
+
+</footer>
+
+
+<script src="dados-licoes.js"></script>
+
+
+<script>
+
+const parametros =
+    new URLSearchParams(
+        window.location.search
+    );
+
+const trimestre =
+    parametros.get("trimestre");
+
+const numero =
+    parametros.get("licao");
+
+
+const classe =
+    "juvenis";
+
+
+const licao =
+    licoes[classe] &&
+    licoes[classe][trimestre] &&
+    licoes[classe][trimestre][numero];
+
+
+if (!licao) {
+
+    alert(
+        "A lição não foi encontrada."
+    );
+
+} else {
+
+    document.getElementById(
+        "trimestreLicao"
+    ).textContent =
+        trimestre + "º Trimestre";
+
+
+    document.getElementById(
+        "numeroLicao"
+    ).textContent =
+        licao.numero || "Lição " + numero;
+
+
+    document.getElementById(
+        "tituloLicao"
+    ).textContent =
+        licao.titulo || "";
+
+
+    document.getElementById(
+        "textoPrincipal"
+    ).textContent =
+        licao.textoPrincipal || "";
+
+
+    document.getElementById(
+        "resumoLicao"
+    ).textContent =
+        licao.pontoPrincipal || "";
+
+
+    document.getElementById(
+        "palavraChave"
+    ).textContent =
+        licao.palavraChave || "";
+
+
+    document.getElementById(
+        "leituraBiblica"
+    ).textContent =
+        licao.leituraBiblica || "";
+
+
+    const objetivos =
+        document.getElementById(
+            "objetivos"
+        );
+
+    objetivos.innerHTML = "";
+
+
+    if (
+        Array.isArray(licao.objetivos)
+    ) {
+
+        licao.objetivos.forEach(
+            function(objetivo) {
+
+                const p =
+                    document.createElement("p");
+
+                p.textContent =
+                    objetivo;
+
+                objetivos.appendChild(p);
+
+            }
+        );
+
+    }
+
+
+    document.getElementById(
+        "introducao"
+    ).textContent =
+        licao.introducao || "";
+
+
+    document.getElementById(
+        "conclusao"
+    ).textContent =
+        licao.conclusao || "";
+
+
+    const desenvolvimento =
+        document.getElementById(
+            "desenvolvimento"
+        );
+
+    desenvolvimento.innerHTML = "";
+
+
+    if (
+    Array.isArray(
+        licao.desenvolvimento
+    )
+) {
+
+    licao.desenvolvimento.forEach(
+        function(secao) {
+
+            const bloco =
+                document.createElement("div");
+
+            bloco.className =
+                "topico-aprender";
+
+
+            const tituloSecao =
+                document.createElement("h3");
+
+            tituloSecao.textContent =
+                secao.titulo || "";
+
+            bloco.appendChild(
+                tituloSecao
+            );
+
+
+            if (secao.introducao) {
+
+                const introducao =
+                    document.createElement("p");
+
+                introducao.textContent =
+                    secao.introducao;
+
+                bloco.appendChild(
+                    introducao
+                );
+
+            }
+
+
+            if (
+                Array.isArray(
+                    secao.topicos
+                )
+            ) {
+
+                secao.topicos.forEach(
+                    function(topico) {
+
+                        const divTopico =
+                            document.createElement("div");
+
+                        divTopico.className =
+                            "topico-aprender";
+
+
+                        const tituloTopico =
+                            document.createElement("h4");
+
+                        tituloTopico.textContent =
+                            topico.titulo || "";
+
+                        divTopico.appendChild(
+                            tituloTopico
+                        );
+
+
+                        if (topico.texto) {
+
+                            const texto =
+                                document.createElement("p");
+
+                            texto.textContent =
+                                topico.texto;
+
+                            divTopico.appendChild(
+                                texto
+                            );
+
+                        }
+
+
+                        if (topico.aplicacao) {
+
+                            const aplicacao =
+                                document.createElement("p");
+
+                            aplicacao.textContent =
+                                "🎯 Aplicação: " +
+                                topico.aplicacao;
+
+                            divTopico.appendChild(
+                                aplicacao
+                            );
+
+                        }
+
+
+                        if (topico.destaque) {
+
+                            const destaque =
+                                document.createElement("p");
+
+                            destaque.textContent =
+                                "💡 " +
+                                topico.destaque;
+
+                            divTopico.appendChild(
+                                destaque
+                            );
+
+                        }
+
+
+                        bloco.appendChild(
+                            divTopico
+                        );
+
+                    }
+                );
+
+            }
+
+
+            desenvolvimento.appendChild(
+                bloco
+            );
+
+        }
+    );
+
+    }
+
+
+    const perguntas =
+        document.getElementById(
+            "perguntas"
+        );
+
+    perguntas.innerHTML = "";
+
+
+    if (
+        Array.isArray(licao.perguntas)
+    ) {
+
+        licao.perguntas.forEach(
+            function(pergunta) {
+
+                const div =
+                    document.createElement("div");
+
+                div.className =
+                    "topico-aprender";
+
+
+                const p =
+                    document.createElement("p");
+
+                p.textContent =
+                    "❓ " +
+                    pergunta.pergunta;
+
+                div.appendChild(p);
+
+
+                if (pergunta.resposta) {
+
+                    const resposta =
+                        document.createElement("p");
+
+                    resposta.textContent =
+                        "💡 " +
+                        pergunta.resposta;
+
+                    div.appendChild(
+                        resposta
+                    );
+
+                }
+
+
+                perguntas.appendChild(
+                    div
+                );
+
+            }
+        );
+
+    }
+
+}
+
+
+function voltarListaLicoes() {
+
+    window.location.href =
+        "lista-licoes.html";
+
+}
+
+</script>
+
+
+</body>
+
+</html>
