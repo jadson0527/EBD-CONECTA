@@ -1,535 +1,867 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
-
 <head>
-
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <meta name="viewport"
-          content="width=device-width, initial-scale=1.0">
-
-    <title>EBD Conecta - Juvenis</title>
+    <title>Lição 11 — Diga "Não!" | EBD Conecta</title>
 
     <link rel="stylesheet" href="style.css">
 
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background: #f5f7fa;
+            color: #222;
+            line-height: 1.7;
+        }
+
+        .container {
+            max-width: 950px;
+            margin: auto;
+            padding: 20px;
+        }
+
+        .cabecalho {
+            background: #0F3D73;
+            color: white;
+            padding: 30px 20px;
+            border-radius: 0 0 18px 18px;
+            text-align: center;
+        }
+
+        .cabecalho h1 {
+            margin: 8px 0;
+            font-size: 30px;
+        }
+
+        .cabecalho p {
+            margin: 5px 0;
+        }
+
+        .cartao {
+            background: white;
+            margin: 20px 0;
+            padding: 24px;
+            border-radius: 16px;
+            box-shadow: 0 3px 12px rgba(0,0,0,0.08);
+        }
+
+        .cartao h2 {
+            color: #0F3D73;
+            margin-top: 0;
+        }
+
+        .cartao h3 {
+            color: #0F3D73;
+        }
+
+        .destaque {
+            border-left: 5px solid #C9A227;
+            background: #fffdf5;
+            padding: 18px;
+            margin: 18px 0;
+            border-radius: 8px;
+        }
+
+        .pergunta {
+            background: #eef5fc;
+            border-left: 5px solid #0F3D73;
+            padding: 18px;
+            border-radius: 8px;
+            margin: 15px 0;
+        }
+
+        .principal {
+            background: #f8f8f8;
+            border-left: 5px solid #0F3D73;
+            padding: 16px;
+            margin-top: 18px;
+            border-radius: 8px;
+        }
+
+        .advertencia {
+            background: #fff5f5;
+            border-left: 5px solid #b3261e;
+            padding: 16px;
+            margin-top: 12px;
+            border-radius: 8px;
+        }
+
+        .aplicacao {
+            background: #f2faf4;
+            border-left: 5px solid #2e7d32;
+            padding: 16px;
+            margin-top: 12px;
+            border-radius: 8px;
+        }
+
+        .versiculo {
+            font-style: italic;
+            background: #f8f8f8;
+            padding: 15px;
+            border-radius: 8px;
+            margin: 15px 0;
+        }
+
+        .lista {
+            padding-left: 25px;
+        }
+
+        .lista li {
+            margin-bottom: 10px;
+        }
+
+        .personagem {
+            border-top: 1px solid #ddd;
+            padding-top: 15px;
+            margin-top: 18px;
+        }
+
+        .atividade {
+            background: #fff9e8;
+            border: 2px dashed #C9A227;
+            padding: 20px;
+            border-radius: 12px;
+        }
+
+        .frase-final {
+            background: #0F3D73;
+            color: white;
+            text-align: center;
+            padding: 25px;
+            border-radius: 14px;
+            font-size: 20px;
+            font-weight: bold;
+        }
+
+        .botao-voltar {
+            display: block;
+            width: fit-content;
+            margin: 25px auto;
+            background: #0F3D73;
+            color: white;
+            padding: 12px 22px;
+            border-radius: 8px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        .botao-voltar:hover {
+            opacity: 0.9;
+        }
+    </style>
 </head>
 
 <body>
 
-<header>
-
-    <h1>📖 EBD Conecta</h1>
-
-    <p>
-        <span id="classeLicao">Juvenis</span>
-        •
-        <span id="trimestreLicao">3º Trimestre</span>
-    </p>
-
+<header class="cabecalho">
+    <p>📖 EBD CONECTA</p>
+    <h1>LIÇÃO 11 — DIGA "NÃO!"</h1>
+    <p>Juvenis • 3º Trimestre</p>
 </header>
 
-<main>
+<main class="container">
 
-    <section class="cabecalho-licao">
+    <section class="cartao">
+        <h2>📜 Texto Áureo</h2>
 
-        <div class="numero-destaque">
-
-            <span id="numeroLicao">
-                Lição
-            </span>
-
+        <div class="versiculo">
+            “E o amor é este: que andemos segundo os seus mandamentos. Este é o
+            mandamento, como já desde o princípio ouvistes: que andeis nele.”
+            <strong>2 João 6</strong>
         </div>
 
-        <h2 id="tituloLicao">
-        </h2>
+        <h3>📖 Leitura Bíblica</h3>
+        <p><strong>2 João 1,2,6-13</strong></p>
 
+        <div class="destaque">
+            <strong>Verdade Central:</strong><br>
+            Quem ama a Deus aprende a dizer “não” àquilo que contradiz a Palavra de Deus.
+        </div>
     </section>
 
 
-    <section class="bloco-licao">
+    <section class="cartao">
+        <h2>🎯 Objetivos da Lição</h2>
 
-        <h3 id="tituloTexto">
-            📌 Texto Principal
-        </h3>
-
-        <p id="textoPrincipal"></p>
-
+        <ol class="lista">
+            <li>Conhecer os principais ensinamentos da Segunda Epístola de João.</li>
+            <li>Entender por que o cristão precisa permanecer firme na verdade.</li>
+            <li>Aprender a dizer “não” às propostas que podem afastá-lo de Deus.</li>
+            <li>Compreender que perseverar em Cristo vale mais do que a aprovação dos amigos.</li>
+        </ol>
     </section>
 
 
-    <section class="bloco-licao">
+    <section class="cartao">
+        <h2>🎣 Pergunta-Gancho</h2>
 
-        <h3 id="tituloResumo">
-            📚 Ponto Principal
-        </h3>
+        <div class="pergunta">
+            <strong>Se todos os seus amigos estivessem fazendo algo errado,
+            você teria coragem de ser o único a dizer “não”?</strong>
+        </div>
 
-        <p id="resumoLicao"></p>
+        <h3>🤔 É difícil dizer não?</h3>
 
-    </section>
-
-
-    <section class="bloco-licao">
-
-        <h3>
-            🔑 Palavra-Chave
-        </h3>
-
-        <p id="palavraChave"></p>
-
-    </section>
-
-
-    <section class="bloco-licao">
-
-        <h3>
-            📖 Leitura Bíblica
-        </h3>
-
-        <p id="leituraBiblica"></p>
-
-    </section>
-
-
-    <section class="bloco-licao">
-
-        <h3>
-            🎯 Objetivos
-        </h3>
-
-        <div id="objetivos"></div>
-
-    </section>
-
-
-    <section class="bloco-licao">
-
-        <h3>
-            📝 Introdução
-        </h3>
-
-        <p id="introducao"></p>
-
-    </section>
-
-
-    <section class="bloco-licao">
-
-        <h3>
-            📖 Desenvolvimento da Lição
-        </h3>
-
-        <div id="desenvolvimento"></div>
-
-    </section>
-
-
-    <section class="bloco-licao">
-
-        <h3>
-            📖 Conclusão
-        </h3>
-
-        <p id="conclusao"></p>
-
-    </section>
-
-
-    <section class="bloco-licao">
-
-        <h3>
-            ❓ Perguntas para Revisão
-        </h3>
-
-        <div id="perguntas"></div>
-
-    </section>
-
-
-    <section class="premium">
-
-        <h3>
-            ✨ EBD Conecta Premium
-        </h3>
-
-        <p>
-            🚀 Estamos preparando uma experiência ainda mais completa
-            para professores e alunos da Escola Bíblica Dominical.
-        </p>
-
-        <p>
-            O EBD Conecta terá materiais especiais para ajudar você
-            a compreender a lição, preparar sua aula e ensinar com
-            mais segurança.
-        </p>
-
-        <ul>
-
-            <li>📚 Subsídios completos para cada tópico</li>
-            <li>💡 Aplicações práticas para a aula</li>
-            <li>🧑‍🏫 Orientações para professores</li>
-            <li>🙏 Aplicações devocionais</li>
-            <li>📝 Perguntas para interação com a classe</li>
-            <li>📄 Material completo em PDF</li>
-            <li>🎨 Recursos para apresentação da aula</li>
-
+        <ul class="lista">
+            <li>Qual é mais difícil: dizer “não” para um estranho ou para um amigo?</li>
+            <li>Por que temos dificuldade de dizer “não”?</li>
+            <li>Já aconteceu de alguém insistir para você fazer algo que sabia que era errado?</li>
+            <li>Por que às vezes temos medo de parecer “chatos”, “caretas” ou diferentes?</li>
+            <li>Será que todo “sim” é uma boa escolha?</li>
         </ul>
 
-        <button disabled>
-            🔒 Conteúdo Premium — Em breve
-        </button>
-
+        <div class="aplicacao">
+            <strong>Aplicação:</strong>
+            Dizer “não” nem sempre significa rejeitar uma pessoa.
+            Muitas vezes significa rejeitar uma atitude, uma proposta ou uma influência
+            que pode nos afastar de Deus.
+        </div>
     </section>
 
 
-    <div class="voltar">
+    <section class="cartao">
+        <h2>💡 Curiosidade</h2>
 
-        <button onclick="voltarListaLicoes()">
-            ← Voltar para lições
-        </button>
+        <p>
+            A Segunda Epístola de João é uma carta muito curta, mas apresenta uma
+            mensagem muito importante: <strong>amor e verdade precisam caminhar juntos.</strong>
+        </p>
 
-    </div>
+        <p>
+            João escreveu em um ambiente onde existiam pessoas ensinando coisas
+            erradas sobre Jesus. Por isso, os cristãos precisavam aprender não apenas
+            a amar, mas também a permanecer firmes na verdade.
+        </p>
+
+        <div class="destaque">
+            <strong>Para pensar:</strong>
+            Hoje também recebemos milhares de mensagens através de redes sociais,
+            vídeos, jogos, músicas, filmes, amigos e influenciadores.
+            Nem tudo o que aparece diante dos nossos olhos está de acordo com a Palavra de Deus.
+        </div>
+    </section>
+
+
+    <section class="cartao">
+        <h2>1. ❤️ AMOR E VERDADE</h2>
+
+        <p>
+            João fala sobre amor e verdade logo no início da carta.
+            Para ele, essas duas coisas não devem ser separadas.
+            O cristão precisa amar as pessoas, mas esse amor não significa
+            concordar com tudo aquilo que alguém faz ou diz.
+        </p>
+
+        <p>
+            Imagine um amigo dizendo:
+            <strong>“Se você realmente é meu amigo, vai fazer isso comigo.”</strong>
+        </p>
+
+        <p>
+            Uma resposta madura poderia ser:
+            <strong>“Eu gosto de você, mas não vou fazer isso porque sei que é errado.”</strong>
+        </p>
+
+        <p>
+            Isso não significa falta de amor. Significa estabelecer um limite.
+        </p>
+
+        <div class="destaque">
+            <strong>Amor sem verdade</strong> pode se transformar em aprovação do erro.
+            <br><br>
+            <strong>Verdade sem amor</strong> pode se transformar em arrogância e dureza.
+            <br><br>
+            <strong>Amor e verdade juntos</strong> demonstram um caráter semelhante ao de Cristo.
+        </div>
+
+        <div class="principal">
+            <strong>📌 Ponto Principal:</strong><br>
+            Amar alguém não significa concordar com tudo; significa também ter coragem
+            de permanecer na verdade.
+        </div>
+
+        <div class="advertencia">
+            <strong>⚠️ Advertência:</strong><br>
+            O desejo de agradar os amigos pode levar alguém a aceitar comportamentos
+            que sabe que são errados.
+        </div>
+
+        <div class="aplicacao">
+            <strong>🙏 Aplicação Pessoal:</strong><br>
+            Pense em uma situação em que você precisa aprender a dizer “não”
+            sem deixar de tratar as pessoas com respeito.
+        </div>
+    </section>
+
+
+    <section class="cartao">
+        <h2>2. 🛡️ APRENDENDO A DIZER “NÃO”</h2>
+
+        <h3>Conheça o inimigo</h3>
+
+        <p>
+            João advertiu os cristãos sobre falsos ensinamentos.
+            Para dizer “não” ao erro, primeiro precisamos conhecer a verdade.
+        </p>
+
+        <p>
+            Um jovem que não conhece a Bíblia pode ser facilmente enganado.
+            Por isso, não devemos acreditar em uma mensagem simplesmente porque
+            muitas pessoas curtiram, compartilharam ou porque foi dita por alguém famoso.
+        </p>
+
+        <div class="versiculo">
+            <strong>Atos 17.11</strong> mostra os bereanos examinando as Escrituras
+            para verificar se aquilo que ouviam realmente era verdadeiro.
+        </div>
+
+        <p>Antes de aceitar qualquer ensinamento, pergunte:</p>
+
+        <div class="pergunta">
+            <strong>“O que a Bíblia diz sobre isso?”</strong>
+        </div>
+
+        <div class="principal">
+            <strong>📌 Ponto Principal:</strong><br>
+            Conhecer a Palavra de Deus nos ajuda a reconhecer aquilo que contradiz a verdade.
+        </div>
+
+        <div class="advertencia">
+            <strong>⚠️ Advertência:</strong><br>
+            Popularidade não é prova de verdade. Milhares de curtidas não tornam
+            uma ideia automaticamente correta.
+        </div>
+
+        <div class="aplicacao">
+            <strong>🙏 Aplicação Pessoal:</strong><br>
+            Desenvolva o hábito de conferir na Bíblia aquilo que você ouve,
+            principalmente quando o assunto envolve fé e comportamento.
+        </div>
+    </section>
+
+
+    <section class="cartao">
+        <h2>3. 🌎 AS PROPOSTAS DO MUNDO</h2>
+
+        <p>
+            Todos os dias surgem propostas que parecem pequenas, mas podem conduzir
+            a decisões maiores.
+        </p>
+
+        <ul class="lista">
+            <li>“É só uma mentira.”</li>
+            <li>“Todo mundo faz.”</li>
+            <li>“Ninguém vai descobrir.”</li>
+            <li>“Só experimenta.”</li>
+            <li>“Você precisa provar que é corajoso.”</li>
+            <li>“Se você não fizer, vai ficar de fora.”</li>
+            <li>“Não tem nada a ver.”</li>
+        </ul>
+
+        <h3>Algumas situações que exigem um “não”:</h3>
+
+        <ul class="lista">
+            <li>Pressão dos amigos.</li>
+            <li>Conteúdo pornográfico.</li>
+            <li>Drogas.</li>
+            <li>Desonestidade.</li>
+            <li>Violência.</li>
+            <li>Bullying.</li>
+            <li>Exposição exagerada nas redes sociais.</li>
+            <li>Conteúdos que alimentam pensamentos pecaminosos.</li>
+            <li>Zombaria contra a fé.</li>
+            <li>Comportamentos que contradizem os princípios bíblicos.</li>
+        </ul>
+
+        <p>
+            O objetivo não é apenas aprender a dizer “não”.
+            É entender <strong>por que</strong> devemos dizer não.
+            Nossa decisão precisa estar fundamentada na Palavra de Deus.
+        </p>
+
+        <div class="principal">
+            <strong>📌 Ponto Principal:</strong><br>
+            O cristão não deve seguir uma proposta apenas porque todos estão seguindo.
+        </div>
+
+        <div class="advertencia">
+            <strong>⚠️ Advertência:</strong><br>
+            Muitas tentações começam com frases que fazem o erro parecer pequeno,
+            normal ou sem consequências.
+        </div>
+
+        <div class="aplicacao">
+            <strong>🙏 Aplicação Pessoal:</strong><br>
+            Quando surgir uma pressão para fazer algo errado, pare e pense:
+            “Isso agrada a Deus ou está me afastando dEle?”
+        </div>
+    </section>
+
+
+    <section class="cartao">
+        <h2>4. 📖 PERSONAGENS QUE SOUBERAM DIZER “NÃO”</h2>
+
+        <div class="personagem">
+            <h3>Abraão — Gênesis 21.14</h3>
+            <p>
+                Abraão precisou tomar uma decisão difícil envolvendo Agar e Ismael.
+                Algumas decisões podem ser dolorosas, mas ainda assim precisam ser tomadas
+                em obediência à direção de Deus.
+            </p>
+        </div>
+
+        <div class="personagem">
+            <h3>Judá — Gênesis 38.15-16</h3>
+            <p>
+                Judá cedeu à tentação e posteriormente enfrentou as consequências
+                de suas escolhas. Seu exemplo mostra que um “sim” ao pecado pode
+                produzir consequências dolorosas.
+            </p>
+        </div>
+
+        <div class="personagem">
+            <h3>José — Gênesis 39.7-12</h3>
+            <p>
+                José recebeu uma proposta errada e respondeu lembrando que aquilo
+                seria pecado contra Deus. Ele não ficou negociando com a tentação.
+                Quando a situação se agravou, fugiu.
+            </p>
+
+            <div class="versiculo">
+                “Como, pois, faria eu este tamanho mal e pecaria contra Deus?”
+                <strong>Gênesis 39.9</strong>
+            </div>
+        </div>
+
+        <div class="personagem">
+            <h3>Moisés — Hebreus 11.24</h3>
+            <p>
+                Moisés recusou ser identificado apenas com os privilégios do Egito.
+                Ele escolheu obedecer a Deus em vez de colocar status, conforto
+                e posição acima da vontade do Senhor.
+            </p>
+        </div>
+
+        <div class="personagem">
+            <h3>Jesus — Mateus 4.1-11</h3>
+            <p>
+                Jesus foi tentado pelo Diabo e não cedeu.
+                Ele respondeu às tentações usando a Palavra de Deus.
+                Seu exemplo mostra que nem toda oportunidade apresentada deve ser aceita.
+            </p>
+        </div>
+
+        <div class="principal">
+            <strong>📌 Ponto Principal:</strong><br>
+            Dizer “não” ao pecado pode exigir renunciar conforto, oportunidades
+            ou aprovação, mas a fidelidade a Deus vale mais.
+        </div>
+
+        <div class="advertencia">
+            <strong>⚠️ Advertência:</strong><br>
+            A tentação pode aparecer acompanhada de vantagens, facilidades ou promessas.
+            Nem tudo que parece uma oportunidade deve ser aceito.
+        </div>
+
+        <div class="aplicacao">
+            <strong>🙏 Aplicação Pessoal:</strong><br>
+            Siga o exemplo de José: quando perceber que determinada situação
+            está conduzindo ao pecado, não negocie com ela. Afaste-se.
+        </div>
+    </section>
+
+
+    <section class="cartao">
+        <h2>5. 🚫 COMO DIZER “NÃO” NA PRÁTICA?</h2>
+
+        <p>Imagine estas situações:</p>
+
+        <ul class="lista">
+            <li>Um amigo pede para você matar aula porque ninguém vai descobrir.</li>
+            <li>Alguém envia conteúdo pornográfico em um grupo.</li>
+            <li>Um colega pede as respostas da prova.</li>
+            <li>Um grupo começa a zombar de outro aluno.</li>
+            <li>Alguém diz: “Se você realmente é meu amigo, vai experimentar.”</li>
+        </ul>
+
+        <h3>Três passos importantes:</h3>
+
+        <ol class="lista">
+            <li>
+                <strong>Reconheça:</strong>
+                “Isso é errado.”
+            </li>
+
+            <li>
+                <strong>Recuse:</strong>
+                “Não vou fazer isso.”
+            </li>
+
+            <li>
+                <strong>Afaste-se:</strong>
+                se a pressão continuar, saia daquela situação.
+            </li>
+        </ol>
+
+        <p>
+            José é um excelente exemplo. Quando a tentação aumentou,
+            ele não ficou tentando provar que era forte.
+            <strong>Ele fugiu.</strong>
+        </p>
+
+        <div class="principal">
+            <strong>📌 Ponto Principal:</strong><br>
+            Algumas tentações não devem ser enfrentadas com negociação,
+            mas com uma decisão firme e afastamento.
+        </div>
+
+        <div class="advertencia">
+            <strong>⚠️ Advertência:</strong><br>
+            Ficar perto de uma situação de tentação apenas para provar que consegue
+            resistir pode ser uma atitude imprudente.
+        </div>
+
+        <div class="aplicacao">
+            <strong>🙏 Aplicação Pessoal:</strong><br>
+            Tenha uma resposta preparada para situações de pressão:
+            “Não vou fazer isso. Isso não está de acordo com aquilo que eu creio.”
+        </div>
+    </section>
+
+
+    <section class="cartao">
+        <h2>6. 🏆 NÃO PERCA O SEU PRÊMIO</h2>
+
+        <div class="versiculo">
+            <strong>2 João 8:</strong>
+            “Olhai por vós mesmos, para que não percamos o que temos ganho,
+            antes recebamos o inteiro galardão.”
+        </div>
+
+        <p>
+            João chama os cristãos à vigilância.
+            Não basta começar bem; é necessário permanecer firme.
+        </p>
+
+        <p>
+            Um jovem pode começar sua caminhada com entusiasmo e, com o passar do tempo,
+            permitir que más influências, amizades ou escolhas o afastem da verdade.
+        </p>
+
+        <p>
+            A vida cristã não é apenas sobre dizer que somos cristãos.
+            É sobre permanecer em Cristo e viver como discípulos.
+        </p>
+
+        <div class="principal">
+            <strong>📌 Ponto Principal:</strong><br>
+            A perseverança é necessária: precisamos permanecer firmes naquilo que recebemos em Cristo.
+        </div>
+
+        <div class="advertencia">
+            <strong>⚠️ Advertência:</strong><br>
+            Não permita que pequenas concessões afastem você gradualmente
+            daquilo que antes considerava importante.
+        </div>
+
+        <div class="aplicacao">
+            <strong>🙏 Aplicação Pessoal:</strong><br>
+            Examine sua caminhada com Deus e identifique se existe alguma área
+            em que você precisa voltar a ser mais firme.
+        </div>
+    </section>
+
+
+    <section class="cartao">
+        <h2>7. 👥 O PERIGO DE QUERER SER ACEITO POR TODO MUNDO</h2>
+
+        <p>
+            Para muitos adolescentes, a opinião dos amigos possui um peso enorme.
+            Muitas decisões erradas começam com uma pergunta:
+        </p>
+
+        <div class="pergunta">
+            <strong>“O que meus amigos vão pensar de mim?”</strong>
+        </div>
+
+        <p>
+            A Bíblia nos ensina a fazer uma pergunta ainda mais importante:
+        </p>
+
+        <div class="destaque">
+            <strong>“O que Deus pensa sobre isso?”</strong>
+        </div>
+
+        <p>
+            Ser diferente por permanecer fiel a Cristo não é motivo de vergonha.
+            O cristão não precisa abandonar seus princípios para conseguir aprovação.
+        </p>
+
+        <div class="versiculo">
+            <strong>Romanos 12.2</strong> ensina a não nos conformarmos com este mundo,
+            mas a buscarmos uma mente transformada pela vontade de Deus.
+        </div>
+
+        <h3>⚖️ Para colocar no quadro:</h3>
+
+        <div class="pergunta">
+            <strong>APROVAÇÃO DOS AMIGOS × APROVAÇÃO DE DEUS</strong>
+        </div>
+
+        <p>
+            Pergunte aos alunos:
+            <strong>“Se você tivesse que escolher entre ser aceito pelos amigos
+            e permanecer fiel a Deus, qual escolheria?”</strong>
+        </p>
+
+        <div class="principal">
+            <strong>📌 Ponto Principal:</strong><br>
+            A aprovação das pessoas é passageira, mas permanecer fiel a Deus deve ser nossa prioridade.
+        </div>
+
+        <div class="advertencia">
+            <strong>⚠️ Advertência:</strong><br>
+            O medo de ser rejeitado pode fazer uma pessoa tomar decisões
+            que jamais tomaria sozinha.
+        </div>
+
+        <div class="aplicacao">
+            <strong>🙏 Aplicação Pessoal:</strong><br>
+            Não tenha vergonha de dizer “não” quando todos estiverem dizendo “sim”.
+            Sua fidelidade a Deus é mais importante que a aprovação do grupo.
+        </div>
+    </section>
+
+
+    <section class="cartao atividade">
+        <h2>🎯 ATIVIDADE — “DIGA NÃO!”</h2>
+
+        <p>
+            Divida a classe em grupos e apresente uma situação.
+            Cada grupo deverá criar uma resposta firme e respeitosa.
+        </p>
+
+        <ol class="lista">
+            <li>
+                <strong>Uma mentira para o professor:</strong><br>
+                “Não. Prefiro falar a verdade.”
+            </li>
+
+            <li>
+                <strong>Um vídeo impróprio:</strong><br>
+                “Não quero alimentar minha mente com isso.”
+            </li>
+
+            <li>
+                <strong>Pressão para beber ou fazer algo errado:</strong><br>
+                “Não preciso fazer isso para ser aceito.”
+            </li>
+
+            <li>
+                <strong>“Todo mundo está fazendo”:</strong><br>
+                “Eu não sigo todo mundo. Eu sigo Jesus.”
+            </li>
+
+            <li>
+                <strong>Alguém chama você de careta:</strong><br>
+                “Prefiro ser chamado de careta do que me afastar de Deus.”
+            </li>
+        </ol>
+
+        <div class="destaque">
+            <strong>Objetivo da atividade:</strong>
+            mostrar aos alunos que é possível responder à pressão sem agressividade,
+            mas também sem abrir mão dos princípios cristãos.
+        </div>
+    </section>
+
+
+    <section class="cartao">
+        <h2>🔑 UMA FRASE PARA OS ALUNOS GUARDAREM</h2>
+
+        <div class="frase-final">
+            “DIZER NÃO AO PECADO É DIZER SIM PARA DEUS.”
+        </div>
+
+        <p>
+            Cada vez que rejeitamos aquilo que Deus reprova, estamos escolhendo
+            obedecer ao Senhor.
+        </p>
+
+        <p>
+            Talvez algumas escolhas custem uma amizade, façam você parecer diferente
+            ou façam você perder uma oportunidade.
+            Ainda assim, permanecer fiel a Deus vale mais.
+        </p>
+    </section>
+
+
+    <section class="cartao">
+        <h2>🙏 CONECTADO COM DEUS</h2>
+
+        <p>
+            Não precisamos inventar uma nova mensagem para agradar as pessoas.
+            A Bíblia continua sendo nossa referência.
+        </p>
+
+        <p>
+            Não precisamos ser os mais inteligentes nem saber responder todas as perguntas.
+            Precisamos conhecer a Palavra e permanecer firmes nela.
+        </p>
+
+        <p>
+            Se alguém apresentar uma ideia sobre Deus que contradiz a Bíblia,
+            não devemos abandonar a verdade apenas porque aquela pessoa parece convincente.
+        </p>
+
+        <div class="destaque">
+            <strong>Nossa fé não deve ser construída sobre influenciadores,
+            amigos, tendências ou opiniões populares.</strong>
+            Nossa fé deve estar firmada em Jesus Cristo e na sua Palavra.
+        </div>
+    </section>
+
+
+    <section class="cartao">
+        <h2>📅 DESAFIO DA SEMANA — “MEU NÃO”</h2>
+
+        <p>
+            Durante esta semana, identifique uma situação em que normalmente
+            você teria dificuldade de dizer “não”.
+        </p>
+
+        <ul class="lista">
+            <li>Uma conversa.</li>
+            <li>Uma amizade.</li>
+            <li>Um conteúdo.</li>
+            <li>Uma tentação.</li>
+            <li>Uma pressão.</li>
+            <li>Uma atitude errada.</li>
+            <li>Um hábito que precisa ser abandonado.</li>
+        </ul>
+
+        <div class="destaque">
+            Ore:
+            <strong>“Senhor, ajuda-me a dizer não ao que me afasta de Ti.”</strong>
+        </div>
+
+        <p>
+            No próximo encontro, o professor pode perguntar se alguém teve
+            uma oportunidade de colocar esse desafio em prática,
+            sem exigir que os alunos façam confissões pessoais diante da classe.
+        </p>
+    </section>
+
+
+    <section class="cartao">
+        <h2>❓ PERGUNTAS PARA REVISÃO</h2>
+
+        <h3>1. Fácil</h3>
+        <p>
+            <strong>P:</strong> Qual é o tema principal da lição?<br>
+            <strong>R:</strong> Aprender a dizer “não” àquilo que contradiz a Palavra de Deus.
+        </p>
+
+        <h3>2. Médio</h3>
+        <p>
+            <strong>P:</strong> Por que conhecer a Bíblia ajuda o cristão a dizer “não” ao erro?<br>
+            <strong>R:</strong> Porque a Palavra de Deus nos ajuda a reconhecer aquilo
+            que está de acordo ou em desacordo com a verdade.
+        </p>
+
+        <h3>3. Difícil</h3>
+        <p>
+            <strong>P:</strong> É possível amar uma pessoa sem concordar com todas as suas atitudes?<br>
+            <strong>R:</strong> Sim. O amor cristão não exige aprovação do erro.
+            Podemos amar e, ao mesmo tempo, permanecer firmes na verdade.
+        </p>
+
+        <h3>4. Difícil</h3>
+        <p>
+            <strong>P:</strong> O que aprendemos com José diante da tentação?<br>
+            <strong>R:</strong> Que devemos reconhecer o pecado, rejeitar a proposta
+            e, quando necessário, afastar-nos imediatamente da situação.
+        </p>
+
+        <h3>5. Difícil</h3>
+        <p>
+            <strong>P:</strong> Por que buscar a aprovação dos amigos pode ser perigoso?<br>
+            <strong>R:</strong> Porque o desejo de ser aceito pode levar alguém
+            a abandonar seus princípios e fazer aquilo que sabe ser errado.
+        </p>
+    </section>
+
+
+    <section class="cartao">
+        <h2>📝 CONCLUSÃO</h2>
+
+        <p>
+            João escreveu para cristãos que estavam cercados por falsos ensinamentos.
+            Eles precisavam escolher entre a verdade e o erro, entre permanecer em Cristo
+            ou aceitar ensinamentos que contradiziam o Evangelho.
+        </p>
+
+        <p>
+            Hoje, nossos adolescentes também enfrentam escolhas todos os dias.
+            Não é fácil dizer “não” quando existe pressão, mas quem conhece a Palavra
+            aprende que popularidade não significa verdade.
+        </p>
+
+        <p>
+            A aprovação dos amigos não é mais importante que a aprovação de Deus.
+            Nem toda oportunidade deve ser aceita.
+        </p>
+
+        <p>
+            José, Moisés e Jesus nos mostram que é possível permanecer firme.
+            Nós também precisamos aprender a dizer:
+        </p>
+
+        <div class="frase-final">
+            “NÃO VOU FAZER AQUILO QUE ME AFASTA DE DEUS.”
+        </div>
+    </section>
+
+
+    <section class="cartao">
+        <h2>🔥 FRASE FINAL</h2>
+
+        <div class="frase-final">
+            “Coragem não é fazer tudo que os outros fazem.
+            Coragem é ter fé para dizer NÃO quando todos estão dizendo SIM.”
+        </div>
+    </section>
+
+
+    <section class="cartao">
+        <h2>🙏 MOMENTO DE ORAÇÃO</h2>
+
+        <p>
+            Senhor Jesus, ajuda-nos a conhecer a tua Palavra e permanecer na verdade.
+            Dá-nos coragem para dizer não ao pecado, às más influências e a tudo aquilo
+            que tenta nos afastar de Ti.
+        </p>
+
+        <p>
+            Que não tenhamos vergonha de sermos diferentes quando estivermos fazendo
+            o que é certo. Guarda nossa mente, nosso coração, nossas amizades e nossas escolhas.
+        </p>
+
+        <p>
+            Ajuda-nos a permanecer firmes até o fim.
+            Em nome de Jesus. Amém.
+        </p>
+    </section>
+
+
+    <a href="lista-licoes.html" class="botao-voltar">
+        ← Voltar para as Lições
+    </a>
 
 </main>
 
-
-<footer>
-
-    <p>
-        © 2026 EBD Conecta
-    </p>
-
-</footer>
-
-
-<script src="dados-licoes.js"></script>
-
-
-<script>
-
-const parametros = new URLSearchParams(window.location.search);
-
-const trimestre =
-    parametros.get("trimestre");
-
-const numero =
-    parametros.get("licao");
-
-
-const classe =
-    "juvenis";
-
-
-const licao =
-    licoes[classe] &&
-    licoes[classe][trimestre] &&
-    licoes[classe][trimestre][numero];
-
-
-if (!licao) {
-
-    alert(
-        "A lição não foi encontrada."
-    );
-
-} else {
-
-    document.getElementById(
-        "trimestreLicao"
-    ).textContent =
-        trimestre + "º Trimestre";
-
-
-    document.getElementById(
-        "numeroLicao"
-    ).textContent =
-        licao.numero || "Lição " + numero;
-
-
-    document.getElementById(
-        "tituloLicao"
-    ).textContent =
-        licao.titulo || "";
-
-
-    document.getElementById(
-        "textoPrincipal"
-    ).textContent =
-        licao.textoPrincipal || "";
-
-
-    document.getElementById(
-        "resumoLicao"
-    ).textContent =
-        licao.pontoPrincipal || "";
-
-
-    document.getElementById(
-        "palavraChave"
-    ).textContent =
-        licao.palavraChave || "";
-
-
-    document.getElementById(
-        "leituraBiblica"
-    ).textContent =
-        licao.leituraBiblica || "";
-
-
-    const objetivos =
-        document.getElementById(
-            "objetivos"
-        );
-
-    objetivos.innerHTML = "";
-
-
-    if (
-        Array.isArray(licao.objetivos)
-    ) {
-
-        licao.objetivos.forEach(
-            function(objetivo) {
-
-                const p =
-                    document.createElement("p");
-
-                p.textContent =
-                    objetivo;
-
-                objetivos.appendChild(p);
-
-            }
-        );
-
-    }
-
-
-    document.getElementById(
-        "introducao"
-    ).textContent =
-        licao.introducao || "";
-
-
-    document.getElementById(
-        "conclusao"
-    ).textContent =
-        licao.conclusao || "";
-
-
-    const desenvolvimento =
-        document.getElementById(
-            "desenvolvimento"
-        );
-
-    desenvolvimento.innerHTML = "";
-
-
-    if (
-    Array.isArray(
-        licao.desenvolvimento
-    )
-) {
-
-    licao.desenvolvimento.forEach(
-        function(secao) {
-
-            const bloco =
-                document.createElement("div");
-
-            bloco.className =
-                "topico-aprender";
-
-
-            const tituloSecao =
-                document.createElement("h3");
-
-            tituloSecao.textContent =
-                secao.titulo || "";
-
-            bloco.appendChild(
-                tituloSecao
-            );
-
-
-            if (secao.introducao) {
-
-                const introducao =
-                    document.createElement("p");
-
-                introducao.textContent =
-                    secao.introducao;
-
-                bloco.appendChild(
-                    introducao
-                );
-
-            }
-
-
-            if (
-                Array.isArray(
-                    secao.topicos
-                )
-            ) {
-
-                secao.topicos.forEach(
-                    function(topico) {
-
-                        const divTopico =
-                            document.createElement("div");
-
-                        divTopico.className =
-                            "topico-aprender";
-
-
-                        const tituloTopico =
-                            document.createElement("h4");
-
-                        tituloTopico.textContent =
-                            topico.titulo || "";
-
-                        divTopico.appendChild(
-                            tituloTopico
-                        );
-
-
-                        if (topico.texto) {
-
-                            const texto =
-                                document.createElement("p");
-
-                            texto.textContent =
-                                topico.texto;
-
-                            divTopico.appendChild(
-                                texto
-                            );
-
-                        }
-
-
-                        if (topico.aplicacao) {
-
-                            const aplicacao =
-                                document.createElement("p");
-
-                            aplicacao.textContent =
-                                "🎯 Aplicação: " +
-                                topico.aplicacao;
-
-                            divTopico.appendChild(
-                                aplicacao
-                            );
-
-                        }
-
-
-                        if (topico.destaque) {
-
-                            const destaque =
-                                document.createElement("p");
-
-                            destaque.textContent =
-                                "💡 " +
-                                topico.destaque;
-
-                            divTopico.appendChild(
-                                destaque
-                            );
-
-                        }
-
-
-                        bloco.appendChild(
-                            divTopico
-                        );
-
-                    }
-                );
-
-            }
-
-
-            desenvolvimento.appendChild(
-                bloco
-            );
-
-        }
-    );
-
-    }
-
-
-    const perguntas =
-        document.getElementById(
-            "perguntas"
-        );
-
-    perguntas.innerHTML = "";
-
-
-    if (
-        Array.isArray(licao.perguntas)
-    ) {
-
-        licao.perguntas.forEach(
-            function(pergunta) {
-
-                const div =
-                    document.createElement("div");
-
-                div.className =
-                    "topico-aprender";
-
-
-                const p =
-                    document.createElement("p");
-
-                p.textContent =
-                    "❓ " +
-                    pergunta.pergunta;
-
-                div.appendChild(p);
-
-
-                if (pergunta.resposta) {
-
-                    const resposta =
-                        document.createElement("p");
-
-                    resposta.textContent =
-                        "💡 " +
-                        pergunta.resposta;
-
-                    div.appendChild(
-                        resposta
-                    );
-
-                }
-
-
-                perguntas.appendChild(
-                    div
-                );
-
-            }
-        );
-
-    }
-
-}
-
-
-function voltarListaLicoes() {
-
-    window.location.href =
-        "lista-licoes.html";
-
-}
-
-</script>
-
-
 </body>
-
 </html>
