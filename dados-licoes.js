@@ -249,274 +249,503 @@ const licoes = {
 
             },
 
-            "11": {
-
-                numero: "Lição 11",
-                titulo: "ENTRE TEMPESTADES E PROMESSAS",
-
-                textoAureo:
-                    "“Mas agora vos admoesto a que tenhais bom ânimo, porque não se perderá a vida de nenhum de vós, mas somente o navio.” (Atos 27.22).",
-
-                verdadePratica:
-                    "Mesmo quando perdas materiais são inevitáveis, Deus preserva a vida e cumpre suas promessas àqueles que confiam nEle.",
-
-                palavraChave: "TEMPESTADE",
-
-                leituraBiblica: "Atos 27.9-15,21-26",
-
-                introducao:
-                    "O apóstolo Paulo estava viajando pelo mar Mediterrâneo, como prisioneiro, rumo a Roma. Deus tinha um propósito para sua vida e havia prometido que ele chegaria a Roma para testemunhar diante de César. Porém, durante a viagem, uma violenta tempestade se levantou. Isso nos mostra que estar dentro da vontade de Deus não significa estar livre de tempestades.\n\nO vento contrário fez o navio perder o controle. Cargas e equipamentos foram lançados ao mar. O sol e as estrelas deixaram de aparecer, e os homens perderam toda a esperança de sobreviver. Finalmente, o navio naufragou.\n\nMas existe uma diferença entre perder o navio e perder a promessa. O navio foi perdido, mas a promessa de Deus permaneceu de pé. Atos 27.22 registra a palavra de Paulo: “Não se perderá a vida de nenhum de vós”.\n\nTambém enfrentamos tempestades em nossa vida: familiares, financeiras, profissionais, emocionais, espirituais e ministeriais. Deus nem sempre impede a tempestade, mas Ele nos sustenta dentro dela.",
-
-                desenvolvimento: [
-
-                    {
-                        titulo: "I. A TEMPESTADE QUE SURGE NA VIAGEM",
-
-                        topicos: [
-
-                            {
-                                titulo:
-                                    "1. A decisão precipitada de navegar apesar da advertência de Paulo (vv.9-12).",
-
-                                texto:
-                                    "Paulo advertiu que a viagem seria perigosa e traria danos. Ele possuía experiência com viagens marítimas e também discernimento espiritual. Entretanto, o centurião confiou mais na opinião do piloto e do mestre do navio.\n\nO problema não está em ouvir especialistas, fazer planos ou utilizar a experiência. O perigo está em colocar a confiança humana acima da direção de Deus. Muitas decisões são tomadas porque parecem oportunidades, porque todos estão fazendo, porque existe vantagem financeira ou porque temos experiência. A pergunta principal deve ser: isso está de acordo com a vontade de Deus?\n\nProvérbios 14.12 nos lembra que há caminho que parece direito ao homem, mas o seu fim pode ser de morte.",
-
-                                reflexao:
-                                    "Por que muitas vezes confiamos mais na nossa experiência do que na direção de Deus?"
-                            },
-
-                            {
-                                titulo:
-                                    "2. A fragilidade humana diante das forças da natureza (vv.13-17).",
-
-                                texto:
-                                    "No início, o vento sul parecia favorável. Os homens imaginaram que poderiam prosseguir com segurança. Porém, de repente, surgiu o Euroaquilão, e o navio perdeu o controle.\n\nAtos 27.15 descreve a situação: “...não podendo navegar contra o vento, dando de mão a tudo, nos deixamos ir à toa”.\n\nA sequência foi clara: vento favorável, confiança humana, tempestade e perda de controle. A vida também possui circunstâncias que não conseguimos controlar. Podemos planejar e trabalhar, mas nossa segurança definitiva não está naquilo que conseguimos controlar. O Senhor é o nosso refúgio e fortaleza, como afirma o Salmo 46.1.",
-
-                                reflexao:
-                                    "Em que áreas da nossa vida precisamos deixar de confiar somente naquilo que podemos controlar?"
-                            },
-
-                            {
-                                titulo:
-                                    "3. A perda da esperança diante da adversidade (vv.18-20).",
-
-                                texto:
-                                    "A tempestade ficou tão forte que a tripulação começou a lançar carga e equipamentos ao mar. Depois de muitos dias sem conseguir ver o sol nem as estrelas, os homens perderam completamente a esperança.\n\nAtos 27.20 afirma: “...enfim, perdemos toda a esperança de nos salvar”.\n\nA tempestade pode alterar nossa percepção. Podemos pensar que não existe saída, que tudo acabou ou que Deus não está fazendo nada. Porém, eles perderam a esperança, mas Deus não perdeu o controle. A esperança humana pode acabar sem que o propósito de Deus termine.\n\nLamentações 3.22-23 nos lembra que as misericórdias do Senhor não têm fim e se renovam a cada manhã.",
-
-                                reflexao:
-                                    "Quando nossas forças acabam, continuamos confiando que Deus permanece no controle?"
-                            },
-
-                            {
-                                titulo: "SINOPSE I",
-
-                                texto:
-                                    "Decisões humanas sem Deus geram crises e expõem fragilidades."
-                            }
-
-                        ]
-                    },
-
-                    {
-                        titulo:
-                            "II. A INTERVENÇÃO DE DEUS NA HORA DO DESESPERO",
-
-                        topicos: [
-
-                            {
-                                titulo:
-                                    "1. A palavra de encorajamento de Paulo (vv.21-26).",
-
-                                texto:
-                                    "Depois de muitos dias sem comer, Paulo se levantou e encorajou todos. Ele poderia simplesmente dizer “eu avisei”, mas escolheu fortalecer aqueles que estavam sofrendo.\n\nIsso demonstra maturidade espiritual. Uma pessoa imatura diz “eu avisei”; uma pessoa madura diz “agora vamos enfrentar isso juntos”. Paulo não podia controlar o mar, o vento ou o navio, mas podia controlar sua atitude e transmitir esperança.\n\nA Igreja precisa de pessoas que levem esperança em tempos de crise.",
-
-                                reflexao:
-                                    "Quando enfrentamos uma crise, transmitimos mais medo ou esperança?"
-                            },
-
-                            {
-                                titulo:
-                                    "2. A promessa de Deus em meio à crise (vv.23,24).",
-
-                                texto:
-                                    "Paulo declarou que o anjo do Deus “de quem eu sou e a quem sirvo” havia aparecido a ele. A primeira palavra foi: “Paulo, não temas!”.\n\nDeus não prometeu que a tempestade acabaria imediatamente. Também não prometeu que o navio seria preservado. O navio seria perdido, mas nenhuma vida seria perdida.\n\nEssa é uma verdade profunda: Deus pode não preservar nossos bens, mas pode preservar aquilo que realmente importa para o cumprimento do Seu propósito.\n\nPaulo sabia quem era e a quem pertencia. Podia perder posição, bens e oportunidades, mas sua identidade em Deus permanecia. Hebreus 10.23 nos ensina a conservar firme a esperança, porque fiel é aquele que fez a promessa.",
-
-                                reflexao:
-                                    "Nossa esperança está baseada nas circunstâncias ou na fidelidade de Deus?"
-                            },
-
-                            {
-                                titulo:
-                                    "3. A fé e a liderança espiritual de Paulo (vv.33-36).",
-
-                                texto:
-                                    "Paulo percebeu que todos precisavam recuperar as forças. Então os incentivou a comer, tomou o pão, deu graças a Deus e comeu diante de todos.\n\nPaulo demonstrou liderança espiritual e também prática. Fé não significa passividade. Ele comeu, encorajou, tomou decisões, orientou a tripulação e permaneceu atento.\n\nPrecisamos fazer aquilo que está ao nosso alcance e confiar em Deus naquilo que está além do nosso alcance.",
-
-                                reflexao:
-                                    "Estamos fazendo aquilo que está ao nosso alcance enquanto confiamos em Deus?"
-                            },
-
-                            {
-                                titulo: "SINOPSE II",
-
-                                texto:
-                                    "Deus intervém na crise e renova o ânimo pela promessa."
-                            }
-
-                        ]
-                    },
-
-                    {
-                        titulo:
-                            "III. A PROVIDÊNCIA DIVINA NO NAUFRÁGIO (At 27.39-44)",
-
-                        topicos: [
-
-                            {
-                                titulo:
-                                    "1. O cuidado de Deus preservando vidas (vv.39-44).",
-
-                                texto:
-                                    "O navio naufragou, mas a promessa de Deus foi cumprida: todos sobreviveram. O navio foi perdido, mas as vidas foram preservadas.\n\nA providência divina não significou impedir o naufrágio, mas preservar as pessoas durante o naufrágio. Às vezes, a libertação de Deus acontece de maneira diferente daquela que imaginamos.\n\nIsaías 43.2 afirma: “Quando passares pelas águas, estarei contigo”. A presença de Deus é mais importante do que a ausência de problemas.",
-
-                                reflexao:
-                                    "Temos confiado mais na presença de Deus ou na ausência de problemas?"
-                            },
-
-                            {
-                                titulo:
-                                    "2. A soberania divina acima das decisões humanas (vv.42,43).",
-
-                                texto:
-                                    "Os soldados planejaram matar os prisioneiros para impedir que algum deles escapasse. Porém, o centurião impediu o plano. Depois, os que sabiam nadar chegaram primeiro à terra, e os demais chegaram usando tábuas e partes do navio.\n\nDeus estava conduzindo os acontecimentos para cumprir Sua promessa de levar Paulo a Roma. A soberania de Deus está acima das decisões humanas.\n\nProvérbios 21.1 mostra que Deus pode dirigir até mesmo decisões de autoridades para cumprir Seus propósitos.",
-
-                                reflexao:
-                                    "Confiamos que Deus continua soberano mesmo quando as decisões das pessoas parecem ameaçar nossos planos?"
-                            },
-
-                            {
-                                titulo:
-                                    "3. O cumprimento fiel da promessa de Deus (v.44).",
-
-                                texto:
-                                    "Atos 27.44 declara: “E assim aconteceu que todos se salvaram em terra”. Deus falou, Paulo creu, a tempestade veio, o navio naufragou e a promessa foi cumprida.\n\nA tempestade não tem autoridade para cancelar aquilo que Deus determinou.",
-
-                                reflexao:
-                                    "O que essa história nos ensina sobre a fidelidade de Deus às Suas promessas?"
-                            },
-
-                            {
-                                titulo: "SINOPSE III",
-
-                                texto:
-                                    "A providência divina cumpre promessas e preserva vidas."
-                            }
-
-                        ]
-                    },
-
-                    {
-                        titulo: "4. LIÇÕES PRÁTICAS PARA NOSSOS DIAS",
-
-                        texto:
-                            "1. Nem toda tempestade significa que estamos fora da vontade de Deus.\n\nPaulo estava obedecendo ao propósito de Deus e, mesmo assim, enfrentou o Euroaquilão. Não devemos interpretar toda dificuldade como abandono divino.\n\n2. Nem todo vento favorável significa aprovação de Deus.\n\nO vento sul parecia confirmar a decisão, mas a tempestade veio. Circunstâncias favoráveis precisam ser avaliadas com discernimento espiritual.\n\n3. Podemos perder coisas sem perder o propósito de Deus.\n\nPaulo perdeu o navio e os recursos, mas chegou a Roma. Nem toda perda significa derrota.\n\n4. A fé não significa ausência de medo.\n\nQuando Deus disse “não temas”, havia motivos para temer. A fé não significa que nunca sentiremos medo, mas que o medo não será maior que nossa confiança em Deus.\n\n5. Pessoas de fé tornam-se instrumentos de esperança.\n\nA fé de Paulo influenciou todos ao seu redor. Um pai pode fortalecer sua casa, uma mãe pode fortalecer seus filhos, um professor pode fortalecer sua classe e um líder pode fortalecer a igreja."
-                    },
-
-                    {
-                        titulo: "5. UMA FRASE PARA A CLASSE GUARDAR",
-
-                        texto:
-                            "“O NAVIO PODE AFUNDAR, MAS A PROMESSA DE DEUS NÃO AFUNDA.”\n\nO navio representa os recursos humanos e temporários. A promessa representa aquilo que Deus determinou. O navio é temporário, mas a Palavra de Deus permanece."
-                    },
-
-                    {
-                        titulo:
-                            "6. DINÂMICA — “QUAL É A MINHA TEMPESTADE?”",
-
-                        texto:
-                            "Peça aos alunos que reflitam silenciosamente sobre a seguinte pergunta: Qual é a tempestade que estou enfrentando?\n\n1. O que está além do meu controle?\n\n2. O que Deus ainda espera que eu faça?\n\n3. Em qual promessa bíblica posso fundamentar minha esperança?\n\nPaulo não controlava o vento, o mar ou o navio. Mas podia crer, orar, encorajar, agir e esperar."
-                    },
-
-                    {
-                        titulo: "7. REVISANDO O CONTEÚDO",
-
-                        topicos: [
-
-                            {
-                                titulo:
-                                    "1. Por que a advertência de Paulo foi ignorada?",
-
-                                texto:
-                                    "Porque o centurião confiou mais na experiência do piloto e do mestre do navio do que na advertência de Paulo."
-                            },
-
-                            {
-                                titulo:
-                                    "2. Quais fatores demonstraram a fragilidade humana?",
-
-                                texto:
-                                    "O Euroaquilão, a perda do controle do navio, o lançamento da carga e dos equipamentos ao mar e a perda da esperança."
-                            },
-
-                            {
-                                titulo:
-                                    "3. Qual mensagem Paulo recebeu de Deus?",
-
-                                texto:
-                                    "Que não deveria temer, porque Deus preservaria todas as vidas, embora o navio fosse perdido."
-                            },
-
-                            {
-                                titulo:
-                                    "4. Como Paulo influenciou a tripulação?",
-
-                                texto:
-                                    "Ele transmitiu esperança, orientou os homens, incentivou-os a comer e demonstrou fé e gratidão."
-                            },
-
-                            {
-                                titulo:
-                                    "5. Como o naufrágio confirmou a promessa?",
-
-                                texto:
-                                    "O navio foi destruído, mas todos chegaram vivos à terra, cumprindo a promessa de Deus."
-                            }
-
-                        ]
-                    },
-
-                    {
-                        titulo: "8. CONCLUSÃO",
-
-                        texto:
-                            "Atos 27 é uma demonstração da providência de Deus. Houve tempestade, o navio foi danificado, cargas foram perdidas e a esperança humana chegou ao fim. Porém, Deus continuava no controle.\n\nA tempestade não impediu Paulo de chegar a Roma. O naufrágio não anulou a promessa. Deus não prometeu ausência de tempestades, mas prometeu Sua presença e o cumprimento de Seu propósito.\n\nQuando pensamos “meu navio está afundando”, precisamos perguntar: “O que Deus prometeu?”.\n\nPaulo perdeu o navio, mas alcançou Roma. Perdeu recursos, mas não perdeu o propósito. Enfrentou a tempestade, mas não perdeu a presença de Deus.",
-
-                        topicos: [
-
-                            {
-                                titulo: "🔥 PALAVRA FINAL PARA MINISTRAR",
-
-                                texto:
-                                    "Irmãos, talvez você esteja passando por uma tempestade que não escolheu. Talvez algumas coisas estejam sendo lançadas ao mar. Talvez aquilo que você construiu esteja sendo abalado. Talvez você não consiga mais enxergar o sol nem as estrelas. Mas lembre-se de Paulo: quando ele já não conseguia controlar o navio, Deus continuava controlando o destino. O navio poderia naufragar, mas a promessa não naufragaria. Por isso, tenha bom ânimo. Não porque a tempestade seja pequena, mas porque o nosso Deus é grande. Não porque sabemos como tudo vai terminar, mas porque sabemos em quem confiamos. Se Deus prometeu, permaneça firme. Se Deus determinou, continue caminhando. E se a tempestade vier, lembre-se: Deus ainda está no barco."
-                            },
-
-                            {
-                                titulo: "🙏 Oração final",
-
-                                texto:
-                                    "Senhor nosso Deus, nós reconhecemos que existem tempestades que não conseguimos controlar. Há momentos em que nossas forças acabam, nossos recursos desaparecem e não conseguimos enxergar uma saída. Mas hoje aprendemos com Paulo que a nossa esperança não está na estabilidade das circunstâncias, mas na fidelidade do Senhor. Dá-nos coragem para enfrentar as tempestades, sabedoria para tomar decisões, fé para permanecer firmes e confiança para descansar em Tuas promessas. Se algum navio precisar ser perdido, ajuda-nos a não perder a fé. Guarda nossas vidas, nossas famílias e nossos propósitos em Tuas mãos. Em nome de Jesus. Amém."
-                            }
-
-                        ]
-                    }
-
-                                ]
-
-            }
-
-        }
-
-    },
+          "11": {
+
+    numero: "Lição 11",
+    titulo: "ENTRE TEMPESTADES E PROMESSAS",
+
+    textoAureo:
+        "“Mas agora vos admoesto a que tenhais bom ânimo, porque não se perderá a vida de nenhum de vós, mas somente o navio.” (Atos 27.22).",
+
+    verdadePratica:
+        "Mesmo quando perdas materiais são inevitáveis, Deus preserva a vida e cumpre suas promessas àqueles que confiam nEle.",
+
+    palavraChave: "TEMPESTADE",
+
+    leituraBiblica: "Atos 27.9-15,21-26",
+
+    introducao:
+        "O apóstolo Paulo estava viajando pelo mar Mediterrâneo, como prisioneiro, rumo a Roma. Deus tinha um propósito para sua vida e havia prometido que ele chegaria a Roma para testemunhar diante de César. Porém, durante a viagem, uma violenta tempestade se levantou. Isso nos mostra que estar dentro da vontade de Deus não significa estar livre de tempestades.\n\nO vento contrário fez o navio perder o controle. Cargas e equipamentos foram lançados ao mar. O sol e as estrelas deixaram de aparecer, e os homens perderam toda a esperança de sobreviver. Finalmente, o navio naufragou.\n\nMas existe uma diferença entre perder o navio e perder a promessa. O navio foi perdido, mas a promessa de Deus permaneceu de pé. Atos 27.22 registra a palavra de Paulo: “Não se perderá a vida de nenhum de vós”.\n\nTambém enfrentamos tempestades em nossa vida: familiares, financeiras, profissionais, emocionais, espirituais e ministeriais. Deus nem sempre impede a tempestade, mas Ele nos sustenta dentro dela.",
+
+    desenvolvimento: [
+
+        {
+            titulo: "I. A TEMPESTADE QUE SURGE NA VIAGEM",
+
+            topicos: [
+
+                {
+                    titulo:
+                        "1. A decisão precipitada de navegar apesar da advertência de Paulo (vv.9-12).",
+
+                    texto:
+                        "Paulo advertiu que a viagem seria perigosa e traria danos. Ele possuía experiência com viagens marítimas e também discernimento espiritual. Entretanto, o centurião confiou mais na opinião do piloto e do mestre do navio.\n\nO problema não está em ouvir especialistas, fazer planos ou utilizar a experiência. O perigo está em colocar a confiança humana acima da direção de Deus. Muitas decisões são tomadas porque parecem oportunidades, porque todos estão fazendo, porque existe vantagem financeira ou porque temos experiência. A pergunta principal deve ser: isso está de acordo com a vontade de Deus?\n\nProvérbios 14.12 nos lembra que há caminho que parece direito ao homem, mas o seu fim pode ser de morte.",
+
+                    pontoPrincipal:
+                        "Nem toda decisão que parece segura aos olhos humanos está de acordo com a vontade de Deus.",
+
+                    versiculos: [
+                        {
+                            referencia: "Provérbios 14.12",
+                            texto:
+                                "“Há caminho que ao homem parece direito, mas o fim dele são os caminhos da morte.”",
+                            explicacao:
+                                "Nem sempre nossa percepção consegue enxergar as consequências de uma escolha. Por isso, precisamos buscar a direção de Deus."
+                        },
+                        {
+                            referencia: "Provérbios 3.5-6",
+                            texto:
+                                "“Confia no Senhor de todo o teu coração e não te estribes no teu próprio entendimento. Reconhece-o em todos os teus caminhos, e ele endireitará as tuas veredas.”",
+                            explicacao:
+                                "Deus nos chama a confiar nEle acima da nossa própria compreensão e a reconhecer sua direção em nossas decisões."
+                        }
+                    ],
+
+                    advertencia:
+                        "Cuidado para não confundir experiência, oportunidade ou circunstâncias favoráveis com a aprovação de Deus.",
+
+                    aplicacaoPessoal:
+                        "Antes de tomar decisões importantes, devemos buscar a Deus em oração, examinar sua Palavra e avaliar se nossos planos estão realmente de acordo com sua vontade.",
+
+                    reflexao:
+                        "Por que muitas vezes confiamos mais na nossa experiência do que na direção de Deus?"
+                },
+
+                {
+                    titulo:
+                        "2. A fragilidade humana diante das forças da natureza (vv.13-17).",
+
+                    texto:
+                        "No início, o vento sul parecia favorável. Os homens imaginaram que poderiam prosseguir com segurança. Porém, de repente, surgiu o Euroaquilão, e o navio perdeu o controle.\n\nAtos 27.15 descreve a situação: “...não podendo navegar contra o vento, dando de mão a tudo, nos deixamos ir à toa”.\n\nA sequência foi clara: vento favorável, confiança humana, tempestade e perda de controle. A vida também possui circunstâncias que não conseguimos controlar. Podemos planejar e trabalhar, mas nossa segurança definitiva não está naquilo que conseguimos controlar. O Senhor é o nosso refúgio e fortaleza, como afirma o Salmo 46.1.",
+
+                    pontoPrincipal:
+                        "As circunstâncias podem fugir do nosso controle, mas Deus continua sendo nosso refúgio e fortaleza.",
+
+                    versiculos: [
+                        {
+                            referencia: "Salmo 46.1",
+                            texto:
+                                "“Deus é o nosso refúgio e fortaleza, socorro bem presente na angústia.”",
+                            explicacao:
+                                "Quando nossas forças são insuficientes, Deus permanece presente e disponível para nos sustentar."
+                        },
+                        {
+                            referencia: "Salmo 121.1-2",
+                            texto:
+                                "“Elevo os meus olhos para os montes: de onde me virá o socorro? O meu socorro vem do Senhor, que fez o céu e a terra.”",
+                            explicacao:
+                                "Nossa segurança não depende somente dos recursos humanos, mas do Deus que criou todas as coisas."
+                        }
+                    ],
+
+                    advertencia:
+                        "Não coloque sua segurança definitiva em dinheiro, trabalho, pessoas, experiência ou na capacidade de controlar todas as circunstâncias.",
+
+                    aplicacaoPessoal:
+                        "Precisamos reconhecer nossos limites e entregar ao Senhor aquilo que está além da nossa capacidade de controlar.",
+
+                    reflexao:
+                        "Em que áreas da nossa vida precisamos deixar de confiar somente naquilo que podemos controlar?"
+                },
+
+                {
+                    titulo:
+                        "3. A perda da esperança diante da adversidade (vv.18-20).",
+
+                    texto:
+                        "A tempestade ficou tão forte que a tripulação começou a lançar carga e equipamentos ao mar. Depois de muitos dias sem conseguir ver o sol nem as estrelas, os homens perderam completamente a esperança.\n\nAtos 27.20 afirma: “...enfim, perdemos toda a esperança de nos salvar”.\n\nA tempestade pode alterar nossa percepção. Podemos pensar que não existe saída, que tudo acabou ou que Deus não está fazendo nada. Porém, eles perderam a esperança, mas Deus não perdeu o controle. A esperança humana pode acabar sem que o propósito de Deus termine.\n\nLamentações 3.22-23 nos lembra que as misericórdias do Senhor não têm fim e se renovam a cada manhã.",
+
+                    pontoPrincipal:
+                        "A nossa esperança pode enfraquecer diante da crise, mas Deus nunca perde o controle da situação.",
+
+                    versiculos: [
+                        {
+                            referencia: "Lamentações 3.22-23",
+                            texto:
+                                "“As misericórdias do Senhor são a causa de não sermos consumidos... renovam-se cada manhã; grande é a tua fidelidade.”",
+                            explicacao:
+                                "Mesmo nos períodos mais difíceis, a misericórdia e a fidelidade de Deus continuam presentes."
+                        },
+                        {
+                            referencia: "Romanos 15.13",
+                            texto:
+                                "“Ora, o Deus de esperança vos encha de todo o gozo e paz em crença, para que abundeis em esperança pelo poder do Espírito Santo.”",
+                            explicacao:
+                                "A verdadeira esperança não depende das circunstâncias, mas é sustentada por Deus e pelo poder do Espírito Santo."
+                        }
+                    ],
+
+                    advertencia:
+                        "Não permita que uma circunstância difícil faça você concluir que Deus abandonou você ou que suas promessas deixaram de existir.",
+
+                    aplicacaoPessoal:
+                        "Quando nossas forças diminuírem, devemos voltar nossos olhos para Deus, lembrar de sua fidelidade e alimentar nossa esperança por meio da Palavra e da oração.",
+
+                    reflexao:
+                        "Quando nossas forças acabam, continuamos confiando que Deus permanece no controle?"
+                },
+
+                {
+                    titulo: "SINOPSE I",
+
+                    texto:
+                        "Decisões humanas sem Deus geram crises e expõem fragilidades."
+                }
+
+            ]
+        },
+
+        {
+            titulo:
+                "II. A INTERVENÇÃO DE DEUS NA HORA DO DESESPERO",
+
+            topicos: [
+
+                {
+                    titulo:
+                        "1. A palavra de encorajamento de Paulo (vv.21-26).",
+
+                    texto:
+                        "Depois de muitos dias sem comer, Paulo se levantou e encorajou todos. Ele poderia simplesmente dizer “eu avisei”, mas escolheu fortalecer aqueles que estavam sofrendo.\n\nIsso demonstra maturidade espiritual. Uma pessoa imatura diz “eu avisei”; uma pessoa madura diz “agora vamos enfrentar isso juntos”. Paulo não podia controlar o mar, o vento ou o navio, mas podia controlar sua atitude e transmitir esperança.\n\nA Igreja precisa de pessoas que levem esperança em tempos de crise.",
+
+                    pontoPrincipal:
+                        "Em tempos de crise, pessoas maduras espiritualmente não aumentam o desespero; elas levam esperança e encorajamento.",
+
+                    versiculos: [
+                        {
+                            referencia: "1 Tessalonicenses 5.11",
+                            texto:
+                                "“Pelo que exortai-vos uns aos outros e edificai-vos uns aos outros.”",
+                            explicacao:
+                                "Deus deseja que os cristãos usem suas palavras para fortalecer e edificar aqueles que estão passando por dificuldades."
+                        },
+                        {
+                            referencia: "Isaías 35.3-4",
+                            texto:
+                                "“Fortalecei as mãos fracas e firmai os joelhos trementes. Dizei aos turbados de coração: Esforçai-vos, não temais.”",
+                            explicacao:
+                                "O povo de Deus é chamado a transmitir coragem aos que estão abatidos e temerosos."
+                        }
+                    ],
+
+                    advertencia:
+                        "Evite usar a fragilidade de alguém para dizer “eu avisei”. Momentos de crise exigem graça, compaixão e disposição para ajudar.",
+
+                    aplicacaoPessoal:
+                        "Devemos procurar pessoas que estejam enfrentando dificuldades e oferecer palavras de fé, oração, apoio e esperança.",
+
+                    reflexao:
+                        "Quando enfrentamos uma crise, transmitimos mais medo ou esperança?"
+                },
+
+                {
+                    titulo:
+                        "2. A promessa de Deus em meio à crise (vv.23,24).",
+
+                    texto:
+                        "Paulo declarou que o anjo do Deus “de quem eu sou e a quem sirvo” havia aparecido a ele. A primeira palavra foi: “Paulo, não temas!”.\n\nDeus não prometeu que a tempestade acabaria imediatamente. Também não prometeu que o navio seria preservado. O navio seria perdido, mas nenhuma vida seria perdida.\n\nEssa é uma verdade profunda: Deus pode não preservar nossos bens, mas pode preservar aquilo que realmente importa para o cumprimento do Seu propósito.\n\nPaulo sabia quem era e a quem pertencia. Podia perder posição, bens e oportunidades, mas sua identidade em Deus permanecia. Hebreus 10.23 nos ensina a conservar firme a esperança, porque fiel é aquele que fez a promessa.",
+
+                    pontoPrincipal:
+                        "A promessa de Deus permanece firme mesmo quando as circunstâncias parecem contrariá-la.",
+
+                    versiculos: [
+                        {
+                            referencia: "Hebreus 10.23",
+                            texto:
+                                "“Retenhamos firmes a confissão da nossa esperança, porque fiel é o que prometeu.”",
+                            explicacao:
+                                "Nossa esperança permanece firme porque o fundamento dela é a fidelidade de Deus."
+                        },
+                        {
+                            referencia: "Números 23.19",
+                            texto:
+                                "“Deus não é homem, para que minta; nem filho do homem, para que se arrependa.”",
+                            explicacao:
+                                "Deus é absolutamente confiável. Aquilo que Ele promete não depende da instabilidade humana."
+                        }
+                    ],
+
+                    advertencia:
+                        "Não confunda uma promessa de Deus com a expectativa de que tudo acontecerá exatamente como imaginamos. Deus cumpre sua Palavra segundo seus propósitos.",
+
+                    aplicacaoPessoal:
+                        "Quando as circunstâncias disserem o contrário, devemos permanecer firmes na Palavra de Deus e confiar na fidelidade daquele que prometeu.",
+
+                    reflexao:
+                        "Nossa esperança está baseada nas circunstâncias ou na fidelidade de Deus?"
+                },
+
+                {
+                    titulo:
+                        "3. A fé e a liderança espiritual de Paulo (vv.33-36).",
+
+                    texto:
+                        "Paulo percebeu que todos precisavam recuperar as forças. Então os incentivou a comer, tomou o pão, deu graças a Deus e comeu diante de todos.\n\nPaulo demonstrou liderança espiritual e também prática. Fé não significa passividade. Ele comeu, encorajou, tomou decisões, orientou a tripulação e permaneceu atento.\n\nPrecisamos fazer aquilo que está ao nosso alcance e confiar em Deus naquilo que está além do nosso alcance.",
+
+                    pontoPrincipal:
+                        "A verdadeira fé não produz passividade; ela nos leva a agir com sabedoria enquanto confiamos em Deus.",
+
+                    versiculos: [
+                        {
+                            referencia: "Tiago 2.17",
+                            texto:
+                                "“Assim também a fé, se não tiver as obras, é morta em si mesma.”",
+                            explicacao:
+                                "A fé verdadeira produz atitudes concretas e responsáveis."
+                        },
+                        {
+                            referencia: "Provérbios 16.3",
+                            texto:
+                                "“Confia ao Senhor as tuas obras, e teus pensamentos serão estabelecidos.”",
+                            explicacao:
+                                "Devemos entregar nossos planos a Deus e, ao mesmo tempo, agir de maneira responsável."
+                        }
+                    ],
+
+                    advertencia:
+                        "Não use a fé como desculpa para negligenciar responsabilidades. Confiar em Deus não significa deixar de fazer aquilo que está ao nosso alcance.",
+
+                    aplicacaoPessoal:
+                        "Devemos identificar o que podemos fazer diante de cada situação, agir com sabedoria e entregar a Deus aquilo que está além do nosso controle.",
+
+                    reflexao:
+                        "Estamos fazendo aquilo que está ao nosso alcance enquanto confiamos em Deus?"
+                },
+
+                {
+                    titulo: "SINOPSE II",
+
+                    texto:
+                        "Deus intervém na crise e renova o ânimo pela promessa."
+                }
+
+            ]
+        },
+
+        {
+            titulo:
+                "III. A PROVIDÊNCIA DIVINA NO NAUFRÁGIO (At 27.39-44)",
+
+            topicos: [
+
+                {
+                    titulo:
+                        "1. O cuidado de Deus preservando vidas (vv.39-44).",
+
+                    texto:
+                        "O navio naufragou, mas a promessa de Deus foi cumprida: todos sobreviveram. O navio foi perdido, mas as vidas foram preservadas.\n\nA providência divina não significou impedir o naufrágio, mas preservar as pessoas durante o naufrágio. Às vezes, a libertação de Deus acontece de maneira diferente daquela que imaginamos.\n\nIsaías 43.2 afirma: “Quando passares pelas águas, estarei contigo”. A presença de Deus é mais importante do que a ausência de problemas.",
+
+                    pontoPrincipal:
+                        "A presença de Deus conosco é maior do que a ausência de tempestades em nossa vida.",
+
+                    versiculos: [
+                        {
+                            referencia: "Isaías 43.2",
+                            texto:
+                                "“Quando passares pelas águas, estarei contigo, e, quando pelos rios, eles não te submergirão.”",
+                            explicacao:
+                                "Deus não promete que nunca passaremos pelas águas, mas promete estar conosco quando passarmos por elas."
+                        },
+                        {
+                            referencia: "Salmo 23.4",
+                            texto:
+                                "“Ainda que eu andasse pelo vale da sombra da morte, não temeria mal algum, porque tu estás comigo.”",
+                            explicacao:
+                                "A presença de Deus produz segurança mesmo nos momentos mais sombrios."
+                        }
+                    ],
+
+                    advertencia:
+                        "Não pense que a presença de problemas significa ausência de Deus. Algumas vezes, Deus nos sustenta dentro da tempestade em vez de removê-la imediatamente.",
+
+                    aplicacaoPessoal:
+                        "Em vez de perguntar somente “quando esse problema vai acabar?”, devemos também aprender a reconhecer a presença e o cuidado de Deus durante o processo.",
+
+                    reflexao:
+                        "Temos confiado mais na presença de Deus ou na ausência de problemas?"
+                },
+
+                {
+                    titulo:
+                        "2. A soberania divina acima das decisões humanas (vv.42,43).",
+
+                    texto:
+                        "Os soldados planejaram matar os prisioneiros para impedir que algum deles escapasse. Porém, o centurião impediu o plano. Depois, os que sabiam nadar chegaram primeiro à terra, e os demais chegaram usando tábuas e partes do navio.\n\nDeus estava conduzindo os acontecimentos para cumprir Sua promessa de levar Paulo a Roma. A soberania de Deus está acima das decisões humanas.\n\nProvérbios 21.1 mostra que Deus pode dirigir até mesmo decisões de autoridades para cumprir Seus propósitos.",
+
+                    pontoPrincipal:
+                        "Nenhuma decisão humana pode frustrar os propósitos soberanos de Deus.",
+
+                    versiculos: [
+                        {
+                            referencia: "Provérbios 21.1",
+                            texto:
+                                "“Como ribeiros de águas, assim é o coração do rei na mão do Senhor; a tudo quanto quer o inclina.”",
+                            explicacao:
+                                "Deus possui autoridade para conduzir até decisões de pessoas que ocupam posições de poder."
+                        },
+                        {
+                            referencia: "Jó 42.2",
+                            texto:
+                                "“Bem sei eu que tudo podes, e nenhum dos teus pensamentos pode ser impedido.”",
+                            explicacao:
+                                "Os planos de Deus não podem ser anulados pela ação humana."
+                        }
+                    ],
+
+                    advertencia:
+                        "Não permita que decisões de outras pessoas produzam desespero em seu coração. Pessoas podem interferir nos caminhos, mas não têm autoridade para cancelar os propósitos de Deus.",
+
+                    aplicacaoPessoal:
+                        "Quando pessoas ou circunstâncias parecerem bloquear nossos planos, devemos continuar buscando a Deus e confiando que Ele permanece soberano.",
+
+                    reflexao:
+                        "Confiamos que Deus continua soberano mesmo quando as decisões das pessoas parecem ameaçar nossos planos?"
+                },
+
+                {
+                    titulo:
+                        "3. O cumprimento fiel da promessa de Deus (v.44).",
+
+                    texto:
+                        "Atos 27.44 declara: “E assim aconteceu que todos se salvaram em terra”. Deus falou, Paulo creu, a tempestade veio, o navio naufragou e a promessa foi cumprida.\n\nA tempestade não tem autoridade para cancelar aquilo que Deus determinou.",
+
+                    pontoPrincipal:
+                        "Deus permanece fiel à sua Palavra mesmo quando o caminho até o cumprimento da promessa passa por grandes dificuldades.",
+
+                    versiculos: [
+                        {
+                            referencia: "Josué 21.45",
+                            texto:
+                                "“Palavra alguma falhou de todas as boas coisas que o Senhor falou à casa de Israel; tudo se cumpriu.”",
+                            explicacao:
+                                "A história bíblica confirma que Deus é fiel e não deixa suas promessas sem cumprimento."
+                        },
+                        {
+                            referencia: "2 Coríntios 1.20",
+                            texto:
+                                "“Porque todas quantas promessas há de Deus são nele sim; e por ele o Amém.”",
+                            explicacao:
+                                "Em Cristo, encontramos a segurança de que Deus é fiel às suas promessas."
+                        }
+                    ],
+
+                    advertencia:
+                        "Não abandone a fé simplesmente porque o caminho ficou mais difícil do que você imaginava. A dificuldade do caminho não significa o fim da promessa.",
+
+                    aplicacaoPessoal:
+                        "Precisamos aprender a esperar em Deus sem abandonar a fé quando os acontecimentos não acontecem no tempo ou da maneira que esperávamos.",
+
+                    reflexao:
+                        "O que essa história nos ensina sobre a fidelidade de Deus às Suas promessas?"
+                },
+
+                {
+                    titulo: "SINOPSE III",
+
+                    texto:
+                        "A providência divina cumpre promessas e preserva vidas."
+                }
+
+            ]
+        },
+
+        {
+            titulo: "4. LIÇÕES PRÁTICAS PARA NOSSOS DIAS",
+
+            texto:
+                "1. Nem toda tempestade significa que estamos fora da vontade de Deus.\n\nPaulo estava obedecendo ao propósito de Deus e, mesmo assim, enfrentou o Euroaquilão. Não devemos interpretar toda dificuldade como abandono divino.\n\n2. Nem todo vento favorável significa aprovação de Deus.\n\nO vento sul parecia confirmar a decisão, mas a tempestade veio. Circunstâncias favoráveis precisam ser avaliadas com discernimento espiritual.\n\n3. Podemos perder coisas sem perder o propósito de Deus.\n\nPaulo perdeu o navio e os recursos, mas chegou a Roma. Nem toda perda significa derrota.\n\n4. A fé não significa ausência de medo.\n\nQuando Deus disse “não temas”, havia motivos para temer. A fé não significa que nunca sentiremos medo, mas que o medo não será maior que nossa confiança em Deus.\n\n5. Pessoas de fé tornam-se instrumentos de esperança.\n\nA fé de Paulo influenciou todos ao seu redor. Um pai pode fortalecer sua casa, uma mãe pode fortalecer seus filhos, um professor pode fortalecer sua classe e um líder pode fortalecer a igreja."
+        },
+
+        {
+            titulo: "5. UMA FRASE PARA A CLASSE GUARDAR",
+
+            texto:
+                "“O NAVIO PODE AFUNDAR, MAS A PROMESSA DE DEUS NÃO AFUNDA.”\n\nO navio representa os recursos humanos e temporários. A promessa representa aquilo que Deus determinou. O navio é temporário, mas a Palavra de Deus permanece."
+        },
+
+        {
+            titulo: "6. DINÂMICA — “QUAL É A MINHA TEMPESTADE?”",
+
+            texto:
+                "Peça aos alunos que reflitam silenciosamente sobre a seguinte pergunta: Qual é a tempestade que estou enfrentando?\n\n1. O que está além do meu controle?\n\n2. O que Deus ainda espera que eu faça?\n\n3. Em qual promessa bíblica posso fundamentar minha esperança?\n\nPaulo não controlava o vento, o mar ou o navio. Mas podia crer, orar, encorajar, agir e esperar."
+        },
+
+        {
+            titulo: "7. REVISANDO O CONTEÚDO",
+
+            topicos: [
+
+                {
+                    titulo:
+                        "1. Por que a advertência de Paulo foi ignorada?",
+
+                    texto:
+                        "Porque o centurião confiou mais na experiência do piloto e do mestre do navio do que na advertência de Paulo."
+                },
+
+                {
+                    titulo:
+                        "2. Quais fatores demonstraram a fragilidade humana?",
+
+                    texto:
+                        "O Euroaquilão, a perda do controle do navio, o lançamento da carga e dos equipamentos ao mar e a perda da esperança."
+                },
+
+                {
+                    titulo:
+                        "3. Qual mensagem Paulo recebeu de Deus?",
+
+                    texto:
+                        "Que não deveria temer, porque Deus preservaria todas as vidas, embora o navio fosse perdido."
+                },
+
+                {
+                    titulo:
+                        "4. Como Paulo influenciou a tripulação?",
+
+                    texto:
+                        "Ele transmitiu esperança, orientou os homens, incentivou-os a comer e demonstrou fé e gratidão."
+                },
+
+                {
+                    titulo:
+                        "5. Como o naufrágio confirmou a promessa?",
+
+                    texto:
+                        "O navio foi destruído, mas todos chegaram vivos à terra, cumprindo a promessa de Deus."
+                }
+
+            ]
+        },
+
+        {
+            titulo: "8. CONCLUSÃO",
+
+            texto:
+                "Atos 27 é uma demonstração da providência de Deus. Houve tempestade, o navio foi danificado, cargas foram perdidas e a esperança humana chegou ao fim. Porém, Deus continuava no controle.\n\nA tempestade não impediu Paulo de chegar a Roma. O naufrágio não anulou a promessa. Deus não prometeu ausência de tempestades, mas prometeu Sua presença e o cumprimento de Seu propósito.\n\nQuando pensamos “meu navio está afundando”, precisamos perguntar: “O que Deus prometeu?”.\n\nPaulo perdeu o navio, mas alcançou Roma. Perdeu recursos, mas não perdeu o propósito. Enfrentou a tempestade, mas não perdeu a presença de Deus.",
+
+            topicos: [
+
+                {
+                    titulo: "🔥 PALAVRA FINAL PARA MINISTRAR",
+
+                    texto:
+                        "Irmãos, talvez você esteja passando por uma tempestade que não escolheu. Talvez algumas coisas estejam sendo lançadas ao mar. Talvez aquilo que você construiu esteja sendo abalado. Talvez você não consiga mais enxergar o sol nem as estrelas. Mas lembre-se de Paulo: quando ele já não conseguia controlar o navio, Deus continuava controlando o destino. O navio poderia naufragar, mas a promessa não naufragaria. Por isso, tenha bom ânimo. Não porque a tempestade seja pequena, mas porque o nosso Deus é grande. Não porque sabemos como tudo vai terminar, mas porque sabemos em quem confiamos. Se Deus prometeu, permaneça firme. Se Deus determinou, continue caminhando. E se a tempestade vier, lembre-se: Deus ainda está no barco."
+                },
+
+                {
+                    titulo: "🙏 Oração final",
+
+                    texto:
+                        "Senhor nosso Deus, nós reconhecemos que existem tempestades que não conseguimos controlar. Há momentos em que nossas forças acabam, nossos recursos desaparecem e não conseguimos enxergar uma saída. Mas hoje aprendemos com Paulo que a nossa esperança não está na estabilidade das circunstâncias, mas na fidelidade do Senhor. Dá-nos coragem para enfrentar as tempestades, sabedoria para tomar decisões, fé para permanecer firmes e confiança para descansar em Tuas promessas. Se algum navio precisar ser perdido, ajuda-nos a não perder a fé. Guarda nossas vidas, nossas famílias e nossos propósitos em Tuas mãos. Em nome de Jesus. Amém."
+                }
+
+            ]
+              }
+
+    ]
+
+          },
 
     jovens: {
 
@@ -1027,8 +1256,7 @@ const licoes = {
 
         }
 
-    },
-
+           },
 
     juvenis: {
 
@@ -1613,9 +1841,7 @@ const licoes = {
 
             ]
 
-        }
-
-    },
+               }
 
     },
 

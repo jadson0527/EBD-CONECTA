@@ -1,25 +1,32 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-
-<head>
+<!DOCTYPE html><html lang="pt-BR"><head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Lições da Escola Bíblica Dominical - EBD Conecta</title>
 
-    <title>Lições - EBD Conecta</title>
+<meta name="description"
+    content="Encontre as lições da Escola Bíblica Dominical organizadas por classe no EBD Conecta. Escolha sua classe e acesse os conteúdos disponíveis para estudo e preparação de aulas.">
 
-    <link rel="stylesheet" href="style.css">
-</head>
+<link rel="stylesheet" href="style.css">
 
-<body>
+</head><body><header>
+    <h1>📖 EBD Conecta</h1>
+    <p>Lições da Escola Bíblica Dominical</p>
+</header>
 
-    <header>
-        <h1>📖 EBD Conecta</h1>
-        <p>Escolha sua classe</p>
-    </header>
+<main>
 
-    <main>
+    <section>
+        <h2>📚 Escolha sua classe</h2>
 
-        <h2>📚 Classes</h2>
+        <p>
+            Selecione abaixo a classe que deseja estudar. O EBD Conecta
+            organiza os conteúdos da Escola Bíblica Dominical para
+            facilitar o acesso às lições e auxiliar na preparação das aulas.
+        </p>
+    </section>
+
+    <section>
+
+        <h2>Classes disponíveis</h2>
 
         <button onclick="abrirClasse('adultos')">
             👨‍🏫 Adultos
@@ -55,38 +62,68 @@
             👧 Juniores
         </button>
 
-        <br><br>
+    </section>
 
-        <button onclick="voltarInicio()">
-            ← Voltar
-        </button>
+    <section>
 
-    </main>
+        <h2>📖 Estude a Palavra de Deus</h2>
 
-    <footer>
-        <p>© 2026 EBD Conecta</p>
-    </footer>
+        <p>
+            A Escola Bíblica Dominical é um importante espaço de ensino,
+            aprendizado e comunhão. Por meio do estudo sistemático das
+            Escrituras, alunos e professores podem aprofundar o conhecimento
+            bíblico e refletir sobre como aplicar seus ensinamentos à vida
+            cristã.
+        </p>
 
-    <script>
+        <p>
+            Escolha sua classe acima para continuar e encontrar as lições
+            disponíveis.
+        </p>
 
-        function abrirClasse(classe) {
+    </section>
 
-            localStorage.setItem(
-                "classeSelecionada",
-                classe
-            );
+    <section>
 
-            window.location.href = "trimestres.html";
-        }
+        <h2>💡 Para professores</h2>
 
-        function voltarInicio() {
+        <p>
+            O EBD Conecta também busca facilitar a preparação das aulas,
+            reunindo informações e recursos de estudo em um ambiente
+            organizado e acessível.
+        </p>
 
-            window.location.href = "index.html";
+    </section>
 
-        }
+    <button onclick="voltarInicio()">
+        ← Voltar para o início
+    </button>
 
-    </script>
+</main>
 
-</body>
+<footer>
+    <p>© 2026 EBD Conecta</p>
+</footer>
 
-</html>
+<script>
+
+    function abrirClasse(classe) {
+
+        localStorage.setItem(
+            "classeSelecionada",
+            classe
+        );
+
+        window.location.href = "trimestres.html";
+
+    }
+
+    function voltarInicio() {
+
+        window.location.href = "index.html";
+
+    }
+
+</script>
+
+</body></html>

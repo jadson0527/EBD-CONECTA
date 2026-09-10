@@ -42,7 +42,21 @@
             border-radius: 6px;
             background: rgba(0, 0, 0, 0.04);
         }
+.advertencia-topico {
+    margin: 15px 0;
+    padding: 12px;
+    border-left: 4px solid currentColor;
+    border-radius: 6px;
+    background: rgba(0, 0, 0, 0.04);
+}
 
+.aplicacao-pessoal-topico {
+    margin: 15px 0;
+    padding: 12px;
+    border-left: 4px solid currentColor;
+    border-radius: 6px;
+    background: rgba(0, 0, 0, 0.04);
+}
         .versiculos-topico {
             margin-top: 18px;
         }
@@ -336,20 +350,47 @@ function criarTopico(topico) {
     }
 
 
-    if (topico.pontoPrincipal) {
+   if (topico.pontoPrincipal) {
 
-        const ponto =
-            document.createElement("div");
+    const ponto = document.createElement("div");
 
-        ponto.className =
-            "ponto-principal-topico";
+    ponto.className = "ponto-principal-topico";
 
-        ponto.textContent =
-            topico.pontoPrincipal;
+    ponto.innerHTML =
+        "<strong>📌 Ponto principal</strong><br>" +
+        topico.pontoPrincipal;
 
-        bloco.appendChild(ponto);
+    bloco.appendChild(ponto);
 
-    }
+}
+
+if (topico.advertencia) {
+
+    const advertencia = document.createElement("div");
+
+    advertencia.className = "advertencia-topico";
+
+    advertencia.innerHTML =
+        "<strong>⚠️ Advertência</strong><br>" +
+        topico.advertencia;
+
+    bloco.appendChild(advertencia);
+
+}
+
+if (topico.aplicacaoPessoal) {
+
+    const aplicacao = document.createElement("div");
+
+    aplicacao.className = "aplicacao-pessoal-topico";
+
+    aplicacao.innerHTML =
+        "<strong>📝 Aplicação pessoal</strong><br>" +
+        topico.aplicacaoPessoal;
+
+    bloco.appendChild(aplicacao);
+
+}
 
 
     if (

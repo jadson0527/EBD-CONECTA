@@ -1,32 +1,44 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-
-<head>
+<!DOCTYPE html><html lang="pt-BR"><head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Trimestres - EBD Conecta</title>
 
-    <title>Trimestres - EBD Conecta</title>
+<meta name="description"
+    content="Escolha o trimestre da Escola Bíblica Dominical e acesse as lições disponíveis para sua classe no EBD Conecta.">
 
-    <link rel="stylesheet" href="style.css">
-</head>
+<link rel="stylesheet" href="style.css">
 
-<body>
+</head><body><header>
 
-    <header>
+    <h1>📖 EBD Conecta</h1>
 
-        <h1>📖 EBD Conecta</h1>
+    <p id="nomeClasse">
+        Classe
+    </p>
 
-        <p id="nomeClasse">
-            Classe
-        </p>
+</header>
 
-    </header>
+<main>
 
-
-    <main>
+    <section>
 
         <h2>📚 Escolha o trimestre</h2>
 
+        <p>
+            Selecione o trimestre que deseja estudar para visualizar
+            as lições disponíveis para a classe escolhida.
+        </p>
+
+        <p>
+            O EBD Conecta organiza os conteúdos por classe e trimestre
+            para facilitar a localização das lições e auxiliar professores
+            e alunos no estudo da Escola Bíblica Dominical.
+        </p>
+
+    </section>
+
+    <section>
+
+        <h2>📅 Trimestres</h2>
 
         <button onclick="abrirTrimestre('1')">
             1º Trimestre
@@ -34,94 +46,99 @@
 
         <br><br>
 
-
         <button onclick="abrirTrimestre('2')">
             2º Trimestre
         </button>
 
         <br><br>
 
-
         <button onclick="abrirTrimestre('3')">
             3º Trimestre
         </button>
 
-        <br><br>
+    </section>
 
+    <section>
 
-        <button onclick="voltarClasses()">
-            ← Voltar para classes
-        </button>
+        <h2>📖 Por que estudar por trimestre?</h2>
 
-    </main>
+        <p>
+            A organização trimestral facilita o acompanhamento do
+            conteúdo da Escola Bíblica Dominical e permite que o aluno
+            mantenha uma sequência de estudos ao longo do ano.
+        </p>
 
+        <p>
+            Para o professor, essa organização também ajuda no
+            planejamento e na preparação das aulas.
+        </p>
 
-    <footer>
+    </section>
 
-        <p>© 2026 EBD Conecta</p>
+    <button onclick="voltarClasses()">
+        ← Voltar para classes
+    </button>
 
-    </footer>
+</main>
 
+<footer>
 
-    <script>
+    <p>© 2026 EBD Conecta</p>
 
-        const classe =
-            localStorage.getItem("classeSelecionada");
+</footer>
 
+<script>
 
-        const nomes = {
+    const classe =
+        localStorage.getItem("classeSelecionada");
 
-            adultos: "Lições de Adultos",
+    const nomes = {
 
-            jovens: "Lições de Jovens",
+        adultos: "Lições de Adultos",
 
-            juvenis: "Lições de Juvenis",
+        jovens: "Lições de Jovens",
 
-            adolescentes: "Lições de Adolescentes",
+        juvenis: "Lições de Juvenis",
 
-            "pre-adolescentes":
-                "Lições de Pré-Adolescentes",
+        adolescentes: "Lições de Adolescentes",
 
-            juniores:
-                "Lições de Juniores"
+        "pre-adolescentes":
+            "Lições de Pré-Adolescentes",
 
-        };
+        juniores:
+            "Lições de Juniores"
 
+    };
 
-        const nomeClasse =
-            document.getElementById("nomeClasse");
+    const nomeClasse =
+        document.getElementById("nomeClasse");
 
+    if (nomes[classe]) {
 
-        if (nomes[classe]) {
+        nomeClasse.textContent =
+            nomes[classe];
 
-            nomeClasse.textContent =
-                nomes[classe];
+    }
 
-        }
+    function abrirTrimestre(trimestre) {
 
+        localStorage.setItem(
+            "trimestreSelecionado",
+            trimestre
+        );
 
-        function abrirTrimestre(trimestre) {
+        window.location.href =
+            "lista-licoes.html";
 
-            localStorage.setItem(
-                "trimestreSelecionado",
-                trimestre
-            );
+    }
 
-            window.location.href =
-                "lista-licoes.html";
+    function voltarClasses() {
 
-        }
+        window.location.href =
+            "licoes.html";
 
+    }
 
-        function voltarClasses() {
+</script>
 
-            window.location.href =
-                "licoes.html";
-
-        }
-
-    </script>
-
-</body>
-
-</html>
+</body></html>
