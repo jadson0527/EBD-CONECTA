@@ -4348,7 +4348,7 @@ conhecendoMaisDeDeus: {
                     "✨👣 EXPLICAR que o evangelho deve ser pregado com o exemplo de vida."
                 ],
 
-                topicos: [
+                desenvolvimento: [
                     {
                         titulo: "1. É PRECISO PREGAR A PALAVRA DE DEUS",
                         subtopico: "Evangelizar é um dever de todo aquele que foi alcançado pela graça de Deus.",
