@@ -900,6 +900,328 @@ const licoes = {
     ]
 },
 
+
+{
+    titulo: "II. O EVANGELHO PREGADO AOS JUDEUS EM ROMA",
+
+    texto:
+        "Paulo não desperdiçou a oportunidade que recebeu em Roma. Mesmo sob custódia, chamou os principais líderes judeus para explicar sua situação e apresentar-lhes o testemunho de Jesus. Ele demonstrou pelas Escrituras que Jesus é o Cristo e anunciou o Reino de Deus. A reação foi dividida: alguns creram, enquanto outros permaneceram incrédulos.",
+
+    pontoPrincipal:
+        "O Evangelho deve ser anunciado com clareza, fidelidade às Escrituras e coragem.",
+
+    exortacao:
+        "Aproveite as oportunidades que Deus concede para anunciar Cristo, usando a Palavra de Deus como fundamento da mensagem.",
+
+    reflexao:
+        "Paulo testemunhou com fidelidade e deixou que cada ouvinte respondesse à mensagem. Nossa responsabilidade é anunciar; a decisão pertence a cada pessoa.",
+
+    topicos: [
+        "📖 Paulo fundamentou sua mensagem nas Escrituras.",
+        "🗣️ O apóstolo aproveitou a oportunidade para anunciar o Reino de Deus.",
+        "❤️ Cada ouvinte precisou responder pessoalmente à mensagem."
+    ],
+
+    palavrasChave: [
+        {
+            termo: "Escrituras",
+            significado:
+                "Palavra de Deus registrada na Bíblia, fundamento para o ensino e a proclamação do Evangelho."
+        },
+        {
+            termo: "Anúncio",
+            significado:
+                "proclamação pública e clara da mensagem de Deus."
+        },
+        {
+            termo: "Decisão",
+            significado:
+                "resposta pessoal diante da mensagem do Evangelho."
+        }
+    ]
+},
+
+{
+    titulo: "1. Paulo convoca os líderes judeus para esclarecer sua situação",
+
+    texto:
+        "Ao chegar a Roma, Paulo chamou os principais judeus para explicar que não havia cometido qualquer crime contra o povo ou contra os costumes dos antepassados. Ele estava preso por causa da esperança de Israel, isto é, por causa da promessa que Deus cumpriu em Cristo (At 28.17-20). Sua defesa tornou-se uma oportunidade de testemunho.",
+
+    pontoPrincipal:
+        "Paulo aproveitou sua própria situação para testemunhar sobre a esperança em Cristo.",
+
+    exortacao:
+        "Quando tiver oportunidade de explicar sua fé, faça isso com respeito, clareza e confiança na Palavra de Deus.",
+
+    reflexao:
+        "Paulo poderia concentrar-se apenas em sua defesa pessoal, mas transformou sua situação em uma oportunidade de testemunho.",
+
+    topicos: [
+        "⚖️ Paulo esclareceu sua situação diante dos líderes judeus.",
+        "✝️ Sua prisão estava relacionada à esperança de Israel.",
+        "📢 Sua defesa tornou-se uma oportunidade de testemunho."
+    ],
+
+    palavrasChave: [
+        {
+            termo: "Esperança",
+            significado:
+                "confiança nas promessas de Deus e na salvação realizada em Cristo."
+        },
+        {
+            termo: "Testemunho",
+            significado:
+                "declaração da verdade do Evangelho por palavras e atitudes."
+        },
+        {
+            termo: "Defesa",
+            significado:
+                "explicação ou resposta apresentada para esclarecer uma acusação ou situação."
+        }
+    ]
+},
+
+{
+    titulo: "2. Paulo anuncia o Reino de Deus, mostrando Cristo nas Escrituras",
+
+    texto:
+        "Depois de explicar sua situação, Paulo passou a anunciar o Reino de Deus e a ensinar a respeito de Jesus Cristo. Desde a manhã até a tarde, procurou persuadir seus ouvintes a partir da Lei de Moisés e dos Profetas (At 28.23). Sua pregação estava firmada nas Escrituras.",
+
+    pontoPrincipal:
+        "A proclamação de Cristo deve estar firmada no testemunho das Escrituras.",
+
+    exortacao:
+        "Conheça a Palavra de Deus e esteja preparado para ensinar e anunciar Cristo com fidelidade bíblica.",
+
+    reflexao:
+        "Paulo não baseou sua mensagem em opiniões pessoais. Ele apresentou Jesus a partir das Escrituras.",
+
+    topicos: [
+        "📖 Paulo ensinava a partir das Escrituras.",
+        "👑 O Reino de Deus era o centro de sua proclamação.",
+        "✝️ Jesus Cristo é o cumprimento das promessas de Deus."
+    ],
+
+    palavrasChave: [
+        {
+            termo: "Reino",
+            significado:
+                "governo soberano de Deus manifestado em sua vontade e em Cristo."
+        },
+        {
+            termo: "Profetas",
+            significado:
+                "mensageiros de Deus cujos escritos apontavam para as promessas divinas."
+        },
+        {
+            termo: "Cumprimento",
+            significado:
+                "realização daquilo que Deus havia prometido anteriormente."
+        }
+    ]
+},
+
+{
+    titulo: "3. A reação dividida revela que o coração é o campo da decisão",
+
+    texto:
+        "A mensagem de Paulo produziu uma reação dividida. Alguns foram persuadidos pelo que ele dizia, enquanto outros não creram (At 28.24). A mesma mensagem foi ouvida por todos, mas as respostas foram diferentes. O Evangelho exige uma resposta pessoal.",
+
+    pontoPrincipal:
+        "O Evangelho exige uma resposta pessoal de cada ouvinte.",
+
+    exortacao:
+        "Não endureça o coração diante da Palavra de Deus; receba com fé a mensagem de Cristo e permita que ela transforme sua vida.",
+
+    reflexao:
+        "Ouvir a Palavra não significa necessariamente recebê-la. A resposta ao Evangelho revela a disposição do coração diante da verdade de Deus.",
+
+    topicos: [
+        "👂 Todos ouviram a mensagem anunciada.",
+        "❤️ As pessoas responderam de maneiras diferentes.",
+        "✝️ O Evangelho chama cada pessoa a uma decisão."
+    ],
+
+    palavrasChave: [
+        {
+            termo: "Reação",
+            significado:
+                "resposta apresentada diante de uma mensagem ou acontecimento."
+        },
+        {
+            termo: "Crer",
+            significado:
+                "confiar em Deus e receber como verdadeira a mensagem do Evangelho."
+        },
+        {
+            termo: "Coração",
+            significado:
+                "dimensão interior da pessoa, envolvendo sua vontade, pensamentos e decisões."
+        }
+    ]
+},
+
+{
+    titulo: "III. A REJEIÇÃO DOS JUDEUS E A SALVAÇÃO AOS GENTIOS",
+
+    texto:
+        "A incredulidade de parte dos judeus não significou o fracasso da Palavra de Deus. Paulo declarou que a salvação de Deus havia sido enviada aos gentios, e estes a ouviriam (At 28.28). O Evangelho continuava avançando para além das fronteiras de Israel.",
+
+    pontoPrincipal:
+        "A rejeição de alguns não impede o avanço da salvação de Deus entre os povos.",
+
+    exortacao:
+        "Permaneça fiel à missão de anunciar o Evangelho, sabendo que Deus continua alcançando pessoas de todos os povos.",
+
+    reflexao:
+        "A resistência encontrada por Paulo não encerrou sua missão. Deus continuou conduzindo a mensagem de Cristo para novos povos e lugares.",
+
+    topicos: [
+        "⚠️ Parte dos judeus rejeitou a mensagem anunciada.",
+        "🌎 A salvação foi anunciada também aos gentios.",
+        "📖 O propósito de Deus continuou avançando."
+    ],
+
+    palavrasChave: [
+        {
+            termo: "Rejeição",
+            significado:
+                "recusa consciente em receber ou aceitar uma mensagem."
+        },
+        {
+            termo: "Gentios",
+            significado:
+                "povos que não pertenciam ao povo judeu."
+        },
+        {
+            termo: "Salvação",
+            significado:
+                "obra de Deus que liberta do pecado e concede vida eterna por meio de Cristo."
+        }
+    ]
+},
+
+{
+    titulo: "4. O endurecimento espiritual de Israel",
+
+    texto:
+        "Paulo encerra seu diálogo com os judeus citando a profecia de Isaías 6.9,10, mostrando que a incredulidade já havia sido anunciada nas Escrituras (At 28.25-27). O texto chama a atenção para o perigo de ouvir continuamente a Palavra e permanecer espiritualmente endurecido.",
+
+    pontoPrincipal:
+        "O endurecimento espiritual impede que a pessoa responda corretamente à Palavra de Deus.",
+
+    exortacao:
+        "Examine seu coração continuamente e não permita que a resistência, o orgulho ou a incredulidade impeçam sua obediência à Palavra.",
+
+    reflexao:
+        "A Palavra deve ser recebida com fé, humildade e disposição para obedecer.",
+
+    topicos: [
+        "⚠️ O endurecimento pode impedir uma resposta adequada à Palavra.",
+        "📖 Paulo mostrou que essa realidade havia sido anunciada por Isaías.",
+        "❤️ Deus deseja um coração sensível à sua voz."
+    ],
+
+    palavrasChave: [
+        {
+            termo: "Endurecimento",
+            significado:
+                "resistência persistente à verdade e à vontade de Deus."
+        },
+        {
+            termo: "Incredulidade",
+            significado:
+                "falta de fé ou recusa em confiar na verdade de Deus."
+        },
+        {
+            termo: "Obediência",
+            significado:
+                "disposição de colocar em prática a vontade revelada por Deus."
+        }
+    ]
+},
+
+{
+    titulo: "5. A salvação estende-se aos gentios conforme o plano eterno de Deus",
+
+    texto:
+        "Diante da resistência de parte dos judeus, Paulo afirmou que a salvação de Deus havia sido enviada aos gentios, e que eles a ouviriam (At 28.28). Isso está em harmonia com o propósito revelado nas Escrituras: Deus desejava abençoar todas as famílias da terra por meio de sua promessa (Gn 12.3).",
+
+    pontoPrincipal:
+        "O plano de Deus inclui levar a salvação em Cristo a todos os povos.",
+
+    exortacao:
+        "Participe da missão de Deus anunciando Cristo sem fazer distinção de pessoas, povos ou condições sociais.",
+
+    reflexao:
+        "A Igreja não recebeu o Evangelho para guardá-lo entre poucos. Somos chamados a levar a mensagem de Cristo a todos.",
+
+    topicos: [
+        "🌎 A salvação é anunciada a todos os povos.",
+        "📜 O propósito missionário de Deus aparece desde as Escrituras.",
+        "📢 A Igreja participa da expansão do Evangelho."
+    ],
+
+    palavrasChave: [
+        {
+            termo: "Missão",
+            significado:
+                "tarefa confiada por Deus de anunciar o Evangelho e fazer discípulos."
+        },
+        {
+            termo: "Povos",
+            significado:
+                "diferentes grupos humanos alcançados pela mensagem da salvação."
+        },
+        {
+            termo: "Propósito",
+            significado:
+                "plano ou intenção estabelecida por Deus para realizar sua vontade."
+        }
+    ]
+},
+
+{
+    titulo: "6. Atos termina proclamando um Reino que não pode ser detido",
+
+    texto:
+        "Lucas encerra o livro de Atos mostrando Paulo em Roma, recebendo todos os que vinham até ele e anunciando o Reino de Deus e ensinando sobre Jesus Cristo com toda a liberdade e sem impedimento algum (At 28.30,31). O Evangelho chegou ao coração do império, mas sua missão não terminou ali.",
+
+    pontoPrincipal:
+        "O Evangelho continua avançando porque o Reino de Deus não pode ser impedido.",
+
+    exortacao:
+        "Continue anunciando Cristo com coragem e fidelidade, mesmo quando existirem limitações, oposição ou dificuldades.",
+
+    reflexao:
+        "Atos termina com Paulo limitado fisicamente, mas pregando livremente. A missão pertence a Deus e nossas circunstâncias não precisam determinar nossa fidelidade.",
+
+    topicos: [
+        "⛓️ Paulo estava sob custódia, mas continuava anunciando Cristo.",
+        "👑 O Reino de Deus continuava sendo proclamado.",
+        "🌎 A missão da Igreja permanece até que o Evangelho alcance os povos."
+    ],
+
+    palavrasChave: [
+        {
+            termo: "Reino de Deus",
+            significado:
+                "manifestação do governo soberano de Deus, estabelecido e proclamado em Cristo."
+        },
+        {
+            termo: "Ousadia",
+            significado:
+                "coragem para anunciar a verdade mesmo diante de dificuldades ou oposição."
+        },
+        {
+            termo: "Missão",
+            significado:
+                "responsabilidade de proclamar o Evangelho e testemunhar de Cristo."
+        }
+    ]
+}
+
+
               ],
 
               conclusao:
