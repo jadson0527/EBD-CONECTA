@@ -4244,252 +4244,235 @@ conhecendoMaisDeDeus: {
                 numero: "Lição 12",
                 titulo: "A IMPORTÂNCIA DO EVANGELISMO",
                 textoPrincipal: "Atos 1.8; Romanos 1.16; 1 Coríntios 9.16,17",
-                perguntaGancho: "🎯Se você recebesse uma notícia capaz de transformar a vida de muitas pessoas, você guardaria essa notícia somente para si ou compartilharia com outras pessoas?",
-                curiosidade: "💡O evangelismo é uma missão que Jesus confiou aos seus discípulos. Antes de subir ao céu, Ele prometeu poder do Espírito Santo para que seus seguidores fossem suas testemunhas e anunciassem o Evangelho até os confins da terra.",
+
+                perguntaGancho: "🎯 Se você recebeu uma notícia que pode transformar a vida de uma pessoa, você guardaria essa notícia para si ou faria questão de contá-la? Por quê?",
+
+                curiosidade: "💡Você sabia que evangelizar não é apenas falar sobre Jesus, mas cumprir uma missão que Ele mesmo confiou à Igreja? Em Atos 1.8, Jesus mostrou que seus discípulos receberiam poder do Espírito Santo para serem suas testemunhas. A missão começaria em Jerusalém e avançaria até os lugares mais distantes. Isso mostra que o Evangelho não foi destinado a ficar dentro das quatro paredes da igreja: ele deve ser anunciado para alcançar pessoas de todos os lugares.",
+
                 palavraChave: "📢 Evangelismo",
 
                 devocional: [
                     {
                         dia: "✨ Segunda-feira — Ide e fazei discípulos",
-                        versiculo: "📖 Mateus 28.18-20",
-                        texto: "Jesus deixou aos seus discípulos a missão de fazer outros discípulos e ensinar tudo o que Ele ordenou. Evangelizar é obedecer ao chamado de Cristo e anunciar a sua mensagem a outras pessoas. Essa missão continua sendo responsabilidade da Igreja e de cada cristão.",
+                        versiculo: '📖 "Ide, portanto, fazei discípulos de todas as nações" — Mateus 28.18-20',
+                        texto: "Jesus nos chama para anunciar o Evangelho e fazer discípulos. Essa missão continua sendo responsabilidade de cada cristão.",
                         pontos: [
-                            "📢 Jesus nos chama para anunciar o Evangelho.",
-                            "🌎 A missão alcança pessoas de todos os lugares.",
-                            "🤝 Fazer discípulos envolve ensinar e acompanhar."
+                            "🙏 Jesus nos chama para anunciar o Evangelho.",
+                            "🕊️ O poder para cumprir a missão vem dEle.",
+                            "✨ Fazer discípulos envolve ensinar e acompanhar."
                         ],
-                        advertencia: "⚠️ Não devemos tratar a missão de evangelizar como algo sem importância.",
-                        aplicacao: "🙏 Procure hoje uma oportunidade para falar de Jesus e demonstrar o seu amor por meio de atitudes."
+                        advertencia: "⚠️ Não devemos tratar a Grande Comissão como uma tarefa sem importância.",
+                        aplicacao: "💭 Procure hoje uma oportunidade para falar de Jesus com alguém.",
+                        destaque: "✨ Quem conhece a Cristo tem uma mensagem que precisa ser compartilhada."
                     },
                     {
                         dia: "✨ Terça-feira — Pregue a Palavra",
-                        versiculo: "📖 2 Timóteo 4.2",
-                        texto: "Paulo orientou Timóteo a pregar a Palavra com perseverança, aproveitando as oportunidades para ensinar e corrigir com amor. O Evangelho precisa ser anunciado com fidelidade, mesmo quando as pessoas não querem ouvir. Quem recebeu a verdade deve estar disposto a compartilhá-la.",
+                        versiculo: '📖 "Prega a palavra, insta a tempo e fora de tempo" — 2 Timóteo 4.2',
+                        texto: "Paulo orientou Timóteo a permanecer firme na missão de anunciar a Palavra.",
                         pontos: [
-                            "📖 A Palavra de Deus deve ser anunciada.",
-                            "💪 Precisamos perseverar mesmo diante das dificuldades.",
-                            "❤️ A mensagem deve ser transmitida com amor e fidelidade."
+                            "🙏 A Palavra deve ser anunciada com fidelidade.",
+                            "📖 O ensino bíblico precisa ocupar lugar central.",
+                            "💪 A perseverança é necessária na missão."
                         ],
-                        advertencia: "⚠️ Não devemos deixar de falar da Palavra apenas porque algumas pessoas podem rejeitá-la.",
-                        aplicacao: "🙏 Peça a Deus coragem para anunciar sua Palavra com sabedoria e amor."
+                        advertencia: "⚠️ Não devemos abandonar a verdade bíblica para agradar às pessoas.",
+                        aplicacao: "💭 Compartilhe aquilo que a Bíblia ensina com amor, sabedoria e respeito.",
+                        destaque: "✨ A verdade de Deus continua precisando de testemunhas fiéis."
                     },
                     {
                         dia: "✨ Quarta-feira — Poder para testemunhar",
-                        versiculo: "📖 Lucas 24.49",
-                        texto: "Jesus prometeu aos discípulos que receberiam poder do alto antes de testemunharem sobre Ele. O evangelismo não depende apenas da capacidade humana, mas da capacitação que vem de Deus. O Espírito Santo fortalece o cristão para cumprir sua missão.",
+                        versiculo: '📖 "Mas recebereis a virtude do Espírito Santo, que há de vir sobre vós" — Lucas 24.49',
+                        texto: "O Espírito Santo capacita o cristão para testemunhar de Cristo.",
                         pontos: [
-                            "🔥 Deus capacita seus filhos para testemunhar.",
-                            "🕊️ O Espírito Santo concede poder para a missão.",
-                            "📢 O testemunho cristão deve apontar para Jesus."
+                            "🕊️ O Espírito Santo capacita para a missão.",
+                            "🙏 A obra de Deus exige dependência dEle.",
+                            "🔥 O testemunho cristão precisa de poder espiritual."
                         ],
-                        advertencia: "⚠️ Não devemos confiar somente em nossa própria capacidade para realizar a obra de Deus.",
-                        aplicacao: "🙏 Busque a capacitação do Espírito Santo para ser uma testemunha fiel de Cristo."
+                        advertencia: "⚠️ Não devemos confiar somente em nossa capacidade humana.",
+                        aplicacao: "💭 Ore pedindo que o Espírito Santo fortaleça seu testemunho.",
+                        destaque: "✨ Deus capacita quem se dispõe a cumprir sua missão."
                     },
                     {
                         dia: "✨ Quinta-feira — Escolhido para anunciar",
-                        versiculo: "📖 Atos 9.15",
-                        texto: "Deus escolheu Paulo para levar o nome de Jesus diante de diferentes pessoas e nações. Sua vida mostra que Deus pode transformar uma pessoa e usá-la para anunciar o Evangelho. O chamado para testemunhar deve ser recebido com responsabilidade.",
+                        versiculo: '📖 "Este é para mim um vaso escolhido para levar o meu nome" — Atos 9.15',
+                        texto: "Deus transformou a vida de Saulo e o chamou para levar o nome de Jesus a diferentes povos.",
                         pontos: [
-                            "🎯 Deus chama pessoas para anunciar o Evangelho.",
-                            "🔄 Deus pode transformar completamente uma vida.",
-                            "📢 O testemunho deve glorificar o nome de Jesus."
+                            "✨ Deus transforma vidas para sua obra.",
+                            "📖 O nome de Jesus deve ser anunciado.",
+                            "🙏 Nossa história pode ser usada por Deus."
                         ],
-                        advertencia: "⚠️ Não devemos pensar que Deus só pode usar pessoas com grandes conhecimentos ou habilidades.",
-                        aplicacao: "🙏 Coloque sua vida nas mãos de Deus e esteja disponível para testemunhar de Cristo."
+                        advertencia: "⚠️ Não devemos limitar aquilo que Deus pode fazer na vida de uma pessoa.",
+                        aplicacao: "💭 Permita que sua experiência com Cristo encoraje outras pessoas.",
+                        destaque: "✨ Uma vida transformada pode se tornar uma poderosa testemunha."
                     },
                     {
                         dia: "✨ Sexta-feira — A semente é a Palavra",
-                        versiculo: "📖 Lucas 8.11",
-                        texto: "Jesus ensinou que a semente representa a Palavra de Deus. Quando anunciamos o Evangelho, estamos lançando essa semente no coração das pessoas. Nem todos responderão da mesma maneira, mas nossa responsabilidade é anunciar com fidelidade.",
+                        versiculo: '📖 "Esta é, pois, a parábola: A semente é a palavra de Deus" — Lucas 8.11',
+                        texto: "Quando anunciamos o Evangelho, lançamos a Palavra de Deus no coração das pessoas.",
                         pontos: [
                             "🌱 A Palavra de Deus é a semente.",
-                            "❤️ O coração das pessoas precisa receber a mensagem.",
-                            "🙏 Devemos confiar em Deus quanto aos resultados."
+                            "📖 O Evangelho precisa ser semeado.",
+                            "❤️ Cada coração precisa responder à Palavra."
                         ],
-                        advertencia: "⚠️ Não devemos desistir de evangelizar porque algumas pessoas não aceitam imediatamente a mensagem.",
-                        aplicacao: "🙏 Continue semeando a Palavra e confie que Deus pode produzir frutos."
+                        advertencia: "⚠️ Não devemos deixar de anunciar a Palavra por medo de não vermos resultados imediatos.",
+                        aplicacao: "💭 Continue semeando a Palavra através das suas palavras e atitudes.",
+                        destaque: "✨ Quem semeia a Palavra participa da missão de Deus."
                     },
                     {
                         dia: "✨ Sábado — Ide por todo o mundo",
-                        versiculo: "📖 Marcos 16",
-                        texto: "Jesus ordenou que seus discípulos fossem por todo o mundo e pregassem o Evangelho a todas as pessoas. Essa ordem revela o alcance universal da missão cristã. A Igreja deve anunciar a mensagem de salvação sem fazer distinção entre as pessoas.",
+                        versiculo: '📖 "Ide por todo o mundo, pregai o evangelho a toda criatura" — Marcos 16.15',
+                        texto: "Jesus deixou aos seus seguidores a missão de levar o Evangelho a todas as pessoas.",
                         pontos: [
-                            "🌎 O Evangelho deve alcançar todas as pessoas.",
-                            "📢 A Igreja recebeu a responsabilidade de anunciar.",
-                            "✝️ Jesus é o centro da mensagem de salvação."
+                            "🌍 O Evangelho é para todos.",
+                            "📖 A mensagem de Cristo deve ser anunciada.",
+                            "🙏 A Igreja precisa permanecer comprometida com a missão."
                         ],
-                        advertencia: "⚠️ Não devemos limitar o Evangelho somente às pessoas que fazem parte do nosso círculo de convivência.",
-                        aplicacao: "🙏 Pense em alguém que ainda não conhece Jesus e procure uma oportunidade para compartilhar o Evangelho."
+                        advertencia: "⚠️ Não devemos permitir que comodidade ou medo nos impeçam de testemunhar.",
+                        aplicacao: "💭 Procure uma maneira concreta de compartilhar Cristo com alguém.",
+                        destaque: "✨ O Evangelho chegou até nós para que também o levemos a outros."
                     }
                 ],
 
                 licaoHoje: {
                     referencia: "Atos 1.8; Romanos 1.16; 1 Coríntios 9.16,17",
-                    pontoPrincipal: "📌 Ponto principal: O Evangelho deve ser anunciado com poder, coragem e compromisso, porque é a mensagem de salvação para todos."
+                    pontoPrincipal: "O Evangelho deve ser anunciado com poder, coragem e compromisso, porque é a mensagem de salvação para todos."
                 },
 
                 bibliaDiz: {
-                    versiculo: "O Espírito do Senhor é sobre mim, pois que me ungiu para evangelizar os pobres, enviou-me a curar os quebrantados do coração. Lucas 4.18",
-                    pontoPrincipal: "📌 Ponto principal: Jesus foi enviado para anunciar as boas-novas e levar esperança aos necessitados."
+                    versiculo: '📖 "O Senhor me deu o seu Espírito. Ele me escolheu para levar boas notícias aos pobres e me enviou para anunciar a liberdade aos presos, dar vista aos cegos, libertar os que estão sendo oprimidos." Lucas 4.18',
+                    pontoPrincipal: "Jesus foi enviado para anunciar as Boas-Novas e trazer libertação aos necessitados."
                 },
 
                 objetivos: [
-                    "🎯 APONTAR que é preciso cumprir a evangelização;",
-                    "❤️ ENSINAR que a igreja deve cuidar dos carentes;",
-                    "📢 EXPLICAR que o evangelho deve ser pregado com o exemplo de vida."
+                    "📢 APONTAR que é preciso cumprir a evangelização;",
+                    "🤝 ENSINAR que a igreja deve cuidar dos carentes;",
+                    "✨👣 EXPLICAR que o evangelho deve ser pregado com o exemplo de vida."
                 ],
 
                 topicos: [
                     {
                         titulo: "1. É PRECISO PREGAR A PALAVRA DE DEUS",
-                        subtopico: "A Igreja recebeu de Jesus a responsabilidade de anunciar o Evangelho. Pregar a Palavra é apresentar às pessoas a mensagem de salvação e mostrar que somente Jesus pode transformar o coração humano.",
-                        pontoPrincipal: "📌 Ponto principal: O Evangelho precisa ser anunciado porque é a mensagem de salvação para todas as pessoas.",
+                        subtopico: "Evangelizar é um dever de todo aquele que foi alcançado pela graça de Deus.",
+                        pontoPrincipal: "Evangelizar é um dever de todo aquele que foi alcançado pela graça de Deus.",
                         versiculos: [
                             {
                                 referencia: "Marcos 16.15",
-                                texto: "E disse-lhes: Ide por todo o mundo, pregai o evangelho a toda criatura.",
-                                pontoPrincipal: "📌 Jesus ordenou que seus discípulos levassem o Evangelho a todas as pessoas."
+                                pontoPrincipal: "Jesus ordenou que o Evangelho fosse anunciado a todas as pessoas."
                             },
                             {
                                 referencia: "Romanos 1.16",
-                                texto: "Porque não me envergonho do evangelho de Cristo, pois é o poder de Deus para salvação de todo aquele que crê, primeiro do judeu e também do grego.",
-                                pontoPrincipal: "📌 O Evangelho é o poder de Deus para a salvação de todo aquele que crê."
+                                pontoPrincipal: "O Evangelho é o poder de Deus para a salvação de todo aquele que crê."
                             }
                         ],
-                        exortacao: "🔥 Não devemos ter vergonha de falar de Jesus. Precisamos aproveitar as oportunidades que Deus coloca diante de nós para anunciar a Palavra com coragem, amor e fidelidade.",
-                        reflexao: "🤔 Tenho aproveitado as oportunidades para falar de Jesus às pessoas que estão ao meu redor?",
-                        pontosPrincipais: [
-                            "📢 A Igreja deve anunciar a Palavra de Deus.",
-                            "✝️ Jesus é o centro da mensagem do Evangelho.",
-                            "🌎 A mensagem de salvação deve alcançar todas as pessoas."
-                        ],
+                        exortacao: "Não tenha vergonha de falar de Jesus. Aproveite as oportunidades na escola, em casa, na vizinhança e entre seus amigos para demonstrar e anunciar o amor de Deus.",
+                        reflexao: "Se você realmente conhece Jesus e já experimentou a sua salvação, pense: as pessoas ao seu redor conseguem perceber, pelas suas palavras e atitudes, que você pertence a Cristo?",
                         palavrasChave: [
                             {
-                                palavra: "Evangelismo",
-                                significado: "📢 A missão de anunciar as boas-novas de Jesus Cristo."
+                                termo: "📢 Evangelismo",
+                                significado: "Anúncio da mensagem de salvação por meio de Jesus Cristo."
                             },
                             {
-                                palavra: "Salvação",
-                                significado: "✝️ A obra de Deus que livra o pecador e oferece nova vida em Cristo."
+                                termo: "❤️ Salvação",
+                                significado: "A obra de Deus que livra o pecador do pecado e o conduz à vida em Cristo."
                             },
                             {
-                                palavra: "Testemunho",
-                                significado: "🗣️ O anúncio daquilo que Cristo fez e continua fazendo na vida do cristão."
+                                termo: "👣 Testemunho",
+                                significado: "Demonstração da fé em Cristo por meio das palavras e do modo de viver."
                             }
                         ]
                     },
                     {
                         titulo: "2. A IGREJA CUIDA DOS NECESSITADOS",
-                        subtopico: "Evangelizar também envolve demonstrar o amor de Deus por meio de atitudes. A Igreja deve olhar para aqueles que enfrentam necessidades e procurar ajudá-los, mostrando na prática o cuidado e a compaixão de Cristo.",
-                        pontoPrincipal: "📌 Ponto principal: A Igreja demonstra o amor de Cristo quando cuida das pessoas necessitadas.",
+                        subtopico: "A Igreja demonstra o amor de Cristo quando cuida dos necessitados.",
+                        pontoPrincipal: "A Igreja demonstra o amor de Cristo quando cuida dos necessitados.",
                         versiculos: [
                             {
                                 referencia: "Tiago 2.15-16",
-                                texto: "E, se o irmão ou a irmã estiverem nus e tiverem falta de mantimento cotidiano, e algum de vós lhes disser: Ide em paz, aquentai-vos e fartai-vos; e lhes não derdes as coisas necessárias para o corpo, que proveito virá daí?",
-                                pontoPrincipal: "📌 A fé deve produzir atitudes concretas de amor e cuidado com quem necessita."
+                                pontoPrincipal: "A fé verdadeira deve ser acompanhada de atitudes de cuidado."
                             },
                             {
                                 referencia: "Tiago 1.27",
-                                texto: "A religião pura e imaculada para com Deus, o Pai, é esta: visitar os órfãos e as viúvas nas suas tribulações e guardar-se da corrupção do mundo.",
-                                pontoPrincipal: "📌 A verdadeira fé se manifesta no cuidado com os necessitados e em uma vida separada do pecado."
+                                pontoPrincipal: "Servir aos necessitados faz parte de uma vida cristã verdadeira."
                             }
                         ],
-                        exortacao: "❤️ Não devemos ignorar quem está passando por necessidades. Podemos ajudar com aquilo que temos, oferecendo alimento, atenção, oração, companhia e outras formas de cuidado.",
-                        reflexao: "🤔 Minha maneira de tratar as pessoas demonstra o amor de Cristo que existe em mim?",
-                        pontosPrincipais: [
-                            "❤️ A Igreja deve demonstrar compaixão.",
-                            "🤝 Devemos cuidar daqueles que enfrentam necessidades.",
-                            "🎁 A partilha é uma expressão prática do amor cristão."
-                        ],
+                        exortacao: "Não ignore quem precisa de ajuda. Compartilhe o que você tem, ofereça seu tempo, ajude um colega ou procure a liderança da igreja quando perceber alguém passando necessidade.",
+                        reflexao: "Nossa maneira de tratar as pessoas necessitadas também revela aquilo que existe em nosso coração. Quando ajudamos alguém por amor a Cristo, nossas atitudes podem transmitir o Evangelho de uma forma que palavras sozinhas não conseguem.",
                         palavrasChave: [
                             {
-                                palavra: "Compaixão",
-                                significado: "❤️ Sensibilidade diante da necessidade do próximo que nos leva a agir para ajudá-lo."
+                                termo: "❤️ Compaixão",
+                                significado: "Sentir a necessidade do próximo e ter disposição para ajudá-lo."
                             },
                             {
-                                palavra: "Comunhão",
-                                significado: "🤝 Vida de relacionamento e cuidado entre os irmãos."
+                                termo: "🤝 Comunhão",
+                                significado: "Viver em união, cuidado e participação com os irmãos."
                             },
                             {
-                                palavra: "Partilha",
-                                significado: "🎁 Disposição para dividir aquilo que temos com quem precisa."
+                                termo: "🎁 Partilha",
+                                significado: "Dividir aquilo que temos com quem está necessitado."
                             }
                         ]
                     },
                     {
                         titulo: "3. USE PALAVRAS E PREGUE COM A VIDA",
-                        subtopico: "O cristão deve anunciar o Evangelho com suas palavras, mas também precisa demonstrar a mensagem por meio de seu comportamento. Uma vida transformada pelo Espírito Santo confirma, na prática, aquilo que os nossos lábios anunciam.",
-                        pontoPrincipal: "📌 Ponto principal: O cristão deve anunciar Jesus com suas palavras e confirmar sua fé por meio de uma vida transformada.",
+                        subtopico: "O Evangelho deve ser anunciado por nossas palavras e confirmado por nossas atitudes.",
+                        pontoPrincipal: "O Evangelho deve ser anunciado por nossas palavras e confirmado por nossas atitudes.",
                         versiculos: [
                             {
                                 referencia: "2 Timóteo 4.2",
-                                texto: "Que pregues a palavra, instes a tempo e fora de tempo, redarguas, repreendas, exortes, com toda a longanimidade e doutrina.",
-                                pontoPrincipal: "📌 A Palavra deve ser anunciada com perseverança, paciência e fidelidade."
+                                pontoPrincipal: "Devemos aproveitar as oportunidades para anunciar a Palavra de Deus."
                             },
                             {
                                 referencia: "Gálatas 5.22",
-                                texto: "Mas o fruto do Espírito é: amor, gozo, paz, longanimidade, benignidade, bondade, fé, mansidão, temperança.",
-                                pontoPrincipal: "📌 O fruto do Espírito deve aparecer no comportamento daquele que segue a Cristo."
+                                pontoPrincipal: "O Espírito Santo produz em nós atitudes que refletem Cristo."
                             }
                         ],
-                        exortacao: "🔥 Não basta falar sobre Jesus se nossas atitudes contradizem aquilo que pregamos. Precisamos permitir que o Espírito Santo transforme nosso caráter para que nossa vida seja um testemunho de Cristo.",
-                        reflexao: "🤔 As minhas atitudes confirmam ou contradizem aquilo que digo sobre Jesus?",
-                        pontosPrincipais: [
-                            "🗣️ Precisamos anunciar o Evangelho com nossas palavras.",
-                            "❤️ Nossa vida também deve testemunhar de Cristo.",
-                            "🍇 O fruto do Espírito deve aparecer em nosso comportamento."
-                        ],
+                        exortacao: "Pregue Jesus com suas palavras, mas também mostre sua fé através do comportamento. Na escola, em casa, na igreja e com seus amigos, procure agir de maneira que glorifique a Deus.",
+                        reflexao: "Se alguém observasse somente suas atitudes, conseguiria perceber que você segue a Jesus?",
                         palavrasChave: [
                             {
-                                palavra: "Exemplo",
-                                significado: "👣 Uma maneira de ensinar por meio das próprias atitudes."
+                                termo: "👣 Exemplo",
+                                significado: "Maneira de viver que pode influenciar outras pessoas."
                             },
                             {
-                                palavra: "Testemunho",
-                                significado: "📢 Uma vida que demonstra aquilo que cremos e anunciamos."
+                                termo: "🗣️ Testemunho",
+                                significado: "Declaração e demonstração daquilo que Deus realizou em nossa vida."
                             },
                             {
-                                palavra: "Fruto",
-                                significado: "🍇 Resultado visível da atuação do Espírito Santo na vida do cristão."
+                                termo: "🕊️ Fruto",
+                                significado: "Características produzidas pelo Espírito Santo na vida do cristão."
                             }
                         ]
                     }
                 ],
 
-                conclusao: "📌 CONCLUSÃO: Evangelizar é uma responsabilidade que Jesus entregou à sua Igreja. Precisamos anunciar a Palavra com coragem, cuidar daqueles que enfrentam necessidades e viver de maneira coerente com aquilo que pregamos. Quando nossas palavras e atitudes apontam para Cristo, nosso testemunho pode alcançar outras pessoas e mostrar o amor de Deus.",
+                conclusao: "Nestes últimos dias, a pregação da Palavra de Deus precisa ser acompanhada de atitudes que comprovam que a fé que os cristãos afirmam ter não se trata apenas de um discurso, mas de um verdadeiro compromisso com o Reino de Deus.",
 
                 perguntas: [
                     {
-                        nivel: "🟢 1. Fácil",
-                        pergunta: "O que é evangelismo?",
-                        resposta: "Evangelismo é anunciar o Evangelho de Jesus Cristo, apresentando às pessoas a mensagem de salvação."
+                        pergunta: "🟢 Fácil: O que é evangelismo?",
+                        resposta: "É anunciar a mensagem de salvação em Jesus Cristo para as pessoas."
                     },
                     {
-                        nivel: "🟡 2. Média",
-                        pergunta: "Como a Igreja demonstra cuidado pelos necessitados?",
-                        resposta: "A Igreja demonstra cuidado quando olha para as necessidades das pessoas e procura ajudá-las de maneira prática, com compaixão, comunhão e partilha."
+                        pergunta: "🟡 Média: Além de pregar a Palavra, como a Igreja deve cuidar dos necessitados?",
+                        resposta: "A Igreja deve acolher, acompanhar, ensinar e ajudar aqueles que estão passando por necessidades, compartilhando o que possui."
                     },
                     {
-                        nivel: "🔴 3. Difícil",
-                        pergunta: "Por que o evangelismo não deve ser apenas uma questão de palavras?",
-                        resposta: "Porque o cristão também precisa demonstrar por meio de sua vida aquilo que anuncia. Suas atitudes devem confirmar a mensagem do Evangelho."
+                        pergunta: "🔴 Difícil: Por que o trabalho de evangelização não deve se limitar apenas às palavras?",
+                        resposta: "Porque o testemunho cristão também deve ser demonstrado por meio de boas atitudes, mostrando na prática o amor de Cristo."
                     },
                     {
-                        nivel: "🔴 4. Difícil",
-                        pergunta: "Qual é a relação entre o fruto do Espírito e o testemunho cristão?",
-                        resposta: "O fruto do Espírito demonstra uma vida transformada por Deus. Quando amor, paz, bondade, mansidão e outras características aparecem no comportamento do cristão, sua vida se torna um testemunho da ação de Deus."
+                        pergunta: "🔴 Difícil: Qual é a relação entre o fruto do Espírito e o testemunho cristão?",
+                        resposta: "O fruto do Espírito produz características como amor, alegria, paz, bondade, fidelidade e domínio próprio, que devem ser percebidas na maneira de viver do cristão."
                     },
                     {
-                        nivel: "🔴 5. Difícil",
-                        pergunta: "Por que o exemplo de Paulo é importante para o evangelismo?",
-                        resposta: "Porque Paulo não apenas pregou o Evangelho, mas dedicou sua vida à missão, enfrentando dificuldades e permanecendo comprometido com o anúncio de Cristo. Seu exemplo ensina que evangelizar exige coragem, perseverança e compromisso."
+                        pergunta: "🔴 Difícil: Por que o exemplo de Paulo é importante para o ensino sobre evangelismo?",
+                        resposta: "Porque Paulo demonstrou compromisso com a pregação do Evangelho, enfrentando perseguições e sofrimentos sem abandonar sua missão de anunciar Cristo."
                     }
                 ]
+            }
             }
         }
 }
 
-};
 console.log(
     "TESTE PRÉ-ADOLESCENTES:",
     licoes["pre-adolescentes"]
