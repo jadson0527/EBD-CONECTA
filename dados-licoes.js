@@ -746,7 +746,198 @@ const licoes = {
     ]
 
           },
+                    "12": {
 
+              numero: "Lição 12",
+              titulo: "O Evangelho chega ao coração do império",
+
+              perguntaGancho:
+                  "🎯 Se Paulo estava preso em Roma, como o Evangelho conseguiu chegar ao coração do maior império do mundo daquela época?",
+
+              introducao:
+                  "💡Quando Paulo chegou a Roma, ele não estava em liberdade plena. Mesmo assim, durante dois anos, recebeu pessoas em sua própria casa e anunciou o Reino de Deus. A prisão limitava os movimentos de Paulo, mas não conseguia prender a mensagem de Cristo.",
+
+              textoAureo:
+                  "“Pregando o Reino de Deus e ensinando com toda a liberdade as coisas pertencentes ao Senhor Jesus Cristo, sem impedimento algum.” (At 28.31).",
+
+              pontoPrincipal:
+                  "A Palavra de Deus pode avançar mesmo quando o mensageiro enfrenta limitações.",
+
+              verdadePratica:
+                  "Nada pode impedir o avanço do Reino de Deus quando o Evangelho é anunciado com fidelidade, coragem e esperança.",
+
+              palavraChave:
+                  "EVANGELHO",
+
+              leituraBiblica:
+                  "Atos 28.16-24,28-31",
+
+              objetivos: [
+                  "🔒 Mostrar que a prisão não impediu o avanço do Reino de Deus;",
+                  "⚖️ Destacar a reação dos judeus e discernir o campo da decisão;",
+                  "🌎 Enfatizar o exemplo de Paulo à missão da Igreja hoje."
+              ],
+
+              desenvolvimento: [
+
+                  {
+    titulo: "I. PAULO EM ROMA: PRISIONEIRO, MAS LIVRE EM CRISTO",
+
+    texto:
+        "Ao chegar a Roma, Paulo não foi lançado em uma prisão comum, mas colocado em residência vigiada, permanecendo sob custódia de um soldado. Ainda acorrentado (v.20), desfrutava de relativa liberdade para receber pessoas e testemunhar. Ele próprio custeava sua moradia (v.30), possivelmente com ajuda de irmãos na fé (Fp 4.10,14,18). Essa condição revela que, embora limitado fisicamente, Paulo não estava aprisionado espiritualmente. Suas correntes não restringiram sua comunhão nem sua missão. Assim, aprendemos que a verdadeira liberdade não depende de circunstâncias externas, mas da comunhão com Cristo (2Co 3.17).",
+
+    pontoPrincipal:
+        "A verdadeira liberdade está na comunhão com Cristo, não nas circunstâncias externas.",
+
+    exortacao:
+        "Não permita que limitações, dificuldades ou circunstâncias adversas impeçam sua comunhão com Cristo e o cumprimento da missão que Deus colocou em suas mãos.",
+
+    reflexao:
+        "Paulo estava fisicamente limitado, mas espiritualmente livre para continuar servindo. Nossa liberdade em Cristo não depende de onde estamos ou do que enfrentamos, mas de permanecermos firmes nEle.",
+
+    topicos: [
+        "🔒 Limitações físicas não impediram Paulo de testemunhar.",
+        "📖 Paulo aproveitou sua liberdade para anunciar o Evangelho.",
+        "✝️ A verdadeira liberdade está em Cristo."
+    ],
+
+    palavrasChave: [
+        {
+            termo: "Custódia",
+            significado:
+                "condição de alguém que está sob vigilância ou guarda."
+        },
+        {
+            termo: "Liberdade",
+            significado:
+                "condição de poder agir sem estar dominado por aquilo que impede o propósito de Deus."
+        },
+        {
+            termo: "Comunhão",
+            significado:
+                "relacionamento e proximidade com Deus por meio de Cristo."
+        }
+    ]
+},
+
+{
+    titulo: "2. A prisão não impede o cumprimento do plano de Deus",
+
+    texto:
+        "Paulo compreendeu que sua prisão fazia parte do propósito divino. Em vez de desânimo, enxergou oportunidade: soldados, oficiais e visitantes passaram a ouvir o Evangelho. O que parecia derrota tornou-se avanço missionário (Fp 1.12). Essa postura revela maturidade espiritual: confiar que Deus age mesmo nas adversidades (Rm 8.28). O cristão é chamado a discernir o agir de Deus nos momentos difíceis e a glorificá-lo em toda circunstância, transformando provações em testemunho vivo da graça.",
+
+    pontoPrincipal:
+        "Deus pode transformar adversidades em oportunidades para o avanço do Evangelho.",
+
+    exortacao:
+        "Não permita que uma situação difícil faça você concluir que o propósito de Deus foi interrompido; procure permanecer fiel e glorificá-lo em toda circunstância.",
+
+    reflexao:
+        "Nem sempre compreendemos imediatamente por que enfrentamos determinadas situações. Paulo nos ensina a olhar além da dificuldade e confiar que Deus continua trabalhando, mesmo quando as circunstâncias parecem desfavoráveis.",
+
+    topicos: [
+        "⛓️ A prisão não anulou o propósito de Deus.",
+        "📖 As dificuldades abriram novas oportunidades para o Evangelho.",
+        "🙏 A maturidade espiritual nos leva a confiar em Deus nas adversidades."
+    ],
+
+    palavrasChave: [
+        {
+            termo: "Propósito",
+            significado:
+                "aquilo que Deus deseja realizar de acordo com sua vontade."
+        },
+        {
+            termo: "Adversidade",
+            significado:
+                "situação difícil ou contrária que pode provar nossa fé."
+        },
+        {
+            termo: "Testemunho",
+            significado:
+                "demonstração, por palavras e atitudes, daquilo que Deus realiza na vida."
+        }
+    ]
+},
+
+{
+    titulo: "3. O Evangelho vence barreiras políticas, sociais e religiosas",
+
+    texto:
+        "A vida de Paulo comprova que nenhuma estrutura humana pode deter a Palavra. Diante de governadores e reis, proclamou a fé com ousadia (At 24.24,25; 26.1-32), demonstrando que Deus governa sobre todos os reinos (Dn 4.32). Socialmente, anunciou um Evangelho que reconcilia ricos e pobres, livres e escravos (Fm 10-16; Gl 3.28). Religiosamente, enfrentou tanto a incredulidade judaica quanto a idolatria gentílica, mantendo firme a centralidade de Cristo (At 13.45,46; 19.26,27). Logo, a Igreja de hoje é chamada a viver esse mesmo Evangelho que rompe muros e reconcilia vidas. Com o propósito de imitá-lo, veremos como Paulo utiliza sua liberdade limitada para anunciar o Reino de Deus sem impedimento algum.",
+
+    pontoPrincipal:
+        "O Evangelho ultrapassa barreiras e continua anunciando Cristo a todos.",
+
+    exortacao:
+        "A Igreja deve anunciar Cristo com fidelidade e coragem, sem permitir que diferenças políticas, sociais ou religiosas desviem sua missão.",
+
+    reflexao:
+        "O Evangelho não foi limitado pelas barreiras encontradas por Paulo. A Igreja também é chamada a levar a mensagem de Cristo a diferentes pessoas e contextos, mantendo Jesus como centro de sua missão.",
+
+    topicos: [
+        "🏛️ O Evangelho alcança pessoas em diferentes posições sociais e políticas.",
+        "🤝 O Evangelho rompe barreiras e promove reconciliação.",
+        "✝️ Cristo deve permanecer no centro da mensagem da Igreja."
+    ],
+
+    palavrasChave: [
+        {
+            termo: "Barreiras",
+            significado:
+                "obstáculos que dificultam a aproximação ou comunicação entre pessoas."
+        },
+        {
+            termo: "Reconciliação",
+            significado:
+                "restauração de relacionamento e paz entre pessoas."
+        },
+        {
+            termo: "Centralidade",
+            significado:
+                "condição de aquilo que ocupa o lugar principal; Cristo deve ocupar o centro da mensagem do Evangelho."
+        }
+    ]
+},
+
+              ],
+
+              conclusao:
+                  "O encerramento do livro de Atos, com Paulo pregando sob custódia, mas com liberdade espiritual, simboliza a vitória da missão de Cristo. ⛓️✝️ O Evangelho alcançou o coração do Império Romano e, dali, passou a ecoar por todo o mundo. 🌎📖 Essa realidade inspira a Igreja a permanecer firme, certa de que nenhuma circunstância pode impedir o agir de Deus. 🙏🔥 Os atos do Espírito Santo e a proclamação do Evangelho continuam na vida dos servos de Cristo até o fim dos tempos (At 2.17-21; Mt 28.18-20). 🕊️📢 Assim, Atos não termina com um ponto final, mas com uma vírgula: a missão prossegue por meio da Igreja, que, como Paulo, anuncia Jesus com toda a ousadia e sem impedimento algum (At 28.31). ✨🙌",
+
+              perguntas: [
+
+                  {
+                      pergunta: "Para qual cidade Paulo chegou como prisioneiro?",
+                      resposta: "Paulo chegou a Roma."
+                  },
+
+                  {
+                      pergunta: "Mesmo estando preso, o que Paulo continuou fazendo em Roma?",
+                      resposta: "Ele continuou pregando o Reino de Deus e ensinando sobre o Senhor Jesus Cristo com liberdade."
+                  },
+
+                  {
+                      pergunta: "Por que a prisão de Paulo não impediu o avanço do Evangelho?",
+                      resposta: "Porque, mesmo limitado fisicamente, Paulo continuou anunciando a Palavra, e Deus usou sua situação para criar oportunidades para a proclamação do Evangelho."
+                  },
+
+                  {
+                      pergunta: "Qual foi a reação dos judeus quando Paulo anunciou o Reino de Deus e Jesus Cristo?",
+                      resposta: "A reação foi dividida: alguns creram no que Paulo dizia, enquanto outros não creram."
+                  },
+
+                  {
+                      pergunta: "Qual verdade principal o encerramento do livro de Atos transmite à Igreja?",
+                      resposta: "Que o avanço do Reino de Deus não pode ser impedido e que a Igreja deve continuar anunciando o Evangelho com ousadia, fidelidade e perseverança."
+                  }
+
+              ]
+
+          },
+
+        },
+    },
     jovens: {
 
         "3": {
@@ -1253,11 +1444,278 @@ const licoes = {
                 ]
 
             }
-
+,
+        "12": {
+    numero: "Lição 12",
+    titulo: "Tempos de decadência moral e maldade",
+    perguntaGancho: "🎯❓ Até onde uma sociedade pode chegar quando abandona os princípios de Deus?",
+    curiosidade: "🔎 O livro de Juízes registra um dos períodos mais sombrios da história de Israel. A frase “cada um fazia o que parecia reto aos seus olhos” resume uma época em que os referenciais estabelecidos por Deus foram desprezados. O episódio de Gibeá, apresentado nesta lição, mostra até onde a degradação moral pode chegar quando a sociedade perde seus valores espirituais.",
+    textoAureo: "📖 TEXTO PRINCIPAL “E sucedeu que cada um que tal via dizia: Nunca tal se fez, nem se viu desde o dia em que os filhos de Israel subiram da terra do Egito, até ao dia de hoje; ponderai isto no coração, considerai e falai.” (Jz 19.30).",
+    pontoPrincipal: "🎯 Ponto principal A decadência moral revela as consequências do afastamento de Deus e de seus princípios.",
+    verdadePratica: "📚 RESUMO DA LIÇÃO Quando o povo se afasta de Deus e de seus princípios, a sociedade entra em decadência.",
+    palavraChave: "DEPRAVAÇÃO",
+    objetivos: [
+        "📌 APRESENTAR o episódio do levita e sua concubina;",
+        "⚠️ ADVERTIR sobre os perigos da depravação e maldade que ocorreu em Gibeá;",
+        "🛡️ COMPREENDER a responsabilidade do cristão em confrontar e resistir a uma cultura depravada e perversa."
+    ],
+    leituraBiblica: "Juízes 19.1-3,14,15,20-23.",
+    introducao: "Diariamente recebemos notícias de crimes violentos e bárbaros que causam profunda comoção. Mesmo em tempos modernos, a maldade permanece como um grave problema, pois brota da natureza caída do homem e do seu afastamento de Deus e de seus princípios. Nesta lição, estudaremos mais um episódio do livro de Juízes, que revela a degradação moral a que a nação de Israel havia chegado, após perder os referenciais que o Senhor havia estabelecido.",
+    desenvolvimento: [
+    {
+        "titulo": "I. O LEVITA E SUA CONCUBINA",
+        "introducao": "O episódio do levita e sua concubina revela um relacionamento desajustado e uma sociedade que havia perdido importantes referenciais de justiça, segurança e responsabilidade.",
+        "topicos": [
+            {
+                "titulo": "1. Um relacionamento desajustado e frustrado",
+                "texto": "O relacionamento apresentado no texto revela uma situação marcada por conflitos e desajustes. O padrão de Deus para o casamento deve ser respeitado, pois a família foi estabelecida pelo Senhor como uma instituição que deve refletir compromisso, fidelidade e responsabilidade.",
+                "aplicacao": "Não permita que os padrões da sociedade substituam o modelo estabelecido por Deus para a família.",
+                "destaque": "O padrão de Deus para o casamento deve ser respeitado.",
+                "reflexao": "Relacionamentos saudáveis precisam ser construídos sobre compromisso, fidelidade e princípios bíblicos.",
+                "versiculos": [
+                    {
+                        "referencia": "Gênesis 2.24",
+                        "pontoPrincipal": "O casamento foi estabelecido por Deus como uma união entre homem e mulher."
+                    },
+                    {
+                        "referencia": "Efésios 5.31",
+                        "pontoPrincipal": "A união matrimonial deve refletir compromisso e unidade."
+                    }
+                ],
+                "pontos": [],
+                "palavrasChave": [
+                    "Casamento: União estabelecida por Deus entre homem e mulher.",
+                    "Fidelidade: Compromisso de permanecer leal ao cônjuge.",
+                    "Aliança: Compromisso sério assumido diante de Deus."
+                ]
+            },
+            {
+                "titulo": "2. A tentativa de reconciliação",
+                "texto": "A tentativa de reconciliação mostra uma busca pela restauração de um relacionamento rompido. Porém, sem Deus, a sociedade perde seus referenciais de segurança e justiça, ficando vulnerável à desordem e à maldade.",
+                "aplicacao": "Permaneça fiel aos princípios da Palavra de Deus, mesmo quando eles forem desprezados pela sociedade.",
+                "destaque": "Sem Deus, a sociedade perde seus referenciais de segurança e justiça.",
+                "reflexao": "Nossa segurança não deve estar simplesmente nas estruturas humanas, mas em Deus e na obediência à sua Palavra.",
+                "versiculos": [
+                    {
+                        "referencia": "Isaías 59.14",
+                        "pontoPrincipal": "Quando a verdade e a justiça são rejeitadas, a sociedade entra em desordem."
+                    },
+                    {
+                        "referencia": "Mateus 24.12",
+                        "pontoPrincipal": "A multiplicação do pecado pode afetar profundamente o coração das pessoas."
+                    }
+                ],
+                "pontos": [],
+                "palavrasChave": [
+                    "Reconciliação: Busca pela restauração de um relacionamento rompido.",
+                    "Justiça: Prática do que é correto diante de Deus.",
+                    "Referencial: Princípio que orienta nossas escolhas e comportamentos."
+                ]
+            },
+            {
+                "titulo": "3. Recebidos em Gibeá",
+                "texto": "Ao chegarem a Gibeá, o levita e sua concubina encontraram uma situação que revelaria a profunda decadência moral daquele lugar. A aparente segurança não significava verdadeira proteção.",
+                "aplicacao": "Edifique sua família, sua fé e suas decisões sobre os princípios da Palavra de Deus.",
+                "destaque": "A verdadeira segurança depende de Deus e de fundamentos firmes.",
+                "reflexao": "Nem todo lugar aparentemente seguro oferece verdadeira proteção. O cristão deve colocar sua confiança no Senhor e permanecer vigilante.",
+                "versiculos": [
+                    {
+                        "referencia": "Salmos 11.3",
+                        "pontoPrincipal": "Quando os fundamentos são abalados, o justo precisa permanecer firme."
+                    },
+                    {
+                        "referencia": "Salmos 127.1",
+                        "pontoPrincipal": "A proteção humana é insuficiente sem a dependência de Deus."
+                    }
+                ],
+                "pontos": [],
+                "palavrasChave": [
+                    "Hospitalidade: Acolhimento e cuidado oferecidos ao próximo.",
+                    "Segurança: Proteção contra perigos e ameaças.",
+                    "Fundamento: Base sobre a qual algo é construído."
+                ]
+            }
+        ]
+    },
+    {
+        "titulo": "II. DEPRAVAÇÃO E MALDADE EM GIBEÁ",
+        "introducao": "O episódio de Gibeá demonstra a gravidade da depravação moral e da violência quando os princípios de Deus são desprezados.",
+        "topicos": [
+            {
+                "titulo": "1. Uma exigência depravada",
+                "texto": "A exigência dos homens de Gibeá revela uma sociedade profundamente corrompida. A rejeição da Lei de Deus abriu espaço para a depravação e a violência contra o próximo.",
+                "aplicacao": "Não normalize o pecado nem permita que práticas contrárias à Palavra de Deus sejam tratadas como algo aceitável.",
+                "destaque": "A rejeição da Lei de Deus abre espaço para a depravação e a violência.",
+                "reflexao": "Gibeá mostra que a decadência moral não acontece de uma hora para outra. Quando os princípios de Deus são desprezados, a consciência pode se tornar insensível ao mal.",
+                "versiculos": [
+                    {
+                        "referencia": "Deuteronômio 13.13",
+                        "pontoPrincipal": "Pessoas que abandonam Deus podem conduzir outros à prática do mal."
+                    },
+                    {
+                        "referencia": "1 Coríntios 5.1",
+                        "pontoPrincipal": "A Igreja não deve tolerar práticas pecaminosas em seu meio."
+                    }
+                ],
+                "pontos": [
+                    "O pecado despreza os limites estabelecidos por Deus.",
+                    "A depravação pode produzir violência contra o próximo.",
+                    "A Igreja deve rejeitar a tolerância ao pecado."
+                ],
+                "palavrasChave": [
+                    "Depravação: Corrupção moral causada pelo afastamento dos princípios de Deus.",
+                    "Violência: Uso da força ou agressão para causar dano ao próximo.",
+                    "Tolerância: Aceitação ou permissão de algo, que pode ser inadequada quando aplicada ao pecado."
+                ]
+            },
+            {
+                "titulo": "2. Uma alternativa degradante",
+                "texto": "A desvalorização da mulher naquele episódio revela uma profunda decadência moral. A dignidade humana é ignorada quando pessoas são tratadas como objetos e submetidas à violência.",
+                "aplicacao": "Rejeite qualquer forma de violência, exploração ou desvalorização da mulher e proteja aqueles que estão sob sua responsabilidade.",
+                "destaque": "A desvalorização da mulher revela profunda decadência moral.",
+                "reflexao": "A dignidade humana não depende da força, posição ou condição social. Cada pessoa deve ser tratada com respeito porque foi criada por Deus.",
+                "versiculos": [
+                    {
+                        "referencia": "Gênesis 1.27",
+                        "pontoPrincipal": "Homem e mulher possuem dignidade por terem sido criados à imagem de Deus."
+                    },
+                    {
+                        "referencia": "1 Pedro 3.7",
+                        "pontoPrincipal": "O homem deve tratar a mulher com entendimento e honra."
+                    }
+                ],
+                "pontos": [
+                    "Toda pessoa possui dignidade diante de Deus.",
+                    "A mulher deve ser tratada com honra e respeito.",
+                    "O cristão deve rejeitar toda forma de abuso e violência."
+                ],
+                "palavrasChave": [
+                    "Dignidade: Valor próprio de cada ser humano criado por Deus.",
+                    "Honra: Tratamento respeitoso e digno concedido ao próximo.",
+                    "Proteção: Ação de cuidar e defender quem está vulnerável."
+                ]
+            },
+            {
+                "titulo": "3. Uma sucessão de maldade",
+                "texto": "O relato de Gibeá apresenta uma sucessão de atitudes pecaminosas que demonstra como a maldade se agrava quando a dignidade humana é completamente desprezada.",
+                "aplicacao": "Não seja indiferente diante do sofrimento. Defenda a dignidade das pessoas e pratique justiça e misericórdia.",
+                "destaque": "A maldade se agrava quando a dignidade humana é completamente desprezada.",
+                "reflexao": "O relato de Gibeá mostra uma sucessão de atitudes pecaminosas. A resposta cristã deve ser diferente: diante da dor, somos chamados a demonstrar compaixão, justiça e amor.",
+                "versiculos": [
+                    {
+                        "referencia": "Miqueias 6.8",
+                        "pontoPrincipal": "Deus exige do seu povo justiça, misericórdia e humildade."
+                    },
+                    {
+                        "referencia": "Mateus 22.39",
+                        "pontoPrincipal": "O amor ao próximo é incompatível com a desumanização e a crueldade."
+                    }
+                ],
+                "pontos": [
+                    "Um erro não justifica a prática de outro mal.",
+                    "A vida humana deve ser tratada com dignidade.",
+                    "O cristão deve responder ao sofrimento com justiça e compaixão."
+                ],
+                "palavrasChave": [
+                    "Desumanização: Tratamento de uma pessoa sem respeito à sua dignidade humana.",
+                    "Compaixão: Sensibilidade diante do sofrimento do próximo acompanhada de disposição para ajudar.",
+                    "Justiça: Conduta correta e coerente com os princípios de Deus."
+                ]
+            }
+        ]
+    },
+    {
+        "titulo": "III. ENFRENTANDO UMA CULTURA DEPRAVADA E PERVERSA",
+        "introducao": "A história de Gibeá serve de alerta para a Igreja permanecer firme diante de uma cultura marcada pela maldade, defendendo os princípios de Deus e tratando cada pessoa com dignidade e amor.",
+        "topicos": [
+            {
+                "titulo": "1. A generalização do mal",
+                "texto": "A maldade pode se espalhar quando os princípios de Deus são abandonados. A falta de vigilância espiritual pode abrir caminho para que práticas pecaminosas sejam normalizadas.",
+                "aplicacao": "Vigie constantemente sua vida espiritual e não trate o pecado como algo pequeno ou inofensivo.",
+                "destaque": "A falta de vigilância espiritual pode abrir caminho para a generalização do mal.",
+                "reflexao": "A história de Gibeá serve como um alerta para que o povo de Deus não abandone a Palavra nem permita que a maldade seja normalizada dentro de sua vida.",
+                "versiculos": [
+                    {
+                        "referencia": "1 Coríntios 10.12",
+                        "pontoPrincipal": "Ninguém deve confiar excessivamente em sua própria firmeza espiritual."
+                    },
+                    {
+                        "referencia": "1 Pedro 5.8",
+                        "pontoPrincipal": "O cristão precisa permanecer sóbrio e vigilante diante dos perigos espirituais."
+                    }
+                ],
+                "pontos": [
+                    "A maldade pode se espalhar quando os princípios de Deus são abandonados.",
+                    "A Igreja precisa permanecer vigilante diante do pecado.",
+                    "O cristão deve aprender com os erros registrados nas Escrituras."
+                ],
+                "palavrasChave": [
+                    "Depravação: Corrupção moral e afastamento "
+                ]
+            },
+            {
+                "titulo": "2. Aplicações para os dias atuais",
+                "texto": "A Igreja é chamada a permanecer fiel à verdade bíblica diante de uma cultura depravada e perversa. Essa fidelidade deve ser acompanhada de amor, respeito, justiça e misericórdia.",
+                "aplicacao": "Defenda os valores bíblicos com firmeza, mas faça isso sem abandonar o amor, o respeito, a justiça e a misericórdia.",
+                "destaque": "O cristão deve defender os princípios de Deus e tratar cada pessoa com dignidade e amor.",
+                "reflexao": "Confrontar aquilo que é contrário à Palavra de Deus não significa desprezar pessoas. O cristão é chamado a permanecer fiel à verdade enquanto demonstra o amor de Cristo e protege a dignidade do próximo.",
+                "versiculos": [
+                    {
+                        "referencia": "Miquéias 6.8",
+                        "pontoPrincipal": "Deus chama seu povo a praticar justiça, amar a misericórdia e andar humildemente com Ele."
+                    },
+                    {
+                        "referencia": "Lucas 10.37",
+                        "pontoPrincipal": "O cristão demonstra seu amor ao próximo por meio de atitudes concretas de misericórdia."
+                    }
+                ],
+                "pontos": [
+                    "Defender a verdade bíblica com firmeza e equilíbrio.",
+                    "Rejeitar toda forma de abuso, exploração e violência.",
+                    "Tratar todas as pessoas com dignidade, justiça e amor."
+                ],
+                "palavrasChave": [
+                    "Dignidade: Valor que deve ser reconhecido em cada ser humano.",
+                    "Justiça: Prática daquilo que é correto e reto diante de Deus.",
+                    "Misericórdia: Disposição de agir com compaixão diante da necessidade do próximo."
+                ]
+            }
+        ]
+    }
+],
+    conclusao: "⚠️ O trágico episódio de Gibeá revela até onde o ser humano pode chegar quando abandona os caminhos do Senhor. 💔 A violência, a desumanização e a cumplicidade diante do mal mostram a degradação de uma sociedade que rejeita a Lei de Deus e perde seus referenciais morais. 🛡️ Assim como Israel foi advertido por essa triste lembrança, também a Igreja hoje é chamada a permanecer vigilante, combatendo a cultura da perversidade e firmando-se nos princípios eternos da Palavra.",
+    perguntas: [
+        {
+            nivel: "🟢 1. Fácil",
+            pergunta: "O que o episódio de Gibeá revela sobre o ser humano quando abandona os caminhos do Senhor?",
+            resposta: "Revela até onde o ser humano pode chegar quando abandona os caminhos do Senhor."
+        },
+        {
+            nivel: "🟡 2. Média",
+            pergunta: "Quais atitudes demonstraram a degradação daquela sociedade?",
+            resposta: "A violência, a desumanização e a cumplicidade diante do mal."
+        },
+        {
+            nivel: "🟡 3. Média",
+            pergunta: "O que acontece quando uma sociedade rejeita a Lei de Deus e perde seus referenciais morais?",
+            resposta: "Ela pode chegar à degradação moral, permitindo que a violência, a maldade e a perversidade se multipliquem."
+        },
+        {
+            nivel: "🔴 4. Difícil",
+            pergunta: "Qual advertência o episódio de Gibeá traz para a Igreja atualmente?",
+            resposta: "A Igreja deve permanecer vigilante, combater a cultura da perversidade e firmar-se nos princípios eternos da Palavra de Deus."
+        },
+        {
+            nivel: "🔴 5. Difícil",
+            pergunta: "Por que a Igreja precisa permanecer firme nos princípios da Palavra diante de uma cultura depravada?",
+            resposta: "Porque abandonar os referenciais de Deus conduz à decadência moral; por isso, a Igreja deve preservar a verdade bíblica e resistir ao mal."
         }
+    ]
+}
+        },
 
-           },
 
+    },
     juvenis: {
 
         "3": {
@@ -1830,8 +2288,8 @@ const licoes = {
             resposta:
                 "Porque conteúdos podem influenciar nossos pensamentos, desejos e comportamentos. Precisamos avaliar tudo à luz da Palavra de Deus."
         },
-
         {
+
             nivel: "🔴 Difícil",
             pergunta:
                 "O que significa “perseverar na doutrina de Cristo”?",
@@ -1843,7 +2301,63 @@ const licoes = {
 
                }
 
+,
+
+        "12": {
+            numero: "Lição 12",
+            titulo: "Cuidado com o Ego e suas Ambições",
+            textoPrincipal: "“Porque muito me alegrei quando os irmãos vieram e testificaram da tua verdade, como tu andas na verdade.” (3 Jo 3)",
+            pontoPrincipal: "A verdadeira maturidade cristã aparece quando a verdade de Cristo governa nossas atitudes, vencendo o ego e as ambições egoístas.",
+            palavraChave: "EGOÍSMO",
+            leituraBiblica: "3 João 5-11",
+
+            perguntaGancho: "O que acontece quando o desejo de conquistar algo passa a ser mais importante do que as pessoas e a vontade de Deus?",
+            curiosidade: "A Bíblia mostra que o problema não está apenas em ter desejos, planos ou ambições, mas em colocar o “eu” no centro de tudo. Quando a ambição egoísta domina o coração, ela pode gerar conflitos, perturbação, isolamento e até afastamento de Deus. Por isso, a Palavra nos chama a olhar também para as necessidades dos outros e a cultivar uma vida marcada pela humildade e pelo amor.",
+
+            introducao: "Lição 12 — Cuidado com o Ego e suas Ambições\n🎯 O que acontece quando o desejo de conquistar algo passa a ser mais importante do que as pessoas e a vontade de Deus?\n💡 A Bíblia mostra que o problema não está apenas em ter desejos, planos ou ambições, mas em colocar o “eu” no centro de tudo. Quando a ambição egoísta domina o coração, ela pode gerar conflitos, perturbação, isolamento e até afastamento de Deus. Por isso, a Palavra nos chama a olhar também para as necessidades dos outros e a cultivar uma vida marcada pela humildade e pelo amor.\n📖 Texto-chave “Porque muito me alegrei quando os irmãos vieram e testificaram da tua verdade, como tu andas na verdade.” (3 Jo 3)\n📝 Ponto principal da lição A verdadeira maturidade cristã aparece quando a verdade de Cristo governa nossas atitudes, vencendo o ego e as ambições egoístas.\n✨ Devocionais\n✨ SEGUNDA — Pense não apenas em si\n📖 “Não atente cada um para o que é propriamente seu, mas cada qual também para o que é dos outros.” — Filipenses 2.4\nPaulo ensina aos cristãos de Filipos que a vida cristã não deve ser conduzida pelo egoísmo. O contexto mostra que os seguidores de Cristo são chamados a desenvolver humildade e consideração pelos outros, seguindo o exemplo de Jesus. Pensar nas necessidades do próximo não significa ignorar nossas próprias responsabilidades, mas não permitir que nossos interesses ocupem todo o espaço do coração. O verdadeiro amor cristão nos leva a perceber que outras pessoas também possuem necessidades, sentimentos e dificuldades. Quando deixamos de viver somente para nós mesmos, demonstramos o caráter de Cristo em nossas atitudes.\n🙏 Ensinamento: O cristão deve considerar também as necessidades das outras pessoas.\n🕊️ Ensinamento: A humildade nos ajuda a vencer o egoísmo.\n✨ Ensinamento: Cristo é nosso maior exemplo de consideração pelo próximo.\n⚠️ Advertência: Cuidado para que seus próprios interesses não impeçam você de perceber quem precisa da sua ajuda.\n💭 Aplicação pessoal: Procure hoje perceber uma necessidade de alguém próximo e faça algo concreto para ajudar.\n✨ Quem olha além de si mesmo aprende a amar como Cristo amou.\n✨ TERÇA — Não é sábio buscar desejos egoístas\n📖 “O solitário busca o seu próprio interesse e insurge-se contra a verdadeira sabedoria.” — Provérbios 18.1\nProvérbios apresenta uma advertência contra uma postura de isolamento motivada pelo interesse próprio. A sabedoria bíblica mostra que o ser humano não foi chamado para viver fechado em seus próprios desejos, rejeitando conselhos e relacionamentos. O ego pode convencer alguém de que somente sua vontade importa, fazendo com que despreze a correção e a sabedoria oferecida por outros. Deus deseja que aprendamos a ouvir, conviver e agir com equilíbrio. A verdadeira sabedoria não alimenta o orgulho, mas conduz o coração à humildade e ao relacionamento saudável com o próximo.\n🙏 Ensinamento: O egoísmo pode levar a pessoa ao isolamento.\n🕊️ Ensinamento: A sabedoria exige disposição para ouvir e aprender.\n✨ Ensinamento: Relacionamentos saudáveis ajudam a confrontar atitudes egoístas.\n⚠️ Advertência: Não transforme sua vontade pessoal em uma regra que ninguém pode questionar.\n💭 Aplicação pessoal: Avalie se você tem rejeitado conselhos simplesmente porque eles contrariam aquilo que deseja.\n✨ A sabedoria começa quando o coração deixa de pensar somente em si.\n✨ QUARTA — Onde há ambição egoísta há perturbação\n📖 “Porque onde há inveja e espírito faccioso aí há perturbação e toda obra perversa.” — Tiago 3.16\nTiago mostra a diferença entre a sabedoria que vem de Deus e atitudes dominadas pela inveja e pela ambição egoísta. Quando o desejo de se destacar, vencer ou obter vantagens pessoais domina o coração, o resultado não é paz, mas perturbação. A ambição egoísta pode alimentar competição, divisão e conflitos dentro dos relacionamentos. Por isso, o cristão precisa examinar suas motivações e perguntar se aquilo que deseja glorifica a Deus ou apenas satisfaz seu próprio orgulho. A sabedoria verdadeira produz uma vida diferente, marcada por atitudes que refletem o caráter de Deus.\n🙏 Ensinamento: A ambição egoísta produz perturbação.\n🕊️ Ensinamento: Motivações erradas podem gerar conflitos e divisões.\n✨ Ensinamento: O cristão deve examinar o coração antes de agir.\n⚠️ Advertência: Cuidado para não transformar desejos pessoais em motivo de competição ou conflito.\n💭 Aplicação pessoal: Antes de tomar uma decisão hoje, examine sinceramente qual é a motivação por trás dela.\n✨ Quando o ego domina, a paz desaparece; quando Deus governa, o coração encontra direção.\n✨ QUINTA — O egoísta pede e não recebe\n📖 “Pedis e não recebeis, porque pedis mal, para o gastardes em vossos deleites.” — Tiago 4.3\nTiago apresenta uma importante advertência sobre a oração e as motivações do coração. Os desejos pessoais estavam influenciando até mesmo os pedidos feitos a Deus. A questão não era simplesmente pedir, mas pedir com uma motivação centrada nos próprios prazeres. A oração verdadeira não deve ser usada apenas para tentar colocar Deus a serviço dos nossos interesses. Deus deseja que nossos desejos sejam submetidos à sua vontade. Quando o coração abandona o egoísmo, aprendemos a buscar aquilo que está de acordo com os propósitos de Deus e que também pode produzir o bem.\n🙏 Ensinamento: Deus conhece as motivações por trás dos nossos pedidos.\n🕊️ Ensinamento: A oração não deve ser dominada pelo egoísmo.\n✨ Ensinamento: Nossos desejos precisam estar sujeitos à vontade de Deus.\n⚠️ Advertência: Não transforme a oração em um instrumento para alimentar exclusivamente seus próprios desejos.\n💭 Aplicação pessoal: Ao orar hoje, apresente seus desejos a Deus e peça que a vontade dEle esteja acima da sua.\n✨ A oração muda quando deixamos de buscar apenas o que queremos e aprendemos a buscar o que Deus quer.\n✨ SEXTA — Afaste-se de quem ama a si mesmo\n📖 “Porque haverá homens amantes de si mesmos, avarentos, presunçosos, soberbos...” — 2 Timóteo 3.2\nPaulo descreve a Timóteo características que marcariam pessoas em tempos difíceis. Entre elas está o amor exagerado por si mesmo, acompanhado de atitudes que revelam orgulho, arrogância e falta de consideração pelos outros. O texto não apresenta o egoísmo como uma virtude, mas como uma característica de uma vida afastada dos valores de Deus. Por isso, Paulo orienta Timóteo a manter distância desse tipo de comportamento. O cristão deve cuidar para não ser influenciado por atitudes que colocam o “eu” acima de Deus e do próximo. Nossa vida deve demonstrar humildade, amor e compromisso com a verdade.\n🙏 Ensinamento: Amar a si mesmo de maneira egoísta pode dominar o caráter.\n🕊️ Ensinamento: O orgulho frequentemente acompanha o egoísmo.\n✨ Ensinamento: Devemos rejeitar influências que nos afastam dos valores cristãos.\n⚠️ Advertência: Não permita que o comportamento egoísta de outros se torne um padrão para sua própria vida.\n💭 Aplicação pessoal: Observe suas atitudes e escolha conscientemente agir com humildade quando surgir oportunidade de se colocar acima dos outros.\n✨ Quem coloca o ego no trono perde de vista Aquele que deve reinar no coração.\n✨ SÁBADO — Deus agrada-se do compassivo\n📖 “E não vos esqueçais da beneficência e comunicação, porque com tais sacrifícios Deus se agrada.” — Hebreus 13.16\nO autor de Hebreus encerra suas orientações lembrando os cristãos de que a fé também deve ser demonstrada por meio de atitudes práticas. Fazer o bem e compartilhar com outras pessoas são atitudes que agradam a Deus. Isso confronta diretamente uma vida concentrada apenas nos próprios interesses. O cristão é chamado a olhar para além de suas necessidades e perceber oportunidades de servir, ajudar e repartir. A compaixão não deve permanecer apenas nas palavras, mas precisa aparecer em ações concretas. Dessa maneira, nossa vida se torna uma expressão prática da fé que professamos.\n🙏 Ensinamento: Fazer o bem faz parte da vida cristã.\n🕊️ Ensinamento: Compartilhar revela consideração pelas necessidades do próximo.\n✨ Ensinamento: Deus se agrada de atitudes práticas de amor e generosidade.\n⚠️ Advertência: Não permita que preocupações pessoais façam você ignorar quem precisa de ajuda.\n💭 Aplicação pessoal: Procure uma oportunidade de fazer o bem e compartilhar algo com alguém que esteja necessitado.\n✨ Uma fé verdadeira não vive apenas para receber; ela também aprende a repartir.\n📖 LEITURA BÍBLICA EM CLASSE\n3 João 5-11\n🎯 Ponto Principal O cristão deve rejeitar o egoísmo e a rebeldia, permanecendo fiel à verdade e praticando o bem.\n🎯 OBJETIVOS\n🤝 EXPLICAR o contexto da Epistola (Gaio e Diótrefes):\n📖 CONHECER as características de um cristão fiel e obediente;\n⚠️ ENFATIZAR a luta contra a rebeldia e o sentimento egoista.\n1. INTRODUÇÃO À EPÍSTOLA\n📖 Uma carta sobre fidelidade, hospitalidade e egoísmo\n🎯 Ponto principal A fidelidade cristã se manifesta no amor, na hospitalidade e na rejeição do egoísmo.\n📖 Versículos de apoio\n3 João 5\nPonto principal: A fidelidade a Deus também se demonstra na maneira como tratamos os irmãos e recebemos aqueles que servem ao Senhor.\n3 João 11\nPonto principal: O cristão deve escolher o bem e não permitir que atitudes egoístas se tornem seu exemplo.\n⚠️ Exortação prática Não permita que o desejo de reconhecimento, posição ou controle ocupe o lugar do amor cristão. Assim como Gaio foi reconhecido por sua fidelidade, nossa vida também deve revelar disposição para servir, acolher e cooperar com a obra de Deus.\n💭 Reflexão para a vida cristã Diótrefes queria ter o primeiro lugar; Gaio demonstrava fidelidade por meio de suas atitudes. A diferença entre eles revela que o caráter cristão não é medido pelo desejo de aparecer, mas pela disposição de servir. Nossa pergunta não deve ser “qual é o meu lugar?”, mas “como posso servir ao Senhor e ao próximo?”.\n🔑 3 palavras-chave\nFidelidade: Permanecer firme e agir de acordo com a verdade cristã.\nHospitalidade: Receber e tratar o próximo com amor e disposição para ajudar.\nEgoísmo: Colocar os próprios interesses, desejos ou posição acima dos outros.\n2. O CRISTÃO VERDADEIRO\n2.1. Fiel em tudo\n🎯 Ponto principal A fidelidade cristã deve aparecer em toda a nossa maneira de viver.\n📖 Versículos de apoio\n3 João 3\nPonto principal: A vida de Gaio confirmava, por suas atitudes, o compromisso que tinha com a verdade.\nMateus 5.16\nPonto principal: Nossas boas obras devem conduzir as pessoas a glorificar a Deus.\n⚠️ Exortação prática Cuide do seu testemunho tanto na igreja quanto fora dela. Antes de publicar, curtir ou compartilhar algo, pergunte: “Isso glorifica a Deus e representa bem a minha fé?”\n💭 Reflexão para a vida cristã Gaio não precisava estar diante de João para demonstrar sua fidelidade. Seu modo de viver falava por ele. Da mesma forma, nossa vida pública e privada deve apresentar coerência com aquilo que professamos. O verdadeiro testemunho cristão permanece firme mesmo quando ninguém está nos observando.\n🔑 3 palavras-chave\nFidelidade: Constância em fazer a vontade de Deus.\nTestemunho: Evidência, por palavras e atitudes, da fé que professamos.\nCoerência: Viver de acordo com aquilo que cremos e ensinamos.\n2.2. Ama indistintamente\n🎯 Ponto principal O amor cristão não escolhe quem merece ser amado.\n📖 Versículos de apoio\nAtos 10.34\nPonto principal: Deus não trata as pessoas com favoritismo.\nTiago 2.9\nPonto principal: O favoritismo contradiz o padrão de amor ensinado por Deus.\n⚠️ Exortação prática Não permita que aparência, condição social, posição, amizade ou qualquer outra diferença determine quem receberá seu amor e atenção. Trate cada pessoa com dignidade e respeito.\n💭 Reflexão para a vida cristã Jesus nos ensina um amor que ultrapassa preferências pessoais. É fácil amar quem nos ama, mas o caráter cristão também aparece quando tratamos com bondade aqueles que não podem nos oferecer nada em troca. Pergunte a si mesmo: “A maneira como trato as pessoas revela o amor de Cristo?”\n🔑 3 palavras-chave\nAmor: Atitude de cuidado e disposição para buscar o bem do próximo.\nImparcialidade: Tratar as pessoas sem favoritismo.\nDignidade: Reconhecer o valor de cada pessoa e tratá-la com respeito.\n3. OPOSIÇÃO À OBRA DE DEUS\n3.1. Sede pelo poder\n🎯 Ponto principal A busca pelo poder não pode ocupar o lugar dos interesses do Reino de Deus.\n📖 Versículos de apoio\n3 João 9\nPonto principal: O desejo de ocupar o primeiro lugar pode levar à rejeição da autoridade e à oposição à obra de Deus.\nMarcos 10.43-44\nPonto principal: No Reino de Deus, a verdadeira grandeza está em servir.\n⚠️ Exortação prática Examine suas motivações. Não permita que o desejo de reconhecimento, posição ou autoridade faça você competir com seus irmãos ou perder de vista o propósito de Deus.\n💭 Reflexão para a vida cristã Diótrefes queria ser o primeiro, mas sua atitude produzia oposição e prejuízo à obra. Jesus ensinou um caminho diferente: o caminho do serviço. Na igreja, nossa maior preocupação não deve ser aparecer, mas contribuir para que o nome de Cristo seja glorificado.\n🔑 3 palavras-chave\nAmbição: Desejo intenso de alcançar posição ou reconhecimento.\nOrgulho: Exaltação excessiva de si mesmo.\nServiço: Disposição de trabalhar em benefício de Deus e do próximo.\n3.2. Desrespeito aos líderes da igreja\n🎯 Ponto principal O egoísmo e a rebeldia podem causar divisão e prejuízo à obra de Deus.\n📖 Versículos de apoio\n3 João 10\nPonto principal: Diótrefes usava sua influência para falar mal, impedir a comunhão e prejudicar outros irmãos.\nHebreus 13.17\nPonto principal: A liderança cristã deve ser respeitada, pois possui responsabilidade diante de Deus.\n⚠️ Exortação prática Evite palavras, atitudes ou comportamentos que alimentem desrespeito, murmuração e divisão na igreja. Quando houver problemas, procure agir com verdade, respeito e maturidade cristã.\n💭 Reflexão para a vida cristã Diótrefes não apenas discordava de João; ele utilizava sua influência para impedir outros de cooperarem com os irmãos. Isso nos ensina que o egoísmo pode ultrapassar os limites pessoais e afetar toda uma comunidade. Precisamos vigiar para que nossas atitudes promovam unidade e não divisão.\n🔑 3 palavras-chave\nRespeito: Tratar os líderes e irmãos com consideração e dignidade.\nRebeldia: Resistência deliberada à autoridade e àquilo que é correto.\nDissensão: Desentendimento que provoca divisão entre pessoas.\n3.3. Aversão aos companheiros\n🎯 Ponto principal O verdadeiro cristão coopera com aqueles que trabalham na obra de Deus.\n📖 Versículos de apoio\n3 João 8\nPonto principal: Receber e apoiar os que trabalham na obra de Deus é uma forma de cooperar com a verdade.\nApocalipse 1.9\nPonto principal: João se identificava como companheiro dos irmãos, demonstrando comunhão mesmo em meio às dificuldades.\n⚠️ Exortação prática Não permita que inveja, competição ou preferência pessoal impeça você de reconhecer e apoiar o trabalho de outros irmãos. A obra pertence ao Senhor, e todos somos chamados a cooperar.\n💭 Reflexão para a vida cristã Diótrefes via os companheiros como ameaça; João os via como companheiros no Reino. Essa diferença revela duas maneiras de enxergar a obra de Deus. Quando entendemos que o Reino pertence a Cristo, deixamos de competir por espaço e passamos a celebrar aquilo que Deus realiza por meio de outros.\n🔑 3 palavras-chave\nCooperação: Trabalhar juntamente com outros para um propósito comum.\nComunhão: Participação e relacionamento entre irmãos na fé.\nCompanheirismo: Disposição de caminhar e servir ao lado de outros.\n4. CONSELHOS E CONCEITOS\n4.1. Não seguir o mal\n🎯 Ponto principal O cristão deve rejeitar o mal e escolher o caminho do bem.\n📖 Versículos de apoio\n3 João 11\nPonto principal: João orienta o cristão a não imitar o mal, mas seguir o caminho que agrada a Deus.\nSalmos 34.14\nPonto principal: A vida piedosa exige afastamento do mal e prática do bem.\n⚠️ Exortação prática Não imite comportamentos errados apenas porque são praticados por pessoas próximas ou influentes. Examine tudo à luz da Palavra de Deus e escolha permanecer no caminho correto.\n💭 Reflexão para a vida cristã Todos somos influenciados pelos exemplos que observamos. Gaio recebeu de João o conselho de não seguir o caminho de Diótrefes. Da mesma forma, precisamos escolher cuidadosamente quem imitamos e quais atitudes permitimos entrar em nossa vida. O caminho do mal pode parecer vantajoso por algum tempo, mas jamais conduz à verdadeira comunhão com Deus.\n🔑 3 palavras-chave\nEscolha: Decisão consciente entre caminhos e atitudes.\nSantidade: Separação do mal e dedicação a Deus.\nObediência: Disposição de viver de acordo com a vontade de Deus.\n4.2. Quem faz o bem é de Deu\n🎯 Ponto principal Quem pertence a Deus demonstra isso por meio da prática do bem.\n📖 Versículos de apoio\n3 João 11\nPonto principal: A prática do bem evidencia uma vida comprometida com Deus.\nDeuteronômio 30.19\nPonto principal: Deus apresenta o caminho da vida e chama o ser humano a fazer uma escolha.\n⚠️ Exortação prática Não fique apenas no conhecimento da Palavra. Procure demonstrar sua fé por meio de atitudes concretas de bondade, amor, misericórdia e serviço ao próximo.\n💭 Reflexão para a vida cristã Nossa fé precisa aparecer na maneira como vivemos. João apresenta uma diferença clara entre quem pratica o bem e quem pratica o mal. Todos fazemos escolhas diariamente, e essas escolhas revelam aquilo que ocupa nosso coração. Escolher o bem significa decidir viver de maneira que agrade a Deus, mesmo quando o caminho contrário parece mais fácil.\n🔑 3 palavras-chave\nBondade: Disposição de praticar aquilo que é bom e benéfico ao próximo.\nVida: Caminho de comunhão e obediência a Deus.\nEscolha: Decisão pessoal sobre qual caminho seguir.\n📖 CONCLUSÃO\n✝️ Jesus ensinou: “..qualquer que a si mesmo se exaltar será humilhado, e aquele que a si mesmo se humilhar será exaltado” (Lc 14.11).\n🌎 Os que estão no mundo (aqui incluídos os egoístas como Diótrefes) não entendem como o Mestre poderia ensinar valores como esses (Lc 16.14; 1 Co 1.18.19)!\n🙏 Que o Senhor nos dê graça para conservarmos um coração como o de Gaio, a fim de agirmos sem pensar exclusivamente nas nossas preferências.\n📝 Perguntas e respostas — Lição 12: Cuidado com o Ego e suas Ambições\n1. 🟢 Fácil\nPergunta: Quem era Gaio e por que João o elogiou?\nResposta: Gaio era um cristão fiel, conhecido por sua hospitalidade, generosidade e amor pelos irmãos e pelos que trabalhavam na obra de Deus.\n2. 🟡 Média\nPergunta: Qual era o principal problema de Diótrefes?\nResposta: Diótrefes queria ter o primeiro lugar entre os irmãos, demonstrando orgulho, ambição e egoísmo, além de se opor aos que cooperavam com a obra de Deus.\n3. 🟡 Média\nPergunta: Qual contraste podemos observar entre Gaio e Diótrefes?\nResposta: Gaio demonstrava fidelidade, amor, hospitalidade e cooperação com a obra de Deus, enquanto Diótrefes demonstrava egoísmo, desejo de poder, rebeldia e oposição aos irmãos.\n4. 🔴 Difícil\nPergunta: Por que a ambição egoísta pode prejudicar a obra de Deus?\nResposta: Porque quando o desejo de reconhecimento, posição ou poder ocupa o coração, a pessoa pode deixar de buscar os interesses do Reino e passar a competir, dividir, impedir outros de servir e agir contra seus próprios irmãos.\n5. 🔴 Difícil\nPergunta: De acordo com 3 João 11, como podemos identificar uma vida verdadeiramente comprometida com Deus?\nResposta: Pela prática do bem. João orienta: “não sigas o mal, mas o bem”, mostrando que quem pertence a Deus deve rejeitar o mal e demonstrar, por suas atitudes, uma vida coerente com a fé cristã.\n",
+
+            objetivos: [
+                "EXPLICAR o contexto da Epístola de 3 João, destacando Gaio e Diótrefes.",
+                "CONHECER as características de um cristão fiel e obediente.",
+                "ENFATIZAR a luta contra a rebeldia e o sentimento egoísta."
+            ],
+
+            desenvolvimento: [],
+
+            conclusao: "Jesus ensinou: qualquer que a si mesmo se exaltar será humilhado, e aquele que a si mesmo se humilhar será exaltado (Lc 14.11).",
+
+            perguntas: [
+                {
+                    nivel: "🟢 Fácil",
+                    pergunta: "Quem era Gaio e por que João o elogiou?",
+                    resposta: "Gaio era um cristão fiel, conhecido por sua hospitalidade, generosidade e amor pelos irmãos e pelos que trabalhavam na obra de Deus."
+                },
+                {
+                    nivel: "🟡 Média",
+                    pergunta: "Qual era o principal problema de Diótrefes?",
+                    resposta: "Diótrefes queria ter o primeiro lugar entre os irmãos, demonstrando orgulho, ambição e egoísmo, além de se opor aos que cooperavam com a obra de Deus."
+                },
+                {
+                    nivel: "🟡 Média",
+                    pergunta: "Qual contraste podemos observar entre Gaio e Diótrefes?",
+                    resposta: "Gaio demonstrava fidelidade, amor, hospitalidade e cooperação com a obra de Deus, enquanto Diótrefes demonstrava egoísmo, desejo de poder, rebeldia e oposição aos irmãos."
+                },
+                {
+                    nivel: "🔴 Difícil",
+                    pergunta: "Por que a ambição egoísta pode prejudicar a obra de Deus?",
+                    resposta: "Porque quando o desejo de reconhecimento, posição ou poder ocupa o coração, a pessoa pode deixar de buscar os interesses do Reino e passar a competir, dividir, impedir outros de servir e agir contra seus próprios irmãos."
+                },
+                {
+                    nivel: "🔴 Difícil",
+                    pergunta: "De acordo com 3 João 11, como podemos identificar uma vida verdadeiramente comprometida com Deus?",
+                    resposta: "Pela prática do bem. João orienta: não sigas o mal, mas o bem, mostrando que quem pertence a Deus deve rejeitar o mal e demonstrar, por suas atitudes, uma vida coerente com a fé cristã."
+                }
+            ]
+        },
+
     },
+    },
+
 
     adolescentes: {
 
@@ -2306,14 +2820,237 @@ const licoes = {
 
                 ]
 
-            }
+            },
 
+        "12": {
+            numero: "Lição 12",
+            titulo: "Os Amigos e Cooperadores de Paulo",
+            textoPrincipal: "\"O amigo ama sempre e na desgraça ele se torna um irmão.\" Provérbios 17.17",
+            pontoPrincipal: "A obra de Deus é fortalecida quando irmãos trabalham juntos com amor, fidelidade e dedicação.",
+            palavraChave: "COOPERAÇÃO",
+            leituraBiblica: "Romanos 16.1-16",
+
+            perguntaGancho: "🎯 Você consegue imaginar uma grande obra sendo realizada por uma única pessoa, sem a ajuda, o apoio e a amizade de ninguém? Paulo foi um grande servo de Deus, mas não caminhou sozinho. Romanos 16 revela uma verdadeira rede de amigos, irmãos e cooperadores que participaram da obra do Evangelho.",
+
+            curiosidade: "🔎 Você sabia que Romanos 16 menciona diversos nomes de pessoas que cooperaram com Paulo? Entre elas estão homens e mulheres que serviram à Igreja, ajudaram os necessitados e trabalharam na propagação do Evangelho. Isso mostra que, no Reino de Deus, pessoas diferentes podem exercer funções diferentes, mas todas podem ser importantes na missão de Cristo.",
+
+            devocional: [
+                {
+                    dia: "✨ Segunda — Amizade que permanece",
+                    versiculo: "📖 \"Aonde quer que fores, irei eu\" — Rute 1.16, 17",
+                    texto: "Rute demonstrou uma amizade marcada por compromisso e fidelidade. Mesmo diante de uma situação difícil, ela decidiu permanecer ao lado de Noemi e não abandoná-la. Sua atitude revela que a verdadeira amizade não depende apenas de momentos bons, mas também se manifesta quando surgem dificuldades. Deus valoriza relacionamentos construídos com amor, lealdade e disposição para caminhar juntos. Na vida cristã, somos chamados a cuidar uns dos outros e permanecer firmes ao lado daqueles que precisam de apoio.",
+                    pontos: [
+                        "🙏 Fidelidade: Amigos verdadeiros permanecem juntos mesmo nas dificuldades.",
+                        "🤝 Compromisso: O amor verdadeiro demonstra disposição para caminhar ao lado do outro.",
+                        "✨ Cuidado: Deus pode usar uma amizade para trazer força e esperança."
+                    ],
+                    advertencia: "⚠️ Advertência: Não abandone pessoas simplesmente porque elas estão passando por momentos difíceis.",
+                    aplicacao: "💭 Aplicação pessoal: Procure hoje alguém que precisa de apoio e demonstre, por meio de uma atitude concreta, que ele não está sozinho.",
+                    fechamento: "✨ Quem permanece nos dias difíceis demonstra o verdadeiro valor da amizade."
+                },
+                {
+                    dia: "✨ Terça — Amizade com lealdade",
+                    versiculo: "📖 \"E Jônatas fez um pacto com a casa de Davi\" — 1 Samuel 20.16, 17",
+                    texto: "A amizade entre Jônatas e Davi foi marcada por amor, lealdade e compromisso. Mesmo enfrentando uma situação complicada dentro de sua própria família, Jônatas não abandonou seu amigo. Ele demonstrou que uma amizade verdadeira não deve ser baseada em interesses pessoais, mas em sinceridade e cuidado.",
+                    pontos: [
+                        "🤝 Lealdade: A verdadeira amizade permanece firme mesmo sob pressão.",
+                        "❤️ Amor: O cuidado pelo amigo deve ser sincero e desinteressado.",
+                        "🕊️ Confiança: Relacionamentos saudáveis são construídos com fidelidade."
+                    ],
+                    advertencia: "⚠️ Advertência: Não permita que interesses pessoais destruam amizades construídas com sinceridade.",
+                    aplicacao: "💭 Aplicação pessoal: Seja hoje uma pessoa em quem seus amigos possam confiar, especialmente quando estiverem enfrentando dificuldades.",
+                    fechamento: "✨ A verdadeira amizade não se prova apenas com palavras, mas com lealdade."
+                },
+                {
+                    dia: "✨ Quarta — Caminhando juntos",
+                    versiculo: "📖 \"Ficarei aqui, porque o Senhor me mandou ir contigo\" — 2 Reis 2.1, 2",
+                    texto: "Eliseu demonstrou grande disposição para permanecer ao lado de Elias. Essa atitude revela compromisso e disposição para aprender e servir. Na caminhada cristã, devemos valorizar as pessoas que Deus coloca ao nosso lado durante o caminho. Paulo também contou com amigos e cooperadores que permaneceram envolvidos em sua missão.",
+                    pontos: [
+                        "🛤️ Perseverança: Caminhar com alguém exige disposição para permanecer.",
+                        "📖 Aprendizado: Bons relacionamentos também podem nos ajudar a crescer espiritualmente.",
+                        "🤝 Companheirismo: A caminhada se torna mais forte quando existe cooperação."
+                    ],
+                    advertencia: "⚠️ Advertência: Não despreze pessoas que Deus usa para ensinar, orientar e fortalecer você.",
+                    aplicacao: "💭 Aplicação pessoal: Valorize aqueles que caminham com você e esteja disposto a aprender com pessoas maduras na fé.",
+                    fechamento: "✨ Quem caminha com pessoas certas pode crescer enquanto avança."
+                },
+                {
+                    dia: "✨ Quinta — Um amigo verdadeiro",
+                    versiculo: "📖 \"O homem que tem muitos amigos pode congratular-se\" — Provérbios 18.24",
+                    texto: "Podemos conhecer muitas pessoas, mas a verdadeira amizade envolve proximidade, cuidado e fidelidade. A Bíblia apresenta o amigo verdadeiro como alguém que permanece presente e demonstra amor genuíno. Paulo tinha muitos companheiros de ministério, e Romanos 16 mostra como ele valorizava essas pessoas.",
+                    pontos: [
+                        "❤️ Profundidade: Nem todo conhecido ocupa o lugar de um verdadeiro amigo.",
+                        "🤝 Presença: Um amigo verdadeiro permanece próximo quando precisamos.",
+                        "🙏 Edificação: Boas amizades podem contribuir para nossa caminhada com Deus."
+                    ],
+                    advertencia: "⚠️ Advertência: Tenha cuidado para não confundir quantidade de relacionamentos com qualidade de amizade.",
+                    aplicacao: "💭 Aplicação pessoal: Invista tempo em amizades saudáveis e procure também ser um amigo presente e confiável.",
+                    fechamento: "✨ Mais importante que ter muitos amigos é ser um amigo verdadeiro."
+                },
+                {
+                    dia: "✨ Sexta — Amigos e cooperadores",
+                    versiculo: "📖 \"Já não vos chamarei servos, porque o servo não sabe o que faz o seu senhor; mas tenho-vos chamado amigos\" — João 15.15",
+                    texto: "Jesus chamou seus discípulos de amigos e revelou a eles aquilo que havia recebido do Pai. A amizade com Jesus não elimina nossa responsabilidade de obedecer, mas mostra que Ele nos permite conhecer sua vontade e participar de sua obra. Paulo também contou com muitos cooperadores na missão do Evangelho.",
+                    pontos: [
+                        "🙏 Intimidade: Jesus deseja que seus discípulos conheçam e pratiquem sua vontade.",
+                        "📖 Obediência: A amizade com Cristo está ligada a uma vida de fidelidade.",
+                        "🤝 Cooperação: Quem segue Jesus também participa da missão do Evangelho."
+                    ],
+                    advertencia: "⚠️ Advertência: Não trate a amizade com Cristo como uma relação sem compromisso ou obediência.",
+                    aplicacao: "💭 Aplicação pessoal: Aproxime-se de Jesus por meio da Palavra e procure servir ao lado de outros irmãos na obra de Deus.",
+                    fechamento: "✨ Quem anda perto de Jesus encontra propósito para servir."
+                },
+                {
+                    dia: "✨ Sábado — Honrando uns aos outros",
+                    versiculo: "📖 \"Amai-vos cordialmente uns aos outros com amor fraternal, preferindo-vos em honra uns aos outros\" — Romanos 12.10",
+                    texto: "Paulo ensina que os cristãos devem desenvolver relacionamentos marcados pelo amor fraternal e pela honra. Honrar significa reconhecer o valor das pessoas e tratá-las com respeito. Romanos 16 apresenta vários nomes de irmãos que cooperaram com Paulo, mostrando que ele reconhecia e valorizava aqueles que serviam na obra.",
+                    pontos: [
+                        "❤️ Amor: O relacionamento cristão deve ser marcado por afeto sincero.",
+                        "🏅 Honra: Devemos reconhecer e valorizar aqueles que servem ao Senhor.",
+                        "🤝 Comunhão: A cooperação fortalece a vida da Igreja."
+                    ],
+                    advertencia: "⚠️ Advertência: Não permita que competição, orgulho ou inveja prejudiquem a comunhão entre irmãos.",
+                    aplicacao: "💭 Aplicação pessoal: Reconheça hoje alguém que serve ao Senhor e demonstre gratidão pelo trabalho que essa pessoa realiza.",
+                    fechamento: "✨ Quando honramos uns aos outros, mostramos que pertencemos ao mesmo corpo."
+                }
+            ],
+
+            licaoHoje: {
+                referencia: "Romanos 16.1-16",
+                pontoPrincipal: "📌 Ponto principal: A obra de Deus é fortalecida quando irmãos trabalham juntos com amor, fidelidade e dedicação."
+            },
+
+            bibliaDiz: {
+                versiculo: "\"O amigo ama sempre e na desgraça ele se torna um irmão.\" Provérbios 17.17",
+                pontoPrincipal: "📌 Ponto principal: A verdadeira amizade permanece firme nos momentos bons e difíceis."
+            },
+
+            objetivos: [
+                "🤝 APRESENTAR os amigos e ajudantes de Paulo;",
+                "🌍 EXPLICAR que Paulo fez amigos em diversas cidades diferentes;",
+                "👨‍🦱👩‍🦱 DEMONSTRAR que tanto os homens, quanto as mulheres colaboraram muito para o crescimento da obra de Deus."
+            ],
+
+            introducao: "Nesta lição, veremos mais informações sobre alguns dos amigos e conhecidos do Apóstolo Paulo. Eles eram homens e mulheres que contribuíram para o estabelecimento das primeiras igrejas cristãs. A Bíblia não informa detalhes de todos, mas poderemos ter uma ideia de quem eles eram, o que faziam e onde encontraram Paulo.",
+
+            vamosDescobrir: {
+                titulo: "🔎 VAMOS DESCOBRIR",
+                texto: "Nesta lição, veremos mais informações sobre alguns dos amigos e conhecidos do Apóstolo Paulo. Eles eram homens e mulheres que contribuíram para o estabelecimento das primeiras igrejas cristãs. A Bíblia não informa detalhes de todos, mas poderemos ter uma ideia de quem eles eram, o que faziam e onde encontraram Paulo.",
+                pontoPrincipal: "📌 Ponto principal: Paulo contou com amigos e cooperadores que contribuíram para o estabelecimento das primeiras igrejas cristãs."
+            },
+
+            desenvolvimento: [
+                {
+                    titulo: "📖 HORA DE APRENDER",
+                    texto: "O livro de Atos dos Apóstolos e as cartas paulinas mencionam muitas pessoas que Paulo foi conhecendo e encontrando ao longo do seu ministério. Algumas delas se tornaram companheiras até o final de sua vida, enquanto alguns nomes aparecem só uma vez.",
+                    pontoPrincipal: "📌 Ponto principal: Deus usa diferentes pessoas para cooperar com a sua obra em diferentes momentos.",
+                    topicos: [
+                        {
+                            titulo: "1️⃣ OS HOMENS",
+                            texto: "A Bíblia cita diversos irmãos que colaboraram com o ministério de Paulo e o apoiaram em momentos difíceis. Destacamos para este estudo apenas sete cooperadores: 👨‍⚕️ Lucas, 🤝 Barnabé, ⛓️ Silas, 👦 Timóteo, 👤 Tito, 🏠 Filemom e 📜 Tíquico.",
+                            pontoPrincipal: "📌 Ponto principal: Homens diferentes, com histórias e funções diferentes, cooperaram com Paulo e foram importantes para o avanço da obra de Deus.",
+                            versiculos: [
+                                {
+                                    referencia: "Eclesiastes 4.9",
+                                    pontoPrincipal: "A cooperação torna o trabalho mais proveitoso e fortalece aqueles que servem juntos."
+                                },
+                                {
+                                    referencia: "Gálatas 6.2",
+                                    pontoPrincipal: "Servir a Deus também envolve ajudar e apoiar nossos irmãos."
+                                }
+                            ],
+                            exortacao: "🔥 Exortação prática: Não tente fazer tudo sozinho. Valorize as pessoas que Deus colocou ao seu lado, aprenda com elas e esteja disposto a cooperar.",
+                            reflexao: "💭 Reflexão para a vida cristã: Cada pessoa possui uma história, uma capacidade e uma oportunidade de servir. Alguns são vistos por muitos, enquanto outros trabalham nos bastidores, mas todos podem ser úteis no Reino de Deus.",
+                            palavrasChave: [
+                                "🤝 Cooperação: Trabalhar juntamente com outras pessoas para cumprir uma missão.",
+                                "🙏 Fidelidade: Permanecer firme e dedicado ao serviço que Deus confiou.",
+                                "❤️ Companheirismo: Caminhar ao lado de outros, oferecendo apoio, amizade e encorajamento."
+                            ]
+                        },
+                        {
+                            titulo: "II — AS MULHERES",
+                            texto: "👩‍🦱 Mulheres que cooperaram com o ministério: 💜 Lídia, 🌸 Dâmaris e 🤝 Febe.",
+                            pontoPrincipal: "📌 Ponto principal: As mulheres também foram alcançadas, serviram e cooperaram ativamente na expansão do Evangelho.",
+                            versiculos: [
+                                {
+                                    referencia: "Lucas 8.1-3",
+                                    pontoPrincipal: "Mulheres também acompanharam Jesus e contribuíram para o seu ministério."
+                                },
+                                {
+                                    referencia: "Atos 16.15",
+                                    pontoPrincipal: "Lídia demonstrou sua fé por meio da hospitalidade e disposição para servir."
+                                }
+                            ],
+                            exortacao: "🔥 Exortação prática: Não importa se somos homens ou mulheres, todos podemos cooperar com aquilo que Deus está realizando.",
+                            reflexao: "💭 Reflexão para a vida cristã: Deus pode usar pessoas de diferentes histórias, profissões e condições sociais para cumprir seus propósitos.",
+                            palavrasChave: [
+                                "🌱 Serviço: Colocar dons, recursos e disposição à disposição da obra de Deus.",
+                                "🤝 Cooperação: Trabalhar junto com outros para que o Evangelho avance.",
+                                "🏠 Hospitalidade: Receber e acolher pessoas com amor, cuidado e disposição para ajudar."
+                            ]
+                        },
+                        {
+                            titulo: "III — O CASAL MISSIONÁRIO",
+                            texto: "Áquila e Priscila usaram sua vida, sua profissão e sua casa para cooperar com a obra do Evangelho.",
+                            pontoPrincipal: "📌 Ponto principal: Áquila e Priscila usaram sua vida, sua profissão e sua casa para cooperar com a obra do Evangelho.",
+                            versiculos: [
+                                {
+                                    referencia: "Atos 18.3",
+                                    pontoPrincipal: "O trabalho profissional também pode ser uma oportunidade para testemunhar de Cristo."
+                                },
+                                {
+                                    referencia: "Atos 18.19",
+                                    pontoPrincipal: "Áquila e Priscila acompanharam Paulo e participaram ativamente da obra em diferentes lugares."
+                                }
+                            ],
+                            exortacao: "🔥 Exortação prática: Não pense que somente quem está no púlpito ou no campo missionário pode anunciar o Evangelho. Deus também pode usar nossa profissão, nossa casa, nossos relacionamentos e nossas atividades diárias.",
+                            reflexao: "💭 Reflexão para a vida cristã: Áquila e Priscila mostram que o serviço cristão pode fazer parte da rotina de um casal. Em qualquer lugar, podemos ser testemunhas de Cristo.",
+                            palavrasChave: [
+                                "🏠 Hospitalidade: Receber e acolher pessoas com amor e disposição para servir.",
+                                "💼 Profissão: Utilizar o trabalho e as habilidades pessoais como oportunidades para testemunhar de Cristo.",
+                                "🌍 Missão: Levar o Evangelho às pessoas por meio das palavras, atitudes e do serviço cristão."
+                            ]
+                        }
+                    ]
+                }
+            ],
+
+            conclusao: "🏁 CONCLUSÃO\n🌍 Paulo foi um grande missionário e impactou a vida de muitos. Foram muitas as pessoas que tiveram contato com o Apóstolo. 🙏 Algumas se encontraram com Jesus pela sua pregação, outras se tornaram líderes, outras o acompanharam até o final de sua vida. 🤝 Paulo é um exemplo para nós de como ser um bom amigo e construir relacionamentos sólidos com os irmãos em Cristo. ❤️",
+
+            perguntas: [
+                {
+                    nivel: "🟢 1. Fácil",
+                    pergunta: "Quem foi um dos principais missionários mencionados na lição?",
+                    resposta: "Paulo."
+                },
+                {
+                    nivel: "🟡 2. Média",
+                    pergunta: "Quem eram Áquila e Priscila?",
+                    resposta: "Eram um casal judeu, fazedores de tendas, que acolheu Paulo e cooperou com o trabalho missionário e com a Igreja."
+                },
+                {
+                    nivel: "🟡 3. Média",
+                    pergunta: "Cite três homens que cooperaram com o ministério de Paulo.",
+                    resposta: "Lucas, Barnabé e Timóteo. Também são mencionados Silas, Tito, Filemom e Tíquico."
+                },
+                {
+                    nivel: "🔴 4. Difícil",
+                    pergunta: "Como Lídia, Dâmaris e Febe demonstraram que as mulheres também participaram da expansão do Evangelho?",
+                    resposta: "Lídia acolheu Paulo e seus companheiros em sua casa; Dâmaris creu no Evangelho após ouvir Paulo em Atenas; e Febe cooperou com Paulo, hospedou obreiros e levou a Epístola aos Romanos."
+                },
+                {
+                    nivel: "🔴 5. Difícil",
+                    pergunta: "O que podemos aprender com os amigos e cooperadores de Paulo sobre a realização da obra de Deus?",
+                    resposta: "Aprendemos que a obra de Deus é realizada por meio da cooperação de pessoas diferentes, homens e mulheres, que usam seus dons, recursos, profissão, casa e disposição para servir ao Senhor e contribuir para o avanço do Evangelho."
+                }
+            ]
         }
+        },
+
 
               },
 
  "juniores": {
-
     "3": {
 
         "10": {
@@ -2519,7 +3256,92 @@ perguntas: [
 conclusao:
     "✝️ 18. ENCERRAMENTO\n\nRelembre com as crianças:\n\nQuem era Jefté? → Juiz de Israel.\n\nQuem brigou com os gileaditas? → Os efraimitas.\n\nQual foi o problema? → Orgulho, falta de companheirismo e divisão.\n\nO que Deus deseja de nós? → Amor, união, perdão e companheirismo.\n\nRepitam juntos o versículo de Salmos 133.1:\n\n“Como é bom e agradável que o povo de Deus viva unido como se todos fossem irmãos!”\n\nDepois, peça que as crianças deem as mãos e faça a oração:\n\nSenhor Deus, ajuda-nos a viver em união. Ensina-nos a amar nossos amigos, nossa família e nossos irmãos em Cristo. Ajuda-nos a perdoar, ajudar e respeitar uns aos outros. Que sejamos pacificadores e que nossas atitudes mostrem o amor de Jesus. Em nome de Jesus, amém.\n\n🌟 FRASE PARA A CRIANÇA LEVAR PARA CASA\n\n“Quando escolho o amor e a união, ajudo a construir a paz.”",
 
+        },
+
+        "12": {
+            numero: "Lição 12",
+
+            titulo: "Sansão livra Israel dos filisteus",
+
+            textoPrincipal:
+                "“Tu és o Deus que faz milagres; tu tens mostrado o teu poder entre as nações.” — Salmos 77.14",
+
+            leituraBiblica:
+                "Juízes 13.1-5; 14.1-9; 15.14-20; 16.23-30",
+
+            objetivos: [
+                "Ensinar às crianças que Deus pode usar pessoas para cumprir seus propósitos e mostrar seu poder, mas também deseja que seus servos sejam obedientes e dependam dEle."
+            ],
+
+            pontoPrincipal:
+                "Deus mostrou seu poder por meio de Sansão para livrar Israel dos filisteus, mas a força verdadeira vinha do Senhor.",
+
+            introducao:
+                "🟢 1. VAMOS COMEÇAR?\n\nReceba as crianças com alegria e pergunte: Você já viu alguém muito forte? O que significa ser forte de verdade? Será que uma pessoa pode ser forte por fora e ainda precisar da ajuda de Deus?\n\nHoje vamos conhecer Sansão, um homem que recebeu uma força extraordinária de Deus para enfrentar os inimigos de Israel. Vamos aprender que a verdadeira força não está apenas no que uma pessoa consegue fazer, mas em confiar e obedecer ao Senhor.\n\nFaça uma oração inicial.",
+
+            desenvolvimento: [
+                {
+                    titulo: "🎵 2. MOMENTO DE LOUVOR",
+                    texto: "Escolha 1 ou 2 cânticos infantis que falem sobre o poder de Deus, confiança, obediência ou livramento.\n\nDepois do louvor, faça uma oração curta."
+                },
+                {
+                    titulo: "💰 3. MOMENTO DA OFERTA",
+                    texto: "Explique que contribuir também é uma forma de participar da obra de Deus. Ensine as crianças a ofertarem com alegria e gratidão.\n\nFaça a oferta e ore agradecendo ao Senhor."
+                },
+                {
+                    titulo: "📖 4. SANSÃO, UM HOMEM ESCOLHIDO POR DEUS",
+                    texto: "Sansão nasceu em um período em que os israelitas estavam novamente fazendo o que era mau aos olhos do Senhor. Deus anunciou o seu nascimento e estabeleceu um propósito especial para sua vida: ele começaria a livrar Israel das mãos dos filisteus.\n\nAntes mesmo de Sansão nascer, Deus já havia demonstrado que tinha um propósito para ele. Isso nos ensina que Deus pode levantar pessoas para cumprir aquilo que Ele deseja."
+                },
+                {
+                    titulo: "💪 5. A FORÇA VINHA DE DEUS",
+                    texto: "Sansão ficou conhecido por sua grande força. Em diferentes momentos, ele enfrentou os filisteus de maneira extraordinária. Porém, sua força não era simplesmente uma habilidade humana. Deus lhe concedia força para cumprir seu propósito.\n\nPor isso, não devemos pensar que Sansão era poderoso por si mesmo. O poder vinha do Senhor."
+                },
+                {
+                    titulo: "⚠️ 6. SANSÃO TAMBÉM PRECISAVA OBEDECER",
+                    texto: "Mesmo tendo recebido uma capacidade extraordinária, Sansão tomou decisões erradas e não demonstrou sempre a obediência que Deus esperava dele. Sua história mostra que receber dons de Deus não significa que podemos viver de qualquer maneira.\n\nPrecisamos aprender a usar aquilo que Deus nos dá com responsabilidade, obediência e temor."
+                },
+                {
+                    titulo: "🔥 7. DEUS DEU LIVRAMENTO A ISRAEL",
+                    texto: "Em vários momentos, Deus usou Sansão para enfrentar os filisteus e mostrar seu poder. Mesmo com suas falhas, o Senhor continuou cumprindo seu propósito de começar a libertar Israel daquele domínio.\n\nNo final da sua vida, Sansão clamou ao Senhor e Deus lhe concedeu força novamente. Sansão derrubou as colunas do templo dos filisteus, causando grande derrota aos inimigos de Israel."
+                },
+                {
+                    titulo: "❤️ 8. O QUE APRENDEMOS COM SANSÃO?",
+                    texto: "A história de Sansão nos ensina que Deus é poderoso e pode usar pessoas para realizar seus propósitos. Também aprendemos que precisamos confiar no Senhor, obedecer à sua Palavra e não colocar nossa confiança apenas em nossas próprias capacidades.\n\nNossa maior força está em Deus."
+                }
+            ],
+
+            conclusao:
+                "📌 CONCLUSÃO: A história de Sansão mostra que Deus é poderoso para livrar e realizar seus propósitos. Sansão recebeu força extraordinária do Senhor, mas também precisou aprender sobre as consequências de suas escolhas. Que possamos confiar em Deus, obedecer à sua Palavra e reconhecer que a verdadeira força vem do Senhor.",
+
+            perguntas: [
+                {
+                    nivel: "🟢 1. Fácil",
+                    pergunta: "Quem foi Sansão?",
+                    resposta: "Sansão foi um homem escolhido por Deus para começar a livrar Israel das mãos dos filisteus."
+                },
+                {
+                    nivel: "🟡 2. Média",
+                    pergunta: "De onde vinha a força extraordinária de Sansão?",
+                    resposta: "A força de Sansão vinha de Deus, que o capacitava para cumprir seu propósito."
+                },
+                {
+                    nivel: "🔴 3. Difícil",
+                    pergunta: "Por que a história de Sansão ensina que ter força ou capacidade não é suficiente?",
+                    resposta: "Porque uma pessoa pode receber capacidades de Deus e ainda fazer escolhas erradas. É necessário confiar no Senhor, obedecer à sua Palavra e usar corretamente aquilo que Ele concede."
+                },
+                {
+                    nivel: "🔴 4. Difícil",
+                    pergunta: "O que podemos aprender com os erros de Sansão?",
+                    resposta: "Aprendemos que nossas escolhas têm consequências e que os dons e capacidades recebidos de Deus não substituem a necessidade de obediência, prudência e temor ao Senhor."
+                },
+                {
+                    nivel: "🔴 5. Difícil",
+                    pergunta: "Qual é a principal lição espiritual da história de Sansão?",
+                    resposta: "A principal lição é que Deus é a verdadeira fonte da nossa força e que devemos depender dEle, obedecer à sua Palavra e permitir que Ele cumpra seus propósitos em nossa vida."
+                }
+            ]
         }
+
 
     }
 
@@ -3094,11 +3916,256 @@ conhecendoMaisDeDeus: {
 
                 ]
 
+            },
+
+            "12": {
+                numero: "Lição 12",
+                titulo: "A IMPORTÂNCIA DO EVANGELISMO",
+                textoPrincipal: "Atos 1.8; Romanos 1.16; 1 Coríntios 9.16,17",
+                perguntaGancho: "🎯Se você recebesse uma notícia capaz de transformar a vida de muitas pessoas, você guardaria essa notícia somente para si ou compartilharia com outras pessoas?",
+                curiosidade: "💡O evangelismo é uma missão que Jesus confiou aos seus discípulos. Antes de subir ao céu, Ele prometeu poder do Espírito Santo para que seus seguidores fossem suas testemunhas e anunciassem o Evangelho até os confins da terra.",
+                palavraChave: "📢 Evangelismo",
+
+                devocional: [
+                    {
+                        dia: "✨ Segunda-feira — Ide e fazei discípulos",
+                        versiculo: "📖 Mateus 28.18-20",
+                        texto: "Jesus deixou aos seus discípulos a missão de fazer outros discípulos e ensinar tudo o que Ele ordenou. Evangelizar é obedecer ao chamado de Cristo e anunciar a sua mensagem a outras pessoas. Essa missão continua sendo responsabilidade da Igreja e de cada cristão.",
+                        pontos: [
+                            "📢 Jesus nos chama para anunciar o Evangelho.",
+                            "🌎 A missão alcança pessoas de todos os lugares.",
+                            "🤝 Fazer discípulos envolve ensinar e acompanhar."
+                        ],
+                        advertencia: "⚠️ Não devemos tratar a missão de evangelizar como algo sem importância.",
+                        aplicacao: "🙏 Procure hoje uma oportunidade para falar de Jesus e demonstrar o seu amor por meio de atitudes."
+                    },
+                    {
+                        dia: "✨ Terça-feira — Pregue a Palavra",
+                        versiculo: "📖 2 Timóteo 4.2",
+                        texto: "Paulo orientou Timóteo a pregar a Palavra com perseverança, aproveitando as oportunidades para ensinar e corrigir com amor. O Evangelho precisa ser anunciado com fidelidade, mesmo quando as pessoas não querem ouvir. Quem recebeu a verdade deve estar disposto a compartilhá-la.",
+                        pontos: [
+                            "📖 A Palavra de Deus deve ser anunciada.",
+                            "💪 Precisamos perseverar mesmo diante das dificuldades.",
+                            "❤️ A mensagem deve ser transmitida com amor e fidelidade."
+                        ],
+                        advertencia: "⚠️ Não devemos deixar de falar da Palavra apenas porque algumas pessoas podem rejeitá-la.",
+                        aplicacao: "🙏 Peça a Deus coragem para anunciar sua Palavra com sabedoria e amor."
+                    },
+                    {
+                        dia: "✨ Quarta-feira — Poder para testemunhar",
+                        versiculo: "📖 Lucas 24.49",
+                        texto: "Jesus prometeu aos discípulos que receberiam poder do alto antes de testemunharem sobre Ele. O evangelismo não depende apenas da capacidade humana, mas da capacitação que vem de Deus. O Espírito Santo fortalece o cristão para cumprir sua missão.",
+                        pontos: [
+                            "🔥 Deus capacita seus filhos para testemunhar.",
+                            "🕊️ O Espírito Santo concede poder para a missão.",
+                            "📢 O testemunho cristão deve apontar para Jesus."
+                        ],
+                        advertencia: "⚠️ Não devemos confiar somente em nossa própria capacidade para realizar a obra de Deus.",
+                        aplicacao: "🙏 Busque a capacitação do Espírito Santo para ser uma testemunha fiel de Cristo."
+                    },
+                    {
+                        dia: "✨ Quinta-feira — Escolhido para anunciar",
+                        versiculo: "📖 Atos 9.15",
+                        texto: "Deus escolheu Paulo para levar o nome de Jesus diante de diferentes pessoas e nações. Sua vida mostra que Deus pode transformar uma pessoa e usá-la para anunciar o Evangelho. O chamado para testemunhar deve ser recebido com responsabilidade.",
+                        pontos: [
+                            "🎯 Deus chama pessoas para anunciar o Evangelho.",
+                            "🔄 Deus pode transformar completamente uma vida.",
+                            "📢 O testemunho deve glorificar o nome de Jesus."
+                        ],
+                        advertencia: "⚠️ Não devemos pensar que Deus só pode usar pessoas com grandes conhecimentos ou habilidades.",
+                        aplicacao: "🙏 Coloque sua vida nas mãos de Deus e esteja disponível para testemunhar de Cristo."
+                    },
+                    {
+                        dia: "✨ Sexta-feira — A semente é a Palavra",
+                        versiculo: "📖 Lucas 8.11",
+                        texto: "Jesus ensinou que a semente representa a Palavra de Deus. Quando anunciamos o Evangelho, estamos lançando essa semente no coração das pessoas. Nem todos responderão da mesma maneira, mas nossa responsabilidade é anunciar com fidelidade.",
+                        pontos: [
+                            "🌱 A Palavra de Deus é a semente.",
+                            "❤️ O coração das pessoas precisa receber a mensagem.",
+                            "🙏 Devemos confiar em Deus quanto aos resultados."
+                        ],
+                        advertencia: "⚠️ Não devemos desistir de evangelizar porque algumas pessoas não aceitam imediatamente a mensagem.",
+                        aplicacao: "🙏 Continue semeando a Palavra e confie que Deus pode produzir frutos."
+                    },
+                    {
+                        dia: "✨ Sábado — Ide por todo o mundo",
+                        versiculo: "📖 Marcos 16",
+                        texto: "Jesus ordenou que seus discípulos fossem por todo o mundo e pregassem o Evangelho a todas as pessoas. Essa ordem revela o alcance universal da missão cristã. A Igreja deve anunciar a mensagem de salvação sem fazer distinção entre as pessoas.",
+                        pontos: [
+                            "🌎 O Evangelho deve alcançar todas as pessoas.",
+                            "📢 A Igreja recebeu a responsabilidade de anunciar.",
+                            "✝️ Jesus é o centro da mensagem de salvação."
+                        ],
+                        advertencia: "⚠️ Não devemos limitar o Evangelho somente às pessoas que fazem parte do nosso círculo de convivência.",
+                        aplicacao: "🙏 Pense em alguém que ainda não conhece Jesus e procure uma oportunidade para compartilhar o Evangelho."
+                    }
+                ],
+
+                licaoHoje: {
+                    referencia: "Atos 1.8; Romanos 1.16; 1 Coríntios 9.16,17",
+                    pontoPrincipal: "📌 Ponto principal: O Evangelho deve ser anunciado com poder, coragem e compromisso, porque é a mensagem de salvação para todos."
+                },
+
+                bibliaDiz: {
+                    versiculo: "O Espírito do Senhor é sobre mim, pois que me ungiu para evangelizar os pobres, enviou-me a curar os quebrantados do coração. Lucas 4.18",
+                    pontoPrincipal: "📌 Ponto principal: Jesus foi enviado para anunciar as boas-novas e levar esperança aos necessitados."
+                },
+
+                objetivos: [
+                    "🎯 APONTAR que é preciso cumprir a evangelização;",
+                    "❤️ ENSINAR que a igreja deve cuidar dos carentes;",
+                    "📢 EXPLICAR que o evangelho deve ser pregado com o exemplo de vida."
+                ],
+
+                topicos: [
+                    {
+                        titulo: "1. É PRECISO PREGAR A PALAVRA DE DEUS",
+                        subtopico: "A Igreja recebeu de Jesus a responsabilidade de anunciar o Evangelho. Pregar a Palavra é apresentar às pessoas a mensagem de salvação e mostrar que somente Jesus pode transformar o coração humano.",
+                        pontoPrincipal: "📌 Ponto principal: O Evangelho precisa ser anunciado porque é a mensagem de salvação para todas as pessoas.",
+                        versiculos: [
+                            {
+                                referencia: "Marcos 16.15",
+                                texto: "E disse-lhes: Ide por todo o mundo, pregai o evangelho a toda criatura.",
+                                pontoPrincipal: "📌 Jesus ordenou que seus discípulos levassem o Evangelho a todas as pessoas."
+                            },
+                            {
+                                referencia: "Romanos 1.16",
+                                texto: "Porque não me envergonho do evangelho de Cristo, pois é o poder de Deus para salvação de todo aquele que crê, primeiro do judeu e também do grego.",
+                                pontoPrincipal: "📌 O Evangelho é o poder de Deus para a salvação de todo aquele que crê."
+                            }
+                        ],
+                        exortacao: "🔥 Não devemos ter vergonha de falar de Jesus. Precisamos aproveitar as oportunidades que Deus coloca diante de nós para anunciar a Palavra com coragem, amor e fidelidade.",
+                        reflexao: "🤔 Tenho aproveitado as oportunidades para falar de Jesus às pessoas que estão ao meu redor?",
+                        pontosPrincipais: [
+                            "📢 A Igreja deve anunciar a Palavra de Deus.",
+                            "✝️ Jesus é o centro da mensagem do Evangelho.",
+                            "🌎 A mensagem de salvação deve alcançar todas as pessoas."
+                        ],
+                        palavrasChave: [
+                            {
+                                palavra: "Evangelismo",
+                                significado: "📢 A missão de anunciar as boas-novas de Jesus Cristo."
+                            },
+                            {
+                                palavra: "Salvação",
+                                significado: "✝️ A obra de Deus que livra o pecador e oferece nova vida em Cristo."
+                            },
+                            {
+                                palavra: "Testemunho",
+                                significado: "🗣️ O anúncio daquilo que Cristo fez e continua fazendo na vida do cristão."
+                            }
+                        ]
+                    },
+                    {
+                        titulo: "2. A IGREJA CUIDA DOS NECESSITADOS",
+                        subtopico: "Evangelizar também envolve demonstrar o amor de Deus por meio de atitudes. A Igreja deve olhar para aqueles que enfrentam necessidades e procurar ajudá-los, mostrando na prática o cuidado e a compaixão de Cristo.",
+                        pontoPrincipal: "📌 Ponto principal: A Igreja demonstra o amor de Cristo quando cuida das pessoas necessitadas.",
+                        versiculos: [
+                            {
+                                referencia: "Tiago 2.15-16",
+                                texto: "E, se o irmão ou a irmã estiverem nus e tiverem falta de mantimento cotidiano, e algum de vós lhes disser: Ide em paz, aquentai-vos e fartai-vos; e lhes não derdes as coisas necessárias para o corpo, que proveito virá daí?",
+                                pontoPrincipal: "📌 A fé deve produzir atitudes concretas de amor e cuidado com quem necessita."
+                            },
+                            {
+                                referencia: "Tiago 1.27",
+                                texto: "A religião pura e imaculada para com Deus, o Pai, é esta: visitar os órfãos e as viúvas nas suas tribulações e guardar-se da corrupção do mundo.",
+                                pontoPrincipal: "📌 A verdadeira fé se manifesta no cuidado com os necessitados e em uma vida separada do pecado."
+                            }
+                        ],
+                        exortacao: "❤️ Não devemos ignorar quem está passando por necessidades. Podemos ajudar com aquilo que temos, oferecendo alimento, atenção, oração, companhia e outras formas de cuidado.",
+                        reflexao: "🤔 Minha maneira de tratar as pessoas demonstra o amor de Cristo que existe em mim?",
+                        pontosPrincipais: [
+                            "❤️ A Igreja deve demonstrar compaixão.",
+                            "🤝 Devemos cuidar daqueles que enfrentam necessidades.",
+                            "🎁 A partilha é uma expressão prática do amor cristão."
+                        ],
+                        palavrasChave: [
+                            {
+                                palavra: "Compaixão",
+                                significado: "❤️ Sensibilidade diante da necessidade do próximo que nos leva a agir para ajudá-lo."
+                            },
+                            {
+                                palavra: "Comunhão",
+                                significado: "🤝 Vida de relacionamento e cuidado entre os irmãos."
+                            },
+                            {
+                                palavra: "Partilha",
+                                significado: "🎁 Disposição para dividir aquilo que temos com quem precisa."
+                            }
+                        ]
+                    },
+                    {
+                        titulo: "3. USE PALAVRAS E PREGUE COM A VIDA",
+                        subtopico: "O cristão deve anunciar o Evangelho com suas palavras, mas também precisa demonstrar a mensagem por meio de seu comportamento. Uma vida transformada pelo Espírito Santo confirma, na prática, aquilo que os nossos lábios anunciam.",
+                        pontoPrincipal: "📌 Ponto principal: O cristão deve anunciar Jesus com suas palavras e confirmar sua fé por meio de uma vida transformada.",
+                        versiculos: [
+                            {
+                                referencia: "2 Timóteo 4.2",
+                                texto: "Que pregues a palavra, instes a tempo e fora de tempo, redarguas, repreendas, exortes, com toda a longanimidade e doutrina.",
+                                pontoPrincipal: "📌 A Palavra deve ser anunciada com perseverança, paciência e fidelidade."
+                            },
+                            {
+                                referencia: "Gálatas 5.22",
+                                texto: "Mas o fruto do Espírito é: amor, gozo, paz, longanimidade, benignidade, bondade, fé, mansidão, temperança.",
+                                pontoPrincipal: "📌 O fruto do Espírito deve aparecer no comportamento daquele que segue a Cristo."
+                            }
+                        ],
+                        exortacao: "🔥 Não basta falar sobre Jesus se nossas atitudes contradizem aquilo que pregamos. Precisamos permitir que o Espírito Santo transforme nosso caráter para que nossa vida seja um testemunho de Cristo.",
+                        reflexao: "🤔 As minhas atitudes confirmam ou contradizem aquilo que digo sobre Jesus?",
+                        pontosPrincipais: [
+                            "🗣️ Precisamos anunciar o Evangelho com nossas palavras.",
+                            "❤️ Nossa vida também deve testemunhar de Cristo.",
+                            "🍇 O fruto do Espírito deve aparecer em nosso comportamento."
+                        ],
+                        palavrasChave: [
+                            {
+                                palavra: "Exemplo",
+                                significado: "👣 Uma maneira de ensinar por meio das próprias atitudes."
+                            },
+                            {
+                                palavra: "Testemunho",
+                                significado: "📢 Uma vida que demonstra aquilo que cremos e anunciamos."
+                            },
+                            {
+                                palavra: "Fruto",
+                                significado: "🍇 Resultado visível da atuação do Espírito Santo na vida do cristão."
+                            }
+                        ]
+                    }
+                ],
+
+                conclusao: "📌 CONCLUSÃO: Evangelizar é uma responsabilidade que Jesus entregou à sua Igreja. Precisamos anunciar a Palavra com coragem, cuidar daqueles que enfrentam necessidades e viver de maneira coerente com aquilo que pregamos. Quando nossas palavras e atitudes apontam para Cristo, nosso testemunho pode alcançar outras pessoas e mostrar o amor de Deus.",
+
+                perguntas: [
+                    {
+                        nivel: "🟢 1. Fácil",
+                        pergunta: "O que é evangelismo?",
+                        resposta: "Evangelismo é anunciar o Evangelho de Jesus Cristo, apresentando às pessoas a mensagem de salvação."
+                    },
+                    {
+                        nivel: "🟡 2. Média",
+                        pergunta: "Como a Igreja demonstra cuidado pelos necessitados?",
+                        resposta: "A Igreja demonstra cuidado quando olha para as necessidades das pessoas e procura ajudá-las de maneira prática, com compaixão, comunhão e partilha."
+                    },
+                    {
+                        nivel: "🔴 3. Difícil",
+                        pergunta: "Por que o evangelismo não deve ser apenas uma questão de palavras?",
+                        resposta: "Porque o cristão também precisa demonstrar por meio de sua vida aquilo que anuncia. Suas atitudes devem confirmar a mensagem do Evangelho."
+                    },
+                    {
+                        nivel: "🔴 4. Difícil",
+                        pergunta: "Qual é a relação entre o fruto do Espírito e o testemunho cristão?",
+                        resposta: "O fruto do Espírito demonstra uma vida transformada por Deus. Quando amor, paz, bondade, mansidão e outras características aparecem no comportamento do cristão, sua vida se torna um testemunho da ação de Deus."
+                    },
+                    {
+                        nivel: "🔴 5. Difícil",
+                        pergunta: "Por que o exemplo de Paulo é importante para o evangelismo?",
+                        resposta: "Porque Paulo não apenas pregou o Evangelho, mas dedicou sua vida à missão, enfrentando dificuldades e permanecendo comprometido com o anúncio de Cristo. Seu exemplo ensina que evangelizar exige coragem, perseverança e compromisso."
+                    }
+                ]
             }
-
         }
-
-    }
+}
 
 };
 console.log(
