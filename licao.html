@@ -673,6 +673,42 @@ function criarSecao(secao) {
     }
 
 
+    if (secao.pontoPrincipal) {
+
+        bloco.appendChild(
+            criarParagrafo(
+                "⭐ Ponto principal: " +
+                secao.pontoPrincipal
+            )
+        );
+
+    }
+
+
+    if (secao.exortacao) {
+
+        bloco.appendChild(
+            criarParagrafo(
+                "🔥 Exortação prática: " +
+                secao.exortacao
+            )
+        );
+
+    }
+
+
+    if (secao.reflexao) {
+
+        bloco.appendChild(
+            criarParagrafo(
+                "💭 Reflexão: " +
+                secao.reflexao
+            )
+        );
+
+    }
+
+
     if (
         Array.isArray(secao.topicos)
     ) {
@@ -690,10 +726,42 @@ function criarSecao(secao) {
     }
 
 
+    if (
+        Array.isArray(secao.palavrasChave) &&
+        secao.palavrasChave.length
+    ) {
+
+        const subtitulo =
+            document.createElement("h5");
+
+        subtitulo.textContent =
+            "🔑 Palavras-chave";
+
+        bloco.appendChild(subtitulo);
+
+
+        secao.palavrasChave.forEach(
+            function(item) {
+
+                const p =
+                    document.createElement("p");
+
+                p.textContent =
+                    item.termo +
+                    ": " +
+                    item.significado;
+
+                bloco.appendChild(p);
+
+            }
+        );
+
+    }
+
+
     return bloco;
 
 }
-
 
 function renderizarDesenvolvimento(licao, classe) {
 
