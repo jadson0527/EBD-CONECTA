@@ -3248,94 +3248,7 @@ const licoes = {
             ]
         },
 
-"13": {
-            numero: "Lição 13",
-            titulo: "LUTE POR SUA FÉ",
-
-            textoPrincipal:
-                "“Amados, procurando eu escrever-vos com toda a diligência acerca da comum salvação, tive por necessidade escrever-vos e exortar-vos a batalhar pela fé que uma vez foi dada aos santos.” — Judas 3",
-
-            pontoPrincipal:
-                "O cristão deve conhecer, viver e defender com firmeza a fé que recebeu, permanecendo fiel à verdade da Palavra de Deus.",
-
-            palavraChave: "FÉ",
-
-            leituraBiblica: "Judas 17-25",
-
-            perguntaGancho:
-                "🎯 Se alguém questionasse hoje aquilo em que você crê, você saberia defender sua fé com firmeza, mas também com amor e respeito?",
-
-            curiosidade:
-                "💡 A palavra usada por Judas para “batalhar” transmite a ideia de lutar intensamente. Isso mostra que a fé cristã não deve ser tratada com indiferença: ela precisa ser conhecida, vivida e defendida diante dos desafios e dos falsos ensinamentos.",
-
-            objetivos: [
-                "EXPLICAR os motivos para o envio da carta de Judas.",
-                "EXPOR o perigo dos falsos mestres.",
-                "SABER como devemos nos portar na defesa da fé."
-            ],
-
-            introducao:
-                "Judas escreveu para alertar os cristãos sobre homens que haviam se infiltrado na igreja e estavam distorcendo a verdade. Por isso, os cristãos deveriam permanecer firmes na fé recebida dos apóstolos, conhecendo a Palavra de Deus e rejeitando os falsos ensinamentos.",
-
-            desenvolvimento: [
-
-                {
-                    titulo: "1. INTRODUÇÃO À EPÍSTOLA",
-                    texto:
-                        "📖 A igreja precisa conhecer a verdade para permanecer firme.\n\nJudas escreveu para fortalecer os cristãos diante dos falsos ensinamentos e mostrar que a fé recebida deveria ser preservada com firmeza.\n\n📖 Judas 1.3 — A fé cristã precisa ser defendida.\n📖 Judas 1.20 — O cristão deve edificar-se sobre a sua fé.\n\n⚠️ Exortação prática: Conheça a Palavra de Deus e examine os ensinamentos que você recebe.\n\n💭 Reflexão: A fé que recebemos deve ser conhecida, vivida e defendida com sabedoria, amor e firmeza.\n\n🔑 Fé: Confiança em Deus e em sua Palavra.\n🔑 Verdade: Aquilo que está de acordo com a Palavra de Deus.\n🔑 Defesa: Ação de proteger e explicar aquilo que cremos."
-                },
-
-                {
-                    titulo: "2. A DEFESA DA FÉ",
-                    texto:
-                        "2.1. UMA NECESSIDADE\n\n🎯 Ponto principal: O cristão deve permanecer fiel mesmo diante da oposição.\n\n📖 Judas 1.3 — A fé precisa ser defendida.\n📖 2 Timóteo 4.7 — Paulo declarou ter combatido o bom combate e guardado a fé.\n\n⚠️ Exortação prática: Não abandone suas convicções bíblicas por causa da pressão das pessoas.\n\n💭 Reflexão: Defender a fé não significa discutir com todos, mas permanecer firme na verdade e saber explicá-la com respeito.\n\n🔑 Defesa: Proteção e explicação da verdade.\n🔑 Perseverança: Permanecer firme apesar das dificuldades.\n🔑 Fidelidade: Permanecer comprometido com Deus e sua Palavra.\n\n2.2. A FÉ GENUÍNA\n\n🎯 Ponto principal: A fé verdadeira produz uma vida transformada e obediente.\n\n📖 Efésios 2.8 — A salvação é pela graça mediante a fé.\n📖 Atos 20.27 — Paulo anunciou todo o conselho de Deus.\n\n⚠️ Exortação prática: Não reduza a fé a palavras; demonstre-a por meio de uma vida obediente.\n\n💭 Reflexão: A fé genuína transforma o comportamento e conduz o cristão a viver de acordo com a verdade.\n\n🔑 Graça: Favor imerecido de Deus.\n🔑 Obediência: Prática da vontade de Deus.\n🔑 Verdade: Ensino verdadeiro revelado nas Escrituras."
-                },
-
-                {
-                    titulo: "3. PECADO E JUÍZO",
-                    texto:
-                        "3.1. OS INTRUSOS\n\n🎯 Ponto principal: Falsos mestres podem distorcer a graça de Deus para justificar o pecado.\n\n📖 Judas 1.19 — Os falsos mestres causavam divisões e eram dominados por desejos naturais.\n📖 Romanos 8.5 — Os que vivem segundo a carne inclinam-se para as coisas da carne.\n\n⚠️ Exortação prática: Tenha discernimento para reconhecer ensinamentos que diminuem a seriedade do pecado.\n\n💭 Reflexão: A graça de Deus nunca deve ser usada como desculpa para viver em desobediência.\n\n🔑 Intrusos: Pessoas que entram com objetivos contrários à verdade.\n🔑 Discernimento: Capacidade de distinguir o certo do errado.\n🔑 Divisão: Separação provocada por conflitos e falsos ensinamentos.\n\n3.2. EXEMPLOS DE DESOBEDIÊNCIA\n\n🎯 Ponto principal: A desobediência traz consequências e não deve ser tratada com indiferença.\n\n📖 Judas 1.5 — Israel sofreu consequências por causa da incredulidade.\n📖 Judas 1.7 — Sodoma e Gomorra são apresentadas como exemplo de juízo.\n\n⚠️ Exortação prática: Aprenda com os exemplos bíblicos e não trate o pecado como algo sem importância.\n\n💭 Reflexão: Judas apresenta Israel, os anjos que abandonaram sua posição e Sodoma e Gomorra como exemplos de desobediência e juízo.\n\n🔑 Desobediência: Recusa em obedecer à vontade de Deus.\n🔑 Juízo: Ação de Deus ao julgar o pecado.\n🔑 Incredulidade: Falta de confiança em Deus e em sua Palavra.\n\n3.3. PERIGOS DOS FALSOS MESTRES\n\n🎯 Ponto principal: Falsos mestres podem destruir a fé por meio do engano, da sensualidade e da divisão.\n\n📖 Judas 1.11-12 — Judas descreve características perigosas desses homens.\n\n⚠️ Exortação prática: Observe os frutos e os ensinamentos daqueles que pretendem ensinar a Palavra.\n\n💭 Reflexão: Os falsos mestres eram ímpios, carnais, murmuradores, arrogantes, interessados em benefícios pessoais e causadores de divisão.\n\n🔑 Falsos mestres: Pessoas que ensinam algo contrário à verdade bíblica.\n🔑 Engano: Aquilo que conduz ao erro.\n🔑 Apostasia: Abandono da verdade e da fé professada."
-                },
-
-                {
-                    titulo: "4. COMO DEFENDER A FÉ",
-                    texto:
-                        "4.1. CUIDADOS PESSOAIS\n\n🎯 Ponto principal: A defesa da fé começa com uma vida espiritual fortalecida.\n\n📖 Judas 1.20-21 — Edificar-se na fé, orar no Espírito, permanecer no amor de Deus e esperar a misericórdia de Cristo.\n📖 Lucas 17.5 — Os discípulos pediram ao Senhor que aumentasse sua fé.\n\n⚠️ Exortação prática: Fortaleça diariamente sua vida com Deus por meio da oração e da Palavra.\n\n💭 Reflexão: Quem deseja defender a fé precisa primeiro cuidar da própria comunhão com Deus.\n\n🔑 Edificação: Fortalecimento espiritual.\n🔑 Oração: Comunhão e diálogo com Deus.\n🔑 Misericórdia: Compaixão e favor demonstrados por Deus.\n\n4.2. CUIDADO COM OS OUTROS\n\n🎯 Ponto principal: Devemos tratar os que têm dúvidas com misericórdia e ajudá-los com sabedoria.\n\n📖 Judas 1.22-23 — Ter misericórdia dos que duvidam e resgatar outros do fogo.\n📖 Tiago 1.6-7 — A dúvida precisa ser tratada com fé e confiança em Deus.\n\n⚠️ Exortação prática: Ajude quem está enfrentando dúvidas sem arrogância, mas também sem participar do pecado.\n\n💭 Reflexão: Defender a fé também significa cuidar de pessoas que estão enfraquecidas espiritualmente.\n\n🔑 Misericórdia: Compaixão diante da necessidade do outro.\n🔑 Resgate: Ação de retirar alguém de uma situação de perigo.\n🔑 Temor: Respeito profundo diante de Deus."
-                }
-
-            ],
-
-            conclusao:
-                "🛡️ A apologia (defesa) da fé cristã é urgente para os dias de hoje e deve ser feita em amor — mas sem amenizar a firmeza das Escrituras.\n\n⚔️ Essa defesa é desempenhada contra ataques externos, porém, é ainda mais fundamental para contra-atacar as investidas internas, dos falsos mestres.\n\n🙏 Que o Senhor nos dê sabedoria para combater este combate e vencer a dúvida.",
-
-            perguntas: [
-                {
-                    nivel: "🟢 1. Fácil",
-                    pergunta: "Qual foi a principal exortação de Judas aos cristãos?",
-                    resposta: "Judas os exortou a batalhar pela fé que uma vez foi dada aos santos."
-                },
-                {
-                    nivel: "🟡 2. Média",
-                    pergunta: "Quais cuidados Judas recomenda para os cristãos permanecerem firmes?",
-                    resposta: "Edificar-se na fé, orar no Espírito Santo, permanecer no amor de Deus e aguardar a misericórdia de Jesus Cristo."
-                },
-                {
-                    nivel: "🔴 3. Difícil",
-                    pergunta: "Quais três exemplos de desobediência são apresentados por Judas?",
-                    resposta: "A incredulidade de Israel, os anjos que abandonaram sua posição e Sodoma e Gomorra."
-                },
-                {
-                    nivel: "🔴 4. Difícil",
-                    pergunta: "Quais características marcavam os falsos mestres mencionados por Judas?",
-                    resposta: "Eram ímpios, carnais, negavam o senhorio de Cristo, eram rebeldes, murmuradores, arrogantes, interessados em seus próprios benefícios, causadores de divisão e não tinham o Espírito."
-                },
-                {
-                    nivel: "🔴 5. Difícil",
-                    pergunta: "Como devemos agir diante daqueles que estão em dúvida?",
-                    resposta: "Devemos demonstrar misericórdia, ajudar e resgatar essas pessoas com cuidado e temor, sem participar dos seus pecados."
-                }
-            ]
-        },
+,
 
     },
     },
@@ -5646,6 +5559,95 @@ conhecendoMaisDeDeus: {
             "13": {
                 numero: "Lição 13",
                 titulo: "A PARTIDA E O LEGADO DE PAULO",
+
+"13": {
+            numero: "Lição 13",
+            titulo: "LUTE POR SUA FÉ",
+
+            textoPrincipal:
+                "“Amados, procurando eu escrever-vos com toda a diligência acerca da comum salvação, tive por necessidade escrever-vos e exortar-vos a batalhar pela fé que uma vez foi dada aos santos.” — Judas 3",
+
+            pontoPrincipal:
+                "O cristão deve conhecer, viver e defender com firmeza a fé que recebeu, permanecendo fiel à verdade da Palavra de Deus.",
+
+            palavraChave: "FÉ",
+
+            leituraBiblica: "Judas 17-25",
+
+            perguntaGancho:
+                "🎯 Se alguém questionasse hoje aquilo em que você crê, você saberia defender sua fé com firmeza, mas também com amor e respeito?",
+
+            curiosidade:
+                "💡 A palavra usada por Judas para “batalhar” transmite a ideia de lutar intensamente. Isso mostra que a fé cristã não deve ser tratada com indiferença: ela precisa ser conhecida, vivida e defendida diante dos desafios e dos falsos ensinamentos.",
+
+            objetivos: [
+                "EXPLICAR os motivos para o envio da carta de Judas.",
+                "EXPOR o perigo dos falsos mestres.",
+                "SABER como devemos nos portar na defesa da fé."
+            ],
+
+            introducao:
+                "Judas escreveu para alertar os cristãos sobre homens que haviam se infiltrado na igreja e estavam distorcendo a verdade. Por isso, os cristãos deveriam permanecer firmes na fé recebida dos apóstolos, conhecendo a Palavra de Deus e rejeitando os falsos ensinamentos.",
+
+            desenvolvimento: [
+
+                {
+                    titulo: "1. INTRODUÇÃO À EPÍSTOLA",
+                    texto:
+                        "📖 A igreja precisa conhecer a verdade para permanecer firme.\n\nJudas escreveu para fortalecer os cristãos diante dos falsos ensinamentos e mostrar que a fé recebida deveria ser preservada com firmeza.\n\n📖 Judas 1.3 — A fé cristã precisa ser defendida.\n📖 Judas 1.20 — O cristão deve edificar-se sobre a sua fé.\n\n⚠️ Exortação prática: Conheça a Palavra de Deus e examine os ensinamentos que você recebe.\n\n💭 Reflexão: A fé que recebemos deve ser conhecida, vivida e defendida com sabedoria, amor e firmeza.\n\n🔑 Fé: Confiança em Deus e em sua Palavra.\n🔑 Verdade: Aquilo que está de acordo com a Palavra de Deus.\n🔑 Defesa: Ação de proteger e explicar aquilo que cremos."
+                },
+
+                {
+                    titulo: "2. A DEFESA DA FÉ",
+                    texto:
+                        "2.1. UMA NECESSIDADE\n\n🎯 Ponto principal: O cristão deve permanecer fiel mesmo diante da oposição.\n\n📖 Judas 1.3 — A fé precisa ser defendida.\n📖 2 Timóteo 4.7 — Paulo declarou ter combatido o bom combate e guardado a fé.\n\n⚠️ Exortação prática: Não abandone suas convicções bíblicas por causa da pressão das pessoas.\n\n💭 Reflexão: Defender a fé não significa discutir com todos, mas permanecer firme na verdade e saber explicá-la com respeito.\n\n🔑 Defesa: Proteção e explicação da verdade.\n🔑 Perseverança: Permanecer firme apesar das dificuldades.\n🔑 Fidelidade: Permanecer comprometido com Deus e sua Palavra.\n\n2.2. A FÉ GENUÍNA\n\n🎯 Ponto principal: A fé verdadeira produz uma vida transformada e obediente.\n\n📖 Efésios 2.8 — A salvação é pela graça mediante a fé.\n📖 Atos 20.27 — Paulo anunciou todo o conselho de Deus.\n\n⚠️ Exortação prática: Não reduza a fé a palavras; demonstre-a por meio de uma vida obediente.\n\n💭 Reflexão: A fé genuína transforma o comportamento e conduz o cristão a viver de acordo com a verdade.\n\n🔑 Graça: Favor imerecido de Deus.\n🔑 Obediência: Prática da vontade de Deus.\n🔑 Verdade: Ensino verdadeiro revelado nas Escrituras."
+                },
+
+                {
+                    titulo: "3. PECADO E JUÍZO",
+                    texto:
+                        "3.1. OS INTRUSOS\n\n🎯 Ponto principal: Falsos mestres podem distorcer a graça de Deus para justificar o pecado.\n\n📖 Judas 1.19 — Os falsos mestres causavam divisões e eram dominados por desejos naturais.\n📖 Romanos 8.5 — Os que vivem segundo a carne inclinam-se para as coisas da carne.\n\n⚠️ Exortação prática: Tenha discernimento para reconhecer ensinamentos que diminuem a seriedade do pecado.\n\n💭 Reflexão: A graça de Deus nunca deve ser usada como desculpa para viver em desobediência.\n\n🔑 Intrusos: Pessoas que entram com objetivos contrários à verdade.\n🔑 Discernimento: Capacidade de distinguir o certo do errado.\n🔑 Divisão: Separação provocada por conflitos e falsos ensinamentos.\n\n3.2. EXEMPLOS DE DESOBEDIÊNCIA\n\n🎯 Ponto principal: A desobediência traz consequências e não deve ser tratada com indiferença.\n\n📖 Judas 1.5 — Israel sofreu consequências por causa da incredulidade.\n📖 Judas 1.7 — Sodoma e Gomorra são apresentadas como exemplo de juízo.\n\n⚠️ Exortação prática: Aprenda com os exemplos bíblicos e não trate o pecado como algo sem importância.\n\n💭 Reflexão: Judas apresenta Israel, os anjos que abandonaram sua posição e Sodoma e Gomorra como exemplos de desobediência e juízo.\n\n🔑 Desobediência: Recusa em obedecer à vontade de Deus.\n🔑 Juízo: Ação de Deus ao julgar o pecado.\n🔑 Incredulidade: Falta de confiança em Deus e em sua Palavra.\n\n3.3. PERIGOS DOS FALSOS MESTRES\n\n🎯 Ponto principal: Falsos mestres podem destruir a fé por meio do engano, da sensualidade e da divisão.\n\n📖 Judas 1.11-12 — Judas descreve características perigosas desses homens.\n\n⚠️ Exortação prática: Observe os frutos e os ensinamentos daqueles que pretendem ensinar a Palavra.\n\n💭 Reflexão: Os falsos mestres eram ímpios, carnais, murmuradores, arrogantes, interessados em benefícios pessoais e causadores de divisão.\n\n🔑 Falsos mestres: Pessoas que ensinam algo contrário à verdade bíblica.\n🔑 Engano: Aquilo que conduz ao erro.\n🔑 Apostasia: Abandono da verdade e da fé professada."
+                },
+
+                {
+                    titulo: "4. COMO DEFENDER A FÉ",
+                    texto:
+                        "4.1. CUIDADOS PESSOAIS\n\n🎯 Ponto principal: A defesa da fé começa com uma vida espiritual fortalecida.\n\n📖 Judas 1.20-21 — Edificar-se na fé, orar no Espírito, permanecer no amor de Deus e esperar a misericórdia de Cristo.\n📖 Lucas 17.5 — Os discípulos pediram ao Senhor que aumentasse sua fé.\n\n⚠️ Exortação prática: Fortaleça diariamente sua vida com Deus por meio da oração e da Palavra.\n\n💭 Reflexão: Quem deseja defender a fé precisa primeiro cuidar da própria comunhão com Deus.\n\n🔑 Edificação: Fortalecimento espiritual.\n🔑 Oração: Comunhão e diálogo com Deus.\n🔑 Misericórdia: Compaixão e favor demonstrados por Deus.\n\n4.2. CUIDADO COM OS OUTROS\n\n🎯 Ponto principal: Devemos tratar os que têm dúvidas com misericórdia e ajudá-los com sabedoria.\n\n📖 Judas 1.22-23 — Ter misericórdia dos que duvidam e resgatar outros do fogo.\n📖 Tiago 1.6-7 — A dúvida precisa ser tratada com fé e confiança em Deus.\n\n⚠️ Exortação prática: Ajude quem está enfrentando dúvidas sem arrogância, mas também sem participar do pecado.\n\n💭 Reflexão: Defender a fé também significa cuidar de pessoas que estão enfraquecidas espiritualmente.\n\n🔑 Misericórdia: Compaixão diante da necessidade do outro.\n🔑 Resgate: Ação de retirar alguém de uma situação de perigo.\n🔑 Temor: Respeito profundo diante de Deus."
+                }
+
+            ],
+
+            conclusao:
+                "🛡️ A apologia (defesa) da fé cristã é urgente para os dias de hoje e deve ser feita em amor — mas sem amenizar a firmeza das Escrituras.\n\n⚔️ Essa defesa é desempenhada contra ataques externos, porém, é ainda mais fundamental para contra-atacar as investidas internas, dos falsos mestres.\n\n🙏 Que o Senhor nos dê sabedoria para combater este combate e vencer a dúvida.",
+
+            perguntas: [
+                {
+                    nivel: "🟢 1. Fácil",
+                    pergunta: "Qual foi a principal exortação de Judas aos cristãos?",
+                    resposta: "Judas os exortou a batalhar pela fé que uma vez foi dada aos santos."
+                },
+                {
+                    nivel: "🟡 2. Média",
+                    pergunta: "Quais cuidados Judas recomenda para os cristãos permanecerem firmes?",
+                    resposta: "Edificar-se na fé, orar no Espírito Santo, permanecer no amor de Deus e aguardar a misericórdia de Jesus Cristo."
+                },
+                {
+                    nivel: "🔴 3. Difícil",
+                    pergunta: "Quais três exemplos de desobediência são apresentados por Judas?",
+                    resposta: "A incredulidade de Israel, os anjos que abandonaram sua posição e Sodoma e Gomorra."
+                },
+                {
+                    nivel: "🔴 4. Difícil",
+                    pergunta: "Quais características marcavam os falsos mestres mencionados por Judas?",
+                    resposta: "Eram ímpios, carnais, negavam o senhorio de Cristo, eram rebeldes, murmuradores, arrogantes, interessados em seus próprios benefícios, causadores de divisão e não tinham o Espírito."
+                },
+                {
+                    nivel: "🔴 5. Difícil",
+                    pergunta: "Como devemos agir diante daqueles que estão em dúvida?",
+                    resposta: "Devemos demonstrar misericórdia, ajudar e resgatar essas pessoas com cuidado e temor, sem participar dos seus pecados."
+                }
+            ]
+        },
                 textoPrincipal: "Filipenses 4.10-20",
 
                 perguntaGancho: "🎯 Se você soubesse que sua caminhada estava chegando ao fim, o que gostaria de deixar como legado para as pessoas que convivem com você?",
