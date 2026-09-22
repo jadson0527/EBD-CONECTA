@@ -746,10 +746,14 @@ function criarSecao(secao) {
                 const p =
                     document.createElement("p");
 
-                p.textContent =
-                    item.termo +
-                    ": " +
-                    item.significado;
+                if (typeof item === "string") {
+                    p.textContent = item;
+                } else {
+                    p.textContent =
+                        item.termo +
+                        ": " +
+                        item.significado;
+                }
 
                 bloco.appendChild(p);
 
