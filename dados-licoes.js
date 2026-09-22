@@ -1257,12 +1257,256 @@ const licoes = {
               ]
 
           },
+        "13": {
+        numero: "Lição 13",
+        titulo: "A MISSÃO CONTINUA EM NÓS",
+        perguntaGancho: "🎯 Se Paulo estava pregando o Evangelho em Roma no final de Atos, quem continuaria essa missão depois dele?",
+        curiosidade: "💡O livro de Atos termina sem registrar o fim da missão de Paulo. Pelo contrário, Atos 28.30,31 mostra Paulo anunciando o Reino de Deus e ensinando sobre Jesus Cristo com toda liberdade e sem impedimento. Isso nos ajuda a compreender que o livro termina, mas a missão não. A obra iniciada pelos primeiros discípulos continua sendo realizada pela Igreja em cada geração.",
+        palavraChave: "📢 COMISSÃO",
+        textoPrincipal: "Mateus 28.18-20; Atos 1.8; Efésios 2.13-18",
+        
+        licaoHoje: {
+        referencia: "Mateus 28.18-20; Atos 1.8; Efésios 2.13-18",
+        pontoPrincipal: "A missão que Cristo confiou à Igreja continua em nossa geração, e cada cristão deve participar do avanço do Evangelho."
+        },
+        
+        objetivos: [
+        "📖 EXPLICAR o mandato universal de Cristo à luz da Grande Comissão;",
+        "🔥 DEMONSTRAR o papel do Espírito Santo na expansão missionária da Igreja;",
+        "🌎 ASSUMIR compromisso pessoal com a obra missionária."
+        ],
+        
+        introducao: "O livro de Atos apresenta o início e a expansão da Igreja pelo poder do Espírito Santo. Ao chegar ao final do livro, encontramos Paulo anunciando o Reino de Deus em Roma. A narrativa termina, mas a missão permanece. Jesus confiou à Igreja a responsabilidade de fazer discípulos de todas as nações. Essa tarefa continua em nossos dias e envolve cada cristão, seja indo, contribuindo, orando ou anunciando a Palavra de Deus.",
+        
+        desenvolvimento: [
+        {
+        titulo: "I. O MANDATO UNIVERSAL DE JESUS",
+        texto: "Antes de subir aos céus, Jesus declarou que toda autoridade lhe havia sido dada e ordenou aos discípulos que fossem e fizessem discípulos de todas as nações. A Grande Comissão é uma responsabilidade confiada à Igreja.",
+        pontoPrincipal: "Jesus confiou à Igreja a missão de anunciar o Evangelho e fazer discípulos em todas as nações.",
+        exortacao: "Não trate a evangelização como uma tarefa exclusiva de pastores ou missionários. Cada cristão pode testemunhar de Cristo no lugar onde vive.",
+        reflexao: "Tenho reconhecido que anunciar o Evangelho também faz parte da minha responsabilidade como discípulo de Jesus?",
+        topicos: [
+        "📖 Jesus possui toda autoridade nos céus e na terra (Mt 28.18).",
+        "🌎 A ordem é fazer discípulos de todas as nações (Mt 28.19).",
+        "🤝 Cristo prometeu estar com os seus discípulos todos os dias (Mt 28.20)."
+        ],
+        palavrasChave: [
+        "👑 Autoridade — Poder e direito de governar; Jesus possui autoridade sobre todas as coisas.",
+        "📖 Discípulo — Pessoa que aprende com Jesus, segue seus ensinamentos e procura viver de acordo com sua Palavra.",
+        "🌎 Nações — Povos e grupos humanos que devem receber o anúncio do Evangelho."
+        ]
+        },
+        {
+        titulo: "1. A Grande Comissão é uma ordem de Cristo",
+        texto: "Em Mateus 28.19,20, Jesus ordenou que seus seguidores fossem, fizessem discípulos, batizassem e ensinassem a guardar tudo o que Ele havia mandado. A missão envolve anunciar a salvação, conduzir pessoas a Cristo e ajudá-las a crescer na fé.",
+        pontoPrincipal: "A Grande Comissão envolve evangelizar, batizar e ensinar os novos discípulos a obedecerem a Cristo.",
+        exortacao: "Compartilhe a mensagem de Jesus com amor e procure ajudar aqueles que estão começando sua caminhada cristã.",
+        reflexao: "Minha participação na missão se limita a ouvir a Palavra ou também procuro compartilhá-la e ensiná-la?",
+        topicos: [
+        "📣 Evangelizar é anunciar as boas-novas de Jesus.",
+        "💧 O batismo testemunha publicamente a fé em Cristo.",
+        "📚 O discipulado ensina a viver segundo a Palavra."
+        ],
+        palavrasChave: [
+        "📣 Evangelizar — Anunciar as boas-novas da salvação em Jesus Cristo.",
+        "💧 Batismo — Ordenança cristã que expressa publicamente a fé em Cristo.",
+        "📚 Ensinar — Transmitir a Palavra de Deus e orientar os discípulos a praticá-la."
+        ]
+        },
+        {
+        titulo: "2. A missão alcança todos os povos",
+        texto: "Jesus determinou que o Evangelho fosse anunciado a todas as nações. A mensagem da salvação não está restrita a um povo, cultura ou região. Deus deseja que pessoas de diferentes origens conheçam a Cristo.",
+        pontoPrincipal: "O Evangelho deve ser anunciado a todos os povos, sem distinção de origem ou cultura.",
+        exortacao: "Ore por povos que ainda não conhecem a mensagem de Cristo e esteja disposto a testemunhar onde Deus lhe der oportunidade.",
+        reflexao: "Tenho demonstrado amor e interesse espiritual por pessoas que são diferentes de mim?",
+        topicos: [
+        "🌍 A missão de Cristo tem alcance mundial.",
+        "❤️ O Evangelho deve ser anunciado sem discriminação.",
+        "🙏 A Igreja deve orar e trabalhar para que todos ouçam."
+        ],
+        palavrasChave: [
+        "🌎 Missão — Tarefa confiada por Cristo à Igreja para anunciar o Evangelho.",
+        "👥 Povos — Grupos humanos com diferentes línguas, culturas e histórias.",
+        "📖 Evangelho — A boa notícia da salvação oferecida por Deus por meio de Jesus Cristo."
+        ]
+        },
+        {
+        titulo: "II. O PODER DO ESPÍRITO SANTO NA MISSÃO",
+        texto: "Jesus prometeu aos discípulos que receberiam poder ao descer sobre eles o Espírito Santo. Esse poder os capacitaria para serem testemunhas em Jerusalém, em toda a Judeia e Samaria e até aos confins da terra. A missão da Igreja não depende apenas da capacidade humana, mas da capacitação divina.",
+        pontoPrincipal: "O Espírito Santo capacita a Igreja para testemunhar de Cristo e levar o Evangelho a outros povos.",
+        exortacao: "Busque a direção e a capacitação do Espírito Santo para testemunhar de Jesus com coragem, amor e fidelidade.",
+        reflexao: "Tenho dependido do Espírito Santo ou confiado somente em minhas próprias capacidades?",
+        topicos: [
+        "🔥 O Espírito Santo concede poder para testemunhar.",
+        "📖 A Igreja anuncia aquilo que Cristo realizou.",
+        "🌎 O testemunho deve alcançar lugares próximos e distantes."
+        ],
+        palavrasChave: [
+        "🕊️ Espírito Santo — A terceira Pessoa da Trindade, que capacita e guia a Igreja.",
+        "🔥 Poder — Capacitação divina para cumprir a missão recebida de Cristo.",
+        "📣 Testemunha — Aquele que anuncia e demonstra, por palavras e atitudes, a verdade de Cristo."
+        ]
+        },
+        {
+        titulo: "1. O Espírito Santo capacita os discípulos",
+        texto: "Em Atos 1.8, Jesus prometeu poder aos seus discípulos por meio do Espírito Santo. Essa capacitação os prepararia para testemunhar de Cristo. A Igreja precisa reconhecer que a obra missionária é espiritual e deve ser realizada em dependência de Deus.",
+        pontoPrincipal: "A capacitação do Espírito Santo é essencial para o testemunho cristão.",
+        exortacao: "Antes de falar de Cristo, busque a direção de Deus em oração e esteja disposto a obedecer à orientação do Espírito Santo.",
+        reflexao: "Tenho separado tempo para orar e buscar a direção de Deus em minha vida e no meu testemunho?",
+        topicos: [
+        "🙏 A oração expressa nossa dependência de Deus.",
+        "🔥 O Espírito Santo fortalece os discípulos.",
+        "📣 A capacitação divina nos conduz ao testemunho."
+        ],
+        palavrasChave: [
+        "🔥 Capacitação — Ação de preparar e fortalecer alguém para realizar uma tarefa.",
+        "🙏 Oração — Comunicação e comunhão com Deus.",
+        "🤲 Obediência — Disposição de cumprir a vontade de Deus revelada em sua Palavra."
+        ]
+        },
+        {
+        titulo: "2. O testemunho começa perto e alcança longe",
+        texto: "Jesus apresentou uma sequência geográfica para a missão: Jerusalém, Judeia, Samaria e os confins da terra. A ordem mostra que o testemunho cristão deve começar onde estamos, sem perder de vista os povos que vivem distantes de nós.",
+        pontoPrincipal: "A missão cristã começa em nosso contexto e se estende até os lugares mais distantes.",
+        exortacao: "Procure oportunidades de falar de Jesus em sua família, vizinhança, trabalho e comunidade, sem esquecer a obra missionária mundial.",
+        reflexao: "Tenho anunciado Cristo às pessoas próximas enquanto também me importo com quem ainda não ouviu o Evangelho?",
+        topicos: [
+        "🏠 Jerusalém representa o campo próximo dos discípulos.",
+        "🤝 Samaria lembra a necessidade de atravessar barreiras.",
+        "🌎 Os confins da terra apontam para o alcance mundial da missão."
+        ],
+        palavrasChave: [
+        "📣 Testemunho — Declaração e demonstração da fé em Jesus Cristo.",
+        "🏠 Comunidade — Grupo de pessoas entre as quais vivemos e podemos compartilhar o Evangelho.",
+        "🌎 Confins — Lugares distantes, indicando o alcance amplo da missão."
+        ]
+        },
+        {
+        titulo: "3. A Igreja precisa permanecer dependente de Deus",
+        texto: "A expansão da Igreja em Atos ocorreu mediante a ação do Espírito Santo e a disposição dos discípulos em obedecer. Planejamento e organização são importantes, mas não substituem a oração, a santidade e a dependência de Deus.",
+        pontoPrincipal: "A missão deve ser realizada com planejamento, oração e dependência do Espírito Santo.",
+        exortacao: "Participe da obra da Igreja com responsabilidade, mantendo uma vida de oração e fidelidade à Palavra.",
+        reflexao: "Minhas atividades cristãs são acompanhadas de oração e dependência sincera do Senhor?",
+        topicos: [
+        "🙏 A oração deve acompanhar o trabalho missionário.",
+        "📖 A Palavra orienta a mensagem e a prática da Igreja.",
+        "🕊️ O Espírito Santo dirige e fortalece os servos de Cristo."
+        ],
+        palavrasChave: [
+        "🙏 Dependência — Reconhecimento de que precisamos da direção e do auxílio de Deus.",
+        "✨ Santidade — Vida separada para Deus, em obediência à sua Palavra.",
+        "🤝 Fidelidade — Compromisso constante com Deus e com a mensagem do Evangelho."
+        ]
+        },
+        {
+        titulo: "III. A GRANDE COMISSÃO E A CONTINUIDADE DO CHAMADO MISSIONÁRIO",
+        texto: "A missão continua porque Cristo permanece sendo anunciado por meio de sua Igreja. Efésios 2.13-18 ensina que, em Cristo, os que estavam longe foram aproximados e que Ele é a nossa paz. A mensagem do Evangelho reconcilia pessoas com Deus e derruba barreiras entre os povos.",
+        pontoPrincipal: "A Igreja continua a missão de Cristo anunciando reconciliação, paz e salvação a todos.",
+        exortacao: "Assuma seu lugar na missão: ore, contribua, sirva e anuncie a mensagem de Cristo com fidelidade.",
+        reflexao: "Qual atitude concreta posso tomar para participar do avanço do Evangelho nesta semana?",
+        topicos: [
+        "✝️ Cristo é o centro da mensagem missionária.",
+        "🤝 O Evangelho reconcilia pessoas com Deus.",
+        "🌎 A Igreja é chamada a continuar anunciando a salvação."
+        ],
+        palavrasChave: [
+        "🤝 Reconciliação — Restauração do relacionamento com Deus por meio de Jesus Cristo.",
+        "🕊️ Paz — A reconciliação e a harmonia que Cristo proporciona.",
+        "📢 Comissão — Missão ou tarefa confiada por Cristo aos seus discípulos."
+        ]
+        },
+        {
+        titulo: "1. Cristo derruba as barreiras que nos separavam",
+        texto: "Efésios 2.13-18 afirma que aqueles que estavam longe foram aproximados pelo sangue de Cristo. Jesus é a nossa paz e, por meio dele, temos acesso ao Pai. A mensagem cristã chama pessoas de diferentes origens à reconciliação com Deus.",
+        pontoPrincipal: "Por meio de Cristo, pessoas antes distantes podem ser reconciliadas com Deus.",
+        exortacao: "Não permita que preconceitos ou diferenças impeçam você de compartilhar o amor de Cristo.",
+        reflexao: "Tenho tratado todas as pessoas com o respeito e o amor que o Evangelho ensina?",
+        topicos: [
+        "✝️ O sangue de Cristo nos aproxima de Deus.",
+        "🕊️ Jesus é a nossa paz.",
+        "🤝 O Evangelho nos chama à reconciliação."
+        ],
+        palavrasChave: [
+        "🤝 Aproximados — Trazidos para perto de Deus por meio da obra de Cristo.",
+        "🕊️ Paz — Reconciliação com Deus realizada por Jesus.",
+        "🙏 Acesso — Privilégio de nos aproximarmos de Deus por meio de Cristo."
+        ]
+        },
+        {
+        titulo: "2. A Igreja participa da missão de diferentes maneiras",
+        texto: "Nem todos serão enviados para viver em outro país, mas todos podem participar da obra missionária. A Igreja sustenta missionários, intercede por eles, contribui com recursos e anuncia Cristo em sua própria comunidade. Cada serviço realizado com fidelidade pode cooperar com o avanço do Evangelho.",
+        pontoPrincipal: "Cada cristão pode cooperar com a missão por meio da oração, contribuição, serviço e evangelização.",
+        exortacao: "Escolha uma maneira prática de apoiar a obra missionária e seja constante em sua participação.",
+        reflexao: "De que forma tenho contribuído para que outras pessoas conheçam Jesus?",
+        topicos: [
+        "🙏 Orar pelos missionários e pelos povos não alcançados.",
+        "🤲 Contribuir para sustentar o trabalho missionário.",
+        "📣 Anunciar Cristo onde Deus nos colocou."
+        ],
+        palavrasChave: [
+        "🙏 Intercessão — Oração feita em favor de outras pessoas e necessidades.",
+        "🤲 Contribuição — Oferta de recursos para apoiar a obra de Deus.",
+        "🛠️ Serviço — Trabalho realizado com amor e dedicação ao Senhor e ao próximo."
+        ]
+        },
+        {
+        titulo: "3. A missão continua em nossa geração",
+        texto: "O encerramento de Atos não significa que a missão terminou. A Igreja continua anunciando o Reino de Deus e ensinando sobre Jesus Cristo. Cada geração recebe a responsabilidade de transmitir fielmente o Evangelho à geração seguinte e de alcançar aqueles que ainda não o conhecem.",
+        pontoPrincipal: "A missão iniciada pelos primeiros discípulos continua sendo responsabilidade da Igreja hoje.",
+        exortacao: "Não espere que outra pessoa faça tudo. Envolva-se na missão de acordo com os dons, oportunidades e responsabilidades que Deus lhe concedeu.",
+        reflexao: "Que legado de fé e compromisso missionário estou deixando para a próxima geração?",
+        topicos: [
+        "📖 O livro de Atos termina, mas a missão permanece.",
+        "🌱 A Igreja deve transmitir o Evangelho às novas gerações.",
+        "🔥 Cada cristão pode participar do avanço do Reino de Deus."
+        ],
+        palavrasChave: [
+        "🌱 Geração — Pessoas que vivem em determinado período e podem transmitir a fé às próximas.",
+        "📜 Legado — Exemplo e ensinamentos deixados para outras pessoas.",
+        "🔄 Continuidade — A permanência de uma tarefa que prossegue ao longo do tempo."
+        ]
+        }
+        ],
+        
+        conclusao: "📝 CONCLUSÃO\nA missão que Jesus confiou à Igreja não terminou com os apóstolos. O livro de Atos se encerra mostrando Paulo anunciando o Reino de Deus, mas a proclamação do Evangelho continua por meio dos discípulos de Cristo. Capacitados pelo Espírito Santo, somos chamados a testemunhar, fazer discípulos, orar, contribuir e servir. Que cada um de nós assuma seu compromisso com a missão, lembrando que Jesus salva, cura, batiza com o Espírito Santo e em breve voltará.",
+        
+        perguntas: [
+        {
+        nivel: "🟢 1. Fácil",
+        pergunta: "Qual missão Jesus confiou aos seus discípulos em Mateus 28.19,20?",
+        resposta: "Fazer discípulos de todas as nações, batizando-os e ensinando-os a guardar tudo o que Jesus ordenou."
+        },
+        {
+        nivel: "🟡 2. Média",
+        pergunta: "Segundo Atos 1.8, para que os discípulos receberiam poder do Espírito Santo?",
+        resposta: "Para serem testemunhas de Jesus em Jerusalém, Judeia, Samaria e até aos confins da terra."
+        },
+        {
+        nivel: "🔴 3. Difícil",
+        pergunta: "Por que o encerramento do livro de Atos não significa que a missão da Igreja terminou?",
+        resposta: "Porque Atos termina mostrando Paulo anunciando o Reino de Deus, e a missão confiada por Cristo continua sendo realizada pela Igreja em cada geração."
+        },
+        {
+        nivel: "🔴 4. Difícil",
+        pergunta: "Como Efésios 2.13-18 se relaciona com a missão de anunciar o Evangelho a todos os povos?",
+        resposta: "O texto ensina que Cristo aproximou os que estavam longe e é a nossa paz. A mensagem missionária anuncia essa reconciliação com Deus e chama pessoas de diferentes origens a Cristo."
+        },
+        {
+        nivel: "🔴 5. Difícil",
+        pergunta: "De que maneiras um cristão pode participar da obra missionária mesmo sem ir para outro país?",
+        resposta: "Pode orar pelos missionários, contribuir para o sustento da obra, servir na igreja, evangelizar em sua comunidade e discipular pessoas."
+        }
+        ]
+        },
 
         },
     },
+
+
     jovens: {
 
         "3": {
+    
 
             "10": {
 
@@ -2033,8 +2277,334 @@ const licoes = {
             resposta: "Porque abandonar os referenciais de Deus conduz à decadência moral; por isso, a Igreja deve preservar a verdade bíblica e resistir ao mal."
         }
     ]
-}
-        },
+},
+
+        "13": {
+            numero: "Lição 13",
+            titulo: "Esperança em meio ao caos: aguardando a vinda do Rei",
+
+            perguntaGancho:
+                "🎯❓ Se cada pessoa fizer apenas aquilo que considera certo aos seus próprios olhos, sem se submeter à vontade de Deus, o que pode acontecer com uma sociedade e até mesmo com o povo de Deus?",
+
+            curiosidade:
+                "💡O livro de Juízes termina mostrando uma das situações mais caóticas da história de Israel. A frase “cada um fazia o que parecia reto aos seus olhos” resume um período em que o povo precisava urgentemente reconhecer a necessidade de uma liderança justa. Essa realidade também aponta para uma esperança maior: a vinda de Cristo, o verdadeiro Rei, que governará com justiça e estabelecerá seu Reino.",
+
+            textoPrincipal:
+                "“Naqueles dias, não havia rei em Israel, porém cada um fazia o que parecia reto aos seus olhos.” (Jz 21.25).",
+
+            pontoPrincipal:
+                "O caos espiritual e social de Israel revela a necessidade de uma liderança justa e aponta para a esperança em Jesus Cristo, o Rei dos reis.",
+
+            resumoLicao:
+                "Mesmo em meio ao caos, há esperança, pois Deus conduz a história e sustenta aqueles que confiam nEle.",
+
+            palavraChave:
+                "Liderança: A necessidade de uma direção justa, fundamentada na vontade de Deus, para conduzir o povo com unidade e responsabilidade.",
+
+            leituraBiblica:
+                "Juízes 21.1-3,6-10,25",
+
+            verdadePratica:
+                "O pecado e a falta de responsabilidade individual podem gerar conflitos, vingança e guerra entre o povo de Deus.",
+
+            objetivos: [
+                "🔹 COMPREENDER como o pecado e a falta de responsabilidade individual gera vingança e guerra entre o povo de Deus;",
+                "🔹 REFLETIR sobre a conduta hipócrita de Israel e suas decisões precipitadas;",
+                "🔹 RECONHECER a esperança cristã no cumprimento das promessas de Deus, desde a necessidade de um rei para Israel, até a vinda de Cristo como Rei dos reis."
+            ],
+
+            textoBiblicoPontoPrincipal:
+                "A falta de uma liderança justa e a prática de cada um fazer o que parecia certo aos seus próprios olhos levaram Israel ao caos, à vingança e a decisões precipitadas.",
+
+            introducao:
+                "Nesta aula, estudaremos o último capítulo de Juízes (21), o qual revela uma nação mergulhada no caos social, marcada por guerras internas, decisões precipitadas e falhas espirituais. O texto nos convida a refletir sobre a necessidade de liderança justa, e sobre a esperança apontada na promessa de um rei que traria unidade, justiça e direção à nação; uma figura que encontra seu cumprimento pleno em Jesus Cristo, o Rei dos reis.",
+
+            devocionais: [
+                {
+                    dia: "SEGUNDA-FEIRA — O erro da cumplicidade com o pecado",
+                    versiculo: "📖 Provérbios 17.15",
+                    texto: "A Palavra de Deus nos ensina que não devemos tratar o erro como algo normal ou aceitável. A cumplicidade com o pecado pode fazer com que aquilo que deveria causar indignação passe a ser visto como algo comum. Cada cristão precisa assumir responsabilidade pessoal diante de Deus e escolher permanecer fiel à verdade.",
+                    pontos: [
+                        "🙏 A verdade de Deus deve orientar nossas escolhas.",
+                        "🕊️ Não devemos apoiar aquilo que sabemos ser errado.",
+                        "✨ A fidelidade começa nas decisões individuais."
+                    ],
+                    advertencia: "⚠️ Advertência: Cuidado para que a convivência com o erro não faça você perder a sensibilidade espiritual.",
+                    aplicacao: "💭 Aplicação pessoal: Examine suas atitudes e relacionamentos e decida hoje não participar nem incentivar aquilo que contraria a Palavra de Deus.",
+                    fechamento: "✨ Quem permanece na verdade encontra direção mesmo quando muitos escolhem o caminho errado."
+                },
+                {
+                    dia: "TERÇA-FEIRA — A hipocrisia religiosa",
+                    versiculo: "📖 Mateus 23.23",
+                    texto: "Jesus condenou uma religiosidade preocupada apenas com a aparência e com detalhes externos, enquanto negligenciava princípios fundamentais como a justiça, a misericórdia e a fé. A verdadeira espiritualidade não pode ser separada de uma vida coerente com a Palavra de Deus.",
+                    pontos: [
+                        "🙏 Deus olha para além da aparência.",
+                        "🕊️ Justiça e misericórdia devem fazer parte da nossa caminhada.",
+                        "❤️ A verdadeira fé produz uma vida coerente."
+                    ],
+                    advertencia: "⚠️ Advertência: Não permita que práticas religiosas escondam atitudes que precisam ser corrigidas diante de Deus.",
+                    aplicacao: "💭 Aplicação pessoal: Pergunte a si mesmo se suas atitudes diárias correspondem à fé que você declara possuir.",
+                    fechamento: "✨ Deus não procura apenas aparência de fé, mas uma vida transformada pela verdade."
+                },
+                {
+                    dia: "QUARTA-FEIRA — Dias trabalhosos",
+                    versiculo: "📖 2 Timóteo 3.1",
+                    texto: "A Bíblia alerta que os últimos dias seriam marcados por tempos difíceis. Diante de uma sociedade marcada pela inversão de valores e pela aparência de piedade, o cristão precisa permanecer firme na verdade e não permitir que o ambiente ao seu redor determine sua conduta.",
+                    pontos: [
+                        "🙏 Precisamos reconhecer os perigos espirituais do nosso tempo.",
+                        "🕊️ A aparência de piedade não substitui uma vida verdadeira com Deus.",
+                        "📖 A Palavra deve continuar sendo nosso fundamento."
+                    ],
+                    advertencia: "⚠️ Advertência: Não permita que os valores ao seu redor enfraqueçam sua fidelidade a Cristo.",
+                    aplicacao: "💭 Aplicação pessoal: Fortaleça diariamente sua comunhão com Deus por meio da oração e da Palavra.",
+                    fechamento: "✨ Em tempos difíceis, uma fé firme continua sendo uma luz para o caminho."
+                },
+                {
+                    dia: "QUINTA-FEIRA — Aliança davídica",
+                    versiculo: "📖 2 Samuel 7.16",
+                    texto: "Deus estabeleceu uma promessa relacionada à descendência de Davi. Mesmo diante das crises e fracassos humanos, o propósito de Deus continuou avançando. A história bíblica aponta para o cumprimento dessa esperança em Cristo.",
+                    pontos: [
+                        "🙏 Deus permanece fiel às suas promessas.",
+                        "🕊️ O propósito divino continua mesmo em períodos difíceis.",
+                        "👑 A esperança bíblica está ligada ao governo estabelecido por Deus."
+                    ],
+                    advertencia: "⚠️ Advertência: Não confunda demora com abandono; Deus continua sendo fiel ao seu propósito.",
+                    aplicacao: "💭 Aplicação pessoal: Quando não compreender o momento que está vivendo, continue confiando na fidelidade de Deus.",
+                    fechamento: "✨ Quando tudo parece incerto, as promessas de Deus continuam firmes."
+                },
+                {
+                    dia: "SEXTA-FEIRA — Vivendo em esperança",
+                    versiculo: "📖 Jeremias 29.11",
+                    texto: "A esperança bíblica não significa ausência de dificuldades, mas confiança de que Deus continua conduzindo a história. Mesmo quando não conseguimos compreender o caminho, podemos permanecer firmes porque o Senhor conhece o futuro e permanece fiel.",
+                    pontos: [
+                        "🙏 Deus conhece o caminho mesmo quando não conseguimos compreendê-lo.",
+                        "🕊️ A esperança nos ajuda a permanecer firmes durante a espera.",
+                        "✨ O futuro está nas mãos daquele que permanece fiel."
+                    ],
+                    advertencia: "⚠️ Advertência: Não deixe uma fase difícil fazer você abandonar sua confiança nas promessas de Deus.",
+                    aplicacao: "💭 Aplicação pessoal: Entregue suas preocupações ao Senhor e continue fazendo com fidelidade aquilo que Ele colocou diante de você.",
+                    fechamento: "✨ A esperança permanece viva quando confiamos naquele que conhece o amanhã."
+                },
+                {
+                    dia: "SÁBADO — Jesus, Rei dos reis",
+                    versiculo: "📖 Apocalipse 19.16",
+                    texto: "A esperança cristã está firmada em Jesus Cristo, o Rei dos reis. Enquanto aguardamos sua volta, somos chamados a permanecer fiéis e a anunciar o Evangelho. O caos presente não muda a verdade de que Cristo continua soberano.",
+                    pontos: [
+                        "👑 Jesus possui autoridade suprema.",
+                        "🕊️ A história está sob o governo soberano de Deus.",
+                        "✨ A Igreja aguarda com esperança a vinda de Cristo."
+                    ],
+                    advertencia: "⚠️ Advertência: Não permita que as dificuldades presentes façam você perder de vista a esperança da volta de Cristo.",
+                    aplicacao: "💭 Aplicação pessoal: Viva hoje de maneira fiel ao Senhor, mantendo o coração preparado para encontrar o Rei.",
+                    fechamento: "✨ O mundo pode estar em caos, mas Cristo continua sendo o Rei dos reis."
+                }
+            ],
+
+            desenvolvimento: [
+
+                {
+                    titulo: "📖 1. VINGANÇA E GUERRA CIVIL ENTRE O POVO DE DEUS",
+                    pontoPrincipal:
+                        "A história de Israel mostra que conflitos internos se agravam quando o pecado, a vingança e a falta de direção justa dominam as decisões."
+                },
+
+                {
+                    titulo: "1.1. Clamor por justiça",
+                    pontoPrincipal:
+                        "A busca por justiça exige responsabilidade, mas não deve ser conduzida pela vingança.",
+                    topicos: [
+                        "📖 Romanos 12.19 — A vingança pertence a Deus, e não deve ser praticada por nós.",
+                        "📖 Miqueias 6.8 — Deus nos chama a praticar a justiça com misericórdia e humildade."
+                    ],
+                    exortacao:
+                        "Não permita que a indignação diante de uma injustiça se transforme em desejo de vingança. Busque agir com equilíbrio, verdade e responsabilidade, confiando que Deus é justo.",
+                    reflexao:
+                        "Como cristãos, devemos combater o pecado e buscar a justiça sem permitir que a raiva controle nossas atitudes. A verdadeira justiça precisa estar acompanhada de temor a Deus, amor ao próximo e responsabilidade.",
+                    palavrasChave: {
+                        Justiça: "Agir corretamente, buscando o que é justo diante de Deus.",
+                        Vingança: "Retribuição pessoal motivada pelo desejo de fazer alguém sofrer pelo mal cometido.",
+                        Responsabilidade: "Compromisso de agir com consciência e responder pelas próprias atitudes."
+                    }
+                },
+
+                {
+                    titulo: "1.2. Benjamim não reconhece o erro",
+                    pontoPrincipal:
+                        "Defender o erro por lealdade a alguém é tornar-se cúmplice do pecado.",
+                    topicos: [
+                        "📖 Provérbios 17.15 — Deus reprova tanto aquele que justifica o ímpio quanto aquele que condena o justo.",
+                        "📖 Efésios 5.11 — Não devemos participar das obras infrutíferas das trevas, mas devemos reprová-las."
+                    ],
+                    exortacao:
+                        "Não encubra erros por amizade, parentesco ou lealdade. A verdadeira lealdade começa com fidelidade a Deus e à sua Palavra. Corrigir o erro com amor pode ser necessário para promover arrependimento e restauração.",
+                    reflexao:
+                        "Quando protegemos aquilo que sabemos estar errado, deixamos de agir segundo a verdade. O cristão precisa aprender a diferenciar amor de cumplicidade e compreender que confrontar o pecado com sabedoria pode ser uma forma de buscar restauração.",
+                    palavrasChave: {
+                        Cumplicidade: "Participação ou apoio consciente em algo errado.",
+                        Impunidade: "Situação em que alguém pratica o erro sem receber a devida responsabilização.",
+                        Lealdade: "Fidelidade a alguém ou a uma causa, que nunca deve estar acima da fidelidade a Deus."
+                    }
+                },
+
+                {
+                    titulo: "1.3. Guerra civil",
+                    pontoPrincipal:
+                        "O pecado e a divisão enfraquecem o povo de Deus e comprometem sua missão.",
+                    topicos: [
+                        "📖 1 Coríntios 1.10 — Paulo exorta a Igreja a falar a mesma coisa e permanecer unida.",
+                        "📖 Tiago 4.1 — As guerras e contendas têm origem nos desejos que lutam dentro das pessoas."
+                    ],
+                    exortacao:
+                        "Rejeite contendas, divisões e disputas dentro do povo de Deus. Antes de responder com ira, busque oração, diálogo, humildade e reconciliação.",
+                    reflexao:
+                        "A divisão destrói relacionamentos e enfraquece o testemunho cristão. A Igreja precisa preservar a unidade e buscar direção divina para resolver conflitos, lembrando que nossa missão é maior do que nossas diferenças.",
+                    palavrasChave: {
+                        "Guerra civil": "Conflito armado entre pessoas ou grupos pertencentes à mesma sociedade ou nação.",
+                        Unidade: "Condição de permanecer unido em torno da vontade e dos propósitos de Deus.",
+                        "Direção divina": "Orientação de Deus para tomar decisões de acordo com sua vontade."
+                    }
+                },
+
+                {
+                    titulo: "📖 2. HIPOCRISIA DE ISRAEL: DECISÕES SEM SABEDORIA, RELIGIÃO SEM MISERICÓRDIA",
+                    pontoPrincipal:
+                        "Decisões precipitadas e uma religiosidade sem misericórdia podem gerar novas injustiças e revelar incoerência espiritual."
+                },
+
+                {
+                    titulo: "2.1. Decisões trágicas",
+                    pontoPrincipal:
+                        "Decisões precipitadas e sem sabedoria podem agravar os problemas e gerar novas injustiças.",
+                    topicos: [
+                        "📖 Provérbios 14.12 — Há caminho que ao homem parece direito, mas o seu fim conduz à destruição.",
+                        "📖 Provérbios 19.2 — Agir sem conhecimento pode levar ao erro e à precipitação."
+                    ],
+                    exortacao:
+                        "Não tome decisões importantes dominado pela pressa, pela ira ou pela emoção. Ore, busque orientação na Palavra de Deus e considere as consequências antes de agir.",
+                    reflexao:
+                        "Juízes 21 mostra como uma decisão tomada sem sabedoria pode criar novos problemas. Precisamos aprender a esperar em Deus e avaliar cuidadosamente nossas escolhas.",
+                    palavrasChave: {
+                        Sabedoria: "Capacidade de agir corretamente de acordo com os princípios de Deus.",
+                        Decisão: "Escolha consciente diante de uma situação ou problema.",
+                        Consequência: "Resultado produzido por uma determinada escolha ou atitude."
+                    }
+                },
+
+                {
+                    titulo: "2.2. A religiosidade legalista e hipócrita",
+                    pontoPrincipal:
+                        "A religiosidade sem misericórdia e justiça revela incoerência entre a fé professada e as atitudes praticadas.",
+                    topicos: [
+                        "📖 Mateus 23.23 — Jesus ensinou que justiça, misericórdia e fé são princípios fundamentais.",
+                        "📖 Mateus 23.24 — Jesus denunciou aqueles que enfatizavam detalhes enquanto negligenciavam o que era essencial."
+                    ],
+                    exortacao:
+                        "Não esconda atitudes erradas atrás de práticas religiosas. Deus deseja uma fé verdadeira, acompanhada de justiça, misericórdia, amor e obediência.",
+                    reflexao:
+                        "A verdadeira fé não consiste apenas em aparência religiosa. Ela produz transformação no caráter e conduz o cristão a viver de maneira coerente com aquilo que professa.",
+                    palavrasChave: {
+                        Hipocrisia: "Ato de aparentar uma condição espiritual que não corresponde à realidade do coração.",
+                        Legalismo: "Ênfase exagerada em regras externas, deixando de lado princípios fundamentais da Palavra.",
+                        Misericórdia: "Compaixão demonstrada diante da necessidade, da fraqueza ou do sofrimento do próximo."
+                    }
+                },
+
+                {
+                    titulo: "📖 3. AGUARDANDO A VINDA DO REI",
+                    pontoPrincipal:
+                        "A necessidade de liderança justa em Israel aponta para a esperança no governo perfeito de Jesus Cristo."
+                },
+
+                {
+                    titulo: "3.1. À espera de um rei",
+                    pontoPrincipal:
+                        "A história de Israel revela a necessidade de uma liderança que conduza o povo segundo a vontade de Deus.",
+                    topicos: [
+                        "📖 1 Samuel 13.14 — Deus buscou um homem segundo o seu coração para cumprir sua vontade.",
+                        "📖 1 Samuel 8.7 — Deus mostrou a Samuel que a rejeição do governo divino estava por trás da exigência de um rei."
+                    ],
+                    exortacao:
+                        "Não coloque sua confiança apenas em lideranças humanas. Ore por aqueles que exercem liderança e, acima de tudo, submeta sua vida à direção de Deus.",
+                    reflexao:
+                        "Israel precisava de liderança, mas nenhuma liderança humana poderia resolver definitivamente o problema do pecado. A esperança bíblica aponta para um Rei perfeito, que governa com justiça e verdade.",
+                    palavrasChave: {
+                        Liderança: "A capacidade de conduzir pessoas com responsabilidade e direção.",
+                        Governo: "Autoridade exercida para conduzir e administrar uma sociedade.",
+                        Obediência: "Disposição de cumprir a vontade de Deus conforme sua Palavra."
+                    }
+                },
+
+                {
+                    titulo: "3.2. O reinado de Davi",
+                    pontoPrincipal:
+                        "A aliança com Davi aponta para Jesus Cristo, cujo Reino é eterno.",
+                    topicos: [
+                        "📖 2 Samuel 7.16 — Deus prometeu que o trono e o reino relacionados à casa de Davi permaneceriam.",
+                        "📖 Lucas 1.32,33 — O anjo anunciou que Jesus receberia o trono de Davi e reinaria eternamente."
+                    ],
+                    exortacao:
+                        "Confie nas promessas de Deus mesmo quando as circunstâncias parecerem contrárias. O Senhor conduz a história e cumpre aquilo que prometeu.",
+                    reflexao:
+                        "O reinado de Davi faz parte da história da promessa messiânica. Em Jesus, encontramos o cumprimento pleno da esperança de um Rei cujo governo não terá fim.",
+                    palavrasChave: {
+                        Aliança: "Compromisso estabelecido por Deus segundo sua vontade e suas promessas.",
+                        Reino: "Domínio e governo exercidos por um rei.",
+                        Promessa: "Palavra ou compromisso que Deus estabelece e permanece fiel em cumprir."
+                    }
+                },
+
+                {
+                    titulo: "3.3. Aguardando o Rei dos reis",
+                    pontoPrincipal:
+                        "A Igreja proclama o Evangelho enquanto aguarda a volta de Jesus, o Rei dos reis.",
+                    topicos: [
+                        "📖 Mateus 28.19,20 — Jesus ordenou que seus discípulos fizessem discípulos de todas as nações e ensinassem sua Palavra.",
+                        "📖 Apocalipse 19.16 — Jesus é apresentado como Rei dos reis e Senhor dos senhores."
+                    ],
+                    exortacao:
+                        "Enquanto aguardamos a volta de Cristo, permaneçamos fiéis à missão que Ele confiou à Igreja. Anunciemos o Evangelho, façamos discípulos e vivamos preparados para a sua vinda.",
+                    reflexao:
+                        "A esperança da volta de Jesus não deve produzir acomodação, mas compromisso. A Igreja aguarda o Rei enquanto trabalha na proclamação do Evangelho e na edificação de vidas.",
+                    palavrasChave: {
+                        "Rei dos reis": "Título que demonstra a autoridade suprema de Jesus Cristo.",
+                        Esperança: "Confiança firme nas promessas de Deus e no cumprimento futuro de sua Palavra.",
+                        Missão: "Responsabilidade confiada por Cristo à Igreja para anunciar o Evangelho e fazer discípulos."
+                    }
+                }
+            ],
+
+            conclusao:
+                "📖 CONCLUSÃO\n📚 O livro de Juízes nos mostra uma nação marcada pelo caos, pelo pecado e pela hipocrisia religiosa, evidenciando como a ausência de liderança justa gera conflitos internos, injustiças e decisões precipitadas.\n🙏 Apesar de toda a corrupção e decadência social, o Senhor continua conduzindo a história, mostrando que a esperança do povo não se baseia nas circunstâncias, mas nEle.\n🌎 Hoje, assim como Israel aguardava um líder que restaurasse a ordem e o temor do Senhor, o povo de Deus é chamado a ser instrumento de salvação e justiça no mundo, mantendo firme a esperança no retorno glorioso de Cristo, que reinará para sempre em plenitude. 👑✨",
+
+            perguntas: [
+                {
+                    nivel: "🟢 1. Fácil",
+                    pergunta: "Qual é a mensagem de Juízes 21.25 sobre a situação de Israel?",
+                    resposta: "Que não havia rei em Israel, e cada um fazia o que parecia reto aos seus próprios olhos."
+                },
+                {
+                    nivel: "🟡 2. Média",
+                    pergunta: "Qual foi uma das consequências das decisões precipitadas de Israel contra Benjamim?",
+                    resposta: "Israel percebeu que quase havia exterminado uma de suas próprias tribos e precisou buscar uma solução para preservar a tribo de Benjamim."
+                },
+                {
+                    nivel: "🔴 3. Difícil",
+                    pergunta: "O que a guerra entre Israel e Benjamim ensina sobre a necessidade da direção de Deus?",
+                    resposta: "Ensina que força, quantidade e capacidade humana não substituem a direção divina. Israel sofreu derrotas até buscar orientação do Senhor e obedecer às suas instruções."
+                },
+                {
+                    nivel: "🔴 4. Difícil",
+                    pergunta: "Por que as atitudes de Israel em Juízes 21 revelam uma religiosidade hipócrita?",
+                    resposta: "Porque o povo mantinha práticas religiosas e procurava cumprir juramentos, mas suas decisões demonstravam falta de justiça, misericórdia e coerência com a vontade de Deus."
+                },
+                {
+                    nivel: "🔴 5. Difícil",
+                    pergunta: "Como o encerramento do livro de Juízes aponta para a esperança em Cristo?",
+                    resposta: "A declaração de que cada um fazia o que parecia certo aos seus olhos revela a necessidade de uma liderança justa. A história posterior de Israel aponta para a promessa do reino davídico, que encontra seu cumprimento pleno em Jesus Cristo, o Rei dos reis, cujo Reino não terá fim."
+                }
+            ]
+        }
+    },
 
 
     },
@@ -2622,8 +3192,9 @@ const licoes = {
             ]
 
                }
-
 ,
+
+        
 
         "12": {
             numero: "Lição 12",
@@ -3370,6 +3941,95 @@ const licoes = {
         },
 
 
+        "13": {
+            numero: "Lição 13",
+            titulo: "LUTE POR SUA FÉ",
+
+            textoPrincipal:
+                "“Amados, procurando eu escrever-vos com toda a diligência acerca da comum salvação, tive por necessidade escrever-vos e exortar-vos a batalhar pela fé que uma vez foi dada aos santos.” — Judas 3",
+
+            pontoPrincipal:
+                "O cristão deve conhecer, viver e defender com firmeza a fé que recebeu, permanecendo fiel à verdade da Palavra de Deus.",
+
+            palavraChave: "FÉ",
+
+            leituraBiblica: "Judas 17-25",
+
+            perguntaGancho:
+                "🎯 Se alguém questionasse hoje aquilo em que você crê, você saberia defender sua fé com firmeza, mas também com amor e respeito?",
+
+            curiosidade:
+                "💡 A palavra usada por Judas para “batalhar” transmite a ideia de lutar intensamente. Isso mostra que a fé cristã não deve ser tratada com indiferença: ela precisa ser conhecida, vivida e defendida diante dos desafios e dos falsos ensinamentos.",
+
+            objetivos: [
+                "EXPLICAR os motivos para o envio da carta de Judas.",
+                "EXPOR o perigo dos falsos mestres.",
+                "SABER como devemos nos portar na defesa da fé."
+            ],
+
+            introducao:
+                "Judas escreveu para alertar os cristãos sobre homens que haviam se infiltrado na igreja e estavam distorcendo a verdade. Por isso, os cristãos deveriam permanecer firmes na fé recebida dos apóstolos, conhecendo a Palavra de Deus e rejeitando os falsos ensinamentos.",
+
+            desenvolvimento: [
+
+                {
+                    titulo: "1. INTRODUÇÃO À EPÍSTOLA",
+                    texto:
+                        "📖 A igreja precisa conhecer a verdade para permanecer firme.\n\nJudas escreveu para fortalecer os cristãos diante dos falsos ensinamentos e mostrar que a fé recebida deveria ser preservada com firmeza.\n\n📖 Judas 1.3 — A fé cristã precisa ser defendida.\n📖 Judas 1.20 — O cristão deve edificar-se sobre a sua fé.\n\n⚠️ Exortação prática: Conheça a Palavra de Deus e examine os ensinamentos que você recebe.\n\n💭 Reflexão: A fé que recebemos deve ser conhecida, vivida e defendida com sabedoria, amor e firmeza.\n\n🔑 Fé: Confiança em Deus e em sua Palavra.\n🔑 Verdade: Aquilo que está de acordo com a Palavra de Deus.\n🔑 Defesa: Ação de proteger e explicar aquilo que cremos."
+                },
+
+                {
+                    titulo: "2. A DEFESA DA FÉ",
+                    texto:
+                        "2.1. UMA NECESSIDADE\n\n🎯 Ponto principal: O cristão deve permanecer fiel mesmo diante da oposição.\n\n📖 Judas 1.3 — A fé precisa ser defendida.\n📖 2 Timóteo 4.7 — Paulo declarou ter combatido o bom combate e guardado a fé.\n\n⚠️ Exortação prática: Não abandone suas convicções bíblicas por causa da pressão das pessoas.\n\n💭 Reflexão: Defender a fé não significa discutir com todos, mas permanecer firme na verdade e saber explicá-la com respeito.\n\n🔑 Defesa: Proteção e explicação da verdade.\n🔑 Perseverança: Permanecer firme apesar das dificuldades.\n🔑 Fidelidade: Permanecer comprometido com Deus e sua Palavra.\n\n2.2. A FÉ GENUÍNA\n\n🎯 Ponto principal: A fé verdadeira produz uma vida transformada e obediente.\n\n📖 Efésios 2.8 — A salvação é pela graça mediante a fé.\n📖 Atos 20.27 — Paulo anunciou todo o conselho de Deus.\n\n⚠️ Exortação prática: Não reduza a fé a palavras; demonstre-a por meio de uma vida obediente.\n\n💭 Reflexão: A fé genuína transforma o comportamento e conduz o cristão a viver de acordo com a verdade.\n\n🔑 Graça: Favor imerecido de Deus.\n🔑 Obediência: Prática da vontade de Deus.\n🔑 Verdade: Ensino verdadeiro revelado nas Escrituras."
+                },
+
+                {
+                    titulo: "3. PECADO E JUÍZO",
+                    texto:
+                        "3.1. OS INTRUSOS\n\n🎯 Ponto principal: Falsos mestres podem distorcer a graça de Deus para justificar o pecado.\n\n📖 Judas 1.19 — Os falsos mestres causavam divisões e eram dominados por desejos naturais.\n📖 Romanos 8.5 — Os que vivem segundo a carne inclinam-se para as coisas da carne.\n\n⚠️ Exortação prática: Tenha discernimento para reconhecer ensinamentos que diminuem a seriedade do pecado.\n\n💭 Reflexão: A graça de Deus nunca deve ser usada como desculpa para viver em desobediência.\n\n🔑 Intrusos: Pessoas que entram com objetivos contrários à verdade.\n🔑 Discernimento: Capacidade de distinguir o certo do errado.\n🔑 Divisão: Separação provocada por conflitos e falsos ensinamentos.\n\n3.2. EXEMPLOS DE DESOBEDIÊNCIA\n\n🎯 Ponto principal: A desobediência traz consequências e não deve ser tratada com indiferença.\n\n📖 Judas 1.5 — Israel sofreu consequências por causa da incredulidade.\n📖 Judas 1.7 — Sodoma e Gomorra são apresentadas como exemplo de juízo.\n\n⚠️ Exortação prática: Aprenda com os exemplos bíblicos e não trate o pecado como algo sem importância.\n\n💭 Reflexão: Judas apresenta Israel, os anjos que abandonaram sua posição e Sodoma e Gomorra como exemplos de desobediência e juízo.\n\n🔑 Desobediência: Recusa em obedecer à vontade de Deus.\n🔑 Juízo: Ação de Deus ao julgar o pecado.\n🔑 Incredulidade: Falta de confiança em Deus e em sua Palavra.\n\n3.3. PERIGOS DOS FALSOS MESTRES\n\n🎯 Ponto principal: Falsos mestres podem destruir a fé por meio do engano, da sensualidade e da divisão.\n\n📖 Judas 1.11-12 — Judas descreve características perigosas desses homens.\n\n⚠️ Exortação prática: Observe os frutos e os ensinamentos daqueles que pretendem ensinar a Palavra.\n\n💭 Reflexão: Os falsos mestres eram ímpios, carnais, murmuradores, arrogantes, interessados em benefícios pessoais e causadores de divisão.\n\n🔑 Falsos mestres: Pessoas que ensinam algo contrário à verdade bíblica.\n🔑 Engano: Aquilo que conduz ao erro.\n🔑 Apostasia: Abandono da verdade e da fé professada."
+                },
+
+                {
+                    titulo: "4. COMO DEFENDER A FÉ",
+                    texto:
+                        "4.1. CUIDADOS PESSOAIS\n\n🎯 Ponto principal: A defesa da fé começa com uma vida espiritual fortalecida.\n\n📖 Judas 1.20-21 — Edificar-se na fé, orar no Espírito, permanecer no amor de Deus e esperar a misericórdia de Cristo.\n📖 Lucas 17.5 — Os discípulos pediram ao Senhor que aumentasse sua fé.\n\n⚠️ Exortação prática: Fortaleça diariamente sua vida com Deus por meio da oração e da Palavra.\n\n💭 Reflexão: Quem deseja defender a fé precisa primeiro cuidar da própria comunhão com Deus.\n\n🔑 Edificação: Fortalecimento espiritual.\n🔑 Oração: Comunhão e diálogo com Deus.\n🔑 Misericórdia: Compaixão e favor demonstrados por Deus.\n\n4.2. CUIDADO COM OS OUTROS\n\n🎯 Ponto principal: Devemos tratar os que têm dúvidas com misericórdia e ajudá-los com sabedoria.\n\n📖 Judas 1.22-23 — Ter misericórdia dos que duvidam e resgatar outros do fogo.\n📖 Tiago 1.6-7 — A dúvida precisa ser tratada com fé e confiança em Deus.\n\n⚠️ Exortação prática: Ajude quem está enfrentando dúvidas sem arrogância, mas também sem participar do pecado.\n\n💭 Reflexão: Defender a fé também significa cuidar de pessoas que estão enfraquecidas espiritualmente.\n\n🔑 Misericórdia: Compaixão diante da necessidade do outro.\n🔑 Resgate: Ação de retirar alguém de uma situação de perigo.\n🔑 Temor: Respeito profundo diante de Deus."
+                }
+
+            ],
+
+            conclusao:
+                "🛡️ A apologia (defesa) da fé cristã é urgente para os dias de hoje e deve ser feita em amor — mas sem amenizar a firmeza das Escrituras.\n\n⚔️ Essa defesa é desempenhada contra ataques externos, porém, é ainda mais fundamental para contra-atacar as investidas internas, dos falsos mestres.\n\n🙏 Que o Senhor nos dê sabedoria para combater este combate e vencer a dúvida.",
+
+            perguntas: [
+                {
+                    nivel: "🟢 1. Fácil",
+                    pergunta: "Qual foi a principal exortação de Judas aos cristãos?",
+                    resposta: "Judas os exortou a batalhar pela fé que uma vez foi dada aos santos."
+                },
+                {
+                    nivel: "🟡 2. Média",
+                    pergunta: "Quais cuidados Judas recomenda para os cristãos permanecerem firmes?",
+                    resposta: "Edificar-se na fé, orar no Espírito Santo, permanecer no amor de Deus e aguardar a misericórdia de Jesus Cristo."
+                },
+                {
+                    nivel: "🔴 3. Difícil",
+                    pergunta: "Quais três exemplos de desobediência são apresentados por Judas?",
+                    resposta: "A incredulidade de Israel, os anjos que abandonaram sua posição e Sodoma e Gomorra."
+                },
+                {
+                    nivel: "🔴 4. Difícil",
+                    pergunta: "Quais características marcavam os falsos mestres mencionados por Judas?",
+                    resposta: "Eram ímpios, carnais, negavam o senhorio de Cristo, eram rebeldes, murmuradores, arrogantes, interessados em seus próprios benefícios, causadores de divisão e não tinham o Espírito."
+                },
+                {
+                    nivel: "🔴 5. Difícil",
+                    pergunta: "Como devemos agir diante daqueles que estão em dúvida?",
+                    resposta: "Devemos demonstrar misericórdia, ajudar e resgatar essas pessoas com cuidado e temor, sem participar dos seus pecados."
+                }
+            ]
+        },
+
               },
 
  "juniores": {
@@ -3579,6 +4239,185 @@ conclusao:
     "✝️ 18. ENCERRAMENTO\n\nRelembre com as crianças:\n\nQuem era Jefté? → Juiz de Israel.\n\nQuem brigou com os gileaditas? → Os efraimitas.\n\nQual foi o problema? → Orgulho, falta de companheirismo e divisão.\n\nO que Deus deseja de nós? → Amor, união, perdão e companheirismo.\n\nRepitam juntos o versículo de Salmos 133.1:\n\n“Como é bom e agradável que o povo de Deus viva unido como se todos fossem irmãos!”\n\nDepois, peça que as crianças deem as mãos e faça a oração:\n\nSenhor Deus, ajuda-nos a viver em união. Ensina-nos a amar nossos amigos, nossa família e nossos irmãos em Cristo. Ajuda-nos a perdoar, ajudar e respeitar uns aos outros. Que sejamos pacificadores e que nossas atitudes mostrem o amor de Jesus. Em nome de Jesus, amém.\n\n🌟 FRASE PARA A CRIANÇA LEVAR PARA CASA\n\n“Quando escolho o amor e a união, ajudo a construir a paz.”",
 
         },
+
+            "13": {
+                numero: "Lição 13",
+                titulo: "MICA E O LEVITA EM SUA CASA",
+                textoPrincipal: "Juízes 17.1-13",
+                perguntaGancho: "🎯 O que pode acontecer quando uma pessoa tenta servir a Deus do seu próprio jeito, sem conhecer e obedecer à Palavra?",
+                curiosidade: "💡 No período dos juízes, Israel enfrentava uma grande desordem espiritual. O caso de Mica mostra que não basta dizer que estamos adorando a Deus; precisamos conhecê-lo e obedecer à sua Palavra. Mica criou uma forma própria de culto, fazendo uma imagem de escultura, mesmo existindo uma ordem clara de Deus contra isso.",
+                leituraBiblica: "📖 Juízes 17.1-13",
+                pontoPrincipal: "Quem conhece a Palavra de Deus encontra direção para viver de acordo com a vontade do Senhor.",
+
+                objetivos: [
+                    "📖 Apontar que a falta de conhecimento da Palavra de Deus pode trazer problemas."
+                ],
+
+                memorizando: {
+                    versiculo: "📖 “Dá-me sabedoria e conhecimento, pois confio nos teus mandamentos.” — Salmos 119.66",
+                    pontoPrincipal: "Buscar sabedoria e conhecimento na Palavra de Deus nos ajuda a viver de acordo com os seus mandamentos."
+                },
+
+                conversaProfessor: "A geração de israelitas que viveu no tempo dos juízes desprezava os preceitos do Senhor. Após a morte de seus líderes, o povo vivia à sua maneira e pecava contra Deus. Nesse tempo, havia um homem chamado Mica que, por não observar as leis de Deus, foi influenciado por sua mãe a fazer um ídolo representando o Deus de Israel. A falta de compromisso com a Lei Mosaica e a desordem religiosa trouxe grandes problemas para os israelitas. O ídolo não conseguia revelar as características do Deus verdadeiro e nem poderia. Mica quebrou ali um dos mandamentos dados por Deus ao seu povo: “Não farás para ti imagem de escultura” (Êx 20.4). A sua ignorância em relação a Deus e suas leis o fez pecar e morrer espiritualmente.\n\nQuando nos dedicamos a conhecer o Senhor por meio de sua Palavra, amadurecemos espiritualmente e não somos levados por qualquer vento de falsos ensinamentos (Ef 4.14). É indispensável incentivar os alunos ao estudo incansável da Palavra de Deus, da oração e da comunhão para que aprendam como agradar a Deus. Professor(a), dedique-se à compreensão das Escrituras Sagradas, faça a diferença em meio a uma geração que não deseja buscar o conhecimento da vontade de Deus. Estude a Bíblia e conheça o teu Deus de perto.",
+
+                devocional: [
+                    {
+                        dia: "✨ SEGUNDA — A falta de conhecimento destrói",
+                        versiculo: "📖 “O meu povo foi destruído, porque lhe faltou o conhecimento.” — Oseias 4.6",
+                        texto: "O profeta Oseias mostrou que o povo de Israel estava sofrendo porque havia rejeitado o conhecimento de Deus. Não se tratava apenas de falta de informação, mas de desprezo pela verdade que o Senhor havia revelado. Quando a Palavra é ignorada, as pessoas ficam mais vulneráveis ao pecado e aos caminhos errados. A história de Mica demonstra como a falta de conhecimento da vontade de Deus pode levar alguém a práticas religiosas contrárias às Escrituras.",
+                        pontos: [
+                            "🙏 Conhecer a Deus é essencial para uma vida espiritual saudável.",
+                            "📖 A Palavra revela aquilo que agrada ao Senhor.",
+                            "🛡️ O conhecimento bíblico ajuda a reconhecer o erro."
+                        ],
+                        advertencia: "⚠️ Advertência: Não permita que a falta de conhecimento bíblico determine suas escolhas espirituais.",
+                        aplicacao: "💭 Aplicação pessoal: Separe hoje um momento para ler a Bíblia com atenção e procure colocar em prática aquilo que aprender.",
+                        destaque: "✨ Quem conhece a verdade encontra direção para caminhar com Deus."
+                    },
+
+                    {
+                        dia: "✨ TERÇA — É sábio ter conhecimento",
+                        versiculo: "📖 “Os sábios escondem a sabedoria, mas a boca do tolo anuncia a sua própria estultícia.” — Provérbios 10.14",
+                        texto: "A Bíblia apresenta o conhecimento e a sabedoria como valores importantes para uma vida equilibrada. O sábio não trata aquilo que aprende de maneira superficial; ele guarda a instrução e pensa antes de falar ou agir. Mica, porém, tomou decisões espirituais sem demonstrar compromisso com os mandamentos de Deus. Sua história nos ensina que não devemos confiar apenas em nossas próprias ideias quando temos a Palavra do Senhor para nos orientar.",
+                        pontos: [
+                            "🙏 A sabedoria nos ensina a pensar antes de agir.",
+                            "🧠 O conhecimento precisa ser guardado e colocado em prática.",
+                            "📖 A Palavra de Deus deve orientar nossas decisões."
+                        ],
+                        advertencia: "⚠️ Advertência: Cuidado para não confundir suas próprias ideias com aquilo que Deus realmente ensina.",
+                        aplicacao: "💭 Aplicação pessoal: Antes de tomar uma decisão importante, procure conhecer os princípios bíblicos relacionados à situação.",
+                        destaque: "✨ A verdadeira sabedoria começa quando aprendemos a ouvir Deus."
+                    },
+
+                    {
+                        dia: "✨ QUARTA — Sem conhecimento somos enganados",
+                        versiculo: "📖 “Tende cuidado, para que ninguém vos faça presa sua, por meio de filosofias e vãs sutilezas, segundo a tradição dos homens.” — Colossenses 2.8",
+                        texto: "Paulo advertiu os cristãos sobre o perigo de serem enganados por ensinamentos que pareciam convincentes, mas não estavam fundamentados em Cristo. O perigo do engano continua existindo quando alguém não conhece suficientemente a verdade bíblica. A história de Mica mostra como práticas religiosas podem parecer corretas e, ainda assim, contrariar aquilo que Deus estabeleceu. Por isso, o cristão precisa conhecer as Escrituras e comparar aquilo que ouve com a verdade da Palavra.",
+                        pontos: [
+                            "🛡️ A verdade bíblica protege contra ensinamentos enganosos.",
+                            "📖 Nem todo ensinamento religioso está de acordo com a Bíblia.",
+                            "✝️ Cristo deve permanecer no centro da nossa fé."
+                        ],
+                        advertencia: "⚠️ Advertência: Não aceite qualquer ensinamento simplesmente porque parece espiritual ou porque muitas pessoas acreditam nele.",
+                        aplicacao: "💭 Aplicação pessoal: Leia a Bíblia e examine cuidadosamente os ensinamentos que recebe.",
+                        destaque: "✨ Quem conhece a verdade não precisa seguir todo vento de ensinamento."
+                    },
+
+                    {
+                        dia: "✨ QUINTA — Conhecer a Palavra de Deus nos livra do mal",
+                        versiculo: "📖 “Escondi a tua palavra no meu coração, para eu não pecar contra ti.” — Salmos 119.11",
+                        texto: "O salmista reconhece que guardar a Palavra de Deus no coração ajuda o ser humano a resistir ao pecado. A Escritura não deve permanecer apenas nas páginas da Bíblia, mas precisa alcançar nossos pensamentos, decisões e atitudes. Mica conhecia pouco da vontade de Deus e acabou seguindo um caminho contrário aos mandamentos do Senhor. Quando guardamos a Palavra no coração, recebemos princípios que nos ajudam a reconhecer o pecado e escolher o caminho correto.",
+                        pontos: [
+                            "❤️ A Palavra precisa estar guardada no coração.",
+                            "🛡️ A verdade bíblica fortalece nossa resistência ao pecado.",
+                            "👣 Conhecer a Palavra deve produzir mudanças nas atitudes."
+                        ],
+                        advertencia: "⚠️ Advertência: Não trate a leitura da Bíblia apenas como uma obrigação religiosa sem permitir que ela transforme suas atitudes.",
+                        aplicacao: "💭 Aplicação pessoal: Memorize hoje um versículo e procure lembrar dele durante suas decisões.",
+                        destaque: "✨ Uma Palavra guardada no coração pode transformar uma escolha."
+                    },
+
+                    {
+                        dia: "✨ SEXTA — Estudar a Palavra para conhecê-la",
+                        versiculo: "📖 “Persiste em ler, exortar e ensinar, até que eu vá.” — 1 Timóteo 4.13",
+                        texto: "Paulo orientou Timóteo a permanecer dedicado à leitura, à exortação e ao ensino. O conhecimento da Palavra exige dedicação e continuidade. Não podemos esperar amadurecer espiritualmente sem reservar tempo para aprender as Escrituras. O professor da Escola Bíblica possui uma responsabilidade especial: estudar para ensinar com fidelidade e incentivar seus alunos a conhecerem cada vez mais a vontade de Deus.",
+                        pontos: [
+                            "📖 O estudo bíblico precisa fazer parte da nossa rotina.",
+                            "👨🏫 Quem ensina deve buscar conhecer aquilo que ensina.",
+                            "🌱 A dedicação à Palavra produz crescimento espiritual."
+                        ],
+                        advertencia: "⚠️ Advertência: Não negligencie o estudo das Escrituras por falta de tempo ou por acomodação.",
+                        aplicacao: "💭 Aplicação pessoal: Reserve um horário específico hoje para estudar a Bíblia sem distrações.",
+                        destaque: "✨ Quem permanece na Palavra cresce na fé e amadurece no conhecimento."
+                    },
+
+                    {
+                        dia: "✨ SÁBADO — A Palavra de Deus ilumina",
+                        versiculo: "📖 “Lâmpada para os meus pés é tua palavra e luz para o meu caminho.” — Salmos 119.105",
+                        texto: "O salmista compara a Palavra de Deus a uma lâmpada que ilumina os passos e o caminho. Assim como uma pessoa precisa de luz para enxergar por onde está andando, o cristão precisa da orientação das Escrituras para tomar decisões corretas. Mica tentou seguir sua própria maneira de adoração e acabou envolvido em uma prática contrária aos mandamentos do Senhor. A Palavra nos mostra o caminho e nos ajuda a perceber quando estamos nos afastando da vontade de Deus.",
+                        pontos: [
+                            "💡 A Palavra oferece direção para nossas decisões.",
+                            "👣 Deus deseja orientar cada passo do seu povo.",
+                            "📖 A Bíblia ilumina caminhos que nossas próprias ideias não conseguem esclarecer."
+                        ],
+                        advertencia: "⚠️ Advertência: Não escolha seu caminho apenas pela aparência ou pelos sentimentos; busque a direção da Palavra.",
+                        aplicacao: "💭 Aplicação pessoal: Antes de decidir algo importante, ore e procure princípios bíblicos que possam orientar sua decisão.",
+                        destaque: "✨ Quando a Palavra ilumina o caminho, nossos passos encontram direção."
+                    }
+                ],
+
+                desenvolvimento: [
+                    {
+                        titulo: "📚 O PERIGO DE VIVER SEM CONHECER A PALAVRA",
+                        pontoPrincipal: "Quem conhece a Palavra de Deus encontra direção para viver de acordo com a vontade do Senhor.",
+                        versiculos: [
+                            {
+                                referencia: "Êxodo 20.4",
+                                pontoPrincipal: "Deus estabelece como seu povo deveria adorá-lo, sem substituir o Senhor por imagens ou representações."
+                            },
+                            {
+                                referencia: "Efésios 4.14",
+                                pontoPrincipal: "O conhecimento da verdade bíblica produz maturidade e ajuda o cristão a permanecer firme diante do erro."
+                            }
+                        ],
+                        exortacao: "🔥 Não permita que opiniões, costumes ou ensinamentos contrários à Bíblia determinem sua maneira de servir a Deus. Leia as Escrituras, examine aquilo que você aprende e pratique a verdade com sinceridade.",
+                        reflexao: "💭 Estou conhecendo a Palavra de Deus para obedecê-la ou apenas para adquirir conhecimento religioso?",
+                        palavrasChave: [
+                            "📖 Conhecimento: Compreensão da verdade revelada por Deus em sua Palavra.",
+                            "🙏 Obediência: Prática daquilo que Deus ordena, demonstrando submissão à sua vontade.",
+                            "🛡️ Discernimento: Capacidade de distinguir aquilo que está de acordo com a verdade bíblica daquilo que está errado."
+                        ]
+                    },
+
+                    {
+                        titulo: "📖 EXPLORANDO AS ESCRITURAS",
+                        subtitulo: "O perigo de servir a Deus conforme a própria vontade.",
+                        pontoPrincipal: "Conhecer a Palavra de Deus nos ajuda a adorá-lo corretamente e a não sermos enganados.",
+                        versiculos: [
+                            {
+                                referencia: "Salmos 119.105",
+                                pontoPrincipal: "A Palavra de Deus ilumina nossos passos e orienta o caminho que devemos seguir."
+                            },
+                            {
+                                referencia: "Efésios 4.14",
+                                pontoPrincipal: "O conhecimento da verdade bíblica produz maturidade e protege contra ensinamentos enganosos."
+                            }
+                        ],
+                        exortacao: "🔥 Não tente servir a Deus apenas conforme aquilo que parece certo aos seus próprios olhos. Estude as Escrituras, conheça os mandamentos do Senhor e permita que a Palavra determine sua maneira de viver, adorar e tomar decisões.",
+                        reflexao: "💭 Minha fé está sendo guiada pela Palavra de Deus ou pelas minhas próprias ideias sobre o que parece certo?",
+                        palavrasChave: [
+                            "📖 Conhecimento: Compreensão da verdade de Deus revelada nas Escrituras.",
+                            "🙏 Devoção: Dedicação sincera ao Senhor, demonstrada por uma vida de fé e obediência.",
+                            "🛡️ Discernimento: Capacidade de reconhecer aquilo que está de acordo com a Palavra de Deus e rejeitar o erro."
+                        ]
+                    }
+                ],
+
+                conclusao: "🏁 A história de Mica e do levita nos mostra os perigos de tentar servir a Deus sem conhecer e obedecer à sua Palavra. 📖 A falta de conhecimento levou aquela família a criar uma forma de adoração baseada em seus próprios pensamentos, afastando-se dos mandamentos do Senhor. 🙏 Hoje, também precisamos ter cuidado para não seguir apenas aquilo que parece certo aos nossos olhos. Quando estudamos as Escrituras, conhecemos melhor a Deus, fortalecemos nossa fé e aprendemos a discernir o que agrada ao Senhor. 🛡️ Por isso, devemos valorizar a Palavra de Deus, buscar conhecê-la e praticá-la diariamente. Quem conhece a Palavra de Deus encontra direção para viver de acordo com a vontade do Senhor.",
+
+                perguntas: [
+                    {
+                        pergunta: "🟢 Quem era Mica?",
+                        resposta: "Mica era um homem que morava na região montanhosa de Efraim e que criou uma forma própria de adoração, fazendo ídolos e estabelecendo um sacerdote em sua casa."
+                    },
+                    {
+                        pergunta: "🟡 Por que Mica procurou um levita para ser seu sacerdote?",
+                        resposta: "Mica acreditava que ter um levita como sacerdote faria com que o Senhor abençoasse e prosperasse sua vida."
+                    },
+                    {
+                        pergunta: "🔴 Qual foi o principal problema espiritual de Mica e sua mãe?",
+                        resposta: "Eles não conheciam verdadeiramente a vontade de Deus e tentaram adorá-lo conforme seus próprios pensamentos, chegando a fabricar um ídolo, contrariando os mandamentos do Senhor."
+                    },
+                    {
+                        pergunta: "🔴 O que a atitude do levita revela sobre a situação espiritual de Israel naquele período?",
+                        resposta: "Revela uma profunda decadência espiritual, pois o levita, que deveria ensinar a Lei de Deus ao povo, também participou de uma prática religiosa contrária aos mandamentos do Senhor."
+                    },
+                    {
+                        pergunta: "🔴 Qual é a principal lição que a história de Mica ensina para os cristãos atualmente?",
+                        resposta: "Ensina que não basta ter aparência religiosa ou boas intenções; precisamos conhecer a Palavra de Deus e obedecê-la, permitindo que as Escrituras orientem nossa fé, nossa adoração e nossas decisões."
+                    }
+                ]
+            },
 
         "12": {
             numero: "Lição 12",
@@ -4469,6 +5308,489 @@ conhecendoMaisDeDeus: {
                     }
                 ]
             }
+,
+            "13": {
+                numero: "Lição 13",
+                titulo: "TRABALHANDO COM MISSÕES",
+                textoPrincipal: "Marcos 16.15; Romanos 10.13-15",
+
+                perguntaGancho: "🎯 Se Jesus nos chamou para anunciar o Evangelho, o que estamos fazendo hoje para que outras pessoas também conheçam a salvação?",
+
+                curiosidade: "💡 A palavra “missões” está ligada à ideia de ser enviado. Jesus não chamou seus discípulos apenas para aprenderem sobre o Evangelho, mas para levarem essa mensagem a outras pessoas. Por isso, fazer missões não é tarefa de poucos: todo cristão pode participar, seja indo, contribuindo, orando ou testemunhando.",
+
+                leituraBiblica: "📖 Marcos 16.15; 📖 Romanos 10.13-15",
+
+                pontoPrincipal: "Todo cristão é chamado a participar da missão de anunciar o Evangelho e levar outras pessoas ao conhecimento de Cristo.",
+
+                devocional: [
+                    {
+                        dia: "✨ Segunda-feira — O IDE DE JESUS",
+                        versiculo: '📖 “Ide por todo o mundo, pregai o evangelho a toda criatura.” — Marcos 16.15',
+                        texto: "Jesus deixou aos seus discípulos uma missão clara: anunciar o Evangelho a todas as pessoas. O chamado não estava limitado a um lugar específico, pois a mensagem de salvação deveria alcançar o mundo. A Igreja continua sendo chamada a proclamar aquilo que Cristo ensinou e a testemunhar sua obra. Missões começam quando entendemos que recebemos uma mensagem que precisa ser compartilhada.",
+                        pontos: [
+                            "🙏 Anunciar Jesus é obedecer ao seu chamado.",
+                            "🕊️ O Evangelho deve alcançar todas as pessoas.",
+                            "✨ Cada cristão pode participar da missão."
+                        ],
+                        advertencia: "⚠️ Não devemos guardar para nós a mensagem que recebemos, esquecendo que fomos chamados para testemunhar.",
+                        aplicacao: "💭 Procure hoje uma oportunidade para falar de Jesus com alguém, demonstrando sua fé também por meio de suas atitudes.",
+                        destaque: "✨ Quem conhece a mensagem de Cristo pode ajudar a levá-la mais longe."
+                    },
+                    {
+                        dia: "✨ Terça-feira — ENVIADOS POR JESUS",
+                        versiculo: '📖 “Assim como o Pai me enviou, também eu vos envio.” — João 20.21',
+                        texto: "Depois de sua ressurreição, Jesus falou aos discípulos e afirmou que eles seriam enviados assim como Ele havia sido enviado pelo Pai. Essa palavra mostra que a missão faz parte da vida daqueles que seguem a Cristo. Ser enviado significa estar disposto a representar Jesus e anunciar sua mensagem onde Deus nos colocar. O testemunho cristão acontece tanto nas palavras quanto na maneira de viver.",
+                        pontos: [
+                            "🙏 Jesus envia seus seguidores para testemunhar.",
+                            "🕊️ Nossa missão envolve disposição e obediência.",
+                            "✨ Podemos representar Cristo em nosso cotidiano."
+                        ],
+                        advertencia: "⚠️ Não devemos pensar que testemunhar sobre Cristo é responsabilidade apenas de líderes ou missionários que viajam para outros lugares.",
+                        aplicacao: "💭 Seja um testemunho de Cristo em sua casa, escola, trabalho e comunidade, tratando as pessoas com amor e verdade.",
+                        destaque: "✨ Onde Deus nos coloca, também pode nos usar para testemunhar."
+                    },
+                    {
+                        dia: "✨ Quarta-feira — A SEARA É GRANDE",
+                        versiculo: '📖 “A seara é grande, mas os trabalhadores são poucos.” — Lucas 10.2',
+                        texto: "Jesus ensinou seus discípulos sobre a grande necessidade de trabalhadores para a obra. A imagem da seara mostra que existem muitas pessoas que precisam ouvir a mensagem do Reino de Deus. Antes de enviar os discípulos, Jesus orientou que orassem ao Senhor da seara para que enviasse trabalhadores. A missão começa com oração e continua com disposição para servir.",
+                        pontos: [
+                            "🙏 Ore para que Deus levante trabalhadores.",
+                            "🕊️ Muitas pessoas precisam ouvir o Evangelho.",
+                            "✨ A oração deve acompanhar nosso trabalho missionário."
+                        ],
+                        advertencia: "⚠️ Não devemos perceber as necessidades espirituais das pessoas e permanecer indiferentes diante delas.",
+                        aplicacao: "💭 Ore por pessoas que ainda não conhecem a Cristo e pergunte a Deus como você pode participar da obra missionária.",
+                        destaque: "✨ Quem ora pela missão também pode ser chamado a participar dela."
+                    },
+                    {
+                        dia: "✨ Quinta-feira — ANUNCIANDO ÀS NAÇÕES",
+                        versiculo: '📖 “Anunciai entre as nações a sua glória.” — Salmos 96.3',
+                        texto: "O salmista convida o povo de Deus a anunciar entre as nações a glória do Senhor e suas maravilhas. A mensagem sobre Deus não deveria ficar restrita a um único povo ou lugar. Esse chamado revela a importância de tornar conhecidas as obras de Deus. Hoje, podemos participar disso por meio do testemunho, da oração, da contribuição e do serviço cristão.",
+                        pontos: [
+                            "🙏 Deus merece ser conhecido entre as nações.",
+                            "🕊️ Suas obras devem ser anunciadas.",
+                            "✨ O testemunho cristão pode alcançar diferentes pessoas."
+                        ],
+                        advertencia: "⚠️ Não devemos tratar a missão como algo sem importância, pois anunciar a glória de Deus faz parte do nosso testemunho.",
+                        aplicacao: "💭 Compartilhe com alguém uma palavra bíblica, um testemunho ou uma verdade que demonstre aquilo que Deus tem feito.",
+                        destaque: "✨ Quando anunciamos a glória de Deus, apontamos pessoas para Ele."
+                    },
+                    {
+                        dia: "✨ Sexta-feira — CHAMADOS PARA ESTAR COM ELE",
+                        versiculo: '📖 “E nomeou doze para que estivessem com ele e os mandasse a pregar.” — Marcos 3.14',
+                        texto: "Jesus chamou os doze para duas coisas importantes: estar com Ele e ser enviados a pregar. Antes de exercerem sua missão, os discípulos precisavam caminhar próximos de Cristo. Isso nos ensina que o serviço cristão não deve estar separado de uma vida de comunhão com Jesus. Trabalhar com missões exige relacionamento com Cristo e disposição para anunciar sua Palavra.",
+                        pontos: [
+                            "🙏 Primeiro aprendemos a caminhar com Jesus.",
+                            "🕊️ Depois somos enviados para servir.",
+                            "✨ Nossa missão deve nascer da comunhão com Cristo."
+                        ],
+                        advertencia: "⚠️ Atividade na obra de Deus não deve substituir nossa comunhão pessoal com Jesus.",
+                        aplicacao: "💭 Separe tempo para orar, ler a Bíblia e fortalecer sua comunhão com Cristo, permitindo que essa relação influencie seu testemunho.",
+                        destaque: "✨ Quem caminha com Jesus encontra direção para servir."
+                    },
+                    {
+                        dia: "✨ Sábado — EIS-ME AQUI",
+                        versiculo: '📖 “Eis-me aqui, envia-me a mim.” — Isaías 6.8',
+                        texto: "Isaías ouviu a voz do Senhor perguntando quem seria enviado para cumprir sua missão. Diante desse chamado, respondeu com disposição: “Eis-me aqui, envia-me a mim”. O texto apresenta um coração disposto a responder ao chamado de Deus. A obra missionária precisa de pessoas que estejam prontas para servir e obedecer ao Senhor.",
+                        pontos: [
+                            "🙏 Deus chama pessoas dispostas a servir.",
+                            "🕊️ A resposta ao chamado exige disponibilidade.",
+                            "✨ Podemos dizer ao Senhor: “Eis-me aqui”."
+                        ],
+                        advertencia: "⚠️ Não devemos deixar que o medo ou a acomodação nos impeçam de responder quando Deus nos chama para servir.",
+                        aplicacao: "💭 Ore e coloque seus dons, seu tempo e sua disposição à disposição de Deus para participar da missão.",
+                        destaque: "✨ Uma vida disponível pode ser instrumento nas mãos de Deus."
+                    }
+                ],
+
+                bibliaDiz: {
+                    versiculo: '📖 “O SENHOR Deus me deu o seu Espírito, pois Ele me escolheu para levar boas notícias aos pobres. Ele me enviou para animar os aflitos, para anunciar a libertação aos escravos e a liberdade para os que estão na prisão.” — Isaías 61.1',
+                    pontoPrincipal: "Deus capacita e envia seus servos para anunciar boas notícias, levar esperança e proclamar sua mensagem."
+                },
+
+                objetivos: [
+                    "📌 DESTACAR que fazer Missões é um dever da igreja;",
+                    "📖 ENSINAR sobre a necessidade de voluntários para o trabalho de Missões;",
+                    "🌎 AFIRMAR que a igreja deve pregar o Evangelho em lugares distantes."
+                ],
+
+                conhecendoMaisDeDeus: "Caro amigo(a) pré-adolescente! Estamos concluindo mais um trimestre de estudo da revista Lições Bíblicas Pré-adolescentes, e, para finalizarmos, o assunto que você estudará esta semana é Missões. Falar sobre Missões vai além do Evangelismo, assunto tratado na aula anterior. O trabalho de Missões envolve a ordem do Senhor Jesus aos seus discípulos para cumprir o “Ide”. Entretanto, a obra missionária trata-se de um trabalho de evangelização e discipulado mais específico organizado em lugares distantes. Deus chamou a igreja para fazer Missões e, para tanto, os crentes devem apoiar os missionários a fim de que a obra seja realizada de forma eficaz.",
+
+                desenvolvimento: [
+                    {
+                        titulo: "🌎 1. ANUNCIANDO O EVANGELHO A TODAS AS PESSOAS",
+                        subtitulos: [
+                            "👦 a) Missionários notáveis.",
+                            "🌱 b) Ainda Jovem."
+                        ],
+                        pontoPrincipal: "A idade não impede ninguém de servir a Deus e participar da missão de anunciar o Evangelho.",
+                        versiculos: [
+                            {
+                                referencia: "Marcos 16.15",
+                                pontoPrincipal: "Jesus ordena que seus seguidores anunciem o Evangelho a todas as pessoas."
+                            },
+                            {
+                                referencia: "Romanos 10.15",
+                                pontoPrincipal: "A mensagem do Evangelho precisa ser anunciada por pessoas dispostas a cumprir o chamado de Deus."
+                            }
+                        ],
+                        exortacao: "Não pense que você é jovem demais para servir a Deus. Use seus dons, sua voz, seu tempo e suas atitudes para falar de Jesus e apoiar aqueles que trabalham na obra missionária. Ore pelos missionários e esteja disposto a participar da missão conforme as oportunidades que Deus colocar diante de você.",
+                        reflexao: "Deus pode usar uma pessoa jovem para fazer grandes coisas em sua obra. O mais importante não é a idade, mas ter um coração disposto a obedecer, servir e anunciar a Palavra. Enquanto você cresce, também pode crescer no conhecimento de Deus e no compromisso com a missão.",
+                        palavrasChave: [
+                            {
+                                termo: "🌎 Missões",
+                                significado: "Trabalho de evangelização e discipulado realizado para alcançar pessoas, inclusive em lugares distantes."
+                            },
+                            {
+                                termo: "📖 Evangelho",
+                                significado: "A boa notícia da salvação por meio de Jesus Cristo."
+                            },
+                            {
+                                termo: "🙌 Serviço",
+                                significado: "Disposição para usar aquilo que Deus concedeu para contribuir com sua obra."
+                            }
+                        ]
+                    },
+                    {
+                        titulo: "🌎 2. COMO OUVIRÃO SE NÃO HÁ QUEM PREGUE?",
+                        subtitulos: [
+                            "🙌 a. Envolvimento",
+                            "🧑‍🦱 b. Pré-adolescente missionário"
+                        ],
+                        pontoPrincipal: "Cada cristão pode participar de Missões por meio da oração, contribuição, serviço e testemunho.",
+                        pontoPrincipal2: "O pré-adolescente também pode responder ao chamado de Deus e participar da missão.",
+                        versiculos: [
+                            {
+                                referencia: "Marcos 16.15",
+                                pontoPrincipal: "Jesus ordenou que o Evangelho fosse anunciado a todas as pessoas."
+                            },
+                            {
+                                referencia: "Atos 1.8",
+                                pontoPrincipal: "O Espírito Santo capacita os cristãos para serem testemunhas de Cristo em diferentes lugares."
+                            }
+                        ],
+                        exortacao: "Não espere crescer ou ficar mais experiente para começar a servir a Deus. Você pode orar por missionários, contribuir conforme suas possibilidades, participar das atividades da igreja e falar de Jesus às pessoas próximas. Comece onde você está e permita que Deus use seus dons para alcançar outras pessoas.",
+                        reflexao: "Deus não chama apenas pessoas que irão para lugares distantes. A missão também acontece perto de nós, na família, na escola, na igreja e entre os amigos. Quando nos colocamos à disposição do Senhor, podemos descobrir maneiras de participar daquilo que Ele está realizando.",
+                        palavrasChave: [
+                            {
+                                termo: "🙏 Oração",
+                                significado: "Conversa com Deus e apoio espiritual à obra missionária."
+                            },
+                            {
+                                termo: "🤲 Contribuição",
+                                significado: "Ato de ofertar recursos para apoiar o trabalho missionário."
+                            },
+                            {
+                                termo: "👣 Envio",
+                                significado: "Disposição para ir a outros lugares e anunciar o Evangelho."
+                            }
+                        ]
+                    },
+                    {
+                        titulo: "🌎 3. É PRECISO ENVIAR PESSOAS QUE ANUNCIEM O EVANGELHO",
+                        subtitulos: [
+                            "👣 a) A rotina dos missionários",
+                            "🌎 b) A proposta de Jesus"
+                        ],
+                        pontoPrincipal: "Jesus anunciou o Reino de Deus e preparou seus discípulos para continuarem a missão.",
+                        pontoPrincipal2: "Jesus enviou seus discípulos para anunciar o Evangelho e fazer discípulos.",
+                        versiculos: [
+                            {
+                                referencia: "Lucas 4.18",
+                                pontoPrincipal: "Jesus foi enviado para anunciar as boas-novas e cumprir sua missão."
+                            },
+                            {
+                                referencia: "Mateus 10.1",
+                                pontoPrincipal: "Jesus preparou e capacitou seus discípulos para participarem da obra."
+                            }
+                        ],
+                        exortacao: "A missão de anunciar o Evangelho continua. Não pense que somente pastores ou missionários podem servir nessa tarefa. Comece pelas pessoas que estão próximas de você: familiares, amigos, colegas e vizinhos. Ore, conheça mais a Palavra de Deus e esteja disposto a falar de Jesus quando surgir uma oportunidade.",
+                        reflexao: "Jesus não apenas pregava, mas também preparava pessoas para continuarem aquilo que Ele havia iniciado. Da mesma maneira, cada cristão pode aprender, servir e ajudar outros a conhecerem a Palavra. A missão não depende apenas de estar em outro país; ela pode começar onde estamos.",
+                        palavrasChave: [
+                            {
+                                termo: "📢 Anunciar",
+                                significado: "Tornar conhecida a mensagem do Evangelho."
+                            },
+                            {
+                                termo: "👣 Enviar",
+                                significado: "Colocar pessoas à disposição para cumprir uma missão."
+                            },
+                            {
+                                termo: "🌱 Discipular",
+                                significado: "Ensinar e ajudar alguém a crescer no conhecimento e na prática da fé cristã."
+                            }
+                        ]
+                    }
+                ],
+
+                conclusao: "🏁 CONCLUSÃO — Por fim, vale dizer que a igreja dos dias atuais tem a responsabilidade de continuar a missão para a qual o Senhor chamou os seus apóstolos. E você, caro(a) pré-adolescente, também faz parte dessa igreja. Oremos para que o Senhor acenda a chama de Missões em cada coração.",
+
+                perguntas: [
+                    {
+                        nivel: "🟢 1. Fácil",
+                        pergunta: "Qual é a principal tarefa da obra missionária?",
+                        resposta: "Anunciar o Evangelho e levar a mensagem de salvação às pessoas."
+                    },
+                    {
+                        nivel: "🟡 2. Média",
+                        pergunta: "Quais são algumas formas de participar de Missões?",
+                        resposta: "Podemos participar por meio da oração, das ofertas, do envio de missionários, do evangelismo e do uso dos nossos dons para servir a Deus."
+                    },
+                    {
+                        nivel: "🔴 3. Difícil",
+                        pergunta: "Por que a pouca idade não é impedimento para servir a Deus?",
+                        resposta: "Porque Deus pode usar pessoas de qualquer idade que estejam dispostas a obedecer e servir. A Bíblia apresenta exemplos de jovens e adolescentes que foram instrumentos nas mãos de Deus."
+                    },
+                    {
+                        nivel: "🔴 4. Difícil",
+                        pergunta: "O que Jesus fazia além de anunciar o Evangelho?",
+                        resposta: "Jesus também preparava e ensinava seus discípulos para que eles continuassem a missão de anunciar as Boas Novas do Reino de Deus."
+                    },
+                    {
+                        nivel: "🔴 5. Difícil",
+                        pergunta: "Como um pré-adolescente pode participar da obra missionária mesmo sem ir para um lugar distante?",
+                        resposta: "Pode começar onde está, anunciando Jesus aos familiares e amigos, orando pelos missionários, contribuindo para a obra, participando das atividades da igreja e usando seus dons para servir ao Reino de Deus."
+                    }
+                ]
+            },
+
+            "13": {
+                numero: "Lição 13",
+                titulo: "A PARTIDA E O LEGADO DE PAULO",
+                textoPrincipal: "Filipenses 4.10-20",
+
+                perguntaGancho: "🎯 Se você soubesse que sua caminhada estava chegando ao fim, o que gostaria de deixar como legado para as pessoas que convivem com você?",
+
+                curiosidade: "💡 Paulo não deixou apenas cartas e ensinamentos; sua vida também se tornou um exemplo de perseverança, serviço, fé e fidelidade a Cristo. Mesmo enfrentando prisões, perseguições e dificuldades, ele continuou cumprindo sua missão até o fim.",
+
+                palavraChave: "🏃 Legado",
+
+                devocional: [
+                    {
+                        dia: "✨ Segunda-feira — A força para continuar",
+                        versiculo: '📖 "Tudo posso naquele que me fortalece." — Filipenses 4.13',
+                        texto: "Paulo aprendeu a permanecer firme em diferentes circunstâncias. Sua confiança estava em Cristo, e não nas condições ao seu redor.",
+                        pontos: [
+                            "💪 Cristo nos fortalece para continuar.",
+                            "🙏 A confiança deve estar em Deus.",
+                            "✨ As dificuldades não precisam determinar nossa fidelidade."
+                        ],
+                        advertencia: "⚠️ Não coloque sua confiança apenas nas próprias forças.",
+                        aplicacao: "💭 Entregue hoje suas dificuldades ao Senhor e confie nEle.",
+                        destaque: "✨ Quem confia em Cristo encontra força para continuar."
+                    },
+                    {
+                        dia: "✨ Terça-feira — Aprendendo a estar contente",
+                        versiculo: '📖 "Já aprendi a contentar-me com o que tenho." — Filipenses 4.11',
+                        texto: "Paulo aprendeu a viver com pouco e também com abundância. Sua satisfação não dependia daquilo que possuía, mas de sua comunhão com Cristo.",
+                        pontos: [
+                            "🙏 Nossa satisfação deve estar em Cristo.",
+                            "💰 Bens materiais não determinam nossa alegria.",
+                            "✨ Deus nos ensina a confiar em qualquer circunstância."
+                        ],
+                        advertencia: "⚠️ Não permita que a busca por coisas materiais controle seu coração.",
+                        aplicacao: "💭 Agradeça hoje a Deus pelo que você tem.",
+                        destaque: "✨ A verdadeira satisfação nasce de uma vida com Cristo."
+                    },
+                    {
+                        dia: "✨ Quarta-feira — Um legado de fidelidade",
+                        versiculo: '📖 "Combati o bom combate, acabei a carreira, guardei a fé." — 2 Timóteo 4.7',
+                        texto: "Paulo chegou ao final de sua caminhada consciente de que havia permanecido fiel à missão recebida de Cristo.",
+                        pontos: [
+                            "🏃 Paulo perseverou até o fim.",
+                            "✝️ Ele conservou sua fé em Cristo.",
+                            "✨ Sua vida deixou um exemplo para outras gerações."
+                        ],
+                        advertencia: "⚠️ Não abandone a fé diante das dificuldades.",
+                        aplicacao: "💭 Pense em uma atitude que você pode tomar hoje para permanecer firme em Cristo.",
+                        destaque: "✨ Um legado de fé começa com pequenas decisões de fidelidade."
+                    },
+                    {
+                        dia: "✨ Quinta-feira — A importância das cartas",
+                        versiculo: '📖 "E, quando esta epístola tiver sido lida entre vós, fazei que também o seja na igreja dos laodicenses." — Colossenses 4.16',
+                        texto: "As cartas foram importantes para Paulo ensinar, orientar e encorajar as igrejas mesmo estando distante.",
+                        pontos: [
+                            "✉️ As cartas ajudavam na comunicação da fé.",
+                            "📖 Paulo ensinava por meio de seus escritos.",
+                            "🤝 A comunicação fortalecia as igrejas."
+                        ],
+                        advertencia: "⚠️ Não despreze o valor do ensino da Palavra de Deus.",
+                        aplicacao: "💭 Leia uma carta do Novo Testamento e procure aplicar seus ensinamentos.",
+                        destaque: "✨ A Palavra continua ensinando e fortalecendo a Igreja."
+                    },
+                    {
+                        dia: "✨ Sexta-feira — Deus supre nossas necessidades",
+                        versiculo: '📖 "O meu Deus suprirá todas as vossas necessidades segundo as suas riquezas em glória por Cristo Jesus." — Filipenses 4.19',
+                        texto: "Paulo reconhecia que Deus era a fonte de toda provisão. Mesmo enfrentando limitações, ele confiava no cuidado do Senhor.",
+                        pontos: [
+                            "🙏 Deus conhece nossas necessidades.",
+                            "💙 Podemos confiar na provisão do Senhor.",
+                            "✨ Cristo é suficiente em todas as circunstâncias."
+                        ],
+                        advertencia: "⚠️ Não confunda confiança em Deus com dependência das riquezas.",
+                        aplicacao: "💭 Ore agradecendo a Deus por seu cuidado e provisão.",
+                        destaque: "✨ Deus permanece fiel em todos os momentos."
+                    },
+                    {
+                        dia: "✨ Sábado — Que legado estamos deixando?",
+                        versiculo: '📖 "Sede meus imitadores, como também eu, de Cristo." — 1 Coríntios 11.1',
+                        texto: "A vida de Paulo deixou marcas naqueles que conheceram sua fé e seu compromisso com Cristo. Nosso modo de viver também pode influenciar outras pessoas.",
+                        pontos: [
+                            "👣 Nossa vida influencia outras pessoas.",
+                            "✝️ Cristo deve ser o centro do nosso exemplo.",
+                            "✨ Podemos deixar um legado de fé e fidelidade."
+                        ],
+                        advertencia: "⚠️ Não viva de maneira que contradiga a fé que você professa.",
+                        aplicacao: "💭 Pergunte a si mesmo: que tipo de legado minha vida está construindo?",
+                        destaque: "✨ O melhor legado é uma vida que aponta para Cristo."
+                    }
+                ],
+
+                licaoHoje: {
+                    referencia: "Filipenses 4.10-20",
+                    pontoPrincipal: "Paulo encontrou satisfação em Cristo e reconheceu que Deus supria suas necessidades em todas as circunstâncias."
+                },
+
+                bibliaDiz: {
+                    versiculo: '📖 "E o meu Deus suprirá todas as vossas necessidades segundo as suas riquezas em glória por Cristo Jesus." — Filipenses 4.19',
+                    pontoPrincipal: "Deus é a fonte da provisão e cuida daqueles que confiam nEle."
+                },
+
+                mensagem: "“Fiz o melhor que pude na corrida, cheguei até o fim, conservei a fé.” — 2 Timóteo 4.7",
+
+                pontoMensagem: "Paulo terminou sua caminhada permanecendo fiel a Cristo, deixando um legado de perseverança, serviço e fé.",
+
+                objetivos: [
+                    "📖 EXPLICAR o que aconteceu com Paulo após o seu julgamento;",
+                    "✉️ ENFATIZAR a importância da carta como meio de comunicação;",
+                    "📚 APRESENTAR uma visão panorâmica das cartas paulinas."
+                ],
+
+                vamosDescobrir: "Paulo enfrentou muitas dificuldades durante seu ministério, mas permaneceu firme até o final de sua caminhada. Sua vida e suas cartas deixaram ensinamentos importantes para a Igreja. Nesta lição, vamos descobrir como Paulo terminou sua jornada e qual legado deixou para os cristãos.",
+
+                horaDeAprender: "As cartas paulinas foram instrumentos importantes para ensinar, orientar e fortalecer as igrejas. Mesmo estando distante, Paulo continuou cuidando dos irmãos por meio de seus escritos. Esses textos chegaram até nós e continuam sendo fundamentais para o ensino da fé cristã.",
+
+                desenvolvimento: [
+                    {
+                        titulo: "1. O QUE ACONTECEU DEPOIS DE ATOS 28?",
+                        subtopico: "Paulo continuou servindo a Cristo mesmo depois dos acontecimentos narrados no livro de Atos.",
+                        pontoPrincipal: "Paulo permaneceu fiel à missão que Deus havia colocado em suas mãos até o final de sua caminhada.",
+                        versiculos: [
+                            {
+                                referencia: "2 Timóteo 4.7",
+                                pontoPrincipal: "Paulo declarou que havia combatido o bom combate, terminado a carreira e guardado a fé."
+                            },
+                            {
+                                referencia: "1 Timóteo 4.12",
+                                pontoPrincipal: "Paulo ensinou Timóteo a ser exemplo dos fiéis na palavra, no procedimento, no amor, na fé e na pureza."
+                            }
+                        ],
+                        exortacao: "Permaneça fiel a Cristo mesmo quando surgirem dificuldades. Nossa caminhada cristã deve continuar firme até o fim.",
+                        reflexao: "Se sua caminhada cristã terminasse hoje, que marcas de fé e fidelidade você estaria deixando?",
+                        palavrasChave: [
+                            {
+                                termo: "🏃 Perseverança",
+                                significado: "Capacidade de continuar firme mesmo diante das dificuldades."
+                            },
+                            {
+                                termo: "✝️ Fidelidade",
+                                significado: "Compromisso constante com Deus e com sua Palavra."
+                            },
+                            {
+                                termo: "👣 Legado",
+                                significado: "Marca ou exemplo que uma pessoa deixa para outras."
+                            }
+                        ]
+                    },
+                    {
+                        titulo: "2. COMUNICAÇÃO: AS EPISTOLAS",
+                        subtopico: "As cartas foram importantes para Paulo ensinar e fortalecer as igrejas.",
+                        pontoPrincipal: "As epístolas permitiram que Paulo continuasse ensinando e encorajando os cristãos mesmo estando distante.",
+                        versiculos: [
+                            {
+                                referencia: "Colossenses 4.16",
+                                pontoPrincipal: "As cartas deveriam ser lidas e compartilhadas entre as igrejas."
+                            },
+                            {
+                                referencia: "Colossenses 4.16",
+                                pontoPrincipal: "A leitura das cartas ajudava as igrejas a receber orientação e ensino apostólico."
+                            }
+                        ],
+                        exortacao: "Valorize a leitura da Bíblia e procure aprender com os ensinamentos das cartas do Novo Testamento.",
+                        reflexao: "Você tem aproveitado a Palavra de Deus para crescer na fé e orientar suas decisões?",
+                        palavrasChave: [
+                            {
+                                termo: "✉️ Epístola",
+                                significado: "Carta escrita para transmitir uma mensagem, orientação ou ensino."
+                            },
+                            {
+                                termo: "📖 Ensino",
+                                significado: "Transmissão de conhecimentos e verdades que ajudam no crescimento espiritual."
+                            },
+                            {
+                                termo: "🤝 Comunhão",
+                                significado: "Relacionamento de união e participação entre os cristãos."
+                            }
+                        ]
+                    },
+                    {
+                        titulo: "3. AS CARTAS PAULINAS",
+                        subtopico: "As cartas de Paulo apresentam ensinamentos fundamentais para a fé cristã.",
+                        pontoPrincipal: "As cartas paulinas ensinam sobre salvação, fé, vida cristã, Igreja e perseverança.",
+                        versiculos: [
+                            {
+                                referencia: "Romanos 1.17",
+                                pontoPrincipal: "O Evangelho revela a justiça de Deus e destaca a importância da fé."
+                            },
+                            {
+                                referencia: "2 Timóteo 4.7",
+                                pontoPrincipal: "Paulo deixou o exemplo de alguém que permaneceu fiel até o final."
+                            }
+                        ],
+                        exortacao: "Leia e estude as cartas paulinas com atenção, procurando compreender seus ensinamentos e colocá-los em prática.",
+                        reflexao: "Que ensinamento das cartas de Paulo você pode aplicar de maneira concreta em sua vida?",
+                        palavrasChave: [
+                            {
+                                termo: "📚 Doutrina",
+                                significado: "Conjunto de ensinamentos fundamentais da fé cristã."
+                            },
+                            {
+                                termo: "🙏 Fé",
+                                significado: "Confiança em Deus e em suas promessas."
+                            },
+                            {
+                                termo: "🕊️ Santidade",
+                                significado: "Vida separada para Deus e comprometida com sua vontade."
+                            }
+                        ]
+                    }
+                ],
+
+                conclusao: "📝 CONCLUSÃO — ✉️ As cartas foram ferramentas para a comunicação da fé cristã. Paulo fez bastante uso desse recurso para se comunicar com as igrejas que fundou. 📖 Era uma forma de ensinar e apoiar as igrejas, mesmo estando distante. 🙏 E ainda hoje, essas cartas nos ensinam muito.",
+
+                perguntas: [
+                    {
+                        pergunta: "🟢 Fácil: Quantas cartas do Novo Testamento são tradicionalmente atribuídas a Paulo?",
+                        resposta: "Treze cartas."
+                    },
+                    {
+                        pergunta: "🟡 Média: Qual era uma das principais finalidades das cartas de Paulo?",
+                        resposta: "Ensinar, orientar, corrigir e encorajar as igrejas e seus líderes."
+                    },
+                    {
+                        pergunta: "🔴 Difícil: Quais são as quatro Epístolas da Prisão?",
+                        resposta: "Efésios, Filipenses, Colossenses e Filemom."
+                    },
+                    {
+                        pergunta: "🔴 Difícil: Quais são as três Epístolas Pastorais e para quem foram destinadas?",
+                        resposta: "1 Timóteo e 2 Timóteo foram destinadas a Timóteo, e Tito foi destinada a Tito."
+                    },
+                    {
+                        pergunta: "🔴 Difícil: O que Paulo quis dizer ao declarar: “Combati o bom combate, acabei a carreira, guardei a fé”?",
+                        resposta: "Que ele havia perseverado em sua missão, terminado sua caminhada e permanecido fiel a Cristo até o fim."
+                    }
+                ]
+            }
             }
         }
 }
@@ -4490,4 +5812,4 @@ console.log(
     licoes["pre-adolescentes"]["3"] &&
     licoes["pre-adolescentes"]["3"]["10"]
 );
-console.log("✅ DADOS DAS LIÇÕES CARREGADOS");
+console.log("✅ DADOS DAS LIÇÕES CARREGADOS");module.exports = licoes;

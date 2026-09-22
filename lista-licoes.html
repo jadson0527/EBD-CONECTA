@@ -13,8 +13,6 @@
     <link rel="stylesheet"
           href="style.css">
 
-    <script src="dados-licoes.js"></script>
-
 </head>
 
 <body>
@@ -91,100 +89,126 @@
         };
 
 
-        const nomeClasse =
-            document.getElementById("nomeClasse");
+        document.getElementById("nomeClasse").textContent =
+            nomes[classe] || "Lições";
 
 
-        if (nomes[classe]) {
-
-            nomeClasse.textContent =
-                nomes[classe];
-
-        }
-
-
-        document.getElementById(
-            "tituloTrimestre"
-        ).textContent =
-            "📚 " + trimestre + "º Trimestre";
+        document.getElementById("tituloTrimestre").textContent =
+            "📚 " + (trimestre || "3") + "º Trimestre";
 
 
         const lista =
             document.getElementById("listaLicoes");
 
 
-        const dadosClasse =
-            licoes[classe];
+        /*
+         * JUVENIS
+         *
+         * Esta lista não depende do dados-licoes.js.
+         * A Lição 11 possui uma página própria.
+         */
+
+        if (classe === "juvenis") {
+
+            const titulosJuvenis = {
+
+                1: "Lição 1",
+                2: "Lição 2",
+                3: "Lição 3",
+                4: "Lição 4",
+                5: "Lição 5",
+                6: "Lição 6",
+                7: "Lição 7",
+                8: "Lição 8",
+                9: "Lição 9",
+                10: "Lição 10",
+                11: 'Diga "Não!"',
+                12: "Lição 12",
+                13: "Lição 13"
+
+            };
 
 
-        const dadosTrimestre =
-            dadosClasse &&
-            dadosClasse[trimestre];
+            for (let numero = 1; numero <= 13; numero++) {
+
+                const div =
+                    document.createElement("div");
 
 
-        for (let numero = 1; numero <= 13; numero++) {
+                div.innerHTML = `
 
-            const dadosLicao =
-                dadosTrimestre &&
-                dadosTrimestre[numero];
+                    <h3>📖 Lição ${numero}</h3>
+
+                    <p>
+                        ${titulosJuvenis[numero]}
+                    </p>
+
+                    <button onclick="abrirLicao(${numero})">
+                        Estudar
+                    </button>
+
+                    <hr>
+
+                `;
 
 
-            const titulo =
-                dadosLicao &&
-                dadosLicao.titulo
-                    ? dadosLicao.titulo
-                    : "Título da lição ainda não cadastrado";
+                lista.appendChild(div);
+
+            }
 
 
-            const div =
-                document.createElement("div");
+        } else {
 
+            /*
+             * As outras classes continuam usando
+             * o sistema antigo.
+             */
 
-            div.innerHTML = `
-
-                <h3>📖 Lição ${numero}</h3>
-
-                <p>
-                    ${titulo}
-                </p>
-
-                <button onclick="abrirLicao(${numero})">
-                    Estudar
-                </button>
-
-                <hr>
-
+            lista.innerHTML = `
+                <div class="destaque">
+                    <h3>📚 Lições</h3>
+                    <p>
+                        O conteúdo desta classe continua no sistema
+                        tradicional do EBD Conecta.
+                    </p>
+                </div>
             `;
-
-
-            lista.appendChild(div);
 
         }
 
 
- function abrirLicao(numero) {
+        function abrirLicao(numero) {
 
-    if (classe === "juvenis") {
+            if (classe === "juvenis") {
 
-        window.location.href =
-            "juvenis.html?trimestre=" +
-            encodeURIComponent(trimestre) +
-            "&licao=" +
-            encodeURIComponent(numero);
+                if (numero === 11) {
 
-    } else {
+                    window.location.href =
+                        "juvenis.html?trimestre=" +
+                        encodeURIComponent(trimestre || "3") +
+                        "&licao=11";
 
-        window.location.href =
-            "licao.html?classe=" +
-            encodeURIComponent(classe) +
-            "&trimestre=" +
-            encodeURIComponent(trimestre) +
-            "&licao=" +
-            encodeURIComponent(numero);
+                } else {
 
-    }
+                    alert(
+                        "Esta Lição ainda está sendo preparada."
+                    );
 
- }
+                }
+
+            } else {
+
+                window.location.href =
+                    "licao.html?classe=" +
+                    encodeURIComponent(classe) +
+                    "&trimestre=" +
+                    encodeURIComponent(trimestre) +
+                    "&licao=" +
+                    encodeURIComponent(numero);
+
+            }
+
+        }
 
 
         function voltarTrimestres() {
