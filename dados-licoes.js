@@ -5682,114 +5682,81 @@ conhecendoMaisDeDeus: {
     conhecendoMaisDeDeus: "Caro amigo(a) pré-adolescente! Estamos concluindo mais um trimestre de estudo da revista Lições Bíblicas Pré-adolescentes, e, para finalizarmos, o assunto que você estudará esta semana é Missões. Falar sobre Missões vai além do Evangelismo, assunto tratado na aula anterior. O trabalho de Missões envolve a ordem do Senhor Jesus aos seus discípulos para cumprir o “Ide”. Entretanto, a obra missionária trata-se de um trabalho de evangelização e discipulado mais específico organizado em lugares distantes. Deus chamou a igreja para fazer Missões e, para tanto, os crentes devem apoiar os missionários a fim de que a obra seja realizada de forma eficaz.",
 
     desenvolvimento: {
-        secoes: [
-            {
-                titulo: "🌎 1. ANUNCIANDO O EVANGELHO A TODAS AS PESSOAS",
-                texto: "Talvez você esteja se perguntando como, mesmo eu ainda sendo bem jovem, posso me envolver com Missões e falar das boas novas de salvação às pessoas? Cada um de nós recebeu do Senhor pelo menos um dom especial. Assim, não podemos deixar de falar do Evangelho para os que precisam ouvir as grandezas e os feitos de Deus. Fazer Missões, além da pregação, envolve o chamamento da igreja para apoiar os trabalhos evangelísticos em lugares distantes que ainda não foram alcançados pelo Evangelho.",
-                subtopicos: [
-                    {
-                        titulo: "👦 a) Missionários notáveis.",
-                        texto: "Vemos na Bíblia várias crianças e adolescentes que anunciaram a mensagem de Deus em sua época. Por exemplo: Daniel e seus amigos na Babilônia, José no Egito, Jeremias, Samuel, e o menino Jesus que, com apenas doze anos, pregava (Lc 2.46,47). Quando Marcos foi chamado por Cristo para segui-lo, ele era apenas um adolescente. Depois, Marcos escreveu sobre a ordem do Mestre a respeito da nossa responsabilidade de sairmos em missão e anunciar o Evangelho para o mundo (Mc 16.15)."
-                    },
-                    {
-                        titulo: "🌱 b) Ainda Jovem.",
-                        texto: "Não se precisa ter muita idade para trabalhar com Missões. A Bíblia conta a história de Josias, o rei mais novo de Judá, que tinha só oito anos quando assumiu o trono e reinou durante longos trinta e um anos. Enquanto ficou no trono, Josias tirou da nação tudo que desagradava a Deus, acabou com os cultos aos outros deuses, trouxe de volta a Lei para o conhecimento das pessoas, provocou reformas religiosas e ajudou o povo a voltar-se para o Senhor (2 Rs 23 e 24; 2 Cr 34 e 35). Isso significa que a pouca idade não é impedimento para servir a Deus."
-                    }
-                ],
-                pontoPrincipal: "A idade não impede ninguém de servir a Deus e participar da missão de anunciar o Evangelho.",
-                versiculos: [
-                    {
-                        referencia: "Marcos 16.15",
-                        texto: "“E disse-lhes: Ide por todo o mundo, pregai o evangelho a toda criatura.”",
-                        pontoPrincipal: "Jesus ordena que seus seguidores anunciem o Evangelho a todas as pessoas."
-                    },
-                    {
-                        referencia: "Romanos 10.15",
-                        texto: "“E, como pregarão, se não forem enviados? como está escrito: Quão formosos os pés dos que anunciam o evangelho de paz; dos que trazem alegres novas de boas coisas.”",
-                        pontoPrincipal: "A mensagem do Evangelho precisa ser anunciada por pessoas dispostas a cumprir o chamado de Deus."
-                    }
-                ],
-                exortacao: "Não pense que você é jovem demais para servir a Deus. Use seus dons, sua voz, seu tempo e suas atitudes para falar de Jesus e apoiar aqueles que trabalham na obra missionária. Ore pelos missionários e esteja disposto a participar da missão conforme as oportunidades que Deus colocar diante de você.",
-                reflexao: "Deus pode usar uma pessoa jovem para fazer grandes coisas em sua obra. O mais importante não é a idade, mas ter um coração disposto a obedecer, servir e anunciar a Palavra. Enquanto você cresce, também pode crescer no conhecimento de Deus e no compromisso com a missão.",
-                palavrasChave: [
-                    "🌎 Missões: Trabalho de evangelização e discipulado realizado para alcançar pessoas, inclusive em lugares distantes.",
-                    "📖 Evangelho: A boa notícia da salvação por meio de Jesus Cristo.",
-                    "🙌 Serviço: Disposição para usar aquilo que Deus concedeu para contribuir com sua obra."
-                ]
-            },
-            {
-                titulo: "🌎 2. COMO OUVIRÃO SE NÃO HÁ QUEM PREGUE?",
-                texto: "Talvez você já tenha ouvido esta máxima: “Missões se fazem com os joelhos dos que oram, com as mãos dos que ofertam e com os pés dos que vão”. Essa frase resume exatamente como se faz Missões. A oração é o apoio espiritual para a realização dos trabalhos; as mãos que contribuem são as pessoas que ofertam valores para custear os gastos com o envio de missionários e suprimento de recursos para o funcionamento de bases missionárias; e com os pés das pessoas que se dispõem a ir aos lugares mais difíceis para pregar o Evangelho.",
-                subtopicos: [
-                    {
-                        titulo: "🙌 a. Envolvimento",
-                        texto: "Sabia que tem várias formas de fazer Missões nos dias atuais? Basta você se envolver com o assunto a começar pela sua igreja local (At 1.8). Você pode, por exemplo, realizar um trabalho de conscientização missionária, realizar algum evento com essa temática. A igreja precisa tomar conhecimento do que está acontecendo no mundo, mais especificamente, naqueles países onde há perseguição religiosa. Da mesma forma, você pode também organizar reuniões de oração, estudos bíblicos com os novos convertidos e participar de treinamentos que ensinam como realizar Missões. Assim, você terá a oportunidade de usar seus talentos em favor do Reino e compartilhar o amor de Deus com todos da sua rede de amigos e familiares."
-                    },
-                    {
-                        titulo: "🧑‍🦱 b. Pré-adolescente missionário",
-                        texto: "Há muitos pré-adolescentes que são tímidos e sentem dificuldades para anunciar o Evangelho. Comece por perto, não deixe de evangelizar, pois à medida que você faz a obra, aprenderá a fazê-la com mais facilidade. Aproveite este momento para aprender de tudo e, sempre que você ouvir a pergunta: “a quem enviarei?”, como o profeta Isaías quando ouviu a mesma pergunta, você possa se apresentar diante de Deus e dizer: “Aqui estou eu. Envia-me a mim!” (Is 6.8), e a Missão fará sentido em sua vida.",
-                        pontoPrincipal: "O pré-adolescente também pode responder ao chamado de Deus e participar da missão."
-                    }
-                ],
-                pontoPrincipal: "Cada cristão pode participar de Missões por meio da oração, contribuição, serviço e testemunho.",
-                versiculos: [
-                    {
-                        referencia: "Marcos 16.15",
-                        texto: "“E disse-lhes: Ide por todo o mundo, pregai o evangelho a toda criatura.”",
-                        pontoPrincipal: "Jesus ordenou que o Evangelho fosse anunciado a todas as pessoas."
-                    },
-                    {
-                        referencia: "Atos 1.8",
-                        texto: "“Mas recebereis a virtude do Espírito Santo, que há de vir sobre vós; e ser-me-eis testemunhas tanto em Jerusalém como em toda a Judeia e Samaria e até aos confins da terra.”",
-                        pontoPrincipal: "O Espírito Santo capacita os cristãos para serem testemunhas de Cristo em diferentes lugares."
-                    }
-                ],
-                exortacao: "Não espere crescer ou ficar mais experiente para começar a servir a Deus. Você pode orar por missionários, contribuir conforme suas possibilidades, participar das atividades da igreja e falar de Jesus às pessoas próximas. Comece onde você está e permita que Deus use seus dons para alcançar outras pessoas.",
-                reflexao: "Deus não chama apenas pessoas que irão para lugares distantes. A missão também acontece perto de nós, na família, na escola, na igreja e entre os amigos. Quando nos colocamos à disposição do Senhor, podemos descobrir maneiras de participar daquilo que Ele está realizando.",
-                palavrasChave: [
-                    "🙏 Oração: Conversa com Deus e apoio espiritual à obra missionária.",
-                    "🤲 Contribuição: Ato de ofertar recursos para apoiar o trabalho missionário.",
-                    "👣 Envio: Disposição para ir a outros lugares e anunciar o Evangelho."
-                ]
-            },
-            {
-                titulo: "🌎 3. É PRECISO ENVIAR PESSOAS QUE ANUNCIEM O EVANGELHO",
-                texto: "Isaías, também chamado de profeta messiânico, falou sobre a vinda de Jesus e foi enviado para anunciar uma mensagem de transformação ao povo de Deus naquela época. Isaías disse: “O Senhor me deu o seu Espírito... Ele me enviou para anunciar que chegou o tempo em que o Senhor salvará o seu povo” (Is 61.1,2). Como Isaías fez, os filhos de Deus também precisam cumprir a missão para a qual o Senhor os chamou. Vamos entender o significado dessa missão observando a vida de Jesus e de seus discípulos.",
-                subtopicos: [
-                    {
-                        titulo: "👣 a) A rotina dos missionários",
-                        texto: "Você sabe como era a vida de Jesus e de seus apóstolos? Eles se envolviam com a pregação da Palavra e a obra missionária. A Bíblia afirma: “Jesus saiu e viajou por cidades e povoados, anunciando a boa notícia do Reino de Deus” (Lc 8.1). Ele aproveitou a oportunidade para capacitar os seus discípulos, treinando-os diariamente: “os doze discípulos foram com ele”, e também estavam junto algumas mulheres que já foram libertas pelo Senhor (Lc 8.1,2).",
-                        pontoPrincipal: "Jesus anunciou o Reino de Deus e preparou seus discípulos para continuarem a missão."
-                    },
-                    {
-                        titulo: "🌎 b) A proposta de Jesus",
-                        texto: "Os seus discípulos deveriam levar o Evangelho por todas as cidades como Ele fez, levando as Boas Novas do Reino (Lc 4.43). Por esse motivo, mandou setenta discípulos para muitas partes (Lc 10.1). Convocou os doze em particular e lhes ordenou o mesmo: “de porta em porta” (Mc 6.7). Jesus planejou que todo o mundo ouvisse falar do Pai e tivesse acesso às novas de salvação e amor. Por isso, como Filho, Ele desceu de sua glória, pregou para mudar o mundo, fez discípulos que o obedeceram e, hoje, essa mesma missão é nossa responsabilidade.",
-                        pontoPrincipal: "Jesus enviou seus discípulos para anunciar o Evangelho e fazer discípulos."
-                    }
-                ],
-                pontoPrincipal: "Jesus chamou, preparou e enviou seus discípulos para anunciar o Evangelho.",
-                versiculos: [
-                    {
-                        referencia: "Lucas 4.18",
-                        texto: "“O Espírito do Senhor é sobre mim, pois que me ungiu para evangelizar os pobres, enviou-me a curar os quebrantados do coração.”",
-                        pontoPrincipal: "Jesus foi enviado para anunciar as boas-novas e cumprir sua missão."
-                    },
-                    {
-                        referencia: "Mateus 10.1",
-                        texto: "“E, chamando os seus doze discípulos, deu-lhes poder sobre os espíritos imundos, para os expulsarem e para curarem toda enfermidade e todo mal.”",
-                        pontoPrincipal: "Jesus preparou e capacitou seus discípulos para participarem da obra."
-                    }
-                ],
-                exortacao: "A missão de anunciar o Evangelho continua. Não pense que somente pastores ou missionários podem servir nessa tarefa. Comece pelas pessoas que estão próximas de você: familiares, amigos, colegas e vizinhos. Ore, conheça mais a Palavra de Deus e esteja disposto a falar de Jesus quando surgir uma oportunidade.",
-                reflexao: "Jesus não apenas pregava, mas também preparava pessoas para continuarem aquilo que Ele havia iniciado. Da mesma maneira, cada cristão pode aprender, servir e ajudar outros a conhecerem a Palavra. A missão não depende apenas de estar em outro país; ela pode começar onde estamos.",
-                palavrasChave: [
-                    "📢 Anunciar: Tornar conhecida a mensagem do Evangelho.",
-                    "👣 Enviar: Colocar pessoas à disposição para cumprir uma missão.",
-                    "🌱 Discipular: Ensinar e ajudar alguém a crescer no conhecimento e na prática da fé cristã."
-                ]
-            }
-        ]
-    },
+            topicos: [
+                {
+                    titulo: "🌎 1. ANUNCIANDO O EVANGELHO A TODAS AS PESSOAS",
+                    texto: "Jesus ordenou aos seus discípulos: \"Ide por todo o mundo, pregai o evangelho a toda criatura\" (Marcos 16.15). Essa ordem mostra que o Evangelho não deve ficar restrito a um pequeno grupo de pessoas. A mensagem de salvação precisa ser anunciada a todos, independentemente de onde vivem ou de sua condição. Missões significa levar a mensagem de Jesus para pessoas que ainda não conhecem o Evangelho. Alguns são chamados por Deus para viajar e anunciar Cristo em outros lugares, enquanto outros participam da missão onde estão, falando de Jesus aos familiares, amigos, colegas de escola e pessoas da comunidade. Como pré-adolescentes, vocês também podem participar da missão, falando de Jesus, convidando alguém para a igreja, orando pelos missionários e demonstrando o amor de Cristo por meio de suas atitudes.",
+                    pontoPrincipal: "O Evangelho deve ser anunciado a todas as pessoas, e cada cristão pode participar dessa missão.",
+                    versiculos: [
+                        {
+                            referencia: "Marcos 16.15",
+                            texto: "E disse-lhes: Ide por todo o mundo, pregai o evangelho a toda criatura.",
+                            pontoPrincipal: "Jesus ordenou que seus seguidores levassem o Evangelho a todas as pessoas."
+                        },
+                        {
+                            referencia: "Romanos 10.14",
+                            texto: "Como, pois, invocarão aquele em quem não creram? E como crerão naquele de quem não ouviram? E como ouvirão, se não há quem pregue?",
+                            pontoPrincipal: "Para que as pessoas conheçam a Cristo, é necessário que alguém esteja disposto a anunciar o Evangelho."
+                        }
+                    ],
+                    exortacao: "Não espere crescer ou viajar para começar a falar de Jesus. Comece onde Deus colocou você.",
+                    reflexao: "Existem pessoas perto de você que talvez ainda não conheçam verdadeiramente o amor de Deus. Você pode ser uma das pessoas que Deus usará para apresentar Jesus a elas.",
+                    palavrasChave: [
+                        "Evangelho: A boa notícia da salvação por meio de Jesus Cristo.",
+                        "Anunciar: Tornar conhecida a mensagem de Deus.",
+                        "Salvação: O livramento do pecado e a nova vida encontrada em Cristo."
+                    ]
+                },
+                {
+                    titulo: "🙏 2. COMO OUVIRÃO SE NÃO HÁ QUEM PREGUE?",
+                    texto: "Paulo escreveu aos Romanos fazendo uma pergunta importante: \"E como ouvirão, se não há quem pregue?\" (Romanos 10.14). Essa pergunta mostra que a mensagem do Evangelho precisa de pessoas dispostas a anunciá-la. A obra missionária necessita de trabalhadores. Existem pessoas que dedicam sua vida ao campo missionário, viajando para diferentes cidades, estados e países para anunciar Jesus. Mas os missionários precisam do apoio da igreja para realizar esse trabalho. Por isso, fazer Missões não significa somente viajar para longe. Podemos participar orando pelos missionários, contribuindo com ofertas, ajudando no envio de pessoas, evangelizando e servindo na igreja. Cada pessoa pode fazer sua parte.",
+                    pontoPrincipal: "A obra missionária precisa de pessoas dispostas a orar, contribuir, anunciar e servir.",
+                    versiculos: [
+                        {
+                            referencia: "Romanos 10.15",
+                            texto: "E como pregarão, se não forem enviados? como está escrito: Quão formosos os pés dos que anunciam a paz, dos que anunciam coisas boas!",
+                            pontoPrincipal: "Deus usa pessoas que são enviadas e preparadas para anunciar as Boas Novas."
+                        },
+                        {
+                            referencia: "Lucas 10.2",
+                            texto: "E dizia-lhes: A seara é realmente grande, mas os trabalhadores são poucos; rogai, pois, ao Senhor da seara que envie trabalhadores para a sua seara.",
+                            pontoPrincipal: "Existem muitas pessoas que precisam ouvir o Evangelho e são necessários trabalhadores dispostos a servir."
+                        }
+                    ],
+                    exortacao: "Ore pelos missionários e peça a Deus que levante mais trabalhadores para anunciar o Evangelho.",
+                    reflexao: "Mesmo que você não esteja em um campo missionário distante, suas orações, palavras, atitudes e contribuições podem ajudar outras pessoas a conhecerem Jesus.",
+                    palavrasChave: [
+                        "Oração: Conversar com Deus e interceder por pessoas e necessidades.",
+                        "Contribuição: Entregar recursos para ajudar na obra de Deus.",
+                        "Envio: Preparar e apoiar pessoas que irão anunciar o Evangelho em outros lugares."
+                    ]
+                },
+                {
+                    titulo: "🚀 3. É PRECISO ENVIAR PESSOAS QUE ANUNCIEM O EVANGELHO",
+                    texto: "A Bíblia mostra que Deus chama pessoas para realizar diferentes tarefas em sua obra. Jesus chamou seus discípulos, ensinou-os e depois os enviou para anunciar o Evangelho. Em Marcos 3.14, vemos que Jesus chamou os doze para que estivessem com Ele e os mandasse a pregar. Primeiro eles deveriam estar com Jesus; depois seriam enviados para cumprir a missão. Isso ensina que o trabalho missionário deve estar ligado a uma vida de comunhão com Cristo. Isaías também demonstrou disposição quando ouviu a voz do Senhor: \"Eis-me aqui, envia-me a mim\" (Isaías 6.8). Hoje, Deus continua chamando pessoas para servir. Alguns serão missionários, outros pastores, professores, evangelistas, líderes ou servos que atuarão em diferentes áreas. O importante é estar disponível para cumprir aquilo que Deus nos confiar.",
+                    pontoPrincipal: "Deus chama e envia pessoas dispostas a servi-lo e anunciar o Evangelho.",
+                    versiculos: [
+                        {
+                            referencia: "Marcos 3.14",
+                            texto: "E nomeou doze para que estivessem com ele e os mandasse a pregar.",
+                            pontoPrincipal: "A missão começa com comunhão com Jesus e disposição para servir."
+                        },
+                        {
+                            referencia: "Isaías 6.8",
+                            texto: "Depois disto ouvi a voz do Senhor, que dizia: A quem enviarei, e quem há de ir por nós? Então disse eu: Eis-me aqui, envia-me a mim.",
+                            pontoPrincipal: "Deus procura pessoas dispostas a responder ao seu chamado."
+                        }
+                    ],
+                    exortacao: "Coloque seus dons, seu tempo e sua disposição nas mãos de Deus e esteja pronto para servir.",
+                    reflexao: "Deus pode usar sua vida agora. Não pense que você é pequeno demais para participar da obra missionária. Comece servindo onde você está.",
+                    palavrasChave: [
+                        "Chamado: Convite de Deus para realizar uma tarefa em sua obra.",
+                        "Envio: Disposição para ir e cumprir a missão recebida.",
+                        "Disponibilidade: Estar pronto para obedecer e servir ao Senhor."
+                    ]
+                }
+            ]
+        },
 
     conclusao: "Por fim, vale dizer que a igreja dos dias atuais tem a responsabilidade de continuar a missão para a qual o Senhor chamou os seus apóstolos. E você, caro(a) pré-adolescente, também faz parte dessa igreja. Oremos para que o Senhor acenda a chama de Missões em cada coração.",
 
