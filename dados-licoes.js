@@ -4026,7 +4026,105 @@ const licoes = {
                     resposta: "Aprendemos que a obra de Deus é realizada por meio da cooperação de pessoas diferentes, homens e mulheres, que usam seus dons, recursos, profissão, casa e disposição para servir ao Senhor e contribuir para o avanço do Evangelho."
                 }
             ]
-        }
+        },
+        "13": {
+            numero: "Lição 13",
+            titulo: "A Partida e o Legado de Paulo",
+
+            textoPrincipal: "“Combati o bom combate, acabei a carreira, guardei a fé.” — 2 Timóteo 4.7",
+
+            pontoPrincipal: "A vida de Paulo nos ensina a permanecer fiéis a Cristo e deixar um legado de fé, serviço e dedicação ao Evangelho.",
+
+            palavraChave: "LEGADO",
+
+            leituraBiblica: "2 Timóteo 4.6-8, 16-18",
+
+            perguntaGancho: "🎯 Quando chegar o momento de olhar para trás e lembrar da sua caminhada, que marcas de fé você gostaria de ter deixado na vida das pessoas?",
+
+            curiosidade: "💡 Mesmo próximo do fim de sua vida, Paulo permaneceu firme em sua missão. Suas cartas continuaram ensinando, encorajando e orientando a Igreja, mostrando que o verdadeiro legado de um cristão pode continuar influenciando outras pessoas depois de sua partida.",
+
+            objetivos: [
+                "📖 EXPLICAR o que aconteceu com Paulo depois do período narrado no livro de Atos;",
+                "✉️ ENFATIZAR a importância das cartas de Paulo para a comunicação e edificação das igrejas;",
+                "🌱 MOSTRAR que a vida de Paulo deixou um legado de fé, ensino, serviço e fidelidade a Cristo."
+            ],
+
+            introducao: "Depois de acompanharmos as viagens missionárias, as prisões e os desafios enfrentados pelo apóstolo Paulo, chegamos à última etapa de sua caminhada. O livro de Atos termina mostrando Paulo em Roma, anunciando o Reino de Deus mesmo estando preso. Suas cartas ajudam a compreender parte de sua trajetória final e revelam o cuidado que ele continuou demonstrando pelas igrejas e pelos seus cooperadores. Paulo sabia que sua partida estava próxima, mas permaneceu firme até o fim. Seu maior legado não foi apenas aquilo que realizou, mas a fé em Cristo que viveu, ensinou e transmitiu às próximas gerações.",
+
+            horaAprender: {
+                titulo: "📖 HORA DE APRENDER",
+                secoes: [
+                    {
+                        titulo: "🔥 1 — A PARTIDA DE PAULO",
+                        introducao: "Paulo compreendeu que sua caminhada terrena estava chegando ao fim, mas enfrentou esse momento com confiança no Senhor.",
+                        topicos: [
+                            {
+                                titulo: "🔥 1.1 Uma carreira concluída",
+                                texto: "Paulo comparou sua trajetória cristã a uma carreira que precisava ser concluída com fidelidade. Ele não estava celebrando uma vida sem dificuldades, mas uma caminhada na qual permaneceu firme apesar das perseguições, prisões e sofrimentos.",
+                                pontoPrincipal: "📌 Ponto principal: A fidelidade a Deus deve permanecer firme até o final da caminhada.",
+                                versiculos: [
+                                    { referencia: "2 Timóteo 4.7", texto: "Combati o bom combate, acabei a carreira, guardei a fé.", explicacao: "Paulo demonstrou satisfação por ter permanecido fiel ao Senhor até o fim." },
+                                    { referencia: "Filipenses 3.14", texto: "Prossigo para o alvo, pelo prêmio da soberana vocação de Deus em Cristo Jesus.", explicacao: "A vida cristã exige perseverança e foco no propósito de Deus." }
+                                ],
+                                exortacao: "📣 Exortação prática: Não desista da caminhada cristã quando surgirem dificuldades. Permaneça firme em Cristo.",
+                                reflexao: "💭 Reflexão: O que você está fazendo hoje para permanecer fiel a Jesus até o fim?"
+                            },
+                            {
+                                titulo: "🔥 1.2 Paulo conservou a fé",
+                                texto: "Mesmo diante da proximidade da morte, Paulo declarou que havia guardado a fé. Ele não permitiu que as dificuldades, perseguições ou prisões apagassem sua confiança em Cristo.",
+                                pontoPrincipal: "📌 Ponto principal: Guardar a fé significa permanecer fiel a Cristo mesmo diante das dificuldades.",
+                                versiculos: [
+                                    { referencia: "2 Timóteo 4.8", texto: "Desde agora, a coroa da justiça me está guardada, a qual o Senhor, justo juiz, me dará naquele dia; e não somente a mim, mas também a todos os que amarem a sua vinda.", explicacao: "Paulo tinha esperança na recompensa que o Senhor preparou para os que permanecem fiéis." },
+                                    { referencia: "Apocalipse 2.10", texto: "Sê fiel até à morte, e dar-te-ei a coroa da vida.", explicacao: "A Palavra de Deus chama os cristãos a permanecerem fiéis até o fim." }
+                                ],
+                                exortacao: "📣 Exortação prática: Proteja sua fé por meio da oração, da Palavra de Deus e de uma vida de comunhão com Cristo.",
+                                reflexao: "💭 Reflexão: Sua fé permanece firme quando você enfrenta problemas?"
+                            }
+                        ]
+                    },
+                    {
+                        titulo: "📖 2 — O LEGADO DE PAULO",
+                        introducao: "Paulo deixou marcas profundas na Igreja por meio de sua pregação, suas cartas, seu discipulado e seu exemplo de vida.",
+                        topicos: [
+                            {
+                                titulo: "🔥 2.1 As cartas e o ensino",
+                                texto: "As cartas de Paulo foram importantes instrumentos para ensinar, corrigir, orientar e encorajar as igrejas. Mesmo estando distante, ele continuou cuidando dos irmãos por meio de seus escritos.",
+                                pontoPrincipal: "📌 Ponto principal: O ensino fiel da Palavra pode alcançar pessoas mesmo quando estamos longe delas.",
+                                versiculos: [
+                                    { referencia: "2 Timóteo 3.16", texto: "Toda a Escritura é divinamente inspirada, e proveitosa para ensinar, para redarguir, para corrigir, para instruir em justiça.", explicacao: "A Palavra de Deus possui autoridade para ensinar e orientar o povo do Senhor." },
+                                    { referencia: "Romanos 15.4", texto: "Porque tudo que dantes foi escrito para nosso ensino foi escrito, para que pela paciência e consolação das Escrituras tenhamos esperança.", explicacao: "Os ensinamentos registrados nas Escrituras continuam edificando gerações." }
+                                ],
+                                exortacao: "📣 Exortação prática: Valorize a Bíblia e compartilhe seus ensinamentos com outras pessoas.",
+                                reflexao: "💭 Reflexão: Que ensinamento bíblico você poderia transmitir a alguém nesta semana?"
+                            },
+                            {
+                                titulo: "🔥 2.2 Um legado que continua",
+                                texto: "Paulo formou cooperadores, ensinou novos convertidos e fortaleceu igrejas. Seu trabalho não terminou com sua partida, porque aquilo que ele ensinou continuou sendo transmitido por outras pessoas.",
+                                pontoPrincipal: "📌 Ponto principal: Um verdadeiro legado cristão ajuda outras pessoas a continuarem servindo a Deus.",
+                                versiculos: [
+                                    { referencia: "2 Timóteo 2.2", texto: "E o que de mim, entre muitas testemunhas, ouviste, confia-o a homens fiéis, que sejam idôneos para também ensinarem os outros.", explicacao: "Paulo ensinou Timóteo a transmitir o conhecimento recebido a outras pessoas fiéis." },
+                                    { referencia: "Mateus 5.16", texto: "Assim resplandeça a vossa luz diante dos homens, para que vejam as vossas boas obras e glorifiquem a vosso Pai, que está nos céus.", explicacao: "Nossa vida deve apontar para Deus por meio do testemunho e das boas obras." }
+                                ],
+                                exortacao: "📣 Exortação prática: Viva de maneira que sua fé incentive outras pessoas a se aproximarem de Cristo.",
+                                reflexao: "💭 Reflexão: Que marca de fé você deseja deixar na sua família, na igreja e entre seus amigos?"
+                            }
+                        ]
+                    }
+                ]
+            },
+
+            conclusao: "A partida de Paulo não representou o fim de sua influência. Sua vida, seus ensinamentos, suas cartas e seu exemplo continuaram fortalecendo a Igreja. Ele terminou sua carreira guardando a fé e deixou um legado que atravessou gerações. Nós também somos chamados a viver para Cristo, permanecer fiéis e deixar marcas que apontem para Jesus.",
+
+            perguntas: [
+                { nivel: "🟢 Fácil", pergunta: "Qual foi uma das últimas declarações de Paulo sobre sua caminhada?", resposta: "Ele declarou que combateu o bom combate, terminou a carreira e guardou a fé." },
+                { nivel: "🟡 Média", pergunta: "Por que as cartas de Paulo foram importantes para as igrejas?", resposta: "Porque serviram para ensinar, corrigir, orientar, encorajar e fortalecer os cristãos." },
+                { nivel: "🔴 Difícil", pergunta: "O que podemos aprender com a maneira como Paulo enfrentou o final de sua vida?", resposta: "Que devemos permanecer fiéis a Cristo mesmo diante das dificuldades e confiar na recompensa que Deus preparou para os que perseveram." },
+                { nivel: "🔴 Difícil", pergunta: "Como Paulo conseguiu deixar um legado que continuou depois de sua partida?", resposta: "Por meio de sua vida de fidelidade, de suas cartas, do ensino da Palavra, da formação de cooperadores e do fortalecimento das igrejas." },
+                { nivel: "🔴 Difícil", pergunta: "Como um adolescente pode começar a construir um legado cristão?", resposta: "Vivendo de acordo com a Palavra de Deus, servindo ao Senhor, tratando as pessoas com amor, testemunhando de Cristo e incentivando outros a seguirem a Jesus." }
+            ]
+        },
+
+
         },
 
 },
