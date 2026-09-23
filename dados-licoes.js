@@ -4027,102 +4027,262 @@ const licoes = {
                 }
             ]
         },
-        "13": {
-            numero: "Lição 13",
-            titulo: "A Partida e o Legado de Paulo",
-
-            textoPrincipal: "“Combati o bom combate, acabei a carreira, guardei a fé.” — 2 Timóteo 4.7",
-
-            pontoPrincipal: "A vida de Paulo nos ensina a permanecer fiéis a Cristo e deixar um legado de fé, serviço e dedicação ao Evangelho.",
-
-            palavraChave: "LEGADO",
-
-            leituraBiblica: "2 Timóteo 4.6-8, 16-18",
-
-            perguntaGancho: "🎯 Quando chegar o momento de olhar para trás e lembrar da sua caminhada, que marcas de fé você gostaria de ter deixado na vida das pessoas?",
-
-            curiosidade: "💡 Mesmo próximo do fim de sua vida, Paulo permaneceu firme em sua missão. Suas cartas continuaram ensinando, encorajando e orientando a Igreja, mostrando que o verdadeiro legado de um cristão pode continuar influenciando outras pessoas depois de sua partida.",
-
-            objetivos: [
-                "📖 EXPLICAR o que aconteceu com Paulo depois do período narrado no livro de Atos;",
-                "✉️ ENFATIZAR a importância das cartas de Paulo para a comunicação e edificação das igrejas;",
-                "🌱 MOSTRAR que a vida de Paulo deixou um legado de fé, ensino, serviço e fidelidade a Cristo."
-            ],
-
-            introducao: "Depois de acompanharmos as viagens missionárias, as prisões e os desafios enfrentados pelo apóstolo Paulo, chegamos à última etapa de sua caminhada. O livro de Atos termina mostrando Paulo em Roma, anunciando o Reino de Deus mesmo estando preso. Suas cartas ajudam a compreender parte de sua trajetória final e revelam o cuidado que ele continuou demonstrando pelas igrejas e pelos seus cooperadores. Paulo sabia que sua partida estava próxima, mas permaneceu firme até o fim. Seu maior legado não foi apenas aquilo que realizou, mas a fé em Cristo que viveu, ensinou e transmitiu às próximas gerações.",
-
-            horaAprender: {
-                titulo: "📖 HORA DE APRENDER",
-                secoes: [
-                    {
-                        titulo: "🔥 1 — A PARTIDA DE PAULO",
-                        introducao: "Paulo compreendeu que sua caminhada terrena estava chegando ao fim, mas enfrentou esse momento com confiança no Senhor.",
-                        topicos: [
-                            {
-                                titulo: "🔥 1.1 Uma carreira concluída",
-                                texto: "Paulo comparou sua trajetória cristã a uma carreira que precisava ser concluída com fidelidade. Ele não estava celebrando uma vida sem dificuldades, mas uma caminhada na qual permaneceu firme apesar das perseguições, prisões e sofrimentos.",
-                                pontoPrincipal: "📌 Ponto principal: A fidelidade a Deus deve permanecer firme até o final da caminhada.",
-                                versiculos: [
-                                    { referencia: "2 Timóteo 4.7", texto: "Combati o bom combate, acabei a carreira, guardei a fé.", explicacao: "Paulo demonstrou satisfação por ter permanecido fiel ao Senhor até o fim." },
-                                    { referencia: "Filipenses 3.14", texto: "Prossigo para o alvo, pelo prêmio da soberana vocação de Deus em Cristo Jesus.", explicacao: "A vida cristã exige perseverança e foco no propósito de Deus." }
-                                ],
-                                exortacao: "📣 Exortação prática: Não desista da caminhada cristã quando surgirem dificuldades. Permaneça firme em Cristo.",
-                                reflexao: "💭 Reflexão: O que você está fazendo hoje para permanecer fiel a Jesus até o fim?"
-                            },
-                            {
-                                titulo: "🔥 1.2 Paulo conservou a fé",
-                                texto: "Mesmo diante da proximidade da morte, Paulo declarou que havia guardado a fé. Ele não permitiu que as dificuldades, perseguições ou prisões apagassem sua confiança em Cristo.",
-                                pontoPrincipal: "📌 Ponto principal: Guardar a fé significa permanecer fiel a Cristo mesmo diante das dificuldades.",
-                                versiculos: [
-                                    { referencia: "2 Timóteo 4.8", texto: "Desde agora, a coroa da justiça me está guardada, a qual o Senhor, justo juiz, me dará naquele dia; e não somente a mim, mas também a todos os que amarem a sua vinda.", explicacao: "Paulo tinha esperança na recompensa que o Senhor preparou para os que permanecem fiéis." },
-                                    { referencia: "Apocalipse 2.10", texto: "Sê fiel até à morte, e dar-te-ei a coroa da vida.", explicacao: "A Palavra de Deus chama os cristãos a permanecerem fiéis até o fim." }
-                                ],
-                                exortacao: "📣 Exortação prática: Proteja sua fé por meio da oração, da Palavra de Deus e de uma vida de comunhão com Cristo.",
-                                reflexao: "💭 Reflexão: Sua fé permanece firme quando você enfrenta problemas?"
-                            }
-                        ]
-                    },
-                    {
-                        titulo: "📖 2 — O LEGADO DE PAULO",
-                        introducao: "Paulo deixou marcas profundas na Igreja por meio de sua pregação, suas cartas, seu discipulado e seu exemplo de vida.",
-                        topicos: [
-                            {
-                                titulo: "🔥 2.1 As cartas e o ensino",
-                                texto: "As cartas de Paulo foram importantes instrumentos para ensinar, corrigir, orientar e encorajar as igrejas. Mesmo estando distante, ele continuou cuidando dos irmãos por meio de seus escritos.",
-                                pontoPrincipal: "📌 Ponto principal: O ensino fiel da Palavra pode alcançar pessoas mesmo quando estamos longe delas.",
-                                versiculos: [
-                                    { referencia: "2 Timóteo 3.16", texto: "Toda a Escritura é divinamente inspirada, e proveitosa para ensinar, para redarguir, para corrigir, para instruir em justiça.", explicacao: "A Palavra de Deus possui autoridade para ensinar e orientar o povo do Senhor." },
-                                    { referencia: "Romanos 15.4", texto: "Porque tudo que dantes foi escrito para nosso ensino foi escrito, para que pela paciência e consolação das Escrituras tenhamos esperança.", explicacao: "Os ensinamentos registrados nas Escrituras continuam edificando gerações." }
-                                ],
-                                exortacao: "📣 Exortação prática: Valorize a Bíblia e compartilhe seus ensinamentos com outras pessoas.",
-                                reflexao: "💭 Reflexão: Que ensinamento bíblico você poderia transmitir a alguém nesta semana?"
-                            },
-                            {
-                                titulo: "🔥 2.2 Um legado que continua",
-                                texto: "Paulo formou cooperadores, ensinou novos convertidos e fortaleceu igrejas. Seu trabalho não terminou com sua partida, porque aquilo que ele ensinou continuou sendo transmitido por outras pessoas.",
-                                pontoPrincipal: "📌 Ponto principal: Um verdadeiro legado cristão ajuda outras pessoas a continuarem servindo a Deus.",
-                                versiculos: [
-                                    { referencia: "2 Timóteo 2.2", texto: "E o que de mim, entre muitas testemunhas, ouviste, confia-o a homens fiéis, que sejam idôneos para também ensinarem os outros.", explicacao: "Paulo ensinou Timóteo a transmitir o conhecimento recebido a outras pessoas fiéis." },
-                                    { referencia: "Mateus 5.16", texto: "Assim resplandeça a vossa luz diante dos homens, para que vejam as vossas boas obras e glorifiquem a vosso Pai, que está nos céus.", explicacao: "Nossa vida deve apontar para Deus por meio do testemunho e das boas obras." }
-                                ],
-                                exortacao: "📣 Exortação prática: Viva de maneira que sua fé incentive outras pessoas a se aproximarem de Cristo.",
-                                reflexao: "💭 Reflexão: Que marca de fé você deseja deixar na sua família, na igreja e entre seus amigos?"
-                            }
-                        ]
-                    }
-                ]
+        "13":     {
+        "numero": "Lição 13",
+        "titulo": "A PARTIDA E O LEGADO DE PAULO",
+        "textoPrincipal": "“Fiz o melhor que pude na corrida, cheguei até o fim, conservei a fé.” — 2 Timóteo 4.7",
+        "pontoPrincipal": "Paulo terminou sua caminhada permanecendo fiel a Cristo, deixando um legado de perseverança, serviço e fé.",
+        "palavraChave": "LEGADO",
+        "leituraBiblica": "Filipenses 4.10-20",
+        "perguntaGancho": "🎯 Se você soubesse que sua caminhada estava chegando ao fim, o que gostaria de deixar como legado para as pessoas que convivem com você?",
+        "curiosidade": "💡 Paulo não deixou apenas cartas e ensinamentos; sua vida também se tornou um exemplo de perseverança, serviço, fé e fidelidade a Cristo. Mesmo enfrentando prisões, perseguições e dificuldades, ele continuou cumprindo sua missão até o fim.",
+        "devocional": [
+            {
+                "dia": "Segunda",
+                "tema": "Um legado de fidelidade",
+                "versiculo": "“Encomendando-vos a Deus e à palavra da sua graça.” — Atos 20.32",
+                "texto": "Paulo sabia que sua caminhada entre os irmãos estava chegando ao fim, mas confiava que Deus continuaria cuidando deles. Ele não colocou sua esperança em sua própria presença, mas no Senhor e na Palavra da sua graça. Sua despedida revelou amor, humildade e compromisso com aqueles que havia servido. Seu exemplo nos ensina que um verdadeiro legado não depende apenas do que fazemos, mas também da fé que deixamos nos corações das pessoas.",
+                "pontos": [
+                    "🙏 Sirva com sinceridade enquanto Deus lhe der oportunidade.",
+                    "🕊️ Confie que Deus continuará cuidando daqueles que você ama.",
+                    "✨ Permita que sua vida aponte para Cristo, mesmo quando você não estiver presente."
+                ],
+                "advertencia": "⚠️ Não permita que o apego às pessoas substitua sua confiança no cuidado de Deus.",
+                "aplicacao": "💭 Procure hoje encorajar alguém com uma palavra baseada na Palavra de Deus e demonstre, por atitudes, a fé que você professa.",
+                "final": "✨ Um legado que aponta para Deus continua falando mesmo depois da despedida."
             },
-
-            conclusao: "A partida de Paulo não representou o fim de sua influência. Sua vida, seus ensinamentos, suas cartas e seu exemplo continuaram fortalecendo a Igreja. Ele terminou sua carreira guardando a fé e deixou um legado que atravessou gerações. Nós também somos chamados a viver para Cristo, permanecer fiéis e deixar marcas que apontem para Jesus.",
-
-            perguntas: [
-                { nivel: "🟢 Fácil", pergunta: "Qual foi uma das últimas declarações de Paulo sobre sua caminhada?", resposta: "Ele declarou que combateu o bom combate, terminou a carreira e guardou a fé." },
-                { nivel: "🟡 Média", pergunta: "Por que as cartas de Paulo foram importantes para as igrejas?", resposta: "Porque serviram para ensinar, corrigir, orientar, encorajar e fortalecer os cristãos." },
-                { nivel: "🔴 Difícil", pergunta: "O que podemos aprender com a maneira como Paulo enfrentou o final de sua vida?", resposta: "Que devemos permanecer fiéis a Cristo mesmo diante das dificuldades e confiar na recompensa que Deus preparou para os que perseveram." },
-                { nivel: "🔴 Difícil", pergunta: "Como Paulo conseguiu deixar um legado que continuou depois de sua partida?", resposta: "Por meio de sua vida de fidelidade, de suas cartas, do ensino da Palavra, da formação de cooperadores e do fortalecimento das igrejas." },
-                { nivel: "🔴 Difícil", pergunta: "Como um adolescente pode começar a construir um legado cristão?", resposta: "Vivendo de acordo com a Palavra de Deus, servindo ao Senhor, tratando as pessoas com amor, testemunhando de Cristo e incentivando outros a seguirem a Jesus." }
+            {
+                "dia": "Terça",
+                "tema": "A missão continua",
+                "versiculo": "“Pregando o Reino de Deus e ensinando com toda a liberdade.” — Atos 28.31",
+                "texto": "Mesmo preso em Roma, Paulo não considerou suas limitações como motivo para abandonar sua missão. Durante dois anos, ele continuou anunciando o Reino de Deus e ensinando sobre Jesus Cristo. Sua situação não impediu que a mensagem avançasse. Isso nos lembra que nem sempre podemos escolher as circunstâncias, mas podemos escolher permanecer fiéis àquilo que Deus nos confiou.",
+                "pontos": [
+                    "🙏 Não permita que dificuldades silenciem seu testemunho.",
+                    "📖 Continue aprendendo e ensinando a Palavra de Deus.",
+                    "🔥 Use as oportunidades que Deus colocar diante de você para falar de Cristo."
+                ],
+                "advertencia": "⚠️ Não espere condições perfeitas para cumprir aquilo que Deus colocou em suas mãos.",
+                "aplicacao": "💭 Identifique uma oportunidade hoje para compartilhar sua fé, seja por uma palavra, uma atitude ou um testemunho.",
+                "final": "✨ Quando permanecemos fiéis, Deus pode transformar limitações em oportunidades."
+            },
+            {
+                "dia": "Quarta",
+                "tema": "Brilhando no mundo",
+                "versiculo": "“Para que sejais irrepreensíveis e sinceros, filhos de Deus inculpáveis no meio de uma geração perversa.” — Filipenses 2.15",
+                "texto": "Paulo orientou os cristãos a viverem de maneira diferente em meio a uma sociedade marcada pelo pecado. A vida do crente deve refletir a luz de Cristo por meio de atitudes sinceras e de uma conduta fiel. Ele também mostrou que essa maneira de viver fortalece o testemunho do Evangelho. Nossa fé não deve aparecer apenas nas palavras, mas também na forma como vivemos diariamente.",
+                "pontos": [
+                    "✨ Viva de maneira coerente com aquilo que você crê.",
+                    "💡 Seja uma influência positiva onde Deus colocou você.",
+                    "🙏 Permaneça firme mesmo quando outros escolherem caminhos diferentes."
+                ],
+                "advertencia": "⚠️ Cuidado para não perder seu testemunho tentando se adaptar aos padrões errados ao seu redor.",
+                "aplicacao": "💭 Escolha hoje uma atitude que demonstre claramente os valores de Cristo em sua família, trabalho ou comunidade.",
+                "final": "✨ Quem vive na luz de Cristo deixa marcas de esperança por onde passa."
+            },
+            {
+                "dia": "Quinta",
+                "tema": "Amigos que permanecem",
+                "versiculo": "“Procura vir ter comigo depressa.” — 2 Timóteo 4.9",
+                "texto": "Paulo estava chegando ao final de sua caminhada e desejava a companhia de pessoas que fizeram parte de sua missão. Ao mencionar diferentes colaboradores, percebemos que ninguém cumpre sozinho uma grande tarefa no Reino de Deus. Relacionamentos, amizade e cooperação fizeram parte da caminhada de Paulo. Isso também nos ensina a valorizar pessoas que caminham conosco e a cultivar vínculos baseados na fé.",
+                "pontos": [
+                    "🤝 Valorize aqueles que permanecem ao seu lado na caminhada.",
+                    "❤️ Demonstre gratidão às pessoas que cooperam com você.",
+                    "🕊️ Aprenda também a perdoar e restaurar relacionamentos quando necessário."
+                ],
+                "advertencia": "⚠️ Não trate como descartáveis as pessoas que Deus colocou para caminhar ao seu lado.",
+                "aplicacao": "💭 Procure hoje alguém que tenha contribuído para sua caminhada e demonstre sua gratidão por essa pessoa.",
+                "final": "✨ Grandes jornadas ficam mais significativas quando compartilhadas com pessoas de fé."
+            },
+            {
+                "dia": "Sexta",
+                "tema": "O Senhor esteve comigo",
+                "versiculo": "“Mas o Senhor assistiu-me e fortaleceu-me.” — 2 Timóteo 4.17",
+                "texto": "Paulo reconheceu que, em momentos difíceis, não esteve abandonado. Mesmo quando algumas pessoas não permaneceram ao seu lado, o Senhor esteve presente e lhe deu forças para continuar anunciando a mensagem. Sua confiança não estava na ausência de problemas, mas na presença de Deus em meio às dificuldades. Essa verdade continua sendo um grande consolo para quem enfrenta dias de solidão, oposição ou incerteza.",
+                "pontos": [
+                    "🙏 Lembre-se de que Deus permanece presente nas dificuldades.",
+                    "💪 Busque no Senhor a força que você precisa para continuar.",
+                    "📖 Continue cumprindo sua responsabilidade diante de Deus."
+                ],
+                "advertencia": "⚠️ Não interprete a ausência de pessoas como ausência de Deus.",
+                "aplicacao": "💭 Quando enfrentar um momento difícil hoje, ore antes de desanimar e entregue ao Senhor aquilo que está pesando em seu coração.",
+                "final": "✨ Quando as forças diminuem, a presença do Senhor continua sendo suficiente."
+            },
+            {
+                "dia": "Sábado",
+                "tema": "Fortalecei-vos no Senhor",
+                "versiculo": "“Fortalecei-vos no Senhor e na força do seu poder.” — Efésios 6.10",
+                "texto": "Paulo encerra sua orientação chamando os cristãos a encontrarem força no Senhor. A vida cristã exige perseverança, vigilância e dependência de Deus. Não somos chamados a confiar apenas em nossa capacidade, mas a permanecer firmes no poder que vem do Senhor. O legado de Paulo aponta para uma vida sustentada pela graça e pela força de Deus até o fim.",
+                "pontos": [
+                    "🙏 Reconheça diariamente sua dependência do Senhor.",
+                    "🛡️ Permaneça firme diante das dificuldades espirituais.",
+                    "💪 Busque em Deus força para continuar fiel."
+                ],
+                "advertencia": "⚠️ Não tente enfrentar sozinho batalhas que exigem dependência de Deus.",
+                "aplicacao": "💭 Separe um momento hoje para orar, fortalecer sua comunhão com Deus e entregar a Ele suas lutas.",
+                "final": "✨ A força para permanecer de pé vem daquele que nunca abandona os seus."
+            }
+        ],
+        "devocionalTitulo": "🙏 DEVOCIONAL",
+        "mensagem": {
+            "titulo": "📖 A MENSAGEM",
+            "texto": "“Fiz o melhor que pude na corrida, cheguei até o fim, conservei a fé.” 2 Timóteo 4.7",
+            "pontoPrincipal": "Paulo terminou sua caminhada permanecendo fiel a Cristo, deixando um legado de perseverança, serviço e fé."
+        },
+        "objetivos": [
+            "📖 EXPLICAR o que aconteceu com Paulo após o seu julgamento;",
+            "✉️ ENFATIZAR a importância da carta como meio de comunicação;",
+            "📚 APRESENTAR uma visão panorâmica das cartas paulinas."
+        ],
+        "introducao": "Depois de acompanharmos tantas viagens do apóstolo Paulo até a sua prisão, veremos o que aconteceu com ele depois de Atos 28. As cartas que ele enviava, para se comunicar com as igrejas e seus amigos, nos mostram a trajetória final do Apóstolo. Além disso, elas tratam da aplicação dos ensinos de Jesus ao dia a dia das igrejas. Assim, nelas há mensagens para correção de algum comportamento errado, de ensino e de encorajamento.",
+        "vamosDescobrir": {
+            "titulo": "🔎 Vamos Descobrir",
+            "texto": "Depois de acompanharmos tantas viagens do apóstolo Paulo até a sua prisão, veremos o que aconteceu com ele depois de Atos 28. As cartas que ele enviava, para se comunicar com as igrejas e seus amigos, nos mostram a trajetória final do Apóstolo. Além disso, elas tratam da aplicação dos ensinos de Jesus ao dia a dia das igrejas. Assim, nelas há mensagens para correção de algum comportamento errado, de ensino e de encorajamento.",
+            "pontoPrincipal": "As cartas de Paulo mostram sua trajetória final e orientam as igrejas por meio de correção, ensino e encorajamento."
+        },
+        "horaAprender": {
+            "titulo": "📚 HORA DE APRENDER",
+            "introducao": "O apóstolo Paulo deixou um grande legado. Através do seu ministério, ele influenciou a formação e o desenvolvimento da organização das igrejas. Ele estabeleceu as bases da teologia cristã, formou líderes, demonstrou como pregar o Evangelho e como viver a vida cristã.",
+            "destaque": "📜 As cartas paulinas compõem o Novo Testamento e transmitem uma poderosa mensagem para todos nós.",
+            "pontoPrincipal": "O legado de Paulo permanece por meio de seu ministério e das cartas que transmitem uma poderosa mensagem para todos nós.",
+            "secoes": [
+                {
+                    "titulo": "1 — O QUE ACONTECEU DEPOIS DE ATOS 28?",
+                    "texto": "As informações sobre a vida de Paulo, depois da sua prisão em Roma, estão nas cartas que escreveu.",
+                    "paragrafos": [
+                        "📍 Podemos identificar algumas localidades onde o Apóstolo esteve. São elas: Creta (Tt 1.5); Mileto (2 Tm 4.20); Éfeso (2 Tm 1.18; 4.12); Trôade (2 Tm 4.13); Filipos (1Tm 1.3) e Nicópolis (Tt 3.12). Até que ficou preso, pela segunda vez, em Roma (2 Tm 1.17). Depois disso, a Bíblia não relata, mas conta a tradição que o Apóstolo foi decapitado por volta de 68 d.C.",
+                        "🤝 Timóteo e Lucas foram cooperadores de Paulo até o fim (2 Tm 4.9, 11, 16). Em seus últimos meses de vida, sabemos que Paulo escreveu para Timóteo, pedindo que o visitasse na prisão o mais rápido possível. Provavelmente, porque o inverno estava chegando. Assim, ele pede que o rapaz leve sua capa e também os seus livros (2 Tm 4.13). Ao mesmo tempo, Paulo incentivava ao jovem obreiro que se mantivesse firme (1 Tm 4.12).",
+                        "🏃 As palavras que Paulo escreveu a Timóteo, um pouco antes de sua morte, comprovam que ele foi um homem que viveu para Deus: \"Fiz o melhor que pude na corrida, cheguei até o fim, conservei a fé\" (2 Tm 4.7) — belo exemplo que o Apóstolo deixou para seu discípulo."
+                    ],
+                    "pontoPrincipal": "Paulo permaneceu fiel a Deus até o fim de sua caminhada.",
+                    "versiculos": [
+                        {
+                            "referencia": "2 Timóteo 4.7",
+                            "texto": "“Combati o bom combate, acabei a carreira, guardei a fé.”",
+                            "pontoPrincipal": "Paulo permaneceu fiel até o fim."
+                        },
+                        {
+                            "referencia": "1 Timóteo 4.12",
+                            "texto": "“Ninguém despreze a tua mocidade; mas sê o exemplo dos fiéis, na palavra, no trato, no amor, no espírito, na fé, na pureza.”",
+                            "pontoPrincipal": "O cristão deve ser exemplo em sua maneira de viver."
+                        }
+                    ],
+                    "exortacao": "Permaneça firme em Deus mesmo diante das dificuldades. Assim como Paulo, procure terminar sua caminhada conservando a fé e deixando um exemplo que possa fortalecer outras pessoas.",
+                    "reflexao": "Nossa caminhada com Deus não deve ser medida apenas pelo começo, mas também pela maneira como permanecemos fiéis até o fim. Paulo enfrentou prisões e dificuldades, mas continuou servindo ao Senhor e encorajando outros.",
+                    "pontos": [
+                        "🏃 Paulo permaneceu firme até o final.",
+                        "🤝 Paulo continuou cuidando e orientando seus cooperadores.",
+                        "✝️ Paulo deixou um exemplo de fidelidade a Deus."
+                    ],
+                    "palavrasChave": [
+                        "📜 Cartas: Escritos utilizados por Paulo para ensinar, orientar e encorajar as igrejas e seus cooperadores.",
+                        "🏃 Perseverança: Permanência firme na caminhada, mesmo diante das dificuldades.",
+                        "✝️ Fidelidade: Compromisso constante com Deus e com a sua Palavra."
+                    ]
+                },
+                {
+                    "titulo": "2 — COMUNICAÇÃO: AS EPISTOLAS",
+                    "texto": "Paulo não só viajava bastante, como também escrevia muitas cartas. Era um meio de comunicação importante, para que ele mantivesse contato com as igrejas.",
+                    "paragrafos": [
+                        "📖 O conteúdo das cartas de Paulo era focado nos ensinos, que visavam explicações sobre quem é Deus, sobre a importância da morte e ressurreição de Jesus e de como deve ser a vida do cristão na igreja e na sociedade em geral.",
+                        "📜 As cartas do Novo Testamento foram escritas no idioma grego. Não existia folha de papel, então elas eram escritas em papiros ou pergaminhos. Aliás, você sabe o que esses materiais são? Papiro era a folha feita do miolo da planta egípcia aquosa. Pergaminho era uma folha feita do couro de animais.",
+                        "✍️ Muitas vezes a produção de uma carta contava com o trabalho dos escribas, ou amanuenses, que eram profissionais especialistas em escrever cartas ou documentos.",
+                        "📨 Naquela época, não existiam correios, como conhecemos hoje. Os viajantes eram \"os carteiros\" (mensageiros). Eles levavam as cartas para familiares, amigos ou parceiros de negócios. Quando o mensageiro chegava ao destino, ele seguia as orientações dadas pelo remetente, explicava as instruções extras, lia ou simplesmente entregava a carta.",
+                        "💬 A epístola (ou carta) tinha por objetivo substituir a presença da pessoa - remetente. Por isso, geralmente o tom é oral, como se fosse uma conversa.",
+                        "🤝 A Bíblia destaca alguns irmãos e irmãs que trabalharam como mensageiros das cartas paulinas: Febe (Rm 16.1,2), Tíquico (Ef 6.21,22; Cl 4.7-9), Onésimo (Fm 10,12, Cl 4.9).",
+                        "✍️ Também mostra que Tércio colaborou com escriba (Rm 16.22). Além disso, o Apóstolo Paulo também escreveu cartas de próprio punho (1Co 16.21; Gl 6.11; Cl 4.18; 2 Ts 3.17)."
+                    ],
+                    "pontoPrincipal": "As epístolas permitiram que Paulo ensinasse, orientasse e mantivesse comunhão com as igrejas.",
+                    "versiculos": [
+                        {
+                            "referencia": "Colossenses 4.16",
+                            "texto": "“E, quando esta epístola tiver sido lida entre vós, fazei que também o seja na igreja dos laodicenses, e a que veio de Laodiceia lede-a vós também.”",
+                            "pontoPrincipal": "As cartas eram compartilhadas entre as igrejas para transmitir seus ensinamentos."
+                        },
+                        {
+                            "referencia": "Colossenses 4.16",
+                            "texto": "“E, quando tiverdes lido esta epístola, fazei que também seja lida na igreja dos laodicenses, e vós, igualmente, lede a que vier de Laodiceia.”",
+                            "pontoPrincipal": "A mensagem escrita podia alcançar diferentes comunidades cristãs."
+                        }
+                    ],
+                    "exortacao": "Assim como Paulo utilizava os meios disponíveis para ensinar e encorajar os irmãos, devemos aproveitar as oportunidades que temos hoje para comunicar a Palavra de Deus com sabedoria, verdade e amor.",
+                    "reflexao": "As cartas aproximavam pessoas que estavam distantes e permitiam que o ensino continuasse mesmo na ausência de Paulo. Hoje também podemos usar nossas palavras, mensagens e atitudes para fortalecer a fé de outras pessoas.",
+                    "palavrasChave": [
+                        "📜 Epístola: Carta escrita para comunicar uma mensagem, orientação ou ensino.",
+                        "✍️ Escriba: Pessoa especializada em escrever cartas ou documentos.",
+                        "📨 Mensageiro: Pessoa responsável por levar uma carta ao seu destinatário."
+                    ]
+                },
+                {
+                    "titulo": "3 — AS CARTAS PAULINAS",
+                    "texto": "O Novo Testamento é composto por 27 livros. Desses, 13 são de autoria do Apóstolo Paulo. Trata-se das cartas escritas por ele. Vamos conhecer um pouco de cada uma delas?",
+                    "paragrafos": [
+                        "📖 Cartas para igrejas diversas",
+                        "✉️ Gálatas. Escrita provavelmente da Antioquia da Síria, para as igrejas na região da Galácia, entre 46 e 48, antes do Concílio de Jerusalém. Tema principal: liberdade cristã.",
+                        "✉️ 1 Tessalonicenses. Escrita para a igreja em Tessalônica, entre 52-53 d.C., durante o tempo em que esteve em Corinto. Tema principal: vida cristã e a volta de Cristo.",
+                        "✉️ 2 Tessalonicenses. Escrita um pouco depois de 1 Tessalonicenses, entre 52-53 d.C., quando Paulo ainda estava em Corinto. Tema principal: o Dia do Senhor.",
+                        "✝️ “Fiz o melhor que pude na corrida, cheguei até o fim, conservei a fé.”",
+                        "✉️ 1 Coríntios. Escrita para a igreja de Corinto, por volta de 55 d.C., quando Paulo estava em Éfeso. Tema principal: divisão e outros problemas.",
+                        "✉️ 2 Coríntios. Escrita em 56 d.C., quando ele estava na Macedônia. Tema principal: defesa do ministério de Paulo.",
+                        "✉️ Romanos. Escrita aos cristãos em Roma, quando o Apóstolo estava em Corinto em 58 d.C. (At 20.2, 3). Tema principal: a justificação pela fé.",
+                        "⛓️ Cartas da prisão",
+                        "Durante o período da sua primeira prisão em Roma, Paulo escreveu mais quatro cartas, que são conhecidas como \"Cartas da prisão\".",
+                        "📜 Colossenses. Escrita para a igreja de Colossos, entre 60 e 62 d.C. Tema principal: a supremacia de Cristo.",
+                        "📜 Efésios. Escrita entre 60 e 62 d.C. Tema principal: vida prática em Cristo.",
+                        "📜 Filemom. Escrita para Filemom, entre 60 e 62 d.C. Tema principal: perdão e amor.",
+                        "📜 Filipenses. Escrita entre 60 e 62 d.C., para a igreja de Filipos. Tema principal: a alegria no Senhor.",
+                        "👥 Cartas Pastorais",
+                        "Há também as \"Cartas Pastorais\". Essa é uma classificação para as três cartas pessoais que Paulo enviou duas para Timóteo e uma para Tito conteúdo é voltado para os pastores.",
+                        "📖 1 Timóteo. Escrita por volta de 63 d.C., para seu discípulo Timóteo. Tema principal: aconselhamento pastoral e modo de agir.",
+                        "📖 Tito. Escrita entre 63 e 67 d.C., para Tito. Tema principal: a conduta cristã.",
+                        "📖 2 Timóteo. Escrita entre 67 e 68 d.C., para Timóteo. Tema principal: bom combate."
+                    ],
+                    "pontoPrincipal": "As cartas paulinas apresentam ensinamentos sobre a fé, a vida cristã e o cuidado com as igrejas.",
+                    "versiculos": [
+                        {
+                            "referencia": "Romanos 1.17",
+                            "texto": "“Porque nele se descobre a justiça de Deus de fé em fé, como está escrito: Mas o justo viverá da fé.”",
+                            "pontoPrincipal": "A vida cristã deve estar fundamentada na fé."
+                        },
+                        {
+                            "referencia": "2 Timóteo 4.7",
+                            "texto": "“Combati o bom combate, acabei a carreira, guardei a fé.”",
+                            "pontoPrincipal": "Paulo permaneceu fiel a Deus até o fim."
+                        }
+                    ],
+                    "exortacao": "Conhecer as cartas de Paulo não deve ser apenas uma atividade de aprendizado. Devemos colocar seus ensinamentos em prática, vivendo a fé, buscando uma vida cristã coerente e permanecendo firmes na Palavra de Deus.",
+                    "reflexao": "As cartas paulinas foram escritas para situações reais das igrejas e dos cristãos. Seus ensinamentos continuam nos mostrando como viver a fé, enfrentar dificuldades, cuidar uns dos outros e permanecer firmes em Cristo.",
+                    "palavrasChave": [
+                        "📜 Epístolas: Cartas do Novo Testamento destinadas a ensinar, orientar e fortalecer os cristãos.",
+                        "⛓️ Prisão: Período em que Paulo escreveu cartas enquanto estava preso, incluindo as chamadas Cartas da Prisão.",
+                        "👥 Pastorais: Cartas pessoais de Paulo destinadas a Timóteo e Tito, com orientações para a vida e o trabalho ministerial."
+                    ]
+                }
             ]
         },
+        "conclusao": "✉️ As cartas foram ferramentas para a comunicação da fé cristã. Paulo fez bastante uso desse recurso para se comunicar com as igrejas que fundou. 📖 Era uma forma de ensinar e apoiar as igrejas, mesmo estando distante. 🙏 E ainda hoje, essas cartas nos ensinam muito.",
+        "perguntas": [
+            {
+                "pergunta": "🟢 Fácil: Quantas cartas do Novo Testamento são atribuídas ao apóstolo Paulo?",
+                "resposta": "Treze cartas."
+            },
+            {
+                "pergunta": "🟡 Média: Qual era a principal finalidade das cartas de Paulo para as igrejas?",
+                "resposta": "Ensinar, orientar, corrigir comportamentos e encorajar os cristãos, mantendo a comunicação mesmo à distância."
+            },
+            {
+                "pergunta": "🔴 Difícil: Quais são as quatro cartas conhecidas como “Cartas da Prisão”?",
+                "resposta": "Efésios, Filipenses, Colossenses e Filemom."
+            },
+            {
+                "pergunta": "🔴 Difícil: Quais são as três Cartas Pastorais e para quem foram enviadas?",
+                "resposta": "1 Timóteo e 2 Timóteo foram enviadas a Timóteo, e Tito foi enviada a Tito."
+            },
+            {
+                "pergunta": "🔴 Difícil: O que Paulo quis transmitir ao declarar: “Combati o bom combate, acabei a carreira, guardei a fé”?",
+                "resposta": "Que havia permanecido fiel a Cristo, perseverado em sua missão e conservado a fé até o final de sua caminhada."
+            }
+        ]
+    },
 
 
         },
