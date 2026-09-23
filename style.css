@@ -616,3 +616,94 @@ border-left: 5px solid;
         margin-bottom: 8px;
     }
 }
+/* ORGANIZAÇÃO VISUAL DO DESENVOLVIMENTO DAS LIÇÕES */
+.secao-aprender {
+    margin: 28px 0;
+    padding: 22px;
+    border-radius: 12px;
+    background: #ffffff;
+}
+
+.secao-aprender h4 {
+    margin: 0 0 18px;
+    padding-bottom: 10px;
+    border-bottom: 2px solid #C9A227;
+    line-height: 1.4;
+}
+
+.topico-aprender {
+    margin: 22px 0;
+    padding: 18px;
+    border-radius: 10px;
+    line-height: 1.7;
+}
+
+.topico-aprender h5 {
+    margin: 0 0 14px;
+    line-height: 1.5;
+}
+
+.topico-aprender p {
+    margin: 12px 0;
+}
+
+.ponto-principal-topico,
+.advertencia-topico,
+.aplicacao-pessoal-topico,
+.exortacao-topico,
+.reflexao-adolescentes {
+    display: block;
+    margin: 18px 0;
+    padding: 14px 16px;
+    line-height: 1.7;
+    border-radius: 8px;
+}
+
+.versiculos-topico {
+    margin: 20px 0;
+}
+
+.versiculos-topico h6,
+.lista-pontos h6,
+.lista-palavras h6 {
+    margin: 0 0 12px;
+    line-height: 1.5;
+}
+
+.versiculo {
+    margin: 14px 0;
+    padding: 12px 14px;
+    border-radius: 8px;
+}
+
+.versiculo-referencia {
+    margin-bottom: 8px !important;
+    font-weight: 700;
+}
+
+.versiculo-texto {
+    margin: 8px 0 !important;
+    line-height: 1.7;
+}
+
+.versiculo-explicacao {
+    margin: 8px 0 !important;
+    line-height: 1.7;
+}
+
+.lista-pontos,
+.lista-palavras {
+    margin: 20px 0;
+}
+
+.lista-pontos ul,
+.lista-palavras ul {
+    margin-top: 10px;
+    padding-left: 24px;
+}
+
+.lista-pontos li,
+.lista-palavras li {
+    margin: 8px 0;
+    line-height: 1.6;
+}
