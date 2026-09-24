@@ -5681,7 +5681,8 @@ conhecendoMaisDeDeus: {
 
     conhecendoMaisDeDeus: "Caro amigo(a) pré-adolescente! Estamos concluindo mais um trimestre de estudo da revista Lições Bíblicas Pré-adolescentes, e, para finalizarmos, o assunto que você estudará esta semana é Missões. Falar sobre Missões vai além do Evangelismo, assunto tratado na aula anterior. O trabalho de Missões envolve a ordem do Senhor Jesus aos seus discípulos para cumprir o “Ide”. Entretanto, a obra missionária trata-se de um trabalho de evangelização e discipulado mais específico organizado em lugares distantes. Deus chamou a igreja para fazer Missões e, para tanto, os crentes devem apoiar os missionários a fim de que a obra seja realizada de forma eficaz.",
 
-    desenvolvimento: {
+    desenvolvimento: [
+        {
             topicos: [
                 {
                     titulo: "🌎 1. ANUNCIANDO O EVANGELHO A TODAS AS PESSOAS",
@@ -5756,7 +5757,8 @@ conhecendoMaisDeDeus: {
                     ]
                 }
             ]
-        },
+        }
+    ],
 
     conclusao: "Por fim, vale dizer que a igreja dos dias atuais tem a responsabilidade de continuar a missão para a qual o Senhor chamou os seus apóstolos. E você, caro(a) pré-adolescente, também faz parte dessa igreja. Oremos para que o Senhor acenda a chama de Missões em cada coração.",
 
