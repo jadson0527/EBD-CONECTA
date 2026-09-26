@@ -1500,6 +1500,377 @@ const licoes = {
         },
 
         },
+    
+
+        "4": {
+      "1": {
+      "numero": "Lição 1",
+      "titulo": "Deuteronômio: o livro da Aliança",
+      "textoAureo": {
+            "versiculo": "“Eis aqui esta terra, eu a dei diante de vós; entrai e possuí a terra que o Senhor jurou a vossos pais, Abraão, Isaque e Jacó, que a daria a eles e à sua semente depois deles.”",
+            "referencia": "Deuteronômio 1.8",
+            "pontoPrincipal": "Deus cumpre suas promessas e chama seu povo a avançar pela fé e em obediência."
+      },
+      "verdadePratica": {
+            "texto": "A fidelidade a Deus e à sua Palavra dirige o crente a viver pela fé e alcançar as suas promessas.",
+            "pontoPrincipal": "A fidelidade a Deus e à sua Palavra nos conduz a viver pela fé diante das promessas divinas."
+      },
+      "palavraChave": "ALIANÇA",
+      "leituraBiblica": "Deuteronômio 1.1-8",
+      "perguntaGancho": "🎯 Você já recebeu uma promessa de Deus, mas precisou confiar e obedecer para avançar em direção a ela?",
+      "curiosidade": "💡 O nome Deuteronômio significa “segunda lei” ou “repetição da Lei”. O livro registra os discursos de Moisés nas campinas de Moabe, quando uma nova geração de israelitas estava prestes a entrar na Terra Prometida. Moisés relembra a Lei, chama o povo à fidelidade e reafirma a importância da aliança com Deus.",
+      "devocional": [
+            {
+                  "dia": "✨ Segunda-feira — A Palavra conduz",
+                  "versiculo": "📖 “Não se aparte da tua boca o livro desta Lei; antes, medita nele dia e noite.” — Josué 1.8",
+                  "texto": "A Palavra de Deus orienta nossas decisões e mostra o caminho que devemos seguir. Quando meditamos nela, aprendemos a confiar no Senhor e a obedecer aos seus mandamentos. A Palavra também nos ajuda a permanecer firmes diante das dificuldades. Quem deseja avançar na vontade de Deus precisa permitir que sua Palavra conduza cada passo.",
+                  "pontos": [
+                        "📖 A Palavra orienta nossas escolhas.",
+                        "🙏 A meditação fortalece nossa fé.",
+                        "👣 A obediência nos ajuda a caminhar na vontade de Deus."
+                  ],
+                  "advertencia": "⚠️ Advertência: Não deixe que opiniões humanas ocupem o lugar da orientação da Palavra de Deus.",
+                  "aplicacao": "💭 Aplicação pessoal: Separe um momento hoje para ler e meditar na Palavra de Deus, buscando aplicar seus ensinamentos.",
+                  "fechamento": "✨ Quem permite que a Palavra conduza sua vida encontra direção segura."
+            },
+            {
+                  "dia": "✨ Terça-feira — Escolha a obediência",
+                  "versiculo": "📖 “Eis que hoje eu ponho diante de vós a bênção e a maldição.” — Deuteronômio 11.26",
+                  "texto": "Deus apresentou ao seu povo a importância de escolher o caminho da obediência. A obediência não é apenas conhecer aquilo que Deus ordena, mas colocar sua Palavra em prática. Nossas escolhas revelam aquilo em que realmente confiamos. Por isso, devemos escolher diariamente permanecer fiéis ao Senhor.",
+                  "pontos": [
+                        "🙏 Obedecer demonstra confiança em Deus.",
+                        "📖 A Palavra mostra o caminho correto.",
+                        "❤️ Nossas escolhas revelam nossa fidelidade."
+                  ],
+                  "advertencia": "⚠️ Advertência: Não pense que conhecer a Palavra é suficiente se não houver disposição para obedecê-la.",
+                  "aplicacao": "💭 Aplicação pessoal: Identifique uma área da sua vida em que precisa obedecer mais plenamente à Palavra de Deus.",
+                  "fechamento": "✨ A obediência demonstra que levamos a Palavra de Deus a sério."
+            },
+            {
+                  "dia": "✨ Quarta-feira — Transmita a Palavra",
+                  "versiculo": "📖 “E o que de mim, entre muitas testemunhas, ouviste, confia-o a homens fiéis, que sejam idôneos para também ensinarem os outros.” — 2 Timóteo 2.2",
+                  "texto": "A fé recebida não deve ser guardada somente para nós. Paulo orientou Timóteo a transmitir aquilo que havia aprendido a pessoas fiéis que também pudessem ensinar outras. Assim, a Palavra continua sendo anunciada de geração em geração. Cada cristão possui responsabilidade de testemunhar e ensinar aquilo que aprendeu do Senhor.",
+                  "pontos": [
+                        "📖 A Palavra deve ser transmitida.",
+                        "👨‍👩‍👧‍👦 A fé precisa alcançar outras gerações.",
+                        "🗣️ O testemunho cristão ajuda a anunciar a verdade."
+                  ],
+                  "advertencia": "⚠️ Advertência: Não trate o conhecimento da Palavra como algo que deve ser guardado somente para você.",
+                  "aplicacao": "💭 Aplicação pessoal: Procure compartilhar hoje com alguém aquilo que Deus tem ensinado a você.",
+                  "fechamento": "✨ Uma fé ensinada e compartilhada pode alcançar muitas outras vidas."
+            },
+            {
+                  "dia": "✨ Quinta-feira — Avance pela fé",
+                  "versiculo": "📖 “Eis aqui esta terra, eu a dei diante de vós; entrai e possuí a terra.” — Deuteronômio 1.8",
+                  "texto": "Deus havia prometido a terra ao seu povo e chamou Israel a avançar para tomar posse dela. A promessa exigia confiança e disposição para obedecer. Muitas vezes sabemos o que Deus deseja, mas precisamos dar passos de fé para seguir sua direção. A fé verdadeira não permanece parada: ela confia em Deus e avança de acordo com sua Palavra.",
+                  "pontos": [
+                        "🙏 Deus é fiel às suas promessas.",
+                        "👣 A fé nos leva a avançar.",
+                        "📖 A obediência acompanha a verdadeira fé."
+                  ],
+                  "advertencia": "⚠️ Advertência: Não permita que o medo impeça você de obedecer à direção que Deus apresenta em sua Palavra.",
+                  "aplicacao": "💭 Aplicação pessoal: Confie em Deus diante de uma situação em que você precisa avançar com fé e obediência.",
+                  "fechamento": "✨ Quem confia nas promessas de Deus pode avançar com segurança."
+            },
+            {
+                  "dia": "✨ Sexta-feira — Ame e obedeça",
+                  "versiculo": "📖 “Amarás, pois, o Senhor, teu Deus, de todo o teu coração, e de toda a tua alma, e de todo o teu poder.” — Deuteronômio 6.5",
+                  "texto": "O amor por Deus está diretamente ligado a uma vida de fidelidade. Deus não deseja apenas uma obediência exterior, mas um coração que O ame sinceramente. Quando amamos o Senhor, desejamos conhecer sua Palavra e obedecer aos seus mandamentos. O amor verdadeiro produz compromisso e dedicação.",
+                  "pontos": [
+                        "❤️ O amor por Deus deve envolver todo o nosso ser.",
+                        "📖 Quem ama procura obedecer à Palavra.",
+                        "🙏 A fidelidade nasce de um relacionamento sincero com Deus."
+                  ],
+                  "advertencia": "⚠️ Advertência: Não reduza seu relacionamento com Deus a uma prática religiosa sem amor e compromisso.",
+                  "aplicacao": "💭 Aplicação pessoal: Demonstre seu amor por Deus hoje através da oração, da Palavra e da obediência.",
+                  "fechamento": "✨ Amar a Deus é desejar viver de acordo com a sua vontade."
+            },
+            {
+                  "dia": "✨ Sábado — Jesus e a Palavra",
+                  "versiculo": "📖 “Nem só de pão viverá o homem, mas de toda palavra que sai da boca de Deus.” — Mateus 4.4",
+                  "texto": "Jesus mostrou a importância da Palavra de Deus ao enfrentar a tentação no deserto. Ele respondeu ao tentador utilizando as Escrituras e demonstrou que a verdadeira vida depende daquilo que Deus diz. A Palavra continua sendo essencial para fortalecer nossa fé e orientar nossa caminhada. Por isso, precisamos conhecer, guardar e praticar seus ensinamentos.",
+                  "pontos": [
+                        "📖 A Palavra de Deus sustenta nossa vida espiritual.",
+                        "🛡️ As Escrituras nos ajudam a enfrentar tentações.",
+                        "✝️ Jesus é nosso exemplo de obediência à Palavra."
+                  ],
+                  "advertencia": "⚠️ Advertência: Não negligencie a leitura e a prática da Palavra de Deus.",
+                  "aplicacao": "💭 Aplicação pessoal: Leia hoje um trecho das Escrituras e procure aplicar seu ensinamento em sua vida.",
+                  "fechamento": "✨ A Palavra de Deus alimenta nossa vida espiritual e fortalece nossa caminhada."
+            }
+      ],
+      "pontoPrincipal": "Deus relembra ao seu povo a sua Palavra e o chama a avançar pela fé para tomar posse da promessa.",
+      "objetivos": [
+            "🎯 I) Explicar a autoria, propósito e valor de Deuteronômio;",
+            "🎯 II) Apresentar contexto histórico e espiritual;",
+            "🎯 III) Mostrar ensinos doutrinários e práticos."
+      ],
+      "introducao": "A leitura do livro de Deuteronômio possui grande valor para a compreensão da história e da fé de Israel. Ele ocupa lugar importante no Pentateuco e apresenta princípios relacionados à aliança, à obediência e à fidelidade a Deus. Moisés realizou seus discursos finais antes de Israel entrar na Terra Prometida, preparando uma nova geração para viver de acordo com a Palavra do Senhor. O livro apresenta três grandes discursos de Moisés, além de seus atos finais, sua morte e a continuidade da liderança. Deuteronômio também possui forte ligação com o Novo Testamento, sendo frequentemente citado por Jesus e pelos apóstolos.",
+      "conhecendoMaisDeDeus": {
+            "titulo": "📚 CONHECENDO + DE DEUS",
+            "texto": "Deuteronômio apresenta os discursos finais de Moisés ao povo de Israel nas campinas de Moabe. O livro relembra a Lei, reafirma a aliança e prepara uma nova geração para entrar na Terra Prometida. Sua mensagem continua relevante porque chama o povo de Deus a permanecer fiel à sua Palavra.",
+            "pontoPrincipal": "📌 Ponto principal: Deuteronômio relembra a Palavra de Deus e chama o seu povo a permanecer fiel à aliança."
+      },
+      "desenvolvimento": [
+            {
+                  "titulo": "📖 1. DEUTERONÔMIO: AUTORIA E PROPÓSITO DO LIVRO",
+                  "texto": "Deuteronômio apresenta Moisés como seu principal autor e registra seus discursos finais antes da entrada de Israel na Terra Prometida. O livro reafirma a Lei e chama o povo à fidelidade à aliança com Deus.",
+                  "pontoPrincipal": "📌 Ponto principal: Deuteronômio reafirma a Lei e chama Israel à fidelidade à aliança com Deus.",
+                  "topicos": [
+                        {
+                              "titulo": "1.1 Autoria",
+                              "texto": "A tradição judaica e cristã reconhece Moisés como o principal autor de Deuteronômio. O próprio livro apresenta Moisés falando e escrevendo a Lei. O capítulo final registra sua morte, podendo ter sido acrescentado posteriormente por Josué ou outro escriba.",
+                              "versiculos": [
+                                    {
+                                          "versiculo": "📖 “E aconteceu que, no ano quadragésimo, no mês undécimo, no primeiro dia do mês, falou Moisés aos filhos de Israel, conforme tudo o que o Senhor lhe mandara acerca deles.”",
+                                          "referencia": "Deuteronômio 1.3",
+                                          "pontoPrincipal": "Moisés transmitiu ao povo as instruções que Deus havia ordenado."
+                                    },
+                                    {
+                                          "versiculo": "📖 “E Moisés escreveu esta Lei e a deu aos sacerdotes, filhos de Levi, que levavam a arca do concerto do Senhor, e a todos os anciãos de Israel.”",
+                                          "referencia": "Deuteronômio 31.9",
+                                          "pontoPrincipal": "Moisés registrou a Lei para que fosse preservada e ensinada ao povo."
+                                    }
+                              ],
+                              "exortacao": "📢 Valorize a Palavra de Deus e ensine-a com fidelidade.",
+                              "reflexao": "💭 A Palavra que recebemos deve ser preservada e transmitida às próximas gerações.",
+                              "palavrasChave": [
+                                    "Moisés",
+                                    "Lei",
+                                    "Fidelidade"
+                              ]
+                        },
+                        {
+                              "titulo": "1.2 Definição",
+                              "texto": "O nome Deuteronômio está relacionado à ideia de repetição ou segunda apresentação da Lei. A Septuaginta utilizou o termo deuteronomion. O livro apresenta três grandes discursos de Moisés e destaca a necessidade de fidelidade exclusiva ao Senhor, rejeitando a idolatria e chamando o povo à obediência.",
+                              "versiculos": [
+                                    {
+                                          "versiculo": "📖 “Não terás outros deuses diante de mim.”",
+                                          "referencia": "Deuteronômio 5.7",
+                                          "pontoPrincipal": "Deus exige fidelidade exclusiva e rejeição à idolatria."
+                                    },
+                                    {
+                                          "versiculo": "📖 “Tão somente esforça-te e tem bom ânimo, para teres o cuidado de fazer conforme toda a Lei que meu servo Moisés te ordenou.”",
+                                          "referencia": "Josué 1.7",
+                                          "pontoPrincipal": "A obediência à Palavra deve acompanhar a caminhada do povo de Deus."
+                                    }
+                              ],
+                              "exortacao": "📢 Não apenas conheça a Palavra; pratique aquilo que Deus ordena.",
+                              "reflexao": "💭 A repetição dos ensinamentos bíblicos nos ajuda a lembrar aquilo que realmente importa.",
+                              "palavrasChave": [
+                                    "Lei",
+                                    "Obediência",
+                                    "Fidelidade"
+                              ]
+                        },
+                        {
+                              "titulo": "1.3 Valor e propósito de Deuteronômio",
+                              "texto": "Deuteronômio possui grande valor espiritual porque reafirma a aliança e chama o povo a amar e obedecer ao Senhor. Seus ensinamentos tratam de amor, devoção, justiça, equidade, integridade, bênção e responsabilidade. O livro também prepara Israel para viver na Terra Prometida e oferece princípios que continuam importantes para os cristãos.",
+                              "versiculos": [
+                                    {
+                                          "versiculo": "📖 “Amarás, pois, o Senhor, teu Deus, de todo o teu coração, e de toda a tua alma, e de todo o teu poder.”",
+                                          "referencia": "Deuteronômio 6.5",
+                                          "pontoPrincipal": "O relacionamento com Deus deve envolver todo o nosso ser."
+                                    },
+                                    {
+                                          "versiculo": "📖 “Eis que hoje eu ponho diante de vós a bênção e a maldição.”",
+                                          "referencia": "Deuteronômio 11.27",
+                                          "pontoPrincipal": "Deus chama seu povo a escolher o caminho da obediência."
+                                    }
+                              ],
+                              "exortacao": "📢 Ame ao Senhor e demonstre esse amor através da obediência.",
+                              "reflexao": "💭 A fidelidade a Deus envolve tanto o coração quanto nossas atitudes.",
+                              "palavrasChave": [
+                                    "Amor",
+                                    "Aliança",
+                                    "Obediência"
+                              ]
+                        }
+                  ]
+            },
+            {
+                  "titulo": "🏜️ 2. CONTEXTO HISTÓRICO DE DEUTERONÔMIO",
+                  "texto": "Deuteronômio apresenta Israel diante de um momento decisivo. Uma nova geração estava nas campinas de Moabe, prestes a entrar na Terra Prometida. Moisés relembrou a história do povo, explicou a Lei e convocou Israel a permanecer fiel ao Senhor.",
+                  "pontoPrincipal": "📌 Ponto principal: O contexto de Deuteronômio prepara uma nova geração para entrar na promessa e permanecer fiel a Deus.",
+                  "topicos": [
+                        {
+                              "titulo": "2.1 Panorama espiritual",
+                              "texto": "O povo estava diante de uma nova etapa. A geração anterior havia experimentado o Êxodo, mas também havia falhado em confiar plenamente em Deus. A nova geração precisava receber novamente a Palavra e aprender a viver em aliança com o Senhor.",
+                              "versiculos": [
+                                    {
+                                          "versiculo": "📖 “Estas são as palavras que Moisés falou a todo o Israel dalém do Jordão, no deserto, na Arabá.”",
+                                          "referencia": "Deuteronômio 1.1",
+                                          "pontoPrincipal": "Moisés transmitiu a Palavra ao povo antes da entrada na Terra Prometida."
+                                    },
+                                    {
+                                          "versiculo": "📖 “E o que de mim, entre muitas testemunhas, ouviste, confia-o a homens fiéis, que sejam idôneos para também ensinarem os outros.”",
+                                          "referencia": "2 Timóteo 2.2",
+                                          "pontoPrincipal": "A verdade recebida deve ser transmitida às próximas gerações."
+                                    }
+                              ],
+                              "exortacao": "📢 Ensine a Palavra com fidelidade para que outros também conheçam a verdade.",
+                              "reflexao": "💭 Cada geração precisa conhecer a Palavra e aprender a viver de acordo com ela.",
+                              "palavrasChave": [
+                                    "Geração",
+                                    "Palavra",
+                                    "Aliança"
+                              ]
+                        },
+                        {
+                              "titulo": "2.2 Um panorama geográfico",
+                              "texto": "Moisés relembrou os lugares pelos quais Israel havia passado durante sua caminhada pelo deserto. A distância entre Horebe e Cades-Barneia era pequena, mas a desobediência fez o povo peregrinar por quarenta anos. A caminhada demonstra que a incredulidade pode atrasar o cumprimento daquilo que Deus prometeu.",
+                              "versiculos": [
+                                    {
+                                          "versiculo": "📖 “Onze jornadas há desde Horebe, pelo caminho da montanha de Seir, até Cades-Barneia.”",
+                                          "referencia": "Deuteronômio 1.2",
+                                          "pontoPrincipal": "O caminho até Cades-Barneia poderia ser percorrido em pouco tempo."
+                                    },
+                                    {
+                                          "versiculo": "📖 “Procuremos, pois, entrar naquele repouso, para que ninguém caia no mesmo exemplo de desobediência.”",
+                                          "referencia": "Hebreus 4.11",
+                                          "pontoPrincipal": "A experiência de Israel serve como advertência para permanecermos em fé e obediência."
+                                    }
+                              ],
+                              "exortacao": "📢 Não permita que a incredulidade e a desobediência atrasem sua caminhada com Deus.",
+                              "reflexao": "💭 A história de Israel nos ensina que devemos confiar no Senhor e obedecer à sua Palavra.",
+                              "palavrasChave": [
+                                    "Deserto",
+                                    "Obediência",
+                                    "Fé"
+                              ]
+                        },
+                        {
+                              "titulo": "2.3 O discurso exortativo de Moisés",
+                              "texto": "Moisés sabia que não entraria na Terra Prometida e preparou o povo para a transição de liderança para Josué. Seus discursos relembraram as vitórias concedidas por Deus, destacaram a importância da Lei e convocaram Israel a confiar no Senhor. Moisés cumpriu sua missão ensinando o povo até o fim de sua caminhada.",
+                              "versiculos": [
+                                    {
+                                          "versiculo": "📖 “Sobe ao cume de Pisga, e levanta os teus olhos para o ocidente, e para o norte, e para o sul, e para o oriente, e vê com os teus olhos; porque não passarás este Jordão.”",
+                                          "referencia": "Deuteronômio 3.27",
+                                          "pontoPrincipal": "Moisés não entrou na Terra Prometida, mas preparou o povo para continuar sua caminhada."
+                                    },
+                                    {
+                                          "versiculo": "📖 “Não se turbe o vosso coração; credes em Deus, crede também em mim.”",
+                                          "referencia": "João 14.1",
+                                          "pontoPrincipal": "Jesus também chama seus discípulos a permanecerem confiantes em Deus."
+                                    }
+                              ],
+                              "exortacao": "📢 Seja fiel à missão que Deus confiou a você até o fim.",
+                              "reflexao": "💭 Nossa responsabilidade é cumprir fielmente aquilo que Deus nos confiou.",
+                              "palavrasChave": [
+                                    "Moisés",
+                                    "Transição",
+                                    "Missão"
+                              ]
+                        },
+                        {
+                              "titulo": "2.4 Desafiando a nova geração a ser decisiva",
+                              "texto": "A nova geração precisava tomar uma decisão. Deus havia dado a terra diante deles, mas eles deveriam avançar em fé e obediência. O chamado de Moisés continua ensinando que não devemos viver presos aos fracassos do passado, mas responder com fidelidade àquilo que Deus coloca diante de nós.",
+                              "versiculos": [
+                                    {
+                                          "versiculo": "📖 “Eis aqui esta terra, eu a dei diante de vós; entrai e possuí a terra.”",
+                                          "referencia": "Deuteronômio 1.8",
+                                          "pontoPrincipal": "Deus chama seu povo a avançar pela fé para tomar posse da promessa."
+                                    },
+                                    {
+                                          "versiculo": "📖 “Mas a nossa cidade está nos céus, donde também esperamos o Salvador, o Senhor Jesus Cristo.”",
+                                          "referencia": "Filipenses 3.20",
+                                          "pontoPrincipal": "Nossa esperança final está em Cristo e na realidade celestial."
+                                    }
+                              ],
+                              "exortacao": "📢 Tome decisões de fé e permaneça fiel à Palavra de Deus.",
+                              "reflexao": "💭 Deus continua chamando seu povo a avançar com confiança e obediência.",
+                              "palavrasChave": [
+                                    "Decisão",
+                                    "Fé",
+                                    "Promessa"
+                              ]
+                        }
+                  ]
+            },
+            {
+                  "titulo": "📚 3. O LADO DOUTRINÁRIO E PRÁTICO DE DEUTERONÔMIO",
+                  "texto": "Deuteronômio apresenta ensinamentos sobre o caráter de Deus e sobre a maneira como seu povo deve viver. O livro mostra a justiça, santidade, fidelidade, misericórdia e verdade do Senhor e também apresenta princípios éticos e práticos para a vida do povo.",
+                  "pontoPrincipal": "📌 Ponto principal: Deuteronômio apresenta verdades sobre Deus e orientações práticas para uma vida de fidelidade.",
+                  "topicos": [
+                        {
+                              "titulo": "3.1 Relevância doutrinária",
+                              "texto": "Deuteronômio revela aspectos importantes do caráter de Deus, mostrando que Ele é justo, santo, fiel, misericordioso e verdadeiro. O povo é chamado a temer, amar e obedecer ao Senhor. O livro também possui dimensão messiânica ao apontar para o Profeta semelhante a Moisés, cumprido em Cristo.",
+                              "versiculos": [
+                                    {
+                                          "versiculo": "📖 “Saberás, pois, que o Senhor, teu Deus, é Deus, o Deus fiel, que guarda o concerto e a misericórdia até mil gerações aos que o amam e guardam os seus mandamentos.”",
+                                          "referencia": "Deuteronômio 7.9",
+                                          "pontoPrincipal": "Deus é fiel à sua aliança e guarda sua Palavra."
+                                    },
+                                    {
+                                          "versiculo": "📖 “O Senhor, teu Deus, te despertará um profeta do meio de ti, de teus irmãos, como eu; a ele ouvireis.”",
+                                          "referencia": "Deuteronômio 18.15",
+                                          "pontoPrincipal": "A promessa do Profeta semelhante a Moisés aponta para a obra de Cristo."
+                                    }
+                              ],
+                              "exortacao": "📢 Conheça o caráter de Deus e viva de acordo com aquilo que Ele revelou.",
+                              "reflexao": "💭 Quanto mais conhecemos a Deus, mais somos chamados a responder com reverência e fidelidade.",
+                              "palavrasChave": [
+                                    "Santidade",
+                                    "Fidelidade",
+                                    "Cristo"
+                              ]
+                        },
+                        {
+                              "titulo": "3.2 Relevância ética e prática",
+                              "texto": "Deuteronômio apresenta princípios para a educação dos filhos, a transmissão da fé, a liderança, a justiça, a fidelidade e a rejeição da idolatria. A Palavra deveria fazer parte da rotina do povo e ser ensinada às próximas gerações. Esses princípios continuam importantes para a vida cristã.",
+                              "versiculos": [
+                                    {
+                                          "versiculo": "📖 “E estas palavras que hoje te ordeno estarão no teu coração; e as intimarás a teus filhos e delas falarás assentado em tua casa, e andando pelo caminho, e deitando-te, e levantando-te.”",
+                                          "referencia": "Deuteronômio 6.6-7",
+                                          "pontoPrincipal": "A Palavra deve ser ensinada continuamente dentro da família."
+                                    },
+                                    {
+                                          "versiculo": "📖 “Trazendo à memória a fé não fingida que em ti há, a qual habitou primeiro em tua avó Lóide e em tua mãe Eunice.”",
+                                          "referencia": "2 Timóteo 1.5",
+                                          "pontoPrincipal": "A fé pode ser transmitida e cultivada dentro das gerações."
+                                    }
+                              ],
+                              "exortacao": "📢 Ensine a Palavra dentro de casa e viva aquilo que você ensina.",
+                              "reflexao": "💭 Nossa vida diária também é uma forma de ensinar a próxima geração.",
+                              "palavrasChave": [
+                                    "Família",
+                                    "Ensino",
+                                    "Integridade"
+                              ]
+                        }
+                  ]
+            }
+      ],
+      "conclusao": "📝 CONCLUSÃO\nA leitura do livro de Deuteronômio possui grande valor para nós, os salvos em Cristo Jesus. Seus ensinamentos nos lembram da importância da aliança, da fidelidade, da obediência e da transmissão da Palavra às próximas gerações. Assim como Moisés chamou Israel a avançar pela fé, somos chamados a permanecer firmes em Deus e em sua Palavra. Que nossa vida demonstre amor, reverência e compromisso com o Senhor.",
+      "perguntas": [
+            {
+                  "nivel": "🟢 1. Fácil",
+                  "pergunta": "Quem é reconhecido como o principal autor de Deuteronômio?",
+                  "resposta": "Moisés é reconhecido como o principal autor de Deuteronômio."
+            },
+            {
+                  "nivel": "🟡 2. Média",
+                  "pergunta": "Qual era um dos principais propósitos de Deuteronômio?",
+                  "resposta": "Reafirmar a aliança com Deus, relembrar a Lei e preparar a nova geração de Israel para entrar na Terra Prometida."
+            },
+            {
+                  "nivel": "🟠 3. Difícil",
+                  "pergunta": "Por que a nova geração de Israel precisava receber novamente as instruções da Palavra de Deus?",
+                  "resposta": "Porque era uma nova geração que estava prestes a entrar na Terra Prometida e precisava conhecer a Lei, compreender a aliança e aprender a permanecer fiel ao Senhor."
+            },
+            {
+                  "nivel": "🔴 4. Difícil",
+                  "pergunta": "O que a longa caminhada de Israel pelo deserto ensina sobre a relação entre fé e obediência?",
+                  "resposta": "Ensina que a incredulidade e a desobediência podem impedir ou atrasar o avanço do povo de Deus, enquanto a fé acompanhada de obediência conduz à fidelidade às promessas do Senhor."
+            },
+            {
+                  "nivel": "🔴 5. Difícil",
+                  "pergunta": "Qual é a relevância doutrinária e prática de Deuteronômio para os cristãos?",
+                  "resposta": "O livro revela aspectos do caráter de Deus, chama à fé, ao amor, à reverência e à obediência, orienta a transmissão da fé às próximas gerações e aponta para Cristo como o Profeta semelhante a Moisés."
+            }
+      ]
+}
+    }
     },
 
 
@@ -2607,6 +2978,10 @@ const licoes = {
     },
 
 
+    
+
+        "4": {
+        }
     },
     juvenis: {
 
@@ -3338,6 +3713,10 @@ const licoes = {
         },
 
     },
+    
+
+        "4": {
+        }
     },
 
 
@@ -4287,7 +4666,11 @@ const licoes = {
 
         },
 
-},
+
+
+        "4": {
+        }
+    },
 
  "juniores": {
     "3": {
@@ -4763,7 +5146,11 @@ conclusao:
 
     }
 
-},
+,
+
+        "4": {
+        }
+    },
 
     "pre-adolescentes": {
 
@@ -5787,7 +6174,11 @@ conhecendoMaisDeDeus: {
 },
 
                         }
+        ,
+
+        "4": {
         }
+    }
 }
 
 console.log(
