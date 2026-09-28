@@ -2981,6 +2981,380 @@ const licoes = {
     
 
         "4": {
+            "1": {
+    "numero": "Lição 1",
+    "titulo": "Carta aos Filipenses: um chamado à alegria",
+    "perguntaGancho": "🎯 Você consegue manter a alegria e a paz mesmo quando está passando por dificuldades?",
+    "curiosidade": "💡 Você sabia que Paulo escreveu a Carta aos Filipenses enquanto estava preso? Mesmo enfrentando limitações e sofrimento, ele fala repetidamente sobre alegria, mostrando que sua alegria não estava baseada em uma vida sem problemas, mas em sua comunhão com Cristo e na confiança de que Deus completaria a boa obra iniciada nos seus servos.",
+    "textoPrincipal": "📖 TEXTO PRINCIPAL\n“Tendo por certo isto mesmo: que aquele que em vós começou a boa obra a aperfeiçoará até ao Dia de Jesus Cristo.” (Fp 1.6).",
+    "pontoPrincipal": "📌 Ponto principal: Deus continua aperfeiçoando a obra que começou na vida daqueles que pertencem a Cristo.",
+    "resumoLicao": "📚 RESUMO DA LIÇÃO\nA Epístola aos Filipenses mostra que o cristão pode viver pleno de alegria e paz com Deus em um mundo conturbado.\n📌 Ponto principal: Em meio às dificuldades de um mundo conturbado, o cristão pode encontrar verdadeira alegria e paz em Deus.",
+    "devocional": [
+        {
+            "dia": "Segunda-feira",
+            "referencia": "Atos 16.12",
+            "titulo": "✨ Segunda-feira — Deus prepara o lugar da missão",
+            "versiculo": "📖 “Filipos, que é a primeira cidade desta parte da Macedônia, e é uma colônia.” — Atos 16.12",
+            "texto": "Filipos era uma importante colônia romana localizada na Macedônia. Foi nesse lugar que Paulo e seus companheiros chegaram durante a Segunda Viagem Missionária para anunciar o Evangelho. Deus conduziu seus servos a uma cidade estratégica, mostrando que a missão cristã também alcança lugares onde o Senhor abre portas. A presença de uma igreja naquela cidade começou a partir da obediência ao direcionamento de Deus. Assim, aprendemos que nenhum lugar é insignificante quando existe uma oportunidade de anunciar Cristo.",
+            "pontos": [
+                "🌍 Deus pode usar lugares estratégicos para alcançar pessoas.",
+                "📖 A missão começa com disposição para obedecer ao Senhor.",
+                "🙏 O Evangelho deve ser anunciado onde Deus abrir portas."
+            ],
+            "advertencia": "⚠️ Advertência: Não despreze oportunidades de falar de Cristo simplesmente porque o lugar ou as circunstâncias parecem comuns.",
+            "aplicacao": "💭 Aplicação pessoal: Esteja atento às pessoas que Deus coloca diariamente ao seu redor e aproveite as oportunidades para demonstrar e anunciar a fé cristã.",
+            "final": "✨ Onde Deus nos envia, existe uma oportunidade para o Evangelho avançar."
+        },
+        {
+            "dia": "Terça-feira",
+            "referencia": "Atos 22.29; 23.27",
+            "titulo": "✨ Terça-feira — Deus também usa recursos para proteger seus servos",
+            "versiculo": "📖 “E, chegando o tribuno, disse-lhe: Dize-me, és tu romano? E ele disse: Sim.” — Atos 22.27",
+            "texto": "Paulo enfrentou situações de grande perigo por causa do Evangelho, mas em determinado momento sua cidadania romana foi reconhecida e contribuiu para sua proteção. Isso nos ensina que Deus pode usar circunstâncias, direitos e recursos disponíveis para preservar seus servos enquanto cumprem sua missão. A confiança em Deus não significa desprezar os meios legítimos que Ele coloca à nossa disposição. Paulo continuou cumprindo seu chamado, mesmo enfrentando oposição e dificuldades. Nossa segurança está em Deus, mas podemos agir com sabedoria diante das situações que encontramos.",
+            "pontos": [
+                "🛡️ Deus pode usar meios legítimos para preservar seus servos.",
+                "🧠 A fé não elimina a necessidade de agir com sabedoria.",
+                "📢 As dificuldades não precisam interromper nossa missão."
+            ],
+            "advertencia": "⚠️ Advertência: Não confunda confiança em Deus com imprudência ou desprezo pelos recursos legítimos disponíveis.",
+            "aplicacao": "💭 Aplicação pessoal: Enfrente as situações difíceis com oração, sabedoria e responsabilidade, confiando que Deus continua conduzindo sua caminhada.",
+            "final": "✨ Fé e sabedoria podem caminhar juntas no serviço a Deus."
+        },
+        {
+            "dia": "Quarta-feira",
+            "referencia": "Atos 16.9,10",
+            "titulo": "✨ Quarta-feira — Quando Deus direciona nossos passos",
+            "versiculo": "📖 “Passa à Macedônia, e ajuda-nos.” — Atos 16.9",
+            "texto": "Durante a viagem missionária, Paulo recebeu uma direção para anunciar o Evangelho na Macedônia. Depois de compreenderem aquela orientação, ele e seus companheiros procuraram partir imediatamente, entendendo que Deus os havia chamado para anunciar a Palavra naquele lugar. O episódio mostra a importância de estar atento à direção do Senhor e disposto a obedecer. Nem sempre sabemos antecipadamente tudo o que acontecerá depois de uma decisão de fé. Porém, podemos caminhar confiando naquele que conhece o caminho e conduz sua obra.",
+            "pontos": [
+                "👂 Esteja atento à direção de Deus.",
+                "🚶 A obediência exige disposição para avançar.",
+                "🌎 O chamado de Deus pode nos levar a lugares inesperados."
+            ],
+            "advertencia": "⚠️ Advertência: Não permita que o medo das mudanças impeça você de obedecer quando estiver claramente diante de uma oportunidade de servir.",
+            "aplicacao": "💭 Aplicação pessoal: Ore pedindo direção ao Senhor e esteja disposto a obedecer quando Ele colocar diante de você uma oportunidade de servir.",
+            "final": "✨ Quem obedece ao chamado de Deus encontra propósito no caminho."
+        },
+        {
+            "dia": "Quinta-feira",
+            "referencia": "1 Tessalonicenses 2.2",
+            "titulo": "✨ Quinta-feira — Coragem para continuar",
+            "versiculo": "📖 “Mas, mesmo depois de termos padecido e sido maltratados em Filipos, como sabeis, tivemos confiança em nosso Deus para vos falar o evangelho.” — 1 Tessalonicenses 2.2",
+            "texto": "Paulo relembra o sofrimento enfrentado em Filipos e destaca que, apesar dos maus-tratos, ele e seus companheiros continuaram anunciando o Evangelho. O sofrimento não apagou sua confiança em Deus nem anulou sua disposição de cumprir a missão recebida. A experiência de Paulo nos ensina que servir ao Senhor nem sempre será confortável ou fácil. Existem momentos em que a oposição pode surgir, mas a confiança em Deus nos ajuda a permanecer firmes. O Evangelho continua sendo digno de ser anunciado mesmo quando encontramos resistência.",
+            "pontos": [
+                "🔥 A oposição não precisa apagar nossa coragem.",
+                "🙏 A confiança em Deus sustenta o servo em tempos difíceis.",
+                "📖 A mensagem do Evangelho permanece necessária."
+            ],
+            "advertencia": "⚠️ Advertência: Não abandone sua responsabilidade espiritual simplesmente porque encontrou dificuldades ou oposição.",
+            "aplicacao": "💭 Aplicação pessoal: Quando surgir uma dificuldade por causa da sua fé, ore, permaneça firme e continue fazendo aquilo que Deus colocou em suas mãos.",
+            "final": "✨ A dificuldade pode testar nossa fé, mas não precisa determinar nossa perseverança."
+        },
+        {
+            "dia": "Sexta-feira",
+            "referencia": "Neemias 8.10",
+            "titulo": "✨ Sexta-feira — A alegria que vem do Senhor",
+            "versiculo": "📖 “A alegria do Senhor é a vossa força.” — Neemias 8.10",
+            "texto": "Depois da leitura da Lei, o povo de Israel foi orientado a não permanecer apenas em tristeza, mas a reconhecer a importância daquele momento diante de Deus. Neemias destacou que a alegria do Senhor seria uma fonte de força para o povo. Essa alegria não significa ignorar problemas ou fingir que tudo está bem. Ela nasce da confiança em Deus e da certeza de que Ele permanece presente. Em meio às dificuldades, o Senhor pode renovar nossas forças e nos ajudar a continuar caminhando com esperança.",
+            "pontos": [
+                "😊 A alegria do Senhor fortalece o coração.",
+                "📖 A Palavra de Deus produz entendimento e esperança.",
+                "💪 A confiança em Deus nos ajuda a enfrentar dias difíceis."
+            ],
+            "advertencia": "⚠️ Advertência: Não procure sua verdadeira força somente nas circunstâncias, pois elas podem mudar rapidamente.",
+            "aplicacao": "💭 Aplicação pessoal: Quando estiver desanimado, volte seu coração para Deus, medite em sua Palavra e lembre-se de sua fidelidade.",
+            "final": "✨ Quando a força humana termina, a alegria do Senhor continua sustentando."
+        },
+        {
+            "dia": "Sábado",
+            "referencia": "Filipenses 1.1",
+            "titulo": "✨ Sábado — Cada servo tem seu lugar na obra",
+            "versiculo": "📖 “A todos os santos em Cristo Jesus que estão em Filipos, com os bispos e diáconos.” — Filipenses 1.1",
+            "texto": "Ao iniciar sua carta, Paulo se dirige aos cristãos de Filipos e menciona também os bispos e diáconos. Essa saudação revela uma comunidade cristã que possuía pessoas exercendo responsabilidades no serviço da igreja. O trabalho do Reino envolve diferentes funções e responsabilidades, mas todos devem servir debaixo da autoridade de Cristo. A organização não substitui a espiritualidade, porém contribui para que o serviço seja realizado com responsabilidade e cuidado. A igreja é formada por pessoas que foram chamadas para viver e servir em comunhão.",
+            "pontos": [
+                "⛪ A igreja reúne pessoas com diferentes responsabilidades.",
+                "🤝 O serviço cristão deve ser realizado em comunhão.",
+                "🙏 Toda função deve ser exercida para a glória de Cristo."
+            ],
+            "advertencia": "⚠️ Advertência: Não transforme uma função na igreja em motivo de orgulho ou competição.",
+            "aplicacao": "💭 Aplicação pessoal: Procure servir com humildade, fidelidade e disposição, valorizando também aqueles que trabalham ao seu lado.",
+            "final": "✨ Na obra de Deus, servir com humildade é uma expressão de amor a Cristo."
+        }
+    ],
+    "objetivos": [
+        "📚 APRESENTAR o contexto histórico, teológico e pastoral da epístola;",
+        "🗺️ MOSTRAR um panorama da Segunda Viagem Missionária com o início da igreja em Filipos;",
+        "❤️ ANALISAR o afeto profundo de Paulo pelos filipenses."
+    ],
+    "leituraBiblica": "Filipenses 1.1-11",
+    "textoBiblico": "1 — Paulo e Timóteo, servos de Jesus Cristo, a todos os santos em Cristo Jesus que estão em Filipos, com os bispos e diáconos:\n2 — graça a vós e paz, da parte de Deus, nosso Pai, e da do Senhor Jesus Cristo.\n3 — Dou graças ao meu Deus todas as vezes que me lembro de vós,\n4 — fazendo, sempre com alegria, oração por vós em todas as minhas súplicas,\n5 — pela vossa cooperação no evangelho desde o primeiro dia até agora.\n6 — Tendo por certo isto mesmo: que aquele que em vós começou a boa obra a aperfeiçoará até ao Dia de Jesus Cristo.\n7 — Como tenho por justo sentir isto de vós todos, porque vos retenho em meu coração, pois todos vós fostes participantes da minha graça, tanto nas minhas prisões como na minha defesa e confirmação do evangelho.\n8 — Porque Deus me é testemunha das saudades que de todos vós tenho, em entranhável afeição de Jesus Cristo.\n9 — E peço isto: que o vosso amor aumente mais e mais em ciência e em todo o conhecimento.\n10 — Para que aproveis as coisas excelentes, para que sejais sinceros e sem escândalo algum até ao Dia de Cristo,\n11 — cheios de frutos de justiça, que são por Jesus Cristo, para glória e louvor de Deus.\n📌 Ponto principal: Paulo demonstra gratidão, amor e confiança na obra de Deus na vida dos filipenses, incentivando-os a crescer no amor, no conhecimento e nos frutos de justiça.",
+    "introducao": "📖 INTRODUÇÃO\nDurante sua Segunda Viagem Missionária, o apóstolo Paulo, guiado por revelação divina, evangelizou os filipenses em meio à intensa perseguição. Esse contexto faz surgir um forte elo de amizade, o qual se manteve por anos a fio. Tempos após, o apóstolo Paulo, mais uma vez perseguido e preso, recebeu uma oferta enviada pelos crentes de Filipos e, por isso, escreveu-lhes esta afetuosa epístola, mencionando a grande ternura no coração que nutria por eles, mas também os exortava a resolverem seus problemas relacionais internos, a suportarem as aflições com alegria e a viverem com profundidade o Evangelho.\n🔑 Palavra-chave: ALEGRIA\n📌 Ponto principal: A Carta aos Filipenses revela como a comunhão com Cristo permite ao cristão viver com alegria, amor e fidelidade ao Evangelho mesmo em meio às aflições.",
+    "desenvolvimento": [
+        {
+            "titulo": "📚 TÓPICO 1 — CONHECENDO A HISTÓRIA",
+            "topicos": [
+                {
+                    "titulo": "🏛️ Subtópico 1 — Pano de fundo histórico",
+                    "texto": "Antes de adentrar no estudo de Filipenses, é muito importante compreender o que estava acontecendo no mundo na primeira metade do século I, haja vista que a igreja nasceu naquela cidade por volta do ano 49 d.C. e a epístola foi escrita no fim da prisão de Paulo, possivelmente em Roma, entre os anos 61 e 62 d.C. Assim, conhecer o pano de fundo histórico lançará luzes, as quais fornecerão elementos interpretativos significantes para entender a profundidade das palavras de Paulo.",
+                    "pontoPrincipal": "📌 Ponto principal: Conhecer o contexto histórico ajuda a compreender melhor a mensagem de Filipenses.",
+                    "versiculos": [
+                        {
+                            "referencia": "Atos 16.12",
+                            "texto": "“E dali para Filipos, que é a primeira cidade desta parte da Macedônia, e é uma colônia; e estivemos alguns dias nesta cidade.”",
+                            "pontoPrincipal": "📌 Ponto principal: Filipos foi um lugar estratégico para a expansão do Evangelho."
+                        },
+                        {
+                            "referencia": "Filipenses 1.3",
+                            "texto": "“Dou graças ao meu Deus todas as vezes que me lembro de vós,”",
+                            "pontoPrincipal": "📌 Ponto principal: Mesmo distante, Paulo demonstrava gratidão e carinho pela igreja."
+                        }
+                    ],
+                    "exortacao": "🔥 Exortação prática\nConhecer o contexto bíblico deve nos levar a valorizar ainda mais a mensagem das Escrituras e a compreender como Deus age na história para cumprir seus propósitos.",
+                    "reflexao": "💭 Reflexão para a vida cristã\nAssim como Deus conduziu a história até o estabelecimento da igreja em Filipos, Ele continua trabalhando em diferentes circunstâncias para alcançar pessoas. Nossa responsabilidade é reconhecer as oportunidades que Ele coloca diante de nós e permanecer fiéis à sua Palavra.",
+                    "palavrasChave": [
+                        "📜 Contexto: conjunto de circunstâncias históricas que ajudam a compreender um acontecimento.",
+                        "🏛️ Filipos: cidade da Macedônia onde surgiu uma importante igreja cristã.",
+                        "📖 Evangelho: mensagem de Jesus Cristo e da salvação anunciada aos povos."
+                    ]
+                },
+                {
+                    "titulo": "🏛️ Subtópico 2 — O Império Romano",
+                    "texto": "A história da Roma Antiga está dividida, em linhas gerais, em três períodos: Monarquia (753 a.C. — 509 a.C.), República (509 a.C. — 27 a.C.) e Império (27 a.C. — 476 d.C.). Interessa-nos, aqui, neste passo, mencionar que Felipe II conquistou, em 360 a.C., a Cidade de Crenides, dando-lhe após, em sua homenagem, o nome Filipos. Todavia, somente em 42 a.C., Filipos ganhou importância política, depois que a cidade foi o cenário da batalha entre as forças republicanas de Brutos e Cássio, que lutavam contra os exércitos imperiais de Otávio e Antônio. A partir desse evento, a cidade se tornou colônia romana (At 16.12), ganhando relevância na região.",
+                    "pontoPrincipal": "📌 Ponto principal: Filipos ganhou importância política e passou a exercer papel estratégico no domínio romano.",
+                    "versiculos": [
+                        {
+                            "referencia": "Atos 16.12",
+                            "texto": "“E dali para Filipos, que é a primeira cidade desta parte da Macedônia, e é uma colônia; e estivemos alguns dias nesta cidade.”",
+                            "pontoPrincipal": "📌 Ponto principal: Filipos possuía importância dentro da organização romana na Macedônia."
+                        },
+                        {
+                            "referencia": "Atos 16.21",
+                            "texto": "“E nos expõem costumes que nos não é lícito receber nem praticar, visto que somos romanos.”",
+                            "pontoPrincipal": "📌 Ponto principal: A identidade romana influenciava a maneira como os habitantes de Filipos enxergavam sua sociedade."
+                        }
+                    ],
+                    "exortacao": "🔥 Exortação prática\nNossa identidade principal não deve estar baseada em posição social, cidadania ou reconhecimento humano, mas em nossa relação com Cristo.",
+                    "reflexao": "💭 Reflexão para a vida cristã\nO contexto romano ajuda a entender alguns conflitos enfrentados pelos primeiros cristãos. Paulo viveu e anunciou o Evangelho em uma sociedade marcada por estruturas políticas e culturais específicas, mas permaneceu comprometido com Cristo. Também somos chamados a permanecer fiéis ao Evangelho dentro da sociedade em que vivemos.",
+                    "palavrasChave": [
+                        "🏛️ Império: sistema político que dominava grande parte do mundo mediterrâneo naquele período.",
+                        "⚔️ República: período da história romana anterior ao estabelecimento do Império.",
+                        "👑 Colônia: cidade estabelecida sob autoridade romana e integrada à estrutura do Império."
+                    ]
+                },
+                {
+                    "titulo": "🏛️ Subtópico 3 — Filipos: uma colônia romana",
+                    "texto": "A circunstância de ser colônia romana concedia dignidade cívica aos filipenses, visto que, com isso, a lei romana passava a ser aplicada às relações sociais, impactando os negócios locais e a segurança dos cidadãos, sendo também fator de prosperidade na medida em que, por vezes, havia isenção ou diminuição da pesada carga tributária, trazendo benefícios econômicos. A aplicação do direito romano entre os cidadãos de Filipos justificava a presença de oficiais romanos na cidade (At 16.22).\nInequivocamente, esse status político fazia com que os filipenses possuíssem determinado grau de arrogância, conforme se vê claramente do episódio de Atos 16.19-24, quando eles incitaram toda a cidade contra os missionários cristãos com uma acusação falsa, que trouxe consequências danosas, escudados principalmente na informação de que Paulo e seus companheiros, que eram judeus (sem cidadania romana), os estavam perturbando, o que aumentava ainda mais o preconceito e a rejeição.",
+                    "pontoPrincipal": "📌 Ponto principal: O status de Filipos como colônia romana influenciava sua sociedade e o ambiente enfrentado pelos cristãos.",
+                    "versiculos": [
+                        {
+                            "referencia": "Atos 16.22",
+                            "texto": "“E levantou-se a multidão juntamente contra eles, e os magistrados, rasgando-lhes os vestidos, mandaram açoitá-los.”",
+                            "pontoPrincipal": "📌 Ponto principal: Paulo e Silas sofreram oposição e violência por anunciarem o Evangelho."
+                        },
+                        {
+                            "referencia": "Atos 16.23",
+                            "texto": "“E, havendo-lhes dado muitos açoites, os lançaram na prisão, mandando ao carcereiro que os guardasse com segurança.”",
+                            "pontoPrincipal": "📌 Ponto principal: Mesmo diante da perseguição, os servos de Deus permaneceram firmes."
+                        }
+                    ],
+                    "exortacao": "🔥 Exortação prática\nNão permita que posição social, reconhecimento ou diferenças culturais determinem o valor que você atribui às pessoas. O Evangelho nos chama a tratar todos com respeito e a permanecer firmes mesmo quando somos rejeitados por causa da fé.",
+                    "reflexao": "💭 Reflexão para a vida cristã\nFilipos apresentava um ambiente marcado pela valorização da cidadania romana e pelas diferenças sociais. Nesse contexto, o Evangelho anunciou uma nova identidade em Cristo. A igreja precisa demonstrar, por meio de suas atitudes, que a fé em Jesus transforma nossa maneira de enxergar as pessoas e enfrentar a oposição.",
+                    "palavrasChave": [
+                        "🏛️ Cidadania: condição jurídica que conferia determinados direitos e privilégios dentro da sociedade romana.",
+                        "⚖️ Direito: conjunto de normas que regulava a vida social e política dos cidadãos.",
+                        "✝️ Perseverança: firmeza para continuar fiel a Cristo mesmo diante das dificuldades."
+                    ]
+                }
+            ]
+        },
+        {
+            "titulo": "📖 TÓPICO 2 — SEGUNDA VIAGEM MISSIONÁRIA",
+            "texto": "A Primeira Viagem Missionária do apóstolo Paulo foi bem-sucedida. No entanto, houve um desentendimento com Barnabé, e eles se separaram. A partir disso, Paulo seguiu na missão acompanhado por Silas, Timóteo e Lucas, dando início à sua Segunda Viagem Missionária.",
+            "pontoPrincipal": "📌 Ponto principal: Deus continuou conduzindo a missão mesmo após a separação entre Paulo e Barnabé.",
+            "topicos": [
+                {
+                    "titulo": "🗺️ Subtópico 1 — Idas e vindas",
+                    "texto": "O apóstolo Paulo, com Silas (At 15.40) e Lucas (At 16.10), passou pela Síria e Cilícia, Derbe e Listra, onde Timóteo se juntou à equipe missionária (At 15.41; 16.1). Depois de passarem pela Frigia e Galácia, Deus bloqueou o caminho deles para a Ásia e Bitínia (At 16.6,7) e, ainda sem conhecerem a vontade de Deus acerca do itinerário da Segunda Viagem Missionária, Paulo recebeu, em Trôade, uma revelação celestial, encaminhando-os à Macedônia para pregar o Evangelho (At 16.8-10).\nDepois disso, partiram de Trôade para Samotrácia por “caminho direito”, razão pela qual o vento lhes foi favorável (At 16.9-11). Depois eles chegaram a Nápolis, o porto que distava mais ou menos 15 km de Filipos; dali foram pela estrada construída pelos romanos no século II a.C., com extensão de, aproximadamente, 1120 km de comprimento, a Via Egnatia, até a cidade onde foi plantada a primeira igreja europeia: Filipos.",
+                    "pontoPrincipal": "📌 Ponto principal: Deus direcionou cada etapa da viagem até conduzir os missionários a Filipos.",
+                    "versiculos": [
+                        {
+                            "referencia": "Atos 16.6",
+                            "texto": "“E, passando pela Frígia e pela província da Galácia, foram impedidos pelo Espírito Santo de anunciar a palavra na Ásia.”",
+                            "pontoPrincipal": "📌 Ponto principal: Deus também dirige a missão fechando caminhos."
+                        },
+                        {
+                            "referencia": "Atos 16.9",
+                            "texto": "“E Paulo teve, de noite, uma visão, em que se apresentou um varão da Macedônia e lhe rogou, dizendo: Passa à Macedônia e ajuda-nos.”",
+                            "pontoPrincipal": "📌 Ponto principal: Deus revelou aos missionários o novo destino da missão."
+                        }
+                    ],
+                    "exortacao": "🔥 Exortação prática\nNem toda porta fechada significa fracasso. Aprenda a permanecer atento à direção de Deus e disposto a mudar seus planos quando Ele conduzir por outro caminho.",
+                    "reflexao": "💭 Reflexão para a vida cristã\nPaulo e seus companheiros não tinham todo o itinerário definido desde o início. Eles avançaram, encontraram impedimentos e depois receberam nova direção. Nossa caminhada com Deus também exige confiança, paciência e disposição para obedecer.",
+                    "palavrasChave": [
+                        "🧭 Direção: orientação recebida para seguir determinado caminho.",
+                        "🚪 Impedimento: circunstância que bloqueia temporariamente determinado caminho.",
+                        "📢 Missão: tarefa de anunciar o Evangelho e servir aos propósitos de Deus."
+                    ]
+                },
+                {
+                    "titulo": "⚔️ Subtópico 2 — Um início tímido, com perseguição",
+                    "texto": "O ambiente em Filipos era diferente do de Salamina (At 13.5), Pafos (At 13.6-12), Antioquia da Pisídia (At 13.14-45) etc., onde a comunidade judaica estava bem representada e, por isso, havia sinagogas, mas em Filipos isso não acontecia. Não existia perseguição dos religiosos judeus em Filipos. Por outro lado, naquele lugar o imperador era ostensivamente adorado e, de acordo com achados arqueológicos, existia um perímetro na cidade no qual nenhuma outra “divindade” poderia receber adoração, possível razão pela qual algumas mulheres, dentre as quais Lídia, estavam buscando a Deus às margens de um rio, fora da cidade, lugar para onde os missionários afluíram para orar e, também, pregar o Evangelho (At 16.13-15).\nTudo ia bem até que Paulo expulsou o espírito maligno de uma jovem que dava lucro aos seus donos por meio de adivinhação. Revoltados por perderem essa fonte de renda, eles acusaram falsamente os missionários e incitaram a população contra eles. Isso resultou em humilhação pública, açoites e prisão (At 16.18-24).",
+                    "pontoPrincipal": "📌 Ponto principal: O avanço do Evangelho em Filipos enfrentou oposição quando interesses humanos foram contrariados.",
+                    "versiculos": [
+                        {
+                            "referencia": "Atos 16.14",
+                            "texto": "“E uma certa mulher, chamada Lídia, vendedora de púrpura, da cidade de Tiatira, e que servia a Deus, nos ouvia, e o Senhor lhe abriu o coração para que estivesse atenta ao que Paulo dizia.”",
+                            "pontoPrincipal": "📌 Ponto principal: Deus abriu o coração de Lídia para receber a mensagem do Evangelho."
+                        },
+                        {
+                            "referencia": "Atos 16.24",
+                            "texto": "“O qual, tendo recebido tal ordem, os lançou no cárcere interior e lhes segurou os pés no tronco.”",
+                            "pontoPrincipal": "📌 Ponto principal: Paulo e Silas enfrentaram sofrimento por causa do anúncio do Evangelho."
+                        }
+                    ],
+                    "exortacao": "🔥 Exortação prática\nPermaneça fiel ao Evangelho mesmo quando sua fé contrariar interesses ou provocar oposição.",
+                    "reflexao": "💭 Reflexão para a vida cristã\nO início da igreja em Filipos demonstra que uma obra pode começar de maneira aparentemente pequena e, ainda assim, fazer parte dos propósitos de Deus. Lídia ouviu, creu e abriu sua casa aos servos de Deus. Depois, a oposição surgiu. O cristão precisa estar preparado tanto para receber portas abertas quanto para enfrentar dificuldades.",
+                    "palavrasChave": [
+                        "❤️ Conversão: resposta de fé à mensagem do Evangelho, produzindo uma nova direção de vida.",
+                        "⚔️ Perseguição: oposição ou sofrimento enfrentado por causa da fé.",
+                        "📢 Evangelho: mensagem das boas-novas de Jesus Cristo."
+                    ]
+                },
+                {
+                    "titulo": "🌎 Subtópico 3 — Um grande terremoto",
+                    "texto": "Os missionários estavam exultantes em Deus. Mesmo humilhados, presos e açoitados, por volta da meia-noite, Paulo e Silas oravam e cantavam louvores a Deus dentro da prisão, quando o Senhor trouxe um grande terremoto que abalou as estruturas do cárcere e foram abertas as portas, soltando as correntes de todos os presos (At 16.25,26). Enquanto o sistema daquele tempo era movido por interesses e ganância, Deus confirmou a sua obra com poder e, por isso, fez tremer as estruturas da prisão (e possivelmente de prédios da cidade) sob a influência da verdadeira adoração.\nEmbora presos, Paulo e Silas escolheram exalar alegria e gratidão a Deus. No lugar de questionar por que o Senhor permite determinada situação, avalie qual tem sido a sua postura enquanto passa por ela. A verdadeira adoração, mesmo em meio à dor, trouxe intervenção divina.",
+                    "pontoPrincipal": "📌 Ponto principal: Paulo e Silas adoraram a Deus mesmo presos, e o Senhor manifestou seu poder.",
+                    "versiculos": [
+                        {
+                            "referencia": "Atos 16.25",
+                            "texto": "“E, perto da meia-noite, Paulo e Silas oravam e cantavam hinos a Deus, e os outros presos os escutavam.”",
+                            "pontoPrincipal": "📌 Ponto principal: A adoração permaneceu viva mesmo em meio ao sofrimento."
+                        },
+                        {
+                            "referencia": "Atos 16.26",
+                            "texto": "“E, de repente, sobreveio um tão grande terremoto, que os alicerces do cárcere se moveram, e logo se abriram todas as portas, e foram soltas as prisões de todos.”",
+                            "pontoPrincipal": "📌 Ponto principal: Deus demonstrou seu poder no momento de grande dificuldade."
+                        }
+                    ],
+                    "exortacao": "🔥 Exortação prática\nNão permita que as circunstâncias determinem sua adoração. Continue buscando a Deus mesmo quando a resposta ainda não chegou.",
+                    "reflexao": "💭 Reflexão para a vida cristã\nPaulo e Silas estavam feridos e presos, mas escolheram orar e cantar. Eles não sabiam como Deus agiria, mas continuaram confiando. A verdadeira fé não depende de compreender todas as circunstâncias; ela permanece firme porque conhece aquele em quem colocou sua confiança.",
+                    "palavrasChave": [
+                        "🙏 Adoração: reconhecimento da grandeza de Deus por meio de louvor, oração e entrega.",
+                        "🎶 Louvor: expressão de gratidão e exaltação ao Senhor.",
+                        "🌍 Livramento: intervenção de Deus trazendo libertação ou sustentação em meio à dificuldade."
+                    ]
+                }
+            ]
+        },
+        {
+            "titulo": "📖 TÓPICO 3 — FILIPENSES: CHAMADO À ALEGRIA",
+            "texto": "Decorridos mais de dez anos desde aqueles acontecimentos, Paulo estava novamente preso e os crentes em Filipos também enfrentavam muitos sofrimentos. Nesse cenário, o apóstolo encaminha uma epístola cujo tema central é a alegria, mas que também fala de amor e saudade. A saudade surge quando um amor está distante. Simples assim. É embalado por esses sentimentos que Paulo escreve.",
+            "pontoPrincipal": "📌 Ponto principal: A verdadeira alegria cristã permanece mesmo em meio à distância, ao sofrimento e às dificuldades.",
+            "topicos": [
+                {
+                    "titulo": "🤝 Subtópico 1 — Paulo e Timóteo",
+                    "texto": "A carta começa apresentando Paulo e Timóteo como servos de Jesus Cristo, sem dar destaque à sua autoridade apostólica, o que revela uma postura de humildade por parte do apóstolo. Paulo também se refere a Jesus Cristo como Senhor, reconhecendo tanto sua realidade histórica quanto sua autoridade divina. Ele dirige a carta a todos os santos em Cristo Jesus, mostrando que os crentes em Filipos faziam parte da Igreja, o Corpo de Cristo.\nNa sequência, ele utiliza uma saudação que une dois elementos importantes: “graça”, comum entre os gentios, e “paz”, tradicional entre os judeus. Com isso, Paulo ensina que não há divisão na Igreja, pois todos são um só povo em Cristo. Os filipenses precisavam dessa confirmação.\nAlém disso, ao afirmar que a graça e a paz vêm de Deus Pai e do Senhor Jesus Cristo, Paulo os coloca juntos, sem distinções.",
+                    "pontoPrincipal": "📌 Ponto principal: Em Cristo, a Igreja é formada por um só povo unido pela graça e pela paz de Deus.",
+                    "versiculos": [
+                        {
+                            "referencia": "Filipenses 1.1",
+                            "texto": "“Paulo e Timóteo, servos de Jesus Cristo, a todos os santos em Cristo Jesus que estão em Filipos, com os bispos e diáconos:”",
+                            "pontoPrincipal": "📌 Ponto principal: Paulo apresenta os cristãos como santos em Cristo e a si mesmo como servo."
+                        },
+                        {
+                            "referencia": "Filipenses 1.2",
+                            "texto": "“Graça a vós e paz, da parte de Deus, nosso Pai, e da do Senhor Jesus Cristo.”",
+                            "pontoPrincipal": "📌 Ponto principal: A graça e a paz procedem de Deus Pai e do Senhor Jesus Cristo."
+                        }
+                    ],
+                    "exortacao": "🔥 Exortação prática\nSirva a Cristo com humildade e trate os irmãos como parte da mesma família espiritual, valorizando a unidade da Igreja.",
+                    "reflexao": "💭 Reflexão para a vida cristã\nPaulo poderia iniciar sua carta destacando sua autoridade, mas escolheu apresentar-se como servo. Isso nos ensina que, no Reino de Deus, a grandeza está ligada à disposição para servir. A graça e a paz recebidas de Deus também devem ser refletidas em nossos relacionamentos.",
+                    "palavrasChave": [
+                        "🤲 Servo: aquele que se coloca à disposição para cumprir a vontade de seu Senhor.",
+                        "❤️ Unidade: comunhão entre os membros do Corpo de Cristo.",
+                        "🕊️ Paz: condição de harmonia e reconciliação concedida por Deus."
+                    ]
+                },
+                {
+                    "titulo": "🌱 Subtópico 2 — Desde o primeiro dia",
+                    "texto": "Em seguida, Paulo destila por nove versículos toda a ternura paternal que nutre pelos filipenses, os quais, desde o primeiro dia (Fp 1.5), cooperam com seu ministério, o que faz toda a diferença. Na verdade, a perseverança em relacionamentos de cunho espiritual possui grande recompensa, e Paulo faz questão de dimensionar isso.\nOs crentes filipenses se destacaram em relação às demais igrejas neotestamentárias notadamente por sua perseverança em amor pelo apóstolo Paulo. Se observarmos os cristãos na Galácia, por exemplo, Paulo sofre uma decepção por eles cederem aos caprichos dos judaizantes; os de Tessalônica, por outro lado, tinham se enredado com muitas doutrinas que faziam, alguns, inclusive, perderem a esperança, mas em Filipos não há nenhuma repreensão. A igreja continua amando o apóstolo, vivendo em pureza doutrinária, e esse vínculo, desde o primeiro dia, nunca arrefeceu até aquele instante em que a epístola estava sendo escrita. Que Deus nos ajude a permanecermos fiéis a Deus e ao ministério até o fim.",
+                    "pontoPrincipal": "📌 Ponto principal: A perseverança na fé e na cooperação com o Evangelho fortalece os vínculos cristãos.",
+                    "versiculos": [
+                        {
+                            "referencia": "Filipenses 1.5",
+                            "texto": "“Pela vossa cooperação no evangelho desde o primeiro dia até agora.”",
+                            "pontoPrincipal": "📌 Ponto principal: Os filipenses permaneceram cooperando com o Evangelho desde o início."
+                        },
+                        {
+                            "referencia": "Filipenses 1.6",
+                            "texto": "“Tendo por certo isto mesmo: que aquele que em vós começou a boa obra a aperfeiçoará até ao Dia de Jesus Cristo.”",
+                            "pontoPrincipal": "📌 Ponto principal: Deus continua aperfeiçoando a obra que iniciou na vida dos seus filhos."
+                        }
+                    ],
+                    "exortacao": "🔥 Exortação prática\nNão seja fiel somente durante uma fase da caminhada; permaneça firme no serviço, na fé e na comunhão com Deus ao longo dos anos.",
+                    "reflexao": "💭 Reflexão para a vida cristã\nA perseverança dos filipenses demonstra que uma caminhada espiritual consistente produz frutos duradouros. Circunstâncias podem mudar, pessoas podem enfrentar dificuldades e o tempo pode passar, mas a fidelidade a Deus deve permanecer. Somos chamados a continuar cooperando com o Evangelho até o fim.",
+                    "palavrasChave": [
+                        "🌱 Perseverança: permanecer firme apesar das dificuldades e do passar do tempo.",
+                        "🤝 Cooperação: participação ativa na obra e na propagação do Evangelho.",
+                        "⏳ Fidelidade: constância em permanecer comprometido com Deus e sua Palavra."
+                    ]
+                },
+                {
+                    "titulo": "❤️ Subtópico 3 — Saudade, amor e alegria",
+                    "texto": "O apóstolo dos gentios dá graças a Deus todas as vezes que se lembra dos filipenses, fazendo isso com alegria (Fp 1.3,4), anuindo que tem por justo abrigar a todos eles no seu coração, porque eles sempre foram grandes amigos (Fp 1.7). Após, invoca a Deus como testemunha do grande amor e da grande saudade que sente pelos filipenses (Fp 1.8).\nPaulo, exaltando o amor presente na igreja em Filipos, diz que ora para que esse amor aumente cada vez mais (Fp 1.9) e, assim, os filipenses possam crescer em ciência e em todo o conhecimento, tendo acesso às coisas mais excelentes que estão escondidas em Deus (Fp 1.10). O objetivo é que eles saibam fazer boas escolhas, vivam com sinceridade e pureza, fazendo-os cheios de frutos de justiça, até o dia do retorno de Cristo (Fp 1.10,11).",
+                    "pontoPrincipal": "📌 Ponto principal: O amor cristão deve crescer em conhecimento, discernimento e frutos de justiça.",
+                    "versiculos": [
+                        {
+                            "referencia": "Filipenses 1.9",
+                            "texto": "“E peço isto: que o vosso amor aumente mais e mais em ciência e em todo o conhecimento.”",
+                            "pontoPrincipal": "📌 Ponto principal: O amor cristão deve crescer acompanhado de conhecimento e discernimento."
+                        },
+                        {
+                            "referencia": "Filipenses 1.11",
+                            "texto": "“Cheios de frutos de justiça, que são por Jesus Cristo, para glória e louvor de Deus.”",
+                            "pontoPrincipal": "📌 Ponto principal: O crescimento espiritual produz frutos de justiça para a glória de Deus."
+                        }
+                    ],
+                    "exortacao": "🔥 Exortação prática\nCultive relacionamentos marcados pelo amor cristão e permita que esse amor seja acompanhado pela verdade, pelo conhecimento da Palavra e por atitudes que glorifiquem a Deus.",
+                    "reflexao": "💭 Reflexão para a vida cristã\nPaulo não apenas sentia saudade dos filipenses; ele orava pelo crescimento espiritual deles. O verdadeiro amor cristão deseja o bem espiritual do outro. Por isso, amar também significa incentivar, orar, ensinar e caminhar junto, buscando que nossa vida produza frutos que honrem a Cristo.",
+                    "palavrasChave": [
+                        "❤️ Amor: disposição de buscar o bem do próximo segundo os princípios de Cristo.",
+                        "🧠 Conhecimento: compreensão crescente da verdade de Deus.",
+                        "🍇 Frutos: resultados visíveis de uma vida transformada e dedicada a Cristo."
+                    ]
+                }
+            ]
+        }
+    ],
+    "conclusao": "📖 CONCLUSÃO\n👀 Percebe-se que o chamado à alegria dizia respeito à igreja em Filipos, mas não somente a eles, pois nós também temos essa missão de viver em um mundo conturbado, que jaz no Maligno, mas cheios da alegria do Senhor.\n🌎 Isso não significa fechar os olhos para as dificuldades da vida, porém enxergar o clarão da glória de Deus que ilumina a vereda daqueles que são fiéis,\n✨ “como a luz da aurora que vai brilhando cada vez mais até ser dia perfeito”.",
+    "perguntas": [
+        {
+            "nivel": "🟢 Fácil",
+            "pergunta": "Qual é o tema central da Carta aos Filipenses?",
+            "resposta": "A alegria cristã, mesmo em meio às dificuldades e sofrimentos."
+        },
+        {
+            "nivel": "🟡 Média",
+            "pergunta": "Quem acompanhou Paulo em sua Segunda Viagem Missionária?",
+            "resposta": "Silas, Timóteo e Lucas acompanharam Paulo em diferentes etapas da Segunda Viagem Missionária."
+        },
+        {
+            "nivel": "🔴 Difícil",
+            "pergunta": "Por que conhecer o contexto histórico de Filipos é importante para compreender a epístola?",
+            "resposta": "Porque permite compreender as circunstâncias políticas, sociais, religiosas e culturais que influenciavam a cidade e ajudam a entender melhor as palavras de Paulo aos filipenses."
+        },
+        {
+            "nivel": "🔴 Difícil",
+            "pergunta": "O que aconteceu quando Paulo e Silas chegaram a Filipos e começaram a anunciar o Evangelho?",
+            "resposta": "O Evangelho alcançou pessoas como Lídia, mas posteriormente Paulo expulsou um espírito maligno de uma jovem, provocando a reação de seus donos, que os acusaram e fizeram com que fossem açoitados e presos."
+        },
+        {
+            "nivel": "🔴 Difícil",
+            "pergunta": "Como Paulo demonstra seu relacionamento com os filipenses no início da carta?",
+            "resposta": "Paulo demonstra gratidão, amor, saudade e alegria ao lembrar dos filipenses, reconhecendo sua cooperação no Evangelho e orando para que o amor deles aumentasse em conhecimento e discernimento."
+        }
+    ]
+},
         }
     },
     juvenis: {
@@ -3716,6 +4090,277 @@ const licoes = {
     
 
         "4": {
+        "1": {
+    "numero": "Lição 1",
+    "titulo": "A NATUREZA DO ESPÍRITO SANTO",
+    "perguntaGancho": "🎯 Se o Espírito Santo é Deus, está presente em todos os lugares, consola, dá vida e nos ensina, o que isso muda na maneira como devemos nos relacionar com Ele diariamente?",
+    "curiosidade": "🔎 Você sabia que a Bíblia apresenta o Espírito Santo não apenas como uma força ou influência, mas como alguém que ensina, consola, guia, fala e age? Ao longo desta lição, veremos diferentes características que revelam a natureza divina e a atuação do Espírito Santo na vida do cristão.",
+    "textoPrincipal": "\"Portanto, ide, ensinai todas as nações, batizando-as em nome do Pai, e do Filho, e do Espírito Santo.\" (Mt 28.19)",
+    "pontoPrincipal": "O Espírito Santo é Deus e atua em perfeita unidade com o Pai e o Filho na obra de Deus.",
+    "devocional": [
+        {
+            "dia": "✨ SEG — O Espírito Santo é Deus",
+            "versiculo": "📖 \"Porque qual dos homens sabe as coisas do homem, senão o espírito do homem, que nele está? Assim também ninguém sabe as coisas de Deus, senão o Espírito de Deus.\" — 1 Coríntios 2.11",
+            "texto": "O apóstolo Paulo ensina que o Espírito Santo conhece profundamente as coisas de Deus. Isso demonstra que Ele não é uma força impessoal, mas participa da natureza e da obra divina. O Espírito conhece aquilo que pertence a Deus e revela aos cristãos as verdades que vêm do Senhor. Por isso, devemos reconhecer Sua presença e Sua atuação com reverência e fé.",
+            "pontos": [
+                "🙏 Conhecimento: O Espírito Santo conhece profundamente as coisas de Deus.",
+                "🕊️ Revelação: Ele nos ajuda a compreender as verdades espirituais.",
+                "✨ Reverência: Reconhecer quem Ele é deve produzir respeito e confiança."
+            ],
+            "advertencia": "⚠️ Advertência: Não devemos tratar o Espírito Santo como uma simples influência ou força, ignorando Sua natureza divina.",
+            "aplicacao": "💭 Aplicação pessoal: Busque conhecer mais a Palavra de Deus e permita que o Espírito Santo conduza sua compreensão e sua caminhada cristã.",
+            "fechamento": "✨ Conhecer o Espírito é reconhecer a presença de Deus em nossa caminhada."
+        },
+        {
+            "dia": "✨ TER — O Espírito Santo é Onipresente",
+            "versiculo": "📖 \"Para onde me irei do teu Espírito ou para onde fugirei da tua face?\" — Salmos 139.7",
+            "texto": "O salmista reconhece que não existe lugar onde possa escapar da presença de Deus. O Espírito Santo não está limitado a um único lugar, pois Sua presença alcança toda a criação. Essa verdade nos lembra que Deus está presente tanto nos momentos públicos quanto nos momentos que ninguém vê. Saber disso deve trazer segurança ao coração e também nos levar a viver com responsabilidade diante do Senhor.",
+            "pontos": [
+                "🙏 Presença: O Espírito Santo está presente onde quer que estejamos.",
+                "🌎 Alcance: Nenhum lugar está fora do conhecimento e da presença de Deus.",
+                "❤️ Segurança: A presença divina fortalece o cristão em todos os momentos."
+            ],
+            "advertencia": "⚠️ Advertência: Não devemos pensar que podemos esconder nossas atitudes de Deus, pois Sua presença não está limitada aos lugares onde outras pessoas podem nos ver.",
+            "aplicacao": "💭 Aplicação pessoal: Lembre-se da presença de Deus durante todo o dia e procure viver de maneira que honre ao Senhor em cada ambiente.",
+            "fechamento": "✨ Onde você estiver, Deus não está distante."
+        },
+        {
+            "dia": "✨ QUA — O Espírito Santo nos Consola",
+            "versiculo": "📖 \"Assim, pois, as igrejas em toda a Judeia, e Galileia, e Samaria tinham paz e eram edificadas; e se multiplicavam, andando no temor do Senhor e consolação do Espírito Santo.\" — Atos 9.31",
+            "texto": "A Igreja enfrentava períodos de dificuldades, mas continuava sendo fortalecida pela consolação do Espírito Santo. A presença do Espírito não eliminava todos os desafios, mas dava aos cristãos condições para continuar caminhando com fé. A consolação recebida produzia edificação, temor do Senhor e crescimento. O mesmo Deus continua fortalecendo Seu povo em meio às circunstâncias da vida.",
+            "pontos": [
+                "🤍 Consolo: O Espírito Santo fortalece aqueles que enfrentam dificuldades.",
+                "🏠 Edificação: Sua atuação contribui para o crescimento da Igreja.",
+                "🕊️ Perseverança: A consolação divina nos ajuda a continuar firmes."
+            ],
+            "advertencia": "⚠️ Advertência: Não devemos permitir que as dificuldades nos afastem da comunhão com Deus e da vida da Igreja.",
+            "aplicacao": "💭 Aplicação pessoal: Quando enfrentar momentos difíceis, busque a presença de Deus em oração e permaneça próximo da comunidade cristã.",
+            "fechamento": "✨ O Espírito Santo transforma momentos de dor em oportunidades de permanecer firmes."
+        },
+        {
+            "dia": "✨ QUI — O Espírito Santo nos Dá Vida",
+            "versiculo": "📖 \"O Espírito de Deus me fez, e a inspiração do Todo-Poderoso me deu vida.\" — Jó 33.4",
+            "texto": "Eliú reconhece que a vida humana está relacionada à ação de Deus. O Espírito de Deus é apresentado como aquele que participou da criação e concede vida. Essa verdade nos lembra que nossa existência não é independente do Criador. Cada dia recebido deve ser visto como uma oportunidade para reconhecer a bondade de Deus e viver de acordo com Sua vontade.",
+            "pontos": [
+                "🌬️ Vida: O Espírito de Deus está relacionado à origem da vida.",
+                "🙏 Dependência: Nossa existência depende do poder do Criador.",
+                "✨ Gratidão: Reconhecer a ação de Deus deve produzir gratidão."
+            ],
+            "advertencia": "⚠️ Advertência: Não devemos tratar a vida como algo sem propósito, esquecendo que ela pertence ao Deus que nos criou.",
+            "aplicacao": "💭 Aplicação pessoal: Agradeça a Deus pela vida que recebeu e use cada dia para servi-Lo e fazer o bem às pessoas ao seu redor.",
+            "fechamento": "✨ Cada novo dia é uma oportunidade de viver para Deus."
+        },
+        {
+            "dia": "✨ SEX — O Espírito Santo é Soberano",
+            "versiculo": "📖 \"Quem guiou o Espírito do Senhor? E que conselheiro o ensinou?\" — Isaías 40.13",
+            "texto": "Isaías apresenta a grandeza de Deus e mostra que ninguém pode ensinar ou dirigir o Espírito do Senhor. O Espírito não depende da sabedoria humana para realizar Sua obra. Sua atuação está acima das limitações e dos conhecimentos humanos. Essa verdade nos conduz à humildade e nos ensina a confiar na sabedoria de Deus.",
+            "pontos": [
+                "👑 Soberania: O Espírito do Senhor não depende da orientação humana.",
+                "📖 Sabedoria: Deus conhece perfeitamente todas as coisas.",
+                "🙏 Humildade: Reconhecer a grandeza de Deus nos ajuda a confiar nEle."
+            ],
+            "advertencia": "⚠️ Advertência: Não devemos colocar nossa própria compreensão acima da direção e da sabedoria de Deus.",
+            "aplicacao": "💭 Aplicação pessoal: Diante de decisões e situações difíceis, ore, busque a Palavra e confie na direção do Senhor.",
+            "fechamento": "✨ Quando reconhecemos a grandeza de Deus, aprendemos a confiar mais e controlar menos."
+        },
+        {
+            "dia": "✨ SAB — O Espírito Santo nos Ensina",
+            "versiculo": "📖 \"Mas aquele Consolador, o Espírito Santo, que o Pai enviará em meu nome, vos ensinará todas as coisas.\" — João 14.26",
+            "texto": "Jesus prometeu aos discípulos que o Pai enviaria o Espírito Santo para acompanhá-los e ensiná-los. O Espírito Santo teria um papel fundamental na lembrança e compreensão dos ensinamentos de Jesus. Assim, o cristão não caminha sozinho na compreensão da verdade bíblica. Precisamos permanecer atentos à Palavra de Deus e depender da atuação do Espírito Santo para viver aquilo que aprendemos.",
+            "pontos": [
+                "📖 Ensino: O Espírito Santo nos ajuda a compreender os ensinamentos de Jesus.",
+                "🧠 Memória: Ele faz os discípulos lembrarem aquilo que Cristo ensinou.",
+                "🚶 Prática: O conhecimento recebido deve transformar nossa maneira de viver."
+            ],
+            "advertencia": "⚠️ Advertência: Não devemos buscar orientação espiritual desprezando os ensinamentos apresentados por Jesus e registrados na Palavra.",
+            "aplicacao": "💭 Aplicação pessoal: Leia a Bíblia com oração e peça ao Espírito Santo que o ajude a compreender e praticar aquilo que Deus ensina.",
+            "fechamento": "✨ Quem aprende com o Espírito Santo encontra direção para viver a Palavra."
+        }
+    ],
+    "leituraBiblica": "João 3.5-8; 1 Coríntios 2.9-13",
+    "bibliaDiz": {
+        "versiculo": "João 3.5-8 — 5 Jesus respondeu: Na verdade, na verdade te digo que aquele que não nascer da água e do Espírito não pode entrar no Reino de Deus. 6 O que é nascido da carne é carne, e o que é nascido do Espírito é espírito. 7 Não te maravilhes de te ter dito: Necessário vos é nascer de novo. 8 O vento assopra onde quer, e ouves a sua voz, mas não sabes donde vem, nem para onde vai; assim é todo aquele que é nascido do Espírito.\n\n1 Coríntios 2.9-13 — 9 Mas, como está escrito: As coisas que o olho não viu, e o ouvido não ouviu, e não subiram ao coração do homem são as que Deus preparou para os que o amam. 10 Mas Deus no-las revelou pelo seu Espírito: porque o Espírito penetra todas as coisas, ainda as profundezas de Deus. 11 Porque qual dos homens sabe as coisas do homem, senão o espírito do homem, que nele está? Assim também ninguém sabe as coisas de Deus, senão o Espírito de Deus. 12 Mas nós não recebemos o espírito do mundo, mas o Espírito que provém de Deus, para que pudéssemos conhecer o que nos é dado gratuitamente por Deus. 13 As quais também falamos, não com palavras de sabedoria humana, mas com as que o Espírito Santo ensina, comparando as coisas espirituais com as espirituais.",
+        "pontoPrincipal": "🎯 O Espírito Santo atua no novo nascimento e revela ao cristão as verdades de Deus."
+    },
+    "objetivos": [
+        "📖 COMPREENDER que o Espírito Santo é Deus e possui natureza divina.",
+        "🕊️ IDENTIFICAR a personalidade, os atributos e a atuação do Espírito Santo.",
+        "❤️ RECONHECER a importância de desenvolver um relacionamento de reverência, comunhão e dependência do Espírito Santo."
+    ],
+    "introducao": "A Bíblia apresenta o Espírito Santo como Deus, como Pessoa e como aquele que atua diretamente na vida do ser humano e na Igreja. Nesta lição, estudaremos Sua natureza divina, Sua personalidade, Sua onisciência e Sua atuação na regeneração. Compreender essas verdades nos ajuda a reconhecer a importância do Espírito Santo e a desenvolver uma vida de comunhão e dependência de Deus.",
+    "desenvolvimento": [
+        {
+            "titulo": "📖 TÓPICO 1 — QUEM É O ESPÍRITO SANTO?",
+            "texto": "O Espírito Santo é apresentado nas Escrituras como a terceira Pessoa da Santíssima Trindade, plenamente Deus e pessoalmente atuante na vida dos cristãos.",
+            "pontoPrincipal": "🎯 O Espírito Santo é Deus e é uma Pessoa que se relaciona conosco.",
+            "topicos": [
+                {
+                    "titulo": "SUBTÓPICO 1.1 — ELE É DEUS",
+                    "texto": "O Espírito Santo é a terceira Pessoa da Santíssima Trindade, Deus igual ao Pai e ao Filho (Mt 28.19). O Espírito Santo é da mesma substância, da mesma espécie, de mesmo poder e glória do Pai e do Filho. Ele não é uma parte da Divindade, mas, sim, Deus em toda a sua plenitude e, por isso mesmo, é incriado, autoexistente e absolutamente autônomo (1 Co 2.12). Ele é o Espírito Eterno e existe por si mesmo, pertence à mesma essência e substância indivisível e eterna do Pai e do Filho (Jo 15.26; 1 Co 2.10,11). Diferente dos homens e dos anjos que foram criados (Cl 1.16) e dependem do Criador, o Espírito Santo não depende de nada, pois Ele é o Senhor: “este Senhor é o Espírito” (2 Co 3.17, NAA). É importante ressaltar que apesar de o Espírito Santo ser chamado de a “Terceira Pessoa da Trindade”, não se pode entender essa denominação como uma posição hierárquica. Não existe, em essência, nenhuma pessoa superior ou inferior na Trindade.",
+                    "pontoPrincipal": "🎯 O Espírito Santo é Deus, plenamente igual ao Pai e ao Filho.",
+                    "versiculos": [
+                        {
+                            "referencia": "Mateus 28.19",
+                            "texto": "“Portanto, ide, ensinai todas as nações, batizando-as em nome do Pai, e do Filho, e do Espírito Santo.”",
+                            "pontoPrincipal": "O Espírito Santo é apresentado juntamente com o Pai e o Filho."
+                        },
+                        {
+                            "referencia": "2 Coríntios 3.17",
+                            "texto": "“Ora, o Senhor é o Espírito; e onde está o Espírito do Senhor, aí há liberdade.”",
+                            "pontoPrincipal": "A Bíblia identifica o Espírito Santo como Senhor."
+                        }
+                    ],
+                    "exortacao": "Reconheça a divindade do Espírito Santo e cultive uma vida de reverência, obediência e comunhão com Deus.",
+                    "reflexao": "Se o Espírito Santo é Deus, nossa relação com Ele não deve ser superficial. Devemos valorizar Sua presença, ouvir Sua direção e viver de acordo com a Palavra.",
+                    "palavrasChave": [
+                        "Trindade: Um único Deus revelado em três Pessoas: Pai, Filho e Espírito Santo.",
+                        "Divindade: Natureza própria de Deus, atribuída plenamente ao Espírito Santo.",
+                        "Eterno: Aquele que não foi criado e não possui começo ou fim."
+                    ]
+                },
+                {
+                    "titulo": "SUBTÓPICO 1.2 — UM SER PESSOAL",
+                    "texto": "O Espírito Santo é uma pessoa, Ele não é uma mera influência, energia ou poder como algumas pessoas acreditam. Sua pessoalidade é defendida na Bíblia, onde são revelados todos os elementos que constituem a personalidade do Espírito Santo como intelecto, emoção e vontade. O Senhor Jesus chama o Espírito Santo de o “Consolador” (Jo 14.26; 15.26; 16.7), tradução do termo grego Parákletos, que segundo o Dicionário Bíblico Wycliffe (CPAD) quer dizer “Confortador, Ajudador, Advogado, Conselheiro e Consolador”, que são atribuições tipicamente pessoais. Quando Jesus chama o Espírito Santo de “outro” Consolador (Jo 14.16), significa que assim como Jesus, o Espírito Santo continuaria a mesma tarefa de consolação. Jesus não é uma força ou energia consoladora, Ele é uma pessoa que consola a outras; assim o Espírito Santo também é um ser pessoal que se relaciona conosco. Outros aspectos que confirmam o Espírito Santo como um ser pessoal é que Ele tem uma vontade (1 Co 12.11); Ele se entristece (Ef 4.30); Ele ora (Rm 8.26); Ele fala (At 8.29). O Espírito Santo ensina, fala, guia, julga, ama, contende, convida e intercede.",
+                    "pontoPrincipal": "🎯 O Espírito Santo é uma Pessoa que pensa, sente, age e se relaciona conosco.",
+                    "versiculos": [
+                        {
+                            "referencia": "João 14.26",
+                            "texto": "“Mas aquele Consolador, o Espírito Santo, que o Pai enviará em meu nome, vos ensinará todas as coisas e vos fará lembrar de tudo quanto vos tenho dito.”",
+                            "pontoPrincipal": "O Espírito Santo ensina e orienta os seguidores de Jesus."
+                        },
+                        {
+                            "referencia": "Efésios 4.30",
+                            "texto": "“E não entristeçais o Espírito Santo de Deus, no qual estais selados para o Dia da redenção.”",
+                            "pontoPrincipal": "O Espírito Santo possui sentimentos e pode ser entristecido."
+                        }
+                    ],
+                    "exortacao": "Trate o Espírito Santo com reverência, reconhecendo Sua atuação pessoal e buscando viver em comunhão com Ele.",
+                    "reflexao": "O Espírito Santo não é uma energia distante. Ele se relaciona conosco, ensina, guia, consola e intercede; por isso, nossa caminhada cristã deve envolver comunhão constante com Sua presença.",
+                    "palavrasChave": [
+                        "Pessoa: Alguém que possui vontade, sentimentos e capacidade de agir e se relacionar.",
+                        "Consolador: Aquele que auxilia, conforta, aconselha e fortalece.",
+                        "Comunhão: Relacionamento próximo e contínuo com Deus."
+                    ]
+                }
+            ]
+        },
+        {
+            "titulo": "📖 TÓPICO 2 — A NATUREZA DIVINA DO ESPÍRITO SANTO",
+            "texto": "Das muitas experiências relatadas por Lucas em Atos dos Apóstolos, temos o relato intrigante de Ananias e Safira (At 5.1-11). O casal decidiu vender uma propriedade para entregar o dinheiro aos apóstolos, mas mentiu sobre o valor. Pedro declarou: “Não mentiste aos homens, mas a Deus” (At 5.3,4). A passagem evidencia a natureza divina do Espírito Santo.",
+            "pontoPrincipal": "🎯 O Espírito Santo possui natureza divina e é Deus.",
+            "topicos": [
+                {
+                    "titulo": "SUBTÓPICO 2.1 — O ESPÍRITO SANTO É ONISCIENTE",
+                    "texto": "Onisciência é a capacidade de saber todas as coisas. Entendemos que se trata de um atributo divino, pois somente Deus é sabedor de tudo, logo, o Espírito Santo também é, pois já vimos que Ele também é Deus. Ele sabe quem somos, o que fazemos, aonde vamos e o que pensamos. Paulo declara em 1 Coríntios 2.10: “porque o Espírito penetra todas as coisas, ainda as profundezas de Deus.” O salmista diz: “Para onde me irei do teu Espírito ou para onde fugirei da tua face?” (Sl 139.7). Nada escapa ao conhecimento do Espírito Santo. Por isso devemos ter reverência, gratidão e confiança.",
+                    "pontoPrincipal": "🎯 O Espírito Santo conhece todas as coisas.",
+                    "versiculos": [
+                        {
+                            "referencia": "1 Coríntios 2.10",
+                            "texto": "“Mas Deus no-las revelou pelo seu Espírito; porque o Espírito penetra todas as coisas, ainda as profundezas de Deus.”",
+                            "pontoPrincipal": "O Espírito Santo conhece até as profundezas de Deus."
+                        },
+                        {
+                            "referencia": "Salmos 139.7",
+                            "texto": "“Para onde me irei do teu Espírito ou para onde fugirei da tua face?”",
+                            "pontoPrincipal": "Não podemos fugir da presença do Espírito Santo."
+                        }
+                    ],
+                    "exortacao": "Viva com reverência e sinceridade diante de Deus, sabendo que nada fica oculto ao conhecimento do Espírito Santo.",
+                    "reflexao": "Saber que o Espírito Santo conhece todas as coisas deve produzir em nós tanto reverência quanto confiança. Ele conhece nossas fraquezas, necessidades e situações.",
+                    "palavrasChave": [
+                        "Onisciência: Capacidade de conhecer todas as coisas perfeitamente.",
+                        "Reverência: Respeito profundo diante da grandeza e santidade de Deus.",
+                        "Confiança: Segurança de que podemos depender de Deus em todas as circunstâncias."
+                    ]
+                }
+            ]
+        },
+        {
+            "titulo": "📖 TÓPICO 3 — O ESPÍRITO SANTO É REGENERADOR",
+            "texto": "Além de onisciente, o Espírito Santo desempenha uma função maravilhosa cooperando com Cristo na obra da salvação humana. É o Espírito Santo quem convence o homem do pecado, da justiça e do juízo (Jo 16.8), operando em nós o Novo Nascimento, a obra de regeneração, que é invisível aos olhos humanos.",
+            "pontoPrincipal": "🎯 O Espírito Santo opera a regeneração e conduz o pecador ao Novo Nascimento.",
+            "topicos": [
+                {
+                    "titulo": "SUBTÓPICO 3.1 — O QUE É REGENERAÇÃO",
+                    "texto": "Regeneração é a transformação do pecador em uma nova criatura pelo poder de Deus, como resultado do sacrifício de Jesus na cruz do Calvário (2 Co 5.17-19). Essa obra é também conhecida como Novo Nascimento, ou nascer de novo e nascer do Espírito (Jo 3.5,6). Trata-se de uma operação do Espírito Santo na salvação do pecador (Tt 3.5-7).",
+                    "pontoPrincipal": "🎯 A regeneração transforma o pecador em uma nova criatura pelo poder de Deus.",
+                    "versiculos": [
+                        {
+                            "referencia": "2 Coríntios 5.17",
+                            "texto": "“Assim que, se alguém está em Cristo, nova criatura é: as coisas velhas já passaram; eis que tudo se fez novo.”",
+                            "pontoPrincipal": "Quem está em Cristo recebe uma nova vida."
+                        },
+                        {
+                            "referencia": "Tito 3.5",
+                            "texto": "“Não pelas obras de justiça que houvéssemos feito, mas, segundo a sua misericórdia, nos salvou pela lavagem da regeneração e da renovação do Espírito Santo.”",
+                            "pontoPrincipal": "A regeneração e a renovação são obras do Espírito Santo."
+                        }
+                    ],
+                    "exortacao": "Valorize a nova vida que Deus concedeu por meio de Cristo. Abandone as antigas práticas e permita que o Espírito Santo continue produzindo transformação em seu caráter e em suas atitudes.",
+                    "reflexao": "A regeneração não é apenas uma mudança exterior. É uma transformação espiritual que começa no interior do ser humano e produz uma nova maneira de viver diante de Deus.",
+                    "palavrasChave": [
+                        "Regeneração: Transformação espiritual realizada por Deus.",
+                        "Nova criatura: Pessoa que recebeu uma nova vida em Cristo.",
+                        "Renovação: Ação contínua do Espírito Santo na vida do cristão."
+                    ]
+                },
+                {
+                    "titulo": "SUBTÓPICO 3.2 — O QUE É O NOVO NASCIMENTO",
+                    "texto": "Quando Nicodemos procurou Jesus a fim de saber o que era preciso fazer para ir ao céu, o Mestre lhe disse que era necessário nascer de novo. Nascer de novo não é reencarnar. Regenerar quer dizer “fazer de novo”. Trata-se de uma transformação integral do homem interior. Só mesmo o Espírito Santo é capaz de operar tal mudança. O mundo não nos compreende porque falamos de uma realidade de vida que só é compreensível no campo espiritual. Portanto, só os que nasceram de novo podem compreender isso claramente.",
+                    "pontoPrincipal": "🎯 O Novo Nascimento é uma transformação interior realizada pelo Espírito Santo.",
+                    "versiculos": [
+                        {
+                            "referencia": "João 3.3",
+                            "texto": "“Jesus respondeu e disse-lhe: Na verdade, na verdade te digo que aquele que não nascer de novo não pode ver o Reino de Deus.”",
+                            "pontoPrincipal": "O Novo Nascimento é necessário para ver o Reino de Deus."
+                        },
+                        {
+                            "referencia": "João 3.6",
+                            "texto": "“O que é nascido da carne é carne, e o que é nascido do Espírito é espírito.”",
+                            "pontoPrincipal": "O Novo Nascimento é uma obra espiritual realizada pelo Espírito."
+                        }
+                    ],
+                    "exortacao": "Não confunda uma mudança exterior com o verdadeiro Novo Nascimento. Permita que o Espírito Santo transforme seu interior e produza em você uma vida de acordo com a vontade de Deus.",
+                    "reflexao": "O Novo Nascimento é uma realidade espiritual que ultrapassa as mudanças externas da vida. É o Espírito Santo quem realiza essa transformação no interior do ser humano, fazendo com que ele passe a viver uma nova realidade em Cristo.",
+                    "palavrasChave": [
+                        "Novo Nascimento: Obra espiritual pela qual o ser humano recebe uma nova vida em Deus.",
+                        "Espírito: Aquele que realiza a transformação interior no processo do Novo Nascimento.",
+                        "Transformação: Mudança profunda que acontece no interior da pessoa."
+                    ]
+                }
+            ]
+        }
+    ],
+    "conclusao": "🏁 CONCLUSÃO\n📖 A Trindade é uma realidade bíblica. As páginas da Bíblia revelam o Pai, o Filho e o Espírito Santo. ✝️ Muitas pessoas se relacionam com o Pai e com o Filho, mas desprezam a Pessoa Bendita do Espírito Santo. 🕊️ Esperamos ter chamado a atenção para a necessidade de buscarmos um relacionamento com o Espírito Santo, assim o cristão pode provar de um encontro pleno com Deus (1 Ts 5.19). 🙏",
+    "perguntas": [
+        {
+            "nivel": "🟢 1. Fácil",
+            "pergunta": "Quem são as três Pessoas da Trindade?",
+            "resposta": "A Trindade é formada pelo Pai, pelo Filho e pelo Espírito Santo. A Bíblia revela um único Deus que existe eternamente em três Pessoas distintas, iguais em natureza divina, poder e glória."
+        },
+        {
+            "nivel": "🟡 2. Média",
+            "pergunta": "Por que podemos afirmar que o Espírito Santo é uma Pessoa e não apenas uma força ou influência?",
+            "resposta": "Porque a Bíblia apresenta o Espírito Santo possuindo vontade, sentimentos e capacidade de agir e se relacionar. Ele ensina, fala, guia, consola, intercede e pode ser entristecido, como vemos em textos como João 14.26, Atos 8.29, Romanos 8.26 e Efésios 4.30."
+        },
+        {
+            "nivel": "🟡 3. Média",
+            "pergunta": "Por que a Bíblia afirma que o Espírito Santo possui natureza divina?",
+            "resposta": "Porque a Bíblia atribui ao Espírito Santo características e ações próprias de Deus. Em Atos 5.3,4, Pedro afirma que mentir ao Espírito Santo era mentir a Deus. Além disso, o Espírito Santo é apresentado juntamente com o Pai e o Filho em Mateus 28.19, demonstrando Sua plena participação na natureza divina."
+        },
+        {
+            "nivel": "🔴 4. Difícil",
+            "pergunta": "O que significa dizer que o Espírito Santo é onisciente e como essa verdade deve influenciar nossa vida?",
+            "resposta": "Significa que o Espírito Santo conhece todas as coisas, inclusive as profundezas de Deus, e nada escapa ao Seu conhecimento. Essa verdade deve produzir em nós reverência e sinceridade, porque não podemos esconder nada de Deus, mas também confiança, pois Ele conhece nossas necessidades, fraquezas e circunstâncias e pode nos conduzir segundo Sua sabedoria."
+        },
+        {
+            "nivel": "🔴 5. Difícil",
+            "pergunta": "Qual é a relação entre regeneração e Novo Nascimento na obra do Espírito Santo?",
+            "resposta": "Regeneração e Novo Nascimento descrevem a transformação espiritual realizada pelo Espírito Santo na vida do pecador. Por meio dessa obra, a pessoa é transformada em uma nova criatura, recebe uma nova vida em Cristo e passa a viver uma realidade espiritual diferente. Conforme João 3.3-6 e Tito 3.5, essa transformação é interior e não pode ser reduzida a uma simples mudança exterior de comportamento."
+        }
+    ]
+},
+
         }
     },
 
@@ -4669,6 +5314,205 @@ const licoes = {
 
 
         "4": {
+        "1": {
+    "numero": "Lição 1",
+    "titulo": "VIVENDO COMO FILHOS DE DEUS",
+    "textoPrincipal": "“Pois aqueles que são guiados pelo Espírito de Deus são filhos de Deus.” Romanos 8.14",
+    "pontoPrincipal": "Viver como filhos de Deus é permitir que o Espírito Santo guie nossa vida.",
+    "leituraBiblica": "Romanos 8.14-18",
+    "perguntaGancho": "🎯 O que significa, na prática, viver como um verdadeiro filho de Deus?",
+    "curiosidade": "💡 A Bíblia usa a expressão “filhos de Deus” para mostrar uma relação de pertencimento e direção. Em Romanos 8, Paulo ensina que aqueles que são guiados pelo Espírito de Deus demonstram essa nova identidade em sua maneira de viver. Ou seja, ser filho de Deus não é apenas receber um título, mas permitir que o Espírito Santo conduza nossas escolhas e atitudes.",
+    "palavraChave": "👨‍👧 Filhos de Deus",
+    "devocional": [
+        {
+            "dia": "✨ Segunda-feira — Deus é nosso Pai",
+            "versiculo": "📖 “Mas agora, ó Senhor, tu és nosso Pai.” — Isaías 64.8",
+            "texto": "Isaías reconhece Deus como o Pai do seu povo e lembra que somos obra de suas mãos. Essa verdade nos conduz a confiar naquele que nos criou e conhece profundamente a nossa vida. Mesmo quando não compreendemos tudo o que acontece, podemos descansar no cuidado de Deus. Viver como filhos significa reconhecer sua autoridade e confiar em sua direção.",
+            "pontos": [
+                "🙏 Deus é nosso Pai e conhece nossas necessidades.",
+                "👐 Somos obra das mãos de Deus e pertencemos a Ele.",
+                "❤️ A confiança em Deus fortalece nossa caminhada."
+            ],
+            "advertencia": "⚠️ Advertência: Não permita que as dificuldades façam você esquecer quem Deus é e o cuidado que Ele tem por seus filhos.",
+            "aplicacao": "💭 Aplicação pessoal: Entregue hoje suas preocupações ao Senhor e procure confiar mais em sua direção.",
+            "fechamento": "✨ Quem pertence ao Pai nunca caminha sem cuidado."
+        },
+        {
+            "dia": "✨ Terça-feira — Deus cuida dos seus filhos",
+            "versiculo": "📖 “Pai dos órfãos e juiz das viúvas é Deus.” — Salmos 68.5",
+            "texto": "O salmista apresenta Deus como aquele que cuida dos que estão desamparados e exerce justiça em favor dos necessitados. Seu cuidado revela que o Senhor não é indiferente às dores humanas. Como filhos de Deus, somos chamados a confiar nesse cuidado e também demonstrá-lo em nossas atitudes. A fé verdadeira não ignora quem precisa de ajuda.",
+            "pontos": [
+                "🤲 Deus acolhe os que enfrentam situações de abandono.",
+                "⚖️ O Senhor é justo e não despreza os necessitados.",
+                "❤️ Seus filhos devem refletir seu cuidado pelas pessoas."
+            ],
+            "advertencia": "⚠️ Advertência: Não permita que a preocupação com seus próprios interesses torne você indiferente às necessidades de quem está ao seu redor.",
+            "aplicacao": "💭 Aplicação pessoal: Observe hoje alguém que precisa de apoio e demonstre, por meio de uma atitude concreta, o amor de Deus.",
+            "fechamento": "✨ O cuidado do Pai também pode alcançar alguém através de nós."
+        },
+        {
+            "dia": "✨ Quarta-feira — O Senhor nos conhece",
+            "versiculo": "📖 “Tu, ó Senhor, és nosso Pai; nosso Redentor desde a antiguidade é o teu nome.” — Isaías 63.16",
+            "texto": "Isaías reconhece Deus como Pai e Redentor do seu povo. Mesmo diante das dificuldades, o profeta lembra que a identidade e a esperança de Israel estavam no Senhor. Essa verdade nos ensina que Deus não é apenas poderoso, mas também se relaciona com seu povo com cuidado e propósito. Viver como filhos envolve lembrar quem é o nosso Pai e confiar nele.",
+            "pontos": [
+                "👑 Deus continua sendo nosso Pai em todos os momentos.",
+                "🛡️ O Senhor é nosso Redentor e nossa esperança.",
+                "🙏 Lembrar quem Deus é fortalece nossa fé."
+            ],
+            "advertencia": "⚠️ Advertência: Não deixe as circunstâncias presentes definirem sua visão sobre Deus.",
+            "aplicacao": "💭 Aplicação pessoal: Quando surgir uma dificuldade, pare e lembre-se conscientemente de quem é o Senhor em quem você confia.",
+            "fechamento": "✨ Quando lembramos quem é o Pai, encontramos força para continuar."
+        },
+        {
+            "dia": "✨ Quinta-feira — O Pai conhece nossas limitações",
+            "versiculo": "📖 “Como um pai se compadece de seus filhos, assim o Senhor se compadece dos que o temem.” — Salmos 103.13",
+            "texto": "O salmista compara a compaixão de Deus ao cuidado de um pai por seus filhos. Ele também lembra que o Senhor conhece nossa estrutura e sabe que somos frágeis. Deus não ignora nossas limitações, mas nos trata com compaixão. Essa verdade nos ensina a depender dele com humildade e a buscar sua graça diariamente.",
+            "pontos": [
+                "🤍 Deus conhece nossas fraquezas.",
+                "🫂 O Senhor demonstra compaixão por aqueles que o temem.",
+                "🙏 Reconhecer nossa limitação nos leva a depender de Deus."
+            ],
+            "advertencia": "⚠️ Advertência: Não confunda a compaixão de Deus com permissão para permanecer conscientemente no pecado.",
+            "aplicacao": "💭 Aplicação pessoal: Reconheça diante do Senhor suas limitações e peça graça para viver de acordo com sua vontade.",
+            "fechamento": "✨ Aquele que conhece nossa fraqueza também nos chama a confiar nele."
+        },
+        {
+            "dia": "✨ Sexta-feira — O amor que nos torna filhos",
+            "versiculo": "📖 “Vede quão grande amor nos tem concedido o Pai, a ponto de sermos chamados filhos de Deus.” — 1 João 3.1",
+            "texto": "João chama a atenção para a grandeza do amor de Deus demonstrado ao nos permitir sermos chamados seus filhos. Essa identidade não deve ser tratada como algo comum ou sem valor. O amor do Pai transforma nossa maneira de enxergar quem somos e como devemos viver. Como filhos de Deus, somos chamados a reconhecer esse amor e permanecer firmes nele.",
+            "pontos": [
+                "❤️ O amor do Pai é grande e verdadeiro.",
+                "👨‍👧 Ser chamado filho de Deus é uma identidade preciosa.",
+                "🌱 Essa identidade deve influenciar nossa maneira de viver."
+            ],
+            "advertencia": "⚠️ Advertência: Não trate como algo comum a graça de Deus que nos alcançou.",
+            "aplicacao": "💭 Aplicação pessoal: Agradeça hoje ao Senhor por seu amor e procure demonstrá-lo em suas palavras e atitudes.",
+            "fechamento": "✨ Quem conhece o amor do Pai aprende a viver como filho."
+        },
+        {
+            "dia": "✨ Sábado — Filhos pela fé em Cristo",
+            "versiculo": "📖 “Mas, a todos quantos o receberam, deu-lhes o poder de serem feitos filhos de Deus.” — João 1.12",
+            "texto": "João ensina que aqueles que recebem Cristo e creem em seu nome recebem o privilégio de serem feitos filhos de Deus. Essa nova identidade não depende de esforço humano ou de origem familiar, mas está relacionada à fé em Cristo. Deus nos chama para uma nova vida marcada pelo relacionamento com Ele. Por isso, viver como filho de Deus começa com receber a Cristo e confiar nele.",
+            "pontos": [
+                "✝️ Receber Cristo está no centro dessa nova identidade.",
+                "🙏 A fé em Jesus está relacionada ao privilégio de ser filho de Deus.",
+                "🌿 Essa nova identidade conduz a uma nova maneira de viver."
+            ],
+            "advertencia": "⚠️ Advertência: Não reduza a fé cristã a uma simples identificação religiosa sem uma vida de confiança em Cristo.",
+            "aplicacao": "💭 Aplicação pessoal: Examine hoje sua caminhada com Jesus e procure demonstrar, em atitudes, que sua vida pertence a Ele.",
+            "fechamento": "✨ Em Cristo, recebemos uma nova identidade e um novo caminho."
+        }
+    ],
+    "objetivos": [
+        "👨‍👧 ENSINAR sobre a paternidade de Deus;",
+        "❤️ EXPLICAR que a disciplina divina não consiste em punição, mas em expressão de amor e cuidado;",
+        "🔥 DESAFIAR os adolescentes a viverem como filhos de Deus."
+    ],
+    "introducao": "📖 Vamos Descobrir\nA vida nos apresenta grandes desafios. Na escola, na família, no local onde moramos sempre encontramos situações desafiadoras que temos de enfrentar.\nComo fazer a escolha certa? Como seguir a Deus e obedecer a sua Palavra no cotidiano? Este é o maior desafio do cristão. Neste trimestre, vamos refletir sobre essa questão e descobrir como sermos filhos obedientes a Deus.\n\n📌 Ponto principal\nViver como filho de Deus é escolher obedecer à sua Palavra em todos os momentos.",
+    "desenvolvimento": [
+        {
+            "titulo": "📖 TÓPICO 1 — DEUS É PAI",
+            "texto": "A Bíblia nos ensina que Deus é o nosso Pai (Fp 1.2). Mas o que isso significa? Todos os seres humanos são criaturas de Deus. Ele é o Criador de tudo o que existe (Cl 1.16). Ele ama e quer salvar todas as pessoas. Entretanto, a Palavra de Deus diz que apenas aqueles que creem em Jesus como Salvador ganham o direito de tornarem-se filhos de Deus (Jo 1.12,13).\n\nIsso quer dizer que, quando a pessoa aceita a Jesus como único e suficiente Salvador, seus pecados são perdoados e Deus a adota como filho (Rm 8.15,16). Ao se tornar filho de Deus, cada cristão passa a fazer parte da grande família de Deus. É por isso que, na igreja, chamamos uns aos outros de irmãos. Fazemos assim porque todos temos o mesmo Pai, o Senhor.\n\nVocê é filho de Deus. Você compreende a grandeza dessa notícia? É importante que você entenda e assuma essa identidade. A paternidade de Deus é perfeita.\n\nEle ama e compreende seus filhos. Deus cuida, ensina e protege (1 Pe 5.7). Ele sempre está presente. Assim, quem é filho de Deus precisa conhecê-lo mais e mais. É necessário construir uma relação pessoal e verdadeira com Ele através da prática da oração e do estudo das Escrituras. Mediante um relacionamento íntimo com Deus, você aprenderá a ouvir e a obedecer ao Pai. Ele te ama infinitamente e o seu amor nunca acabará (Jo 3.16; Rm 8.39).\n\nVivemos em uma sociedade em que muitas pessoas se sentem sozinhas e abandonadas por suas famílias e amigos. Algumas experimentaram o doloroso sentimento de rejeição. Porém, em Deus, isso não acontece. Se você já experimentou algum sentimento dessa natureza, abra seu coração para Deus e apresente suas dores. Ele irá curá-lo. A paternidade dEle é perfeita e seu amor e graça são abundantes. Assuma sua condição de filho em oração e Ele suprirá todas as suas necessidades (Fp 4.19).",
+            "pontoPrincipal": "📌 Em Cristo, somos filhos de Deus e podemos confiar no cuidado do nosso Pai.",
+            "versiculos": [
+                {
+                    "referencia": "João 1.12",
+                    "texto": "“Mas, a todos quantos o receberam, deu-lhes o poder de serem feitos filhos de Deus, aos que creem no seu nome.”",
+                    "pontoPrincipal": "Quem recebe Cristo pela fé recebe o direito de ser filho de Deus."
+                },
+                {
+                    "referencia": "1 Pedro 5.7",
+                    "texto": "“Lançando sobre ele toda a vossa ansiedade, porque ele tem cuidado de vós.”",
+                    "pontoPrincipal": "Deus cuida de seus filhos e podemos entregar a Ele nossas preocupações."
+                }
+            ],
+            "exortacao": "🔥 Exortação prática\nNão permita que sentimentos de rejeição, solidão ou abandono definam sua identidade. Busque conhecer cada vez mais a Deus por meio da oração e da leitura da Palavra, confiando no cuidado do Pai.",
+            "reflexao": "💭 Reflexão para a vida cristã\nSer filho de Deus é mais do que carregar um nome ou frequentar uma igreja. É desenvolver um relacionamento verdadeiro com o Pai, ouvir sua Palavra e permitir que ela transforme nossas escolhas e atitudes.",
+            "palavrasChave": [
+                "👨‍👧 Paternidade: Relação de Deus com aqueles que, pela fé em Cristo, são recebidos como seus filhos.",
+                "❤️ Cuidado: A atenção e o amor de Deus demonstrados para com seus filhos.",
+                "🙏 Relacionamento: Comunhão pessoal com Deus desenvolvida por meio da oração, da Palavra e da obediência."
+            ]
+        },
+        {
+            "titulo": "📖 TÓPICO 2 — DEUS É PAI E CUIDA DOS SEUS FILHOS",
+            "texto": "Deus conhece nossas necessidades, seja de ordem material ou emocional, física ou espiritual. E, como um bom Pai, Ele quer cuidar de cada um dos seus filhos (Mt 6.31-33). Afinal, quem ama, cuida.\n\nO cuidado de Deus não objetiva nos mimar ou fazer nossas vontades. Não se trata disso, e sim de instrução, amadurecimento, proteção, transformação espiritual, crescimento ministerial e santificação. O cuidado de Deus está focado na preservação da fé, da vida e da família. Deus quer que você viva plenamente, dentro da sua vontade (Jo 10.10).\n\nDeus não tem filhos perfeitos, nem prediletos. Ele tem filhos redimidos que precisam viver na dependência dEle. E, por isso, eventualmente, o amor do Pai se manifesta em forma de disciplina (Pv 3.12). Compreender que o Pai disciplina porque ama nos fará crescer espiritualmente. Acredite, a correção do Pai nos move ao aperfeiçoamento e maturidade. A disciplina do Pai provoca mudanças, que nos conduzirão a uma vida de santidade e intimidade com Deus (Hb 12.7,8).",
+            "pontoPrincipal": "📌 Deus cuida de seus filhos para que cresçam em fé, maturidade e santidade.",
+            "versiculos": [
+                {
+                    "referencia": "Mateus 6.32",
+                    "texto": "“Porque todas estas coisas os gentios procuram. Decerto, vosso Pai celestial bem sabe que necessitais de todas estas coisas.”",
+                    "pontoPrincipal": "O Pai conhece todas as nossas necessidades."
+                },
+                {
+                    "referencia": "Provérbios 3.12",
+                    "texto": "“Porque o Senhor repreende aquele a quem ama, assim como o pai ao filho a quem quer bem.”",
+                    "pontoPrincipal": "A disciplina de Deus é uma expressão do seu amor."
+                }
+            ],
+            "exortacao": "🔥 Exortação prática\nAprenda a confiar no cuidado de Deus mesmo quando Ele não realiza exatamente aquilo que você deseja. Receba sua correção com humildade e permita que ela produza mudanças em sua vida.",
+            "reflexao": "💭 Reflexão para a vida cristã\nNem todo cuidado de Deus acontece da maneira que esperamos. Algumas vezes, Ele cuida suprindo uma necessidade; em outras, ensinando, corrigindo e conduzindo-nos ao amadurecimento. Como filhos, precisamos confiar no Pai e permanecer dependentes dEle.",
+            "palavrasChave": [
+                "❤️ Cuidado: A atenção amorosa de Deus para com seus filhos.",
+                "📖 Disciplina: A correção de Deus que conduz ao crescimento e ao amadurecimento espiritual.",
+                "🌱 Maturidade: Crescimento na fé que produz uma vida cada vez mais próxima da vontade de Deus."
+            ]
+        },
+        {
+            "titulo": "📖 TÓPICO 3 — DEUS É PAI E ESTÁ PERTO",
+            "texto": "A Bíblia diz: “O Senhor responde: 'Será que uma mãe pode esquecer o seu bebê? Será que pode deixar de amar o seu próprio filho? Mesmo que isso acontecesse, eu nunca esqueceria vocês'” (Is 49.15). Esse texto mostra a dimensão do amor de Deus, que é infinitamente maior do que o amor humano.\n\nO Senhor nunca se esquece dos seus filhos. Ele não é um pai ausente ou distante, ocupado demais que não consegue ouvir ou conversar com seus filhos. Deus também não é um pai negligente. Ele sempre está perto e próximo dos seus filhos. Você pode falar com Deus de qualquer lugar a qualquer hora do dia ou da noite (Mt 6.6). Ele vai ouvi-lo (Jr 33.3). Os olhos do Pai estão sobre a sua vida em todos os instantes.\n\nO salmista tinha essa certeza quando escreveu: “Ainda que o meu pai e a minha mãe me abandonem, o Senhor cuidará de mim” (Sl 27.10). Isso é uma grande verdade. Aquilo que a nossa família não pode fazer por nós, Deus pode. Creia nessa verdade. Viva como filho de Deus! Sinta-se amado e completo no Pai! Saiba que Ele está sempre perto e pronto para cuidar de você.",
+            "pontoPrincipal": "📌 Deus está sempre perto e nunca abandona seus filhos.",
+            "versiculos": [
+                {
+                    "referencia": "Isaías 49.15",
+                    "texto": "“Pode uma mulher esquecer-se tanto de seu filho que cria, que se não compadeça dele, do filho do seu ventre? Mas ainda que esta se esquecesse, eu, todavia, me não esquecerei de ti.”",
+                    "pontoPrincipal": "O amor de Deus nunca esquece nem abandona seus filhos."
+                },
+                {
+                    "referencia": "Salmos 27.10",
+                    "texto": "“Porque, quando meu pai e minha mãe me desampararem, o Senhor me recolherá.”",
+                    "pontoPrincipal": "Mesmo quando o apoio humano falta, Deus permanece cuidando de nós."
+                }
+            ],
+            "exortacao": "🔥 Exortação prática\nNão permita que a solidão ou experiências de abandono façam você acreditar que está sozinho. Ore ao Senhor, converse com Ele e confie que sua presença permanece com você em todos os momentos.",
+            "reflexao": "💭 Reflexão para a vida cristã\nA presença de Deus não depende das circunstâncias. Podemos falar com o Pai em qualquer lugar e confiar que Ele nos ouve. Viver como filho de Deus também significa descansar na certeza de que nunca estamos sozinhos.",
+            "palavrasChave": [
+                "🤍 Presença: A proximidade constante de Deus junto aos seus filhos.",
+                "👂 Oração: Comunhão com Deus por meio da qual falamos com Ele e buscamos sua direção.",
+                "🛡️ Proteção: O cuidado de Deus sobre a vida daqueles que confiam nele."
+            ]
+        }
+    ],
+    "conclusao": "🏁 CONCLUSÃO\n🙏 A partir do momento que entregamos nossa vida a Jesus, passamos a ser filhos de Deus e nos tornamos filhos legítimos e herdeiros de tudo o que Ele preparou e prometeu.\n❤️ Deus é um Pai bom, presente e o seu amor é imensurável.\n🙌 Por isso, devemos viver uma vida que honre nosso Pai.\n📖 Assim, precisamos conhecer o Pai a cada dia mais e obedecê-lo sempre.",
+    "perguntas": [
+        {
+            "nivel": "🟢 1. Fácil",
+            "pergunta": "Quem se torna filho de Deus segundo a lição?",
+            "resposta": "Aqueles que recebem Jesus Cristo como Salvador e creem em seu nome."
+        },
+        {
+            "nivel": "🟡 2. Média",
+            "pergunta": "Como Deus demonstra seu cuidado pelos seus filhos?",
+            "resposta": "Deus cuida, ensina, protege, disciplina e conduz seus filhos ao crescimento espiritual e à santidade."
+        },
+        {
+            "nivel": "🔴 3. Difícil",
+            "pergunta": "Por que a disciplina de Deus pode ser considerada uma expressão de amor?",
+            "resposta": "Porque Deus disciplina seus filhos para corrigi-los, ajudá-los a amadurecer espiritualmente e conduzi-los a uma vida de santidade e intimidade com Ele."
+        },
+        {
+            "nivel": "🔴 4. Difícil",
+            "pergunta": "O que significa viver como filho de Deus?",
+            "resposta": "Significa desenvolver um relacionamento verdadeiro com o Pai, conhecê-lo por meio da oração e das Escrituras, confiar em seu cuidado e obedecer à sua Palavra."
+        },
+        {
+            "nivel": "🔴 5. Difícil",
+            "pergunta": "Como a certeza de que Deus está perto pode ajudar alguém que enfrenta sentimentos de rejeição ou abandono?",
+            "resposta": "Essa certeza permite confiar que Deus não abandona seus filhos. Mesmo quando o apoio humano falta, podemos buscar o Senhor em oração e descansar em seu amor, cuidado e presença."
+        }
+    ]
+},
+
         }
     },
 
@@ -5149,6 +5993,166 @@ conclusao:
 ,
 
         "4": {
+        "1": {
+            "numero": "Lição 1",
+            "titulo": "DAVI, O REI AMADO",
+            "leituraBiblica": "1 Samuel 16.1-13; 2 Samuel 5.1-5",
+            "perguntaGancho": "🎯 O que Deus vê em uma pessoa que os olhos humanos não conseguem enxergar?",
+            "curiosidade": "💡 Você sabia que Davi era o filho mais novo de Jessé e estava cuidando das ovelhas quando Samuel foi à sua casa para escolher o novo rei de Israel? Enquanto os homens poderiam olhar para a aparência, Deus olhou para o coração de Davi e o escolheu para uma grande missão.",
+            "conversaProfessor": "Querido(a) professor(a), a paz do Senhor! Neste trimestre, conheceremos um pouco mais sobre a história dos reis de Israel e Judá. Após a posse da Terra Prometida, Israel se organizou como nação. Era um povo que possuía uma liderança teocrática formada por juízes escolhidos por Deus, mas preferiu trocar o sistema de teocracia para se tornar uma monarquia. A mudança no modelo de governo não era errada, afinal, Deus tinha esse propósito para a nação. O fato era que o povo estava rejeitando o Senhor como seu lider porque queria ser como as outras nações. Então Saul foi escolhido como o primeiro rei. Entretanto, ele foi desobediente e desqualificado na liderança da nação. Por isso, o Senhor o rejeitou e ordenou ao profeta Samuel que escolhesse e ungisse um novo rei para Israel. Deus escolheu para si um homem segundo o seu coração e que estava disposto a cumprir todos os seus propósitos. Nesta primeira aula, explique sobre a importância de sermos obedientes à vontade de Deus e que, assim como antigamente, muitos fazem a obra do Senhor de qualquer maneira, cumprindo apenas uma obrigação. Deus não permite a permanência destes à frente de sua obra. Aproveite para ensiná-los que, semelhante a Davi, devemos cumprir sempre a vontade de Deus e estarmos dispostos a fazer a sua vontade. Professor(a), não deixe de fazer o seu devocional diariamente. Assim como Davi, seja um exemplo de fé e espiritualidade para os seus alunos.",
+            "pontoPrincipal": "📌 Ponto principal: Devemos obedecer à vontade de Deus e servi-Lo com fidelidade, seguindo o exemplo de Davi.",
+            "textoPrincipal": "1 Samuel 16.1-13; 2 Samuel 5.1-5",
+            "bibliaDiz": {
+                "texto": "“Porém o Senhor disse a Samuel: Não atentes para a sua aparência, nem para a altura da sua estatura, porque o tenho rejeitado; porque o Senhor não vê como vê o homem. Pois o homem vê o que está diante dos olhos, porém o Senhor olha para o coração.”",
+                "referencia": "1 Samuel 16.7",
+                "pontoPrincipal": "Deus valoriza o coração, e não apenas aquilo que os olhos humanos conseguem enxergar."
+            },
+            "exortacao": "📣 Exortação prática: Devemos obedecer à vontade de Deus com fidelidade, servindo ao Senhor com sinceridade e dedicação, assim como Davi foi chamado para cumprir o propósito que Deus havia estabelecido para sua vida.",
+            "reflexao": "💭 Reflexão para a vida cristã: Deus não avalia as pessoas apenas pela aparência ou posição. Ele conhece o coração e deseja encontrar em nós disposição para obedecer, servir e permanecer fiéis aos seus propósitos.",
+            "devocional": [
+                {
+                    "dia": "✨ SEGUNDA — Invocar a Deus em tempos de angústia",
+                    "versiculo": "📖 “E, com amargura de alma, orou ao Senhor, e chorou abundantemente.” — 1 Samuel 1.10",
+                    "texto": "Ana estava vivendo um período de profunda angústia, mas decidiu levar sua dor à presença de Deus. Em vez de permitir que o sofrimento a afastasse do Senhor, ela buscou auxílio por meio da oração. Seu exemplo nos ensina que podemos falar com Deus com sinceridade, apresentando a Ele aquilo que pesa em nosso coração. Mesmo quando não conseguimos compreender as circunstâncias, podemos continuar confiando no Senhor.",
+                    "pontos": [
+                        "🙏 Leve suas aflições ao Senhor em oração.",
+                        "🕊️ Confie em Deus mesmo quando estiver sofrendo.",
+                        "✨ Permaneça firme, sabendo que Deus ouve aqueles que O buscam."
+                    ],
+                    "advertencia": "⚠️ Advertência: Não permita que a angústia faça você abandonar sua comunhão com Deus.",
+                    "aplicacao": "💭 Aplicação pessoal: Quando enfrentar uma situação difícil, pare alguns minutos, ore ao Senhor e entregue a Ele suas preocupações.",
+                    "fechamento": "✨ Transforme sua angústia em oração e sua oração em confiança."
+                },
+                {
+                    "dia": "✨ TERÇA — Nosso socorro é o Senhor",
+                    "versiculo": "📖 “O meu socorro vem do Senhor, que fez o céu e a terra.” — Salmos 121.2",
+                    "texto": "O salmista declara com confiança que seu socorro vem do Senhor, o Criador dos céus e da terra. Essa declaração mostra que Deus é maior do que qualquer dificuldade que possamos enfrentar. Em momentos de medo, insegurança ou necessidade, somos chamados a olhar para Deus e reconhecer que Ele permanece no controle. Nossa confiança não deve estar limitada às circunstâncias, mas firmada no Senhor.",
+                    "pontos": [
+                        "🙏 Reconheça Deus como sua fonte de socorro.",
+                        "🕊️ Confie no Senhor quando as dificuldades surgirem.",
+                        "✨ Lembre-se de que o Criador conhece suas necessidades."
+                    ],
+                    "advertencia": "⚠️ Advertência: Não permita que os problemas façam você esquecer que Deus é o seu verdadeiro auxílio.",
+                    "aplicacao": "💭 Aplicação pessoal: Diante de qualquer dificuldade hoje, faça uma oração antes de agir e coloque sua situação nas mãos do Senhor.",
+                    "fechamento": "✨ Quem confia no Senhor nunca enfrenta a caminhada sozinho."
+                },
+                {
+                    "dia": "✨ QUARTA — Com Deus enfrentamos desafios",
+                    "versiculo": "📖 “Deus é o que me cinge de força e aperfeiçoa o meu caminho.” — Salmos 18.32",
+                    "texto": "Davi reconhecia que sua força vinha de Deus. Ele enfrentou muitos desafios ao longo de sua vida, mas aprendeu a depender do Senhor para prosseguir. Deus nos fortalece para enfrentar aquilo que está diante de nós e também nos orienta no caminho que devemos seguir. Por isso, não precisamos permitir que as dificuldades determinem nossa esperança ou nos façam desistir.",
+                    "pontos": [
+                        "🙏 Busque no Senhor a força para continuar.",
+                        "🕊️ Permita que Deus dirija seus passos.",
+                        "✨ Enfrente os desafios confiando no cuidado divino."
+                    ],
+                    "advertencia": "⚠️ Advertência: Não confie somente na sua própria capacidade para enfrentar as dificuldades da vida.",
+                    "aplicacao": "💭 Aplicação pessoal: Antes de enfrentar seu próximo desafio, ore pedindo ao Senhor força, sabedoria e direção.",
+                    "fechamento": "✨ A força que vem de Deus nos capacita a seguir adiante."
+                },
+                {
+                    "dia": "✨ QUINTA — Buscando a Deus de todo o coração",
+                    "versiculo": "📖 “Buscai ao Senhor enquanto se pode achar, invocai-o enquanto está perto.” — Isaías 55.6",
+                    "texto": "Isaías chama o povo a buscar o Senhor enquanto havia oportunidade. Essa busca deveria ser sincera e acompanhada de uma mudança de atitude diante de Deus. Buscar ao Senhor significa desejar sua presença, ouvir sua Palavra e procurar viver de acordo com sua vontade. O convite continua sendo importante para nós: não devemos deixar a comunhão com Deus para depois.",
+                    "pontos": [
+                        "🙏 Faça da presença de Deus uma prioridade.",
+                        "🕊️ Busque o Senhor com sinceridade.",
+                        "✨ Permita que a Palavra de Deus conduza suas decisões."
+                    ],
+                    "advertencia": "⚠️ Advertência: Não deixe que as ocupações do dia a dia afastem você da busca pela presença de Deus.",
+                    "aplicacao": "💭 Aplicação pessoal: Separe hoje um momento tranquilo para orar, ler a Bíblia e buscar ao Senhor de coração sincero.",
+                    "fechamento": "✨ Quem busca verdadeiramente a Deus encontra direção para viver."
+                },
+                {
+                    "dia": "✨ SEXTA — Seja fiel e obediente a Deus em todo tempo",
+                    "versiculo": "📖 “Bem-aventurado aquele que teme ao Senhor e anda nos seus caminhos!” — Salmos 128.1",
+                    "texto": "O salmista apresenta a felicidade daquele que teme ao Senhor e anda em seus caminhos. Temer a Deus envolve reverência e disposição para obedecer à sua Palavra. A fidelidade não deve depender de momentos favoráveis, pois quem pertence ao Senhor é chamado a permanecer firme em todos os tempos. Nossa obediência demonstra, por meio das atitudes, o valor que damos à Palavra de Deus.",
+                    "pontos": [
+                        "🙏 Honre ao Senhor com suas atitudes.",
+                        "🕊️ Escolha obedecer mesmo quando for difícil.",
+                        "✨ Permaneça fiel em todas as circunstâncias."
+                    ],
+                    "advertencia": "⚠️ Advertência: Não seja fiel somente quando as coisas estiverem acontecendo como você deseja.",
+                    "aplicacao": "💭 Aplicação pessoal: Hoje, escolha obedecer a Deus em uma situação concreta, mesmo que isso exija renunciar à sua própria vontade.",
+                    "fechamento": "✨ A verdadeira fidelidade permanece quando ninguém está olhando."
+                },
+                {
+                    "dia": "✨ SÁBADO — Ter fé e esperança nas promessas de Deus",
+                    "versiculo": "📖 “Retenhamos firmes a confissão da nossa esperança, porque fiel é o que prometeu.” — Hebreus 10.23",
+                    "texto": "O escritor de Hebreus orienta os cristãos a permanecerem firmes na esperança que professavam. Essa esperança está fundamentada na fidelidade de Deus, e não nas circunstâncias ao nosso redor. Mesmo quando enfrentamos períodos de espera ou dificuldades, podemos continuar confiando naquele que prometeu. A fé nos ajuda a permanecer firmes e a esperança nos encoraja a não desistir.",
+                    "pontos": [
+                        "🙏 Mantenha firme sua confiança em Deus.",
+                        "🕊️ Espere no Senhor sem abandonar sua fé.",
+                        "✨ Lembre-se diariamente de que Deus é fiel às suas promessas."
+                    ],
+                    "advertencia": "⚠️ Advertência: Não abandone sua esperança porque uma resposta ainda não aconteceu no tempo que você esperava.",
+                    "aplicacao": "💭 Aplicação pessoal: Escolha uma promessa bíblica e medite nela hoje, lembrando-se da fidelidade de Deus em sua caminhada.",
+                    "fechamento": "✨ Aquele que prometeu é fiel; por isso, continue esperando."
+                }
+            ],
+            "objetivos": [
+                "✨ Destacar a história de Davi e a forma maravilhosa como Deus o constituiu rei de Israel."
+            ],
+            "memorizando": {
+                "versiculo": "📖 “Mas agora você não continuará a governar. Você desobedeceu ao Senhor, e por isso Ele vai encontrar um homem do tipo que Ele quer e o fará chefe deste povo.” (1 Samuel 13.14)",
+                "pontoPrincipal": "Deus procura pessoas dispostas a obedecer à sua vontade."
+            },
+            "desenvolvimento": [
+                {
+                    "titulo": "👑 1. DAVI, O ESCOLHIDO DE DEUS",
+                    "texto": "Saul, o primeiro rei de Israel, não buscava mais a direção de Deus para governar o povo. Ele mostrou ser um rei sem espiritualidade, fraco e desobediente à vontade do Senhor. Por conta de sua desobediência, Deus o rejeitou para que ele não fosse mais o rei e enviou o profeta Samuel até a casa de um homem chamado Jessé, o belemita, pois havia escolhido um dentre os seus filhos para ser o novo rei de Israel. E Samuel fez tudo o que o Senhor lhe ordenou. Chegando à casa de Jessé, ele viu primeiro a Eliabe e disse: “Este homem que está aqui na presença de Deus, o Senhor, certamente é aquele que o Senhor escolheu” (1 Sm 16.6). Mas o Senhor disse a Samuel: “Não se impressione com a aparência nem com a altura deste homem. Eu o rejeitei porque não julgo como as pessoas julgam. Elas olham para a aparência, mas eu vejo o coração” (v. 7). Assim, Jessé fez passar sete dos seus filhos diante de Samuel. Entretanto, Samuel disse a Jessé que o Senhor não havia escolhido nenhum deles. Por fim, Samuel perguntou a Jessé se havia mais algum filho. E Jessé respondeu: “Tenho mais um, o caçula, mas ele está fora, tomando conta das ovelhas” (v. 11). Em seguida, Samuel mandou chamá-lo, pois não se assentariam até que ele chegasse. Jessé, então, mandou buscá-lo e era Davi um rapaz muito bonito e de boa presença. E o Senhor disse a Samuel: “É este mesmo. Unja-o” (v. 12). Logo, Samuel pegou o chifre cheio de azeite e ungiu Davi no meio de seus irmãos; e desde aquele dia o Espírito do Senhor se apoderou de Davi (Fig. 1.1). Em toda sua vida, Davi teve que enfrentar vários desafios. Foi pastor, poeta, músico, rei e integrante da descendência de Jesus. Era um homem pronto para servir voluntariamente à sua geração. Quando o povo de Israel foi afrontado pelos filisteus por meio de Golias, o jovem Davi não temeu, mas se dispôs a enfrentar o gigante. A confiança que ele tinha em Deus o fortaleceu para que alcançasse a vitória (Fig. 1.2). Davi sabia dialogar e estava sempre pronto, tanto a perdoar quanto a se humilhar. Por isso foi escolhido pelo Senhor para cumprir seus propósitos, pois sempre estava disposto a fazer a vontade do Todo-Poderoso. Mesmo sendo segundo o coração de Deus, Davi não ficou isento de falhas e pecados, porém tinha um coração quebrantado, íntegro e sincero. Davi teve fé e paciência para esperar o cumprimento da promessa de Deus e, finalmente, assumir o trono de Israel (Fig. 1.3). Sua maior preocupação sempre foi cuidar da Arca e do culto ao Senhor. Mesmo enfrentando conflitos internos, familiares e inimigos externos, Davi foi vitorioso e próspero.",
+                    "pontoPrincipal": "📌 Ponto principal: Deus escolhe e capacita aqueles que possuem um coração disposto a servi-Lo.",
+                    "versiculos": [
+                        {
+                            "referencia": "1 Samuel 16.7",
+                            "texto": "“Porém o Senhor disse a Samuel: Não atentes para a sua aparência, nem para a altura da sua estatura, porque o tenho rejeitado; porque o Senhor não vê como vê o homem. Pois o homem vê o que está diante dos olhos, porém o Senhor olha para o coração.”",
+                            "pontoPrincipal": "Deus valoriza o coração, e não apenas aquilo que os olhos humanos conseguem enxergar."
+                        },
+                        {
+                            "referencia": "1 Samuel 16.13",
+                            "texto": "“Então Samuel tomou o vaso do azeite e ungiu-o no meio de seus irmãos; e, desde aquele dia em diante, o Espírito do Senhor se apoderou de Davi.”",
+                            "pontoPrincipal": "Deus preparou Davi para cumprir o propósito que havia estabelecido para sua vida."
+                        }
+                    ],
+                    "exortacao": "📣 Exortação prática: Não devemos buscar reconhecimento apenas pela aparência, posição ou capacidade. Precisamos cultivar um coração sincero diante de Deus, disposto a obedecer, servir e cumprir a missão que Ele nos confiou.",
+                    "reflexao": "💭 Reflexão para a vida cristã: Davi começou sua trajetória cuidando das ovelhas, mas Deus conhecia seu coração e tinha um propósito para sua vida. Isso nos ensina a valorizar o lugar onde Deus nos colocou hoje e a servi-Lo com fidelidade, mesmo quando ninguém está nos observando.",
+                    "palavrasChave": [
+                        "❤️ Coração — Representa o interior da pessoa, onde estão suas intenções, pensamentos e disposições diante de Deus.",
+                        "🙏 Obediência — Disposição de ouvir a Deus e colocar em prática a sua vontade.",
+                        "👑 Propósito — O plano e a missão que Deus estabelece para uma pessoa cumprir de acordo com a sua vontade."
+                    ]
+                }
+            ],
+            "conclusao": "Ao estudarmos a história de Davi, aprendemos que Deus não olha apenas para a aparência, posição ou capacidade de uma pessoa, mas conhece o seu coração. Davi foi escolhido enquanto ainda cuidava das ovelhas e, mesmo enfrentando muitos desafios, permaneceu disposto a servir e cumprir a vontade do Senhor. Sua vida também nos ensina que aqueles que pertencem a Deus não estão livres de falhas, mas precisam ter um coração sincero, quebrantado e disposto a reconhecer seus erros. Que possamos seguir o exemplo de Davi, buscando diariamente a direção de Deus, obedecendo à sua Palavra e servindo com dedicação. Mais importante do que ser reconhecido pelas pessoas é ser aprovado por Deus e permanecer fiel ao propósito que Ele nos confiou.",
+            "perguntas": [
+                {
+                    "nivel": "🟢 1. Fácil",
+                    "pergunta": "Quem foi escolhido por Deus para ser o novo rei de Israel no lugar de Saul?",
+                    "resposta": "Davi, filho de Jessé, foi escolhido e ungido por Samuel."
+                },
+                {
+                    "nivel": "🟡 2. Média",
+                    "pergunta": "Por que Deus rejeitou Saul como rei de Israel?",
+                    "resposta": "Porque Saul foi desobediente à vontade de Deus e não seguiu corretamente as suas orientações."
+                },
+                {
+                    "nivel": "🔴 3. Difícil",
+                    "pergunta": "O que Deus ensinou a Samuel quando ele pensou que Eliabe seria o escolhido?",
+                    "resposta": "Deus ensinou que o homem olha para a aparência, mas o Senhor olha para o coração."
+                },
+                {
+                    "nivel": "🔴 4. Difícil",
+                    "pergunta": "Quais características de Davi contribuíram para que ele fosse usado por Deus, mesmo tendo falhas?",
+                    "resposta": "Davi demonstrava fé, humildade, disposição para servir, capacidade de reconhecer seus erros e desejo de cumprir a vontade de Deus."
+                },
+                {
+                    "nivel": "🔴 5. Difícil",
+                    "pergunta": "O que podemos aprender com a trajetória de Davi desde a unção até assumir o trono de Israel?",
+                    "resposta": "Aprendemos que devemos confiar no propósito de Deus, obedecer à sua vontade e ter paciência para esperar o cumprimento de suas promessas, permanecendo fiéis mesmo diante dos desafios."
+                }
+            ]
+        },
+        
+
         }
     },
 
@@ -6177,6 +7181,293 @@ conhecendoMaisDeDeus: {
         ,
 
         "4": {
+        "1": {
+    "numero": "Lição 1",
+    "titulo": "O BOM CONSELHO DOS PAIS",
+    "leituraBiblica": "Provérbios 1.8,9; 4.1; 6.20",
+    "perguntaGancho": "Por que ouvir os conselhos dos nossos pais pode nos ajudar a tomar decisões melhores e evitar caminhos que trazem consequências?",
+    "curiosidade": "Você sabia que o livro de Provérbios apresenta muitas vezes a figura de um pai ensinando seu filho? Isso mostra a importância que a Bíblia dá à orientação dos pais na formação de seus filhos, ensinando-os a buscar a sabedoria e a viver de acordo com os princípios de Deus.",
+    "pontoPrincipal": "Os conselhos dos pais podem orientar os filhos no caminho da sabedoria e da obediência a Deus.",
+    "bibliaDiz": {
+        "texto": "Meu filho, escute o que o seu pai ensina e preste atenção no que a sua mãe diz.",
+        "referencia": "Provérbios 1.8",
+        "pontoPrincipal": "Ouvir e valorizar os ensinamentos dos pais é uma atitude de sabedoria que pode trazer proteção e direção para a vida."
+    },
+    "objetivos": [
+        "RECONHECER que os melhores conselhos são baseados na Bíblia;",
+        "COMPREENDER que os pais podem ser os seus melhores conselheiros;",
+        "ENTENDER o significado e a diferença entre honrar e obedecer."
+    ],
+    "conhecendoMaisDeDeus": {
+        "titulo": "CONHECENDO + DE DEUS",
+        "texto": "Prezado(a) pré-adolescente, a paz do Senhor! Estamos iniciando o quarto trimestre de estudos com a nova revista Lições Bíblicas Pré-adolescentes. Você já deve ter ouvido falar sobre Salomão, o homem mais sábio que já existiu (cf. 1 Rs 4.30,31). Quando se tornou rei, Salomão pediu a Deus sabedoria. O Senhor o concedeu e ele escreveu três livros do Antigo Testamento: Provérbios, Eclesiastes e Cantares. É sobre os sábios conselhos de Salomão, encontrados no Livro de Provérbios, que você estudará neste trimestre.",
+        "pontoPrincipal": "A sabedoria que vem de Deus nos ensina a viver de maneira correta e prudente."
+    },
+    "desenvolvimento": [
+        {
+            "titulo": "1. DIZEM: “SE CONSELHO FOSSE BOM...”",
+            "texto": "Nesta primeira lição, você aprende-rá sobre o \"Bom Conselho dos Pais\". Ouvir conselhos é fundamantal para alcançar uma vida vitoriosa. Deus tem os melhores conselhos para os seus servos (Pv 1.1-6).",
+            "topicos": [
+                {
+                    "titulo": "a. O Bom Conselho não tem preço",
+                    "texto": "Você já deve ter escutado o ditado \"se conselho fosse bom, ninguém daria de graça\". Ao ouvir esse ditado, se não prestarmos atenção, corremos o risco de pensar que conselho não é algo bom, porque se fosse bom seria vendido e não oferecido gratuitamente. Pensar assim é muito perigoso, pois nem tudo que é bom deve ter um alto custo para ser adquirido. E foi gratuitamente que Salomão, filho de Davi e rei de Israel, recebeu a sabedoria de Deus (cf. 1 Rs 3.10-12).",
+                    "pontoPrincipal": "O bom conselho é um presente valioso, mesmo quando é oferecido gratuitamente.",
+                    "versiculos": [
+                        {
+                            "referencia": "1 Reis 3.10",
+                            "texto": "E o Senhor se agradou do que Salomão pedira.",
+                            "pontoPrincipal": "Deus se agrada quando buscamos sabedoria nEle."
+                        },
+                        {
+                            "referencia": "1 Reis 3.12",
+                            "texto": "Eis que fiz segundo as tuas palavras; eis que te dei um coração tão sábio e entendido...",
+                            "pontoPrincipal": "A verdadeira sabedoria vem de Deus."
+                        }
+                    ],
+                    "exortacao": "Valorize os bons conselhos que recebe e não pense que aquilo que é gratuito não possui valor. Busque sempre a sabedoria que vem de Deus.",
+                    "reflexao": "Nem tudo que tem valor pode ser comprado. A sabedoria que Deus concede deve ser recebida com gratidão e colocada em prática diariamente.",
+                    "palavrasChave": [
+                        "Sabedoria: capacidade de agir de acordo com os princípios de Deus.",
+                        "Conselho: orientação que ajuda alguém a tomar uma decisão correta.",
+                        "Valor: importância que algo possui, mesmo sem preço financeiro."
+                    ]
+                },
+                {
+                    "titulo": "b. Guardando-se dos maus conselhos",
+                    "texto": "Salomão foi um grande sábio e excelente conselheiro. Seus conselhos foram muito importantes para orientar o povo de Israel durante o seu reinado e, atualmente, podem nos ajudar em diferentes situações da vida. Mas, e quanto aos conselhos que você escuta por aí? São todos bons e podem ser seguidos? É preciso ter cuidado, pois nem todas as pessoas possuem experiência de vida ou inspiração do Senhor para aconselhar um pré-adolescente.",
+                    "pontoPrincipal": "Nem todo conselho deve ser seguido; é preciso discernir aquilo que é correto.",
+                    "versiculos": [
+                        {
+                            "referencia": "Provérbios 1.5",
+                            "texto": "O sábio ouvirá e crescerá em conhecimento, e o entendido adquirirá sábios conselhos.",
+                            "pontoPrincipal": "O sábio sabe ouvir e buscar bons conselhos."
+                        },
+                        {
+                            "referencia": "Salmos 1.1",
+                            "texto": "Bem-aventurado o varão que não anda segundo o conselho dos ímpios...",
+                            "pontoPrincipal": "A verdadeira felicidade está em não seguir conselhos que afastam de Deus."
+                        }
+                    ],
+                    "exortacao": "Não aceite automaticamente tudo aquilo que seus amigos ou outras pessoas dizem. Compare os conselhos recebidos com a Palavra de Deus antes de colocá-los em prática.",
+                    "reflexao": "Nem toda voz que nos orienta nos conduz pelo caminho certo. O cristão precisa desenvolver discernimento para reconhecer aquilo que agrada ao Senhor.",
+                    "palavrasChave": [
+                        "Discernimento: capacidade de distinguir o certo do errado.",
+                        "Cuidado: atenção para não seguir orientações prejudiciais.",
+                        "Ímpios: aqueles que vivem afastados dos princípios de Deus."
+                    ]
+                },
+                {
+                    "titulo": "c. Deus tem o melhor conselho",
+                    "texto": "Algum amigo já tentou aconselhar você? Se sim, provavelmente, ele disse para você fazer aquilo que ele pensava ser o mais correto. É preciso estar atento, pois nem sempre o que os nossos amigos dizem está de acordo com a vontade de Deus. Os melhores conselhos são aqueles baseados nos ensinamentos da Palavra de Deus (cf. 2 Tm 3.16). Por isso, é importante ouvir os conselhos (Pv 4.13; 19.20,21; 20.18). Praticá-los torna-se indispensável para obter uma vida vitoriosa em Cristo (Pv 12.5, 6). O salmista escreveu sobre não aceitarmos conselhos dos ímpios (cf. Sl 1.1). Se assim o fizermos, seremos felizes!",
+                    "pontoPrincipal": "Os melhores conselhos são aqueles que estão de acordo com a Palavra de Deus.",
+                    "versiculos": [
+                        {
+                            "referencia": "2 Timóteo 3.16",
+                            "texto": "Toda Escritura é divinamente inspirada e proveitosa para ensinar, para redarguir, para corrigir, para instruir em justiça.",
+                            "pontoPrincipal": "A Palavra de Deus nos ensina e orienta no caminho correto."
+                        },
+                        {
+                            "referencia": "Provérbios 19.20",
+                            "texto": "Ouve o conselho e recebe a correção, para que, no fim, sejas sábio.",
+                            "pontoPrincipal": "Ouvir conselhos e aceitar correção contribui para o crescimento em sabedoria."
+                        }
+                    ],
+                    "exortacao": "Antes de seguir qualquer conselho, verifique se ele está de acordo com a Palavra de Deus. Aprenda a ouvir seus pais, líderes e pessoas sábias que desejam ajudá-lo a permanecer no caminho do Senhor.",
+                    "reflexao": "Deus não nos deixou sem direção. Sua Palavra apresenta princípios seguros para nossas escolhas. Quando aprendemos a ouvir, discernir e praticar aquilo que é correto, demonstramos que desejamos viver de acordo com a vontade do Senhor.",
+                    "palavrasChave": [
+                        "Palavra: revelação de Deus que ensina e orienta o ser humano.",
+                        "Correção: orientação que ajuda a abandonar o erro e seguir o caminho certo.",
+                        "Obediência: atitude de colocar em prática aquilo que Deus ensina."
+                    ]
+                }
+            ]
+        },
+        {
+            "titulo": "2. MEUS PAIS SABEM O QUE É MELHOR PARA MIM!",
+            "texto": "Geralmente, os pais são as pessoas mais indicadas para aconselharem seus filhos (cf. Pv 1.8). Entretanto, além deles, existem pessoas que são instrumentos de Deus para aconselhar em momentos difíceis da caminhada.",
+            "topicos": [
+                {
+                    "titulo": "a. Os pais têm experiência de vida",
+                    "texto": "Os pais possuem experiência de vida que lhes atribui significativa sabedoria, e recebem de Deus autoridade para aconselhar seus filhos. Além disso, eles amam seus filhos e são incumbidos de instruí-los no caminho em que devem andar (Pv 22.6). Por isso, é natural que eles se dediquem a aconselhar seus filhos com amor e temor do Senhor.",
+                    "pontoPrincipal": "Os pais orientam seus filhos com experiência, amor e responsabilidade.",
+                    "versiculos": [
+                        {
+                            "referencia": "Provérbios 23.22",
+                            "texto": "Ouve a teu pai, que te gerou, e não desprezes a tua mãe, quando vier a envelhecer.",
+                            "pontoPrincipal": "Valorize a orientação de seus pais."
+                        },
+                        {
+                            "referencia": "Provérbios 22.6",
+                            "texto": "Instrui o menino no caminho em que deve andar, e, até quando envelhecer, não se desviará dele.",
+                            "pontoPrincipal": "Os pais devem ensinar os filhos no caminho correto."
+                        }
+                    ],
+                    "exortacao": "Ouça seus pais com atenção e respeito, especialmente quando eles procurarem orientar você sobre suas escolhas e atitudes.",
+                    "reflexao": "Deus confiou aos pais uma responsabilidade importante na formação dos filhos. Receber seus conselhos com humildade pode ajudar o filho a crescer em sabedoria.",
+                    "palavrasChave": [
+                        "Experiência: conhecimento adquirido ao longo da vida.",
+                        "Autoridade: responsabilidade recebida para orientar e ensinar.",
+                        "Instrução: ensino que conduz ao caminho correto."
+                    ]
+                },
+                {
+                    "titulo": "b. Os pais têm os melhores conselhos",
+                    "texto": "Os pais, orientados por Deus, saberão o melhor conselho para dar aos filhos. Afinal, qual pai dá ao filho pedra, quando este lhe pede pão (Lc 11.11)? Ou seja, nenhum pai que ama seu filho dará um conselho que o prejudique quando este lhe pedir ajuda. E quanto àquelas pessoas que não podem se aconselhar com seus pais por alguma razão, o Senhor tem maneiras especiais de mostrar-lhes o melhor caminho. Ele mesmo ensina, orienta e guia como um pai faz com seu filho a quem ama (Sl 32.8).",
+                    "pontoPrincipal": "Pais que amam seus filhos procuram orientá-los para o bem.",
+                    "versiculos": [
+                        {
+                            "referencia": "Lucas 11.11",
+                            "texto": "E qual o pai dentre vós que, se o filho lhe pedir pão, lhe dará uma pedra?",
+                            "pontoPrincipal": "O amor dos pais busca atender às necessidades dos filhos."
+                        },
+                        {
+                            "referencia": "Salmos 32.8",
+                            "texto": "Instruir-te-ei e ensinar-te-ei o caminho que deves seguir; guiar-te-ei com os meus olhos.",
+                            "pontoPrincipal": "Deus orienta e guia aqueles que confiam nEle."
+                        }
+                    ],
+                    "exortacao": "Quando precisar tomar uma decisão, procure conversar com seus pais e considere com atenção aquilo que eles aconselharem.",
+                    "reflexao": "Quando recebemos orientação de pessoas que nos amam e desejam nosso bem, devemos aprender a ouvir com humildade. Deus também pode usar essas pessoas para nos direcionar.",
+                    "palavrasChave": [
+                        "Amor: cuidado e dedicação pelo bem do outro.",
+                        "Orientação: direção oferecida para ajudar em uma decisão.",
+                        "Guia: aquele que conduz pelo caminho correto."
+                    ]
+                },
+                {
+                    "titulo": "c. Deus também usa pessoas sábias para aconselhar",
+                    "texto": "Se, porventura, você não pode se aconselhar com seus pais não desanime. Deus está com você e pode preparar alguém para ajudá-lo. Peça com fervor e Ele concederá o desejo do teu coração (Mt 7.7,8).",
+                    "pontoPrincipal": "Deus pode usar pessoas sábias para nos ajudar em momentos de necessidade.",
+                    "versiculos": [
+                        {
+                            "referencia": "Mateus 7.7",
+                            "texto": "Pedi, e dar-se-vos-á; buscai, e encontrareis; batei, e abrir-se-vos-á.",
+                            "pontoPrincipal": "Deus nos ensina a buscar sua ajuda com confiança."
+                        },
+                        {
+                            "referencia": "Mateus 7.8",
+                            "texto": "Porque aquele que pede recebe; e o que busca encontra; e, ao que bate, se abre.",
+                            "pontoPrincipal": "Deus ouve aqueles que o buscam."
+                        }
+                    ],
+                    "exortacao": "Se você estiver enfrentando uma dificuldade e não puder conversar com seus pais, ore a Deus e procure uma pessoa madura e sábia que possa orientá-lo.",
+                    "reflexao": "Nenhuma situação precisa nos fazer perder a esperança. Deus pode providenciar pessoas para nos ajudar e, acima de tudo, podemos buscar sua direção por meio da oração.",
+                    "palavrasChave": [
+                        "Oração: comunicação sincera com Deus.",
+                        "Sabedoria: capacidade de agir de acordo com os princípios de Deus.",
+                        "Ajuda: auxílio oferecido para enfrentar uma necessidade."
+                    ]
+                }
+            ]
+        },
+        {
+            "titulo": "3. HONRAR OS PAIS É UMA QUESTÃO DE OBEDIÊNCIA A DEUS",
+            "texto": "Ouvir os conselhos dos pais é uma forma de expressar amor e honra para com aqueles que nos geraram. Essa prática deve ser permanente, não importando a idade.",
+            "topicos": [
+                {
+                    "titulo": "a. Aconselhar é uma atitude amorosa dos pais",
+                    "texto": "Os pais devem amar seus filhos e orientá-los conforme as Escrituras e, assim, os filhos poderão confiar em seus conselhos. Em contrapartida, os filhos devem obedecer e honrar seus pais conforme ordena a Palavra de Deus. Há uma recompensa para aqueles que honram os pais (cf. Ef 6.1,2).",
+                    "pontoPrincipal": "Pais devem aconselhar com amor, e filhos devem responder com honra e obediência.",
+                    "versiculos": [
+                        {
+                            "referencia": "Efésios 6.1",
+                            "texto": "Vós, filhos, sede obedientes a vossos pais no Senhor, porque isto é justo.",
+                            "pontoPrincipal": "Obedecer aos pais faz parte da vida cristã."
+                        },
+                        {
+                            "referencia": "Efésios 6.2",
+                            "texto": "Honra a teu pai e a tua mãe, que é o primeiro mandamento com promessa.",
+                            "pontoPrincipal": "Honrar os pais é um mandamento de Deus."
+                        }
+                    ],
+                    "exortacao": "Receba os conselhos de seus pais com respeito e procure demonstrar, por meio de suas atitudes, que você valoriza o cuidado e a orientação deles.",
+                    "reflexao": "O relacionamento entre pais e filhos também deve refletir os princípios da Palavra de Deus. Quando os pais orientam com amor e os filhos respondem com respeito, a família pode crescer em harmonia.",
+                    "palavrasChave": [
+                        "Amor: cuidado sincero pelo bem do outro.",
+                        "Honra: atitude de respeito e consideração.",
+                        "Obediência: cumprimento das orientações recebidas."
+                    ]
+                },
+                {
+                    "titulo": "b. O que significa honrar e obedecer aos pais?",
+                    "texto": "Honrar implica em amar, respeitar e considerar aqueles que Deus escolheu para serem nossos pais. Obedecer significa agir conforme as instruções recebidas, cumprir as regras estabelecidas. A obediência é uma das formas de honrar alguém, mas a honra é mais do que somente obedecer (cf. Ef 6.1-3). Por exemplo, existem filhos que obedecem a seus pais, mas fazem comentários depreciativos em relação a eles em conversa com seus amigos. Neste caso, eles podem até estar seguindo algumas instruções de seus pais, porém, não os respeitam quando dizem coisas ruins sobre eles para alguém.",
+                    "pontoPrincipal": "Honrar é amar, respeitar e considerar os pais, não apenas obedecer às suas instruções.",
+                    "versiculos": [
+                        {
+                            "referencia": "Efésios 6.2,3",
+                            "texto": "Honra a teu pai e a tua mãe, que é o primeiro mandamento com promessa; para que te vá bem, e vivas muito tempo sobre a terra.",
+                            "pontoPrincipal": "A honra aos pais envolve respeito e traz uma promessa."
+                        },
+                        {
+                            "referencia": "Colossenses 3.20",
+                            "texto": "Filhos, obedecei em tudo a vossos pais, porque isto é agradável ao Senhor.",
+                            "pontoPrincipal": "A obediência aos pais agrada ao Senhor."
+                        }
+                    ],
+                    "exortacao": "Além de obedecer às regras de casa, trate seus pais com respeito, fale deles com consideração e evite atitudes ou palavras que os desonrem.",
+                    "reflexao": "É possível obedecer externamente e, ao mesmo tempo, agir sem respeito no coração ou nas palavras. Deus deseja que nossa obediência seja acompanhada de uma atitude verdadeira de honra.",
+                    "palavrasChave": [
+                        "Honra: respeito e consideração demonstrados nas atitudes.",
+                        "Respeito: reconhecimento do valor e da autoridade dos pais.",
+                        "Obediência: disposição para cumprir orientações corretas."
+                    ]
+                },
+                {
+                    "titulo": "c. A honra aos pais deve ser permanente",
+                    "texto": "Os filhos devem obediência aos seus pais enquanto estiverem sob os seus cuidados, mas a responsabilidade de honrá-los deve ser permanente. Honrar os pais é algo tão importante que o próprio Deus deixou uma promessa para aqueles que assim agirem (Ex 20.12): a vida longa. Este é o primeiro mandamento com promessa (Ef 6.2). E, por ser um mandamento de Deus, devemos obedecer. Assim, honrar os pais é uma questão de amor, respeito e obediência a eles, e também a Deus que nos deixou esse mandamento.",
+                    "pontoPrincipal": "A honra aos pais deve permanecer como expressão de amor e obediência a Deus.",
+                    "versiculos": [
+                        {
+                            "referencia": "Êxodo 20.12",
+                            "texto": "Honra a teu pai e a tua mãe, para que se prolonguem os teus dias na terra que o Senhor, teu Deus, te dá.",
+                            "pontoPrincipal": "Deus ordena que os filhos honrem seus pais."
+                        },
+                        {
+                            "referencia": "Efésios 6.2",
+                            "texto": "Honra a teu pai e a tua mãe, que é o primeiro mandamento com promessa.",
+                            "pontoPrincipal": "Honrar os pais é um mandamento acompanhado de promessa."
+                        }
+                    ],
+                    "exortacao": "Cultive o respeito e a consideração pelos seus pais em todas as fases da vida. Demonstre sua honra não apenas com palavras, mas também por meio de atitudes.",
+                    "reflexao": "Honrar os pais não é apenas uma regra familiar; é uma orientação dada pelo próprio Deus. Ao praticarmos esse mandamento, demonstramos amor, respeito e obediência ao Senhor.",
+                    "palavrasChave": [
+                        "Permanente: aquilo que continua ao longo do tempo.",
+                        "Mandamento: uma ordem estabelecida por Deus.",
+                        "Promessa: aquilo que Deus declara que fará."
+                    ]
+                }
+            ]
+        }
+    ],
+    "conclusao": "Por fim, caro(a) pré-adolescente, vale destacar que ouvir conselhos é importante para o seu aprendizado. Os conselhos que você segue hoje, certamente, serão importantes para outras pessoas que Deus vai usar você para aconselhá-las.",
+    "perguntas": [
+        {
+            "nivel": "🟢 1. Fácil",
+            "pergunta": "Por que é importante ouvir os conselhos dos pais?",
+            "resposta": "Porque os pais possuem experiência de vida, amam seus filhos e podem ajudá-los a tomar decisões corretas."
+        },
+        {
+            "nivel": "🟡 2. Média",
+            "pergunta": "Qual é a diferença entre honrar e obedecer aos pais?",
+            "resposta": "Obedecer é cumprir as instruções recebidas, enquanto honrar envolve amar, respeitar e considerar os pais. A obediência é uma forma de honrar, mas a honra vai além de simplesmente obedecer."
+        },
+        {
+            "nivel": "🔴 3. Difícil",
+            "pergunta": "Por que não devemos aceitar qualquer conselho que recebemos?",
+            "resposta": "Porque nem todo conselho está de acordo com a vontade de Deus. É necessário avaliar os conselhos à luz da Palavra de Deus e rejeitar aqueles que nos conduzem para longe dos seus ensinamentos."
+        },
+        {
+            "nivel": "🔴 4. Difícil",
+            "pergunta": "Como Deus pode ajudar um pré-adolescente que não pode receber conselhos de seus pais?",
+            "resposta": "Deus pode orientá-lo diretamente por meio de sua Palavra e também pode usar pessoas sábias e maduras para ajudá-lo em momentos difíceis, quando ele busca a direção do Senhor."
+        },
+        {
+            "nivel": "🔴 5. Difícil",
+            "pergunta": "Por que honrar os pais é também uma questão de obediência a Deus?",
+            "resposta": "Porque honrar os pais é um mandamento estabelecido pelo próprio Deus. A Bíblia ensina que devemos amar, respeitar e considerar nossos pais, demonstrando por meio de nossas atitudes que desejamos obedecer ao Senhor."
+        }
+    ]
+},
         }
     }
 }
