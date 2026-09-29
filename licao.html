@@ -252,7 +252,7 @@
 </footer>
 
 
-<script src="dados-licoes.js?v=20260917"></script>
+<script src="dados-licoes.js"></script>
 
 
 <script>
@@ -673,42 +673,6 @@ function criarSecao(secao) {
     }
 
 
-    if (secao.pontoPrincipal) {
-
-        bloco.appendChild(
-            criarParagrafo(
-                "⭐ Ponto principal: " +
-                secao.pontoPrincipal
-            )
-        );
-
-    }
-
-
-    if (secao.exortacao) {
-
-        bloco.appendChild(
-            criarParagrafo(
-                "🔥 Exortação prática: " +
-                secao.exortacao
-            )
-        );
-
-    }
-
-
-    if (secao.reflexao) {
-
-        bloco.appendChild(
-            criarParagrafo(
-                "💭 Reflexão: " +
-                secao.reflexao
-            )
-        );
-
-    }
-
-
     if (
         Array.isArray(secao.topicos)
     ) {
@@ -726,46 +690,10 @@ function criarSecao(secao) {
     }
 
 
-    if (
-        Array.isArray(secao.palavrasChave) &&
-        secao.palavrasChave.length
-    ) {
-
-        const subtitulo =
-            document.createElement("h5");
-
-        subtitulo.textContent =
-            "🔑 Palavras-chave";
-
-        bloco.appendChild(subtitulo);
-
-
-        secao.palavrasChave.forEach(
-            function(item) {
-
-                const p =
-                    document.createElement("p");
-
-                if (typeof item === "string") {
-                    p.textContent = item;
-                } else {
-                    p.textContent =
-                        item.termo +
-                        ": " +
-                        item.significado;
-                }
-
-                bloco.appendChild(p);
-
-            }
-        );
-
-    }
-
-
     return bloco;
 
 }
+
 
 function renderizarDesenvolvimento(licao, classe) {
 
@@ -1373,7 +1301,7 @@ function carregarLicaoCompleta() {
 
         colocarTexto(
             "textoPrincipal",
-            licao.textoAureo
+          licao.textoAureo?.versiculo || licao.textoAureo
         );
 
     } else {
@@ -1399,17 +1327,17 @@ function carregarLicaoCompleta() {
         );
 
 
-    if (classe === "adultos") {
+  if (classe === "adultos") {
 
-        tituloResumo.textContent =
-            "🎯 Verdade Prática";
+      tituloResumo.textContent =
+          "🎯 Verdade Prática";
 
-        colocarTexto(
-            "resumoLicao",
-            licao.verdadePratica
-        );
+      colocarTexto(
+          "resumoLicao",
+          licao.verdadePratica?.texto || licao.verdadePratica
+      );
 
-    }
+  }
 
     else if (licao.resumoLicao) {
 
@@ -1542,10 +1470,18 @@ function carregarLicaoCompleta() {
      * CONCLUSÃO
      */
 
-    colocarTexto(
-        "conclusao",
-        licao.conclusao
-    );
+       if (classe === "adultos") {
+        colocarTexto(
+            "conclusao",
+            String(licao.conclusao || "")
+                .replace(/^📝\s*CONCLUSÃO\s*/i, "")
+        );
+    } else {
+        colocarTexto(
+            "conclusao",
+            licao.conclusao
+        );
+       }
 
 
     /*
