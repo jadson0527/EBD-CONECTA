@@ -128,9 +128,9 @@ if (!dadosClasse) {
 
 }
 
-function abrirLicao(numero) {
+window.abrirLicao = function(numero) {
 
-    window.location.href =
+    const url =
         "licao.html?classe=" +
         encodeURIComponent(classe) +
         "&trimestre=" +
@@ -138,7 +138,9 @@ function abrirLicao(numero) {
         "&licao=" +
         encodeURIComponent(numero);
 
-}
+    window.location.href = url;
+
+};
 
 function voltarTrimestres() {
 
