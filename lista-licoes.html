@@ -43,11 +43,16 @@
 
 <script>
 
+const parametros = new URLSearchParams(window.location.search);
+
 const classe =
+    parametros.get("classe") ||
     localStorage.getItem("classeSelecionada");
 
 const trimestre =
-    localStorage.getItem("trimestreSelecionado") || "3";
+    parametros.get("trimestre") ||
+    localStorage.getItem("trimestreSelecionado") ||
+    "3";
 
 const nomes = {
 
